@@ -1,0 +1,546 @@
+<!-- image -->
+
+## Human disease models in drug development
+
+Anna Loewa 1 , James J. Feng 2,3 & Sarah Hedtrich 1,4,5,6
+
+Abstract
+
+Biomedical research is undergoing a paradigm shift towards approaches centred on human disease models owing to the notoriously high failure rates of the current drug development process. Major drivers for this transition are the limitations of animal models, which, despite remain­ ing the gold standard in basic and preclinical research, suffer from interspecies differences and poor prediction of human physiological and pathological conditions. To bridge this translational gap, bioengineered human disease models with high clinical mimicry are being developed. In this Review, we discuss preclinical and clinical studies that benefited from these models, focusing on organoids, bioengineered tissue models and organs­on­chips. Furthermore, we provide a high­level design framework to facilitate clinical translation and accelerate drug development using bioengineered human disease models.
+
+1 Department of Infectious Diseases and Respiratory Medicine, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt Universität zu Berlin, Berlin, Germany. 2 Department of Chemical and Biological Engineering, University of British Columbia, Vancouver, BC, Canada. 3 Department of Mathematics, University of British Columbia, Vancouver, BC, Canada. 4 Center of Biological Design, Berlin Institute of Health at Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt Universität zu Berlin, Berlin, Germany. 5 Faculty of Pharmaceutical Sciences, University of British Columbia, Vancouver, BC, Canada. 6 Max-Delbrück Center for Molecular Medicine (MCD), Helmholtz Association, Berlin, Germany.
+
+## Sections
+
+Introduction
+
+Overview of human disease models
+
+Preclinical and clinical applications
+
+Framework for disease model design
+
+Challenges and limitations
+
+Outlook
+
+## Review article
+
+## Key points
+
+- · Advances in bioengineering have yielded complex human disease models with high clinical biomimicry and predictability.
+- · Human disease models can help unravel disease mechanisms, including for infectious and genetic diseases and cancer.
+- · Using appropriate human disease models in the drug development process and clinical decision-making improves the rate of clinical translation, reduces costs and directly benefits patients.
+- · Stringent model validation, regulatory and legal guidance, and scalable disease model production are key future milestones to facilitate their implementation in (pre-)clinical research.
+
+## Introduction
+
+Biomedical research is currently undergoing a paradigm shift towards approaches centred on human disease models $^{1}$. This shift has been driven by the notoriously high failure rates of the current drug develop­ ment process. Although investments increased at unprecedented rates over the past decade (US$133 billion research and development expen­ ditures of the 15 biggest pharma companies in 2021, a 44% increase since 2016) $^{2}$, the drug attrition rate hit an all­time high of 95% in 2021 (ref. 3 ). Most drugs fail in clinical stages (Fig. 1 ) despite proven efficacy and safety in animal models 4 , $^{5}$. Different reasons account for this translational gap, one of them being that the decision on entry of a drug candidate into clinical trials relies almost exclusively on animal­derived data.
+
+Animal models, however, often fail to filter out harmful or inef­ fective drugs $^{6}$. Moreover, potentially effective drug candidates never enter clinical trials owing to negative preclinical tests given that most animal models poorly resemble human conditions and thus have low predictive values. The discrepancies derive from different anatomical layouts and biological barriers, divergent receptor expression and immune responses, host specificities of microorganisms, and distinct pathomechanisms. In addition, animals are inbred and kept under standardized conditions and thus do not account for the genetic and ethnic diversity of humans. Therefore, drug safety or efficacy issues that only affect certain subpopulations go unnoticed.
+
+Furthermore, fast­paced advances in genome editing and antibody therapies have direct implications for the drug development process. Currently, 40% of the drugs undergoing clinical trials are antibodies $^{3}$. However, their high target specificity requires the identification of cross­reactive species during preclinical testing. Non­human primates are often the only pharmacologically relevant species, whose use has ethical and economic implications $^{7}$. Species­specificity is also a concern for gene therapies because genetic sequences and therapeutic efficacy differ between animals. For example, base editors yield 61% in vivo gene editing efficacy in the liver of mice compared to 26% in primates $^{8}$.
+
+The COVID­19 pandemic further highlighted the model dilemma in biomedical research. At the beginning of the pandemic, it was unclear which species were susceptible to SARS­CoV­2 and no model was read­ ily available to study the course of the disease and identify druggable targets against the unknown pathogen $^{9}$. Suitable and readily available disease models could have substantially accelerated our understanding of virus-host interactions and expedited the identification of effective drugs in repurposing studies.
+
+In view of the deficits of such an animal­centred system, efforts are ongoing to develop bioengineered human­based (disease) models of high clinical biomimicry to close this translational gap.
+
+This Review discusses success stories and applications of human (disease) models in preclinical and clinical research, focusing on organoids, bioengineered tissue models and organs­on­chips (OoCs).
+
+## Overview of human disease models
+
+Different disease models are available covering a broad range of physiological and pathological conditions. An overview of their characteristics, advantages and disadvantages is provided herein.
+
+## 2D cell cultures
+
+Two­dimensional (2D) cultivated patient­derived cells are an invaluable tool to study disease phenotypes and pathomechanisms, especially dur­ ing the early phases of drug development (Fig. 2 ). Primary cells are the preferred option owing to their higher genetic heterogeneity compared to cell lines, but their limited availability or in vitro proliferation capac­ ity restricts their use. Multipotent adult stem cells (ASCs) and induced pluripotent stem (iPS) cells can help overcome this shortage, as they can readily and indefinitely propagate and convert into any somatic cell $^{10}$. Engineered cells, such as reporter cell lines, are also commonly used as they are amenable to high­throughput manufacturing and have high reproducibility and lower costs relative to stem cell­based methods.
+
+Nonetheless, 2D cell cultures have limitations. For example, the epithelial differentiation stages of stratified epithelia, such as the skin, cannot be mimicked in 2D. Moreover, cell responses and gene and/or protein expression patterns greatly differ between 2D and three­ dimensional (3D) models $^{11}$. For example, 3D cultures of lung fibroblasts resemble in vivo tumour necrosis factor (TNF) receptor expres­ sion and nuclear factor κ­light­chain­enhancer of activated B cells (NF­κB) activation patterns more closely than 2D cultures $^{12}$. Similarly, the biomimicry of tissue­specific transporters and cell junctions is often higher in 3D models $^{13}$.
+
+## Bioengineered tissue models
+
+Bioengineered tissue models are primarily generated from human stem cells or primary cells, the latter of which are isolated from surgically excised human tissue or from non­transplantable organs (Fig. 2 ). The cells are manually added or 3D bioprinted onto or into hydrogel or polymer­based scaffolds $^{14}$, often in transwell setups$^{15}$. Alternatively, de­cellularized extracellular matrix scaffolds from animal­derived organs $^{16}$ or non­transplantable human organs$^{17}$ can be reseeded with human cells. The advantages of these models include the possibility to cultivate them at the air-liquid interface or submerged, thereby emulat­ ing in vivo­like tissue conditions and their maturated and differentiated tissue state, and achieving increased biomimicry of native human tis­ sue compared to 2D 18 , $^{19}$. This approach is often used for multi­layer or stratified tissues such as the gut, lungs and skin 20 , $^{21}$ but also the brain and liver as it allows a controlled build­up of the model 22 , $^{23}$. However, these tissue models cannot be cryopreserved or propagated and therefore have a limited lifespan. Furthermore, they have limited cell diversity and lack self­renewal capacity in non­stem cell­based models.
+
+## Organoids
+
+Organoids are self­organizing 3D structures generated from tissue­ specific ASCs or iPS cells $^{24}$ (Fig. 2 ). Stem cells are embedded in an extracellular matrix that provides the scaffold for tissue growth. Orga­ noid formation is then guided by a cocktail of growth factors that are
+
+## Review article
+
+Fig. 1 | Drug development pipeline. Current development pipeline of new drugs with proven preclinical safety and efficacy in animal models. The average duration of the different (pre­)clinical stages, the percentage of drugs (averaged
+
+<!-- image -->
+
+pivotal for tissue development in vivo, which enables stem cells to maintain their differentiation and self­renewal capacity. The size of these organ­like structures ranges from 100 µm (lung organoid) to 2 mm (brain organoid) and they can be cultivated in small dimensions (for example, 96­well or 384­well plates 25 , $^{26}$), thereby being suitable for high­throughput screening.
+
+Protocols for the generation of iPS cell­derived organoids are available for a variety of human organs, including the gut $^{27}$, stomach$^{28}$, liver $^{29}$, pancreas$^{30}$, lung$^{31}$, thyroid$^{32}$, kidney$^{33}$, retinal and optic cup$^{34}$, and brain $^{35}$. However, iPS cell­derived organoids fail to mature beyond the fetal phenotype unless they are grafted into living organisms 36 , $^{37}$. To overcome this limitation, the use of tissue­resident ASCs derived from postnatal or adult tissues has gained increasing attention, resulting in organoids of endoderm­derived tissues such as lung $^{38}$, gut$^{39}$, pancreas$^{40}$, stomach $^{41}$, liver organoids$^{42}$, endometrium$^{43}$, prostate$^{44}$, fallopian tube$^{45}$ and mammary gland $^{46}$. Although the application of ASCs has been hampered by their limited availability in the past, some commercial sup­ pliers now provide ASC­derived organoids. Nonetheless, ASC­derived organoids lack cells from the ectodermal and mesenchymal germ layer and are usually smaller than iPS cell­derived counterparts. Furthermore, the cell type composition of organoids of the same organ can vary depending on the protocol $^{47}$, ultimately hindering reproducibility.
+
+## Organs-on-chips
+
+Inter­tissue crosstalk and complex in vivo­like processes cannot be mimicked in single and static tissue models. To enable tissue perfusion and dynamics as well as multi­organ crosstalk, OoCs have been intro­ duced 48 -$^{51}$ (Fig. 2 ). OoCs are perfused microfluidic platforms that con­ tain bioengineered or miniaturized tissues or organs interconnected by 3D microchannels to simulate the in vivo functions, biomechanics and (patho)physiological responses of organs 6 , 52 -$^{54}$. OoC setups are often referred to as microphysiological systems, as they can emulate
+
+over the past 5 years) that move to the next phase and the median costs of the different stages per drug are illustrated 3 , $^{180}$.
+
+human (patho)physiology in a more human­like environment 49 , 51 , 55 -$^{57}$. As opposed to organoids that form by self­organization, OoCs follow a reductionist engineering approach through the targeted and pre­ defined design of components, such as the scaling of cell numbers used based on their physiological function, or including disease­relevant cell types and key biophysical and biochemical cues $^{24}$.
+
+OoCs can be single­organ or multi­organ systems. Single­organ systems can assess the response of a specific tissue or organ to a par­ ticular stimulus. By contrast, multi­organ systems allow study of the communication and interactions of several tissues and organs simul­ taneously. Notably, the interconnection of at least 10 human organs, including circulatory, endocrine, gastrointestinal, immune, integumen­ tary, musculoskeletal, nervous, reproductive, respiratory and urinary, in OoCs has been hypothesized to provide sufficient complexity to resemble a 'human­on­a­chip' 58 -$^{60}$. Furthermore, biophysical processes, such as chip perfusion, can be easily automated using OoCs, which allows monitoring of tissue function and responses in situ and in real time $^{52}$. For these reasons, OoCs currently constitute the most promis­ ing approach to emulate human diseases in vitro 55 , $^{61}$. However, they are still complex and thereby not amenable to high­throughput methods.
+
+## Preclinical and clinical applications Preclinical research
+
+Human­based models are invaluable tools in every stage of the drug development process, from high­throughput screens to identify target or lead molecules, to efficacy and safety testing in preclinical stages and implementation in clinical trials and decision­making. Nonetheless, human­based models have so far been primarily used for toxicity test­ ing 61 -$^{64}$, and their application in preclinical and clinical research is still in its infancy. Promising disease models of the liver 65 , $^{66}$, pancreas67 , $^{68}$, cen­ tral nervous system 35 , 69 , $^{70}$, skin$^{71}$, lung72 , $^{73}$, intestine72 -$^{76}$, musculoskeletal system $^{77}$ and heart78 -$^{81}$ have been developed, but their equivalence or
+
+## Review article
+
+Fig. 2 | Overview of different disease models. From left to right, bioengineered models are ordered from the least to the most complex, including their advantages, limitations and stage of application during the drug development process. iPS cell, induced pluripotent stem cell.
+
+<!-- image -->
+
+superiority over their animal models needs to be demonstrated. In this section, successful examples of preclinical and clinical implementation of human­based disease models are discussed.
+
+Unravelling disease mechanisms and target identification$\_{.}$$\_{ Rational }$ drug design and development require a proper understanding of the underlying disease mechanism. Human disease models can facilitate the process as evidenced by ad hoc systems that emerged during the COVID­19 pandemic $^{1}$. For example, central pathomechanisms, such asthe contributionof endothelial dysfunction, the 'cytokine storm'and the intercellular variability of infection susceptibility, were identified in organoids and lung­on­a­chip models 82 -$^{86}$. A vasculature­on­a­chip setup revealed that SARS­CoV­2 exposure substantially reduces endo­ thelial barrier function by perturbing vascular endothelial-cadherin junctions and increasing pro­inflammatory cytokine release. This endothelial dysfunction is exacerbated after the introduction of periph­ eral blood mononuclear cells, resulting in excessive inflammation $^{82}$. Organoids demonstrated the induction of inefficient interferon responses in SARS­CoV­2 infections 84 , $^{85}$, revealing similar interferon sig­ natures between SARS­CoV­2­infected bioengineered lung models and native human lungs, highlighting the value and predictivity of human models $^{84}$.
+
+Bioengineered tissues also contributed to the understanding of the effects of COVID­19 beyond the lungs. For example, SARS­CoV­2 tropism for neurons $^{87}$ and cortical astrocytes$^{88}$ or its preference for mature cell types and distinct neurotoxic effects were demonstrated in brain organoids. Interestingly, the expression levels of the SARS­CoV­2 receptor angiotensin­converting enzyme 2 (ACE2) in brain organoids are substantially lower than in the lung or intestinal epithelium. In the brain, alternative receptors, such as CD147 and DPP4, are required for infection and virus replication as shown in astrocytes $^{88}$.
+
+Similarly, single­cell RNA sequencing (scRNA­seq) of kidney orga­ noids showed that SARS­CoV­2 directly infects kidney cells, triggering pro­fibrotic events and features of polycystic kidney disease, closely resembling renal processes observed in individuals who are critically ill with COVID­19 (refs. 89 , 90 ). Furthermore, transcriptomic profiling of infected kidney organoids aligned with the proteomic profile of the urine of individuals who were critically ill with COVID­19, further validating the findings of the model.
+
+Similar examples can be found for other diseases such as hepatitis B $^{91}$, allergic asthma$^{92}$, chlamydia$^{93}$ and influenza94 , $^{95}$. A true scientific leap was the establishment of an in vitro cultivation method for human norovirus in 2016 (ref. 96 ). Prior to that, numerous attempts to culti­ vate norovirus in intestinal epithelial cells or primary immune cells had failed owing to a lack of mimicry of the natural host environment, thereby preventing a full mechanistic understanding of norovirus infec­ tions $^{96}$. Infection studies using human ASC­derived intestinal organoids provided the solution as they closely emulate the host environment by differentiating into physiologically active, multicellular epithelial tissues. Eventually, enterocytes were identified as the primary target for viral infection, which is pivotal when aiming, for example, for drug target identification. Ultimately, this discovery laid the foundation for numerous ongoing efforts to develop preventive or therapeutic $^{97}$ measures, including a norovirus vaccine $^{98}$.
+
+Human­based models also contributed to an in­depth understand­ ing of the mechanisms of infection of the Zika virus, which caused an outbreak in 2015 in South America. Rodent models cannot fully reproduce the mechanism by which the virus causes microcephaly because the human brain has an additional cortical layer containing radial glial cells (progenitor cells). However, infection studies in brain organoids showed that the Zika virus primarily infects neural progeni­ tor cells, which increases neural cell death and reduces proliferation,
+
+## Review article
+
+thereby hampering neurogenesis and causing microcephaly 99 , $^{100}$. This breakthrough provided the community with an experimental platform to screen for therapeutic options.
+
+A recent discovery of similar magnitude is that infecting intestinal organoids with strains of Escherichia coli that produce the genotoxin colibactin revealed mutation signatures that could drive colorectal cancer (CRC) progression, similar to those found in human tumours $^{101}$. Specifically, genotoxic E. coli strains were found to cause single base substitutions and indel formations in the intestinal epithelium and other tissues such as the urinary tract. These findings could have broad implications; for example, the detection and eradication of genotoxic E. coli strains could decrease the risk of intestinal cancer in large cohorts. Furthermore, the E. coli strain Nissle 1917, commonly used as a probiotic, also produces colibactin $^{102}$, warranting re­evaluation of its use.
+
+OoC devices can be used to study the pathomechanism of diseases that involve two or more organs. For example, the gut-liver-brain axis has long been postulated to contribute to Parkinson disease through short­chain fatty acids (metabolites of the intestinal microbiome) that can, directly and indirectly, promote neurodegeneration. This connection has been confirmed using an OoC setup that emulates the immune-metabolic crosstalk between these tissues $^{103}$. Interest­ ingly, co­cultivation of liver, gut, and a mixture of neurons, astrocytes and microglia facilitated the maturation of the brain model, which is difficult to achieve in single­tissue models. To emulate the disease state, iPS cells derived from individuals with Parkinson disease were differentiated into a cerebral model, co­cultured with a healthy gut and liver model, and exposed to circulating regulatory T and T helper 17 cells. Multi­omics and multiplexed cytokine and chemokine analy­ sis revealed that short­chain fatty acids increase the expression of pathways related to ferroptosis in Parkinson disease models, a well­ established cause of dopaminergic cell death in Parkinson disease. Animal models are not amenable to decoupling the effect of single parameters with such accuracy. Another example is an OoC model of the neurovascular unit infected by Cryptococcus neoformans , a fungus that causes fungal meningitis. This system revealed that C. neoformans trespasses the blood-brain barrier through transcytosis, providing a potential therapeutic target to inhibit this process $^{104}$.
+
+Drug screening and efficacy testing in 2D$\_{.}$$\_{ Advances in patient­}$ derived iPS cells have re­established the role of 2D cultures in preclinical drug development, leading to several breakthroughs in neurodegen­ erative diseases, conditions that have been historically plagued by the highest failure rates (≥97%) in drug development $^{105}$. Since 2011, five approved first­in­class drugs for neurodegenerative diseases were iden­ tified through phenotypic screening of 2D cultures $^{105}$. In phenotypic screens, the readout is based on alterations of the phenotype of a dis­ eased cell or tissue (model), whereas no specificdrug target is known. These screens, which are typically conducted in genetically engineered cell lines that harbour the target of interest, led to the discovery of the splice modulators risdiplam $^{106}$ and branaplam$^{107}$ for the treatment of spinal muscular atrophy, an autosomal recessive disease character­ ized by the degeneration of motor neurons. The efficacy of the lead compounds was assessed in iPS cell­derived motor neurons showing splice correction and restored protein levels. Risdiplam received its marketing authorization in the EU in 2021 and became the first orally available medication for spinal muscular atrophy.
+
+Combinations of phenotypic screens with multi­omics technolo­ gies can further increase the success in early phases of drug develop­ ment, especially for diseases with a complex genetic background $^{10}$.
+
+For example, a screen of small molecules that correct dysregulated gene networks in NOTCH1­deficient calcific aortic valve disease (CAVD) was combined with a machine learning algorithm that was trained to clas­ sify gene expression levels as wild type or diseased, allowing the detec­ tion of target molecules in patient­derived iPS cells $^{108}$. Almost 1,600 molecules were screened using targeted RNA sequencing, resulting in the identification of an inverse agonist of oestrogen­related receptor­α as the lead compound, which proved effective in correcting dysregu­ lated CAVD­relevant genes in primary aortic valve endothelial cells from individuals with CAVD and in genetically modified mice.
+
+Drug screening and efficacy testing in 3D$\_{.}$$\_{ During the COVID­19 pan­}$ demic, 3D human­based infection models proved extremely valuable for the identification of new antiviral strategies 82 , $^{109}$ and drug repur­ posing with SARS­CoV­2­dampening effects 51 , 110 -$^{112}$. For example, high­ throughput screens of ≥1,000 drugs approved by the FDA run on colonic and lung organoids identified several SARS­CoV­2 entry inhibitors such as imatinib, mycophenolic acid and quinacrine dihydrochloride $^{111}$. Simi­ larly, among eight drugs with dose­dependent inhibition of virus uptake in static Huh­7 cell monolayers, only three (amodiaquine, toremifene and clomiphene) proved effective in 3D OoC cultures $^{51}$. Building on these results, amodiaquine (for example, NCT04532931, NCT04502342) $^{51}$ and imatinib $^{111}$ (for example, NCT04394416) have entered clinical trials.
+
+Interestingly, applying physiological breathing mechanics in alveoli­on­chip models showed antiviral activity by increasing the expression of interferon­related genes and improving host defence $^{113}$. For example, an increase in S100A7 expression was observed which codes for alarmins and receptor for advanced glycation end products (RAGE) ligands. The RAGE inhibitor azeliragon was then identified as effective by suppressing the overshooting of inflammatory responses as observed in patients who were severely ill with COVID­19. This data has been submitted as part of a pre­investigational new drug appli­ cation to the FDA. Notably, the antimalarial drugs chloroquine and hydroxychloroquine, which received controversial attention during the COVID­19 pandemic, proved non­effective in a human lung­on­chip disease model, similar to clinical findings $^{51}$.
+
+Major advances against cancer have also been achieved using human disease models. For example, MCLA­158, a bispecific antibody binding epidermal growth factor receptor (EGFR) and leucine­rich repeat­containing G­protein­coupled receptor 5 (LGR5), was identi­ fied as the most effective antibody against wild­type and KRAS ­mutant CRC after screening a large biobank of patient­derived CRC organoids. Importantly, MCLA­158 reliably discriminated between cancerous and healthy cells. These findings relied entirely on human­derived cancer organoids and went from bench to bedside in just 3 years (NCT03526835) $^{114}$.
+
+Similarly, the efficacy of amivantamab, a bispecific antibody against EGFR and the mesenchymal-epithelial transition receptor, was preclinically tested in patient­derived cells and organoids that harbour EGFR Exon20ins mutations $^{115}$. Patients with this mutation have a poor prognosis because standard drugs, such as tyrosine kinase inhibitors, are ineffective. These results were replicated in clinical trials (for exam­ ple, NCT04538664), eventually leading to the approval of amivantamab by the EMA for the treatment of non­small cell lung cancer.
+
+Another successful example is the use of OoC models of chronic inflammatory demyelinating polyneuropathy, an autoimmune dis­ ease that cause muscle weakness, conduction blocks and aberrant spinal reflexes $^{116}$. An OoC­based chronic inflammatory demyelinating polyneuropathy electrical conduction model, consisting of human
+
+## Review article
+
+iPS cell­derived motor neurons and Schwann cells cultivated on micro­ electrode arrays, closely emulates clinically relevant features such as muscle contraction and electrical activity. Treatment with the antibody TNT005, a specific complement component 1s inhibitor, inhibited the immune reaction and rescued the functional deficits, prompting the FDA to approve clinical trials (NCT04658472).
+
+## Clinical research
+
+Beyond preclinical research, human disease models are also revolu­ tionizing clinical decision­making. A prime example is cystic fibrosis, a heterogeneous genetic disease with limited treatment options and highly variable treatment outcomes depending on the disease­causing mutation (≥2,000 mutations reported). Cystic fibrosis is caused by loss­of­function mutations in the CFTR gene resulting in highly viscous mucus, which blocks the airways, limits the ability to breathe and causes persistent lung infections. The life expectancy of a newborn with cystic fibrosis in high­income countries is 55 years today.
+
+A breakthrough in the treatment of cystic fibrosis was the develop­ ment of CFTR modulators such as ivacaftor or lumacaftor - effective but also expensive drugs. Ivacaftor is registered for the treatment of patients with nine CFTR gating mutations, which make up only 5% of all individuals with with the disease, although combinations with other modulators can improve clinical responses and patient eligibility $^{117}$.
+
+However, identifying potential responders is difficult, especially for patients with rare mutations. To overcome this limitation, testing of treatment responses in intestinal patient­derived organoids (PDOs) has emerged as a reliable and predictive approach 118 , $^{119}$. For example, rectal organoids from 71 individuals with cystic fibrosis that harboured 28 different CFTR mutations revealed residual CFTR function and iden­ tified effective drug combinations. In this case, measuring the lumen area of the organoids allowed comparison of CFTR function among patients, thereby providing physicians with a reliable predicting tool for clinical decision­making.
+
+Similar applications are being pursued with cancer PDOs 120 -$^{122}$, revealing strong correlations between in vitro and in vivo drug res­ ponses against cancer in the gastrointestinal tract $^{123}$, bladder$^{124}$, ovary$^{125}$, rectum $^{126}$ and pancreas127 , $^{128}$. For example, a living biobank of cancer PDOs from patients with metastatic and pre­treated colorectal and gastroesophageal cancer shows strong morphological, genotypic and spatiotemporal similarities between the primary tumour and the PDOs $^{123}$. Furthermore, PDOs reliably predicted treatment responses in patients, with 100% sensitivity, 93% specificity, 88% positive predictive value and 100% negative predictive value, including response to taxa­ nes and anti­EGFR antibodies, drugs that lack biomarkers to predict responsive patient subsets.
+
+Similar results were obtained for pancreatic ductal adenocar­ cinoma, another aggressive and difficult­to­treat tumour with high recurrence rates. Traditionally, treatment decisions are based on the performance status and comorbidities of the patient but there is an unmet medical need for patient stratification. To address this issue, 114 PDO cultures from 101 patients were generated $^{127}$ and subjected to transcriptomic profiling, followed by therapeutic profiling through treatment with the five most commonly used chemotherapeutics, including gemcitabine, nab­paclitaxel, irinotecan, 5­fluorouracil and oxaliplatin. The treatment outcome of the PDOs positively correlated with individual patient responses and the assessment of targeted therapy sensitivity can guide patient­specific treatment decisions. These studies demonstrate that implementing PDOs in clinical decision­making can directly benefit patients with cancer.
+
+Human disease models have also helped to identify treatment­ enhancement strategies, for example, using cyclin­dependent kinase inhibitorstoincreasetheeffectivenessofimmune­checkpointinhibi­ tors $^{129}$. Despite being very effective, only a subset of patients respond to checkpoint blockade therapy and the underlying mechanisms for resistance development are poorly understood. To enhance the treatment efficacy, a combinatory approach with small­molecule kinase inhibitors has been proposed to facilitate immune reactivation. Interestingly, cyclin­dependent kinase inhibitors 4 and 6 (CDK4/6) facilitate T cell activation, resulting in a higher number of tumour­ infiltrating T cells in PDOs, cultivated over several days in a microfluidic 3D chip setup. CDK4/6 inhibition also showed high in vitro and in vivo activity and synergy with anti­PD­1 blocking antibodies $^{129}$. Several clini­ cal trials (such as NCT04799249, NCT03294694 and NCT04213404) are currently assessing the clinical translatability of these findings.
+
+Overall, ClinicalTrials.gov currently lists 131 studies for the search term 'organoids', most of which focus on cancer. Most of these stud­ ies have generated PDOs and compared drug effects in vitro and in vivo. Out of these, 10 studies are already using PDOs for clinical decision­making (Table 1 ). No results were retrieved for the search term 'organ­on­chip' or 'microphysiological system'.
+
+## Future applications in clinical trials
+
+Patient­specific disease models hold great potential for personalized and precision medicine in which therapeutic decisions or interventions are tailored to the individual based on their genetic makeup, disease or potential side effects. Such patient­stratified approaches could also facilitate clinical drug testing, for example, in phase I clinical trials, when the pharmacokinetic and drug safety profile are usually assessed in ≤100 healthy individuals. Women are often underrepresented, partly owing to the risk of reproductive toxicity. This is highly problematic as there are sex­related differences in how men and women absorb, distribute and metabolize drugs, ultimately affecting drug efficacy and safety 48 , 130 , $^{131}$. Human­based models from both sexes and different eth­ nicities could help pinpoint these inter­individual differences, thereby improving therapeutic assessment. Moreover, human (disease) models can be leveraged to pre­screen patient subpopulations to identify those that could benefit most from a new drug.
+
+## Framework for disease model design
+
+Defining universally applicable guidelines can be helpful to generate a predictive disease model. Although frameworks have been proposed for organoid and OoC setups 24 , $^{54}$, providing a universal disease model design is challenging because their usefulness is strongly context dependent and influenced by the intended use and relevant readout parameters (Fig. 3 ). Furthermore, logistic requirements, such as access to relevant expertise, cell sources, equipment and cost, also need to be considered.
+
+When designing a disease model, the choice between model type (for example, 2D versus 3D or organoid versus bioengineered model), the selection of a suitable experimental setup (static versus dynamic) and the identification of important cell types are of utmost importance for the model to function. For drug screening, for example, 2D high­ throughput methods using patient­specific or genetically engineered cells are most suitable as they allow testing of a large number of com­ pounds in a short time. If the goal is to unravel disease mechanisms or study drug efficacy and safety, disease models with higher biomimicry and complexity are required. For example, when studying systemic con­ ditions such as inflammation or metastatic cancer, complex multi­OoC
+
+## Review article
+
+Table 1 | Clinical trials with patient-derived cancer organoids guiding treatment decisions
+
+| Organ system             | Cancer                                                     | Identifiers   | Phase    | Country     | Drugs                                                                                                                                                                                                         | Implementation                                                                                                                                                                                                                                   |
+|--------------------------|------------------------------------------------------------|---------------|----------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Respiratory  system      | Lung cancer, solid  tumours                                | NCT03778814   | I        | China       | Biologics: TCR T cells                                                                                                                                                                                        | Identification and engineering of tumour- responsive T cells using patient-specific  tumour organoids followed by re-injection of TCR T cells into the patients                                                                                  |
+| Gastrointestinal  system | Pancreatic cancer                                          | NCT04931394   | III      | China       | Gemcitabine, 5-fluorouracil,  paclitaxel, oxaliplatin,  irinotecan                                                                                                                                            | PDOs of pancreatic cancer are tested for  their sensitivity to first-line pancreatic cancer  drugs; patients receive the chemotherapy  regimen based on the test results                                                                         |
+|                          | Advanced  pancreatic cancer                                | NCT04931381   | III      | China       | Gemcitabine, 5-fluorouracil,  paclitaxel, oxaliplatin,  irinotecan                                                                                                                                            | PDOs of advanced pancreatic cancer  are tested for their sensitivity to first-line  pancreatic cancer drugs; patients receive the chemotherapy regimen based on the test results                                                                 |
+|                          | Advanced rectal  cancer                                    | NCT05352165   | NA       | China       | Neoadjuvant therapy                                                                                                                                                                                           | Clinical efficacy of personalized neoadjuvant  therapy based on PDO chemosensitivity  combined with standard long-term radio- therapy is compared with efficacy of standard  whole-course neoadjuvant therapy                                    |
+|                          | Abdominal  tumours                                         | NCT05378048   | II       | Hong Kong   | PDO-guided treatment using  standard-of-care treatments                                                                                                                                                       | A multidisciplinary tumour board reviews the  drug screen results from PDOs and genome- guided drug screening and chooses the  treatment regimen accordingly                                                                                     |
+| Mammary  glands          | Breast cancer                                              | NCT04450706   | NA       | USA         | Docetaxel, cyclophosphamide,  adriamycin, methotrexate,  5-fluorouracil, paclitaxel                                                                                                                           | Treatment decisions are based on results  from PDOs grown from breast cancer  biopsies plus genome sequencing                                                                                                                                    |
+|                          | Breast cancer                                              | NCT05177432   | I        | Singapore   | 10-12 anticancer drugs  (alpelisib, trastuzumab- emtansine and others not  specified)                                                                                                                         | PDOs are exposed to 10-12 anticancer  drugs and a table for treatment sensitivity  is obtained; results will be reviewed by an  expert panel to decide on the most suitable  anticancer drug treatment                                           |
+| Urinary system           | Bladder cancer                                             | NCT05024734   | II       | Switzerland | Epirubicin, mitomycin,  gemcitabine, docetaxel                                                                                                                                                                | Generation of PDOs and in vitro drug  sensitivity testing to guide clinical  decision-making                                                                                                                                                     |
+| Others                   | Head and neck  squamous cell  carcinoma                    | NCT04279509   | NA       | Singapore   | 5-Fluorouracil, carbo- platin, cyclophosphamide, docetaxel, doxorubicin,  gemcitabine, irinotecan,  oxaliplatin, paclitaxel and  vinorelbine, etoposide,  ifosfamide, methotrexate,  pemetrexed and topotecan | Generation of PDOs followed by a  10-drug panel screening and selection of  chemotherapy based on a standard rating  scale; if more than one drug appears effective  in PDOs, the most suitable drug based on  patient comorbidities is selected |
+|                          | Solid tumours such  as gastrointestinal  and breast cancer | NCT05381038   | I and II | Singapore   | Azacitidine plus docetaxel,  azacitidine plus paclitaxel,  azacitidine plus irinotecan                                                                                                                        | Generation of PDOs followed by drug  screening and selection, and artificial  intelligence-guided dosing modulation                                                                                                                              |
+
+Clinical trials are as listed on ClinicalTrials.gov. NA, not applicable; PDO, patient-derived organoid; TCR, T cell receptor.
+
+setups are superior to single­tissue or organ models. Building on pre­ viously discussed examples, three key design considerations can be extracted, which are summarized in this section.
+
+## Cell diversity and tissue biomimicry
+
+The identification of disease­relevant and tissue­relevant cell types is crucial, a prime example being the identification of the Zika virus tropism towards neural progenitor cells in brain organoids $^{99}$. Equally important are the cultivation conditions, showcased by the decade­long failure in cultivating the norovirus ex vivo. Initial cultivation attempts, for example, in transformed epithelial cell lines and primary immune cells, failed largely because important factors of the host intestinal milieu were missing $^{96}$. Furthermore, relevant biological barriers, such as the blood-brain barrier or the mucus hydrogel of the bronchial
+
+or intestinal epithelium, need to be included in the model. These are the primary defence mechanism of the human body and thereby very restrictive, especiallyintermsofthe cut­off size ofmolecules that can pass. Failing to integrate them would ultimately limit the predictive value of disease models.
+
+## Model scaling
+
+Scaling refers to maintaining proper ratios in size and rate parameters among different modules of a disease model, allowing the translation of in vitro data to clinical applications in vivo. Its importance has been rec­ ognized early on, but a general principle is still lacking 132 -$^{134}$. Proper scal­ ing needs to account for the geometry of the model, spatial arrangement of cells and operating conditions, the latter including medium dosage and perfusion rates of nutrients and metabolites, among other factors.
+
+## Review article
+
+Fig. 3 | Schematic overview of a rational design of a disease model that incorporates different similarity criteria to ensure model scalability. The flow chart shows the most important design considerations and workflows required for bioengineering human disease model. ECM, extracellular matrix.
+
+<!-- image -->
+
+There are two main principles of scaling: direct scaling, which uses the size ratio between a human body and the disease model to scale the size of each organ down to its in vitro counterpart 55 , $^{135}$, and allomet­ ric scaling, which instead assumes that the size of organs and key physi­ ological indices, such as heart, blood flow and metabolic rates, scale with the body mass according to power laws, with different exponents for different organs 136 , $^{137}$. These two methods account for length and mass scales but not the time scale, and are often inaccurate. For exam­ ple, the medium circulation rate is disproportionately slow compared to physiological blood flow, which inturn slowsdown the transportof nutrients and metabolic processes in tissue models $^{138}$.
+
+Therefore, dynamic, time­dependent operating conditions are more difficult to scale. Miniaturized models typically carry fewer cells and lack a pervasive vasculature to perfuse the tissue compared to actual organs. Thus, the perfusion, diffusion, permeation, nutrient and metabolic rates as well as their dosage need to be carefully calcu­ lated to ensure physiological relevance $^{138}$. For this purpose, functional
+
+scaling 136 , 138 , $^{139}$ seeks to match a key functional index between the model and the target organ in vivo. Such an index can be, for example, the drug clearance rate for the liver or the filtration rate for the kidney. However, it has proven difficult to balance competing key indices in multi­OoC setups; for a gut-liver system $^{139}$, for example, a perfusion rate chosen for the gut to yield proper metabolic rates might result in drug exposure times in the liver that are too short.
+
+To overcome these challenges, the similarity scaling approach $^{140}$ adapts engineering techniques of dimensional analysis and similitude to OoCs. This strategy accounts for different similarity criteria (Box 1 ) simultaneously in a systematic framework. In any system, if an output is determined by a list of input variables and parameters, the latter must be algebraically linked in such a way as to yield the correct dimen­ sion or unit for the output. This constrains the algebraic relationship between the inputs and the output. Mathematically, the constraint is represented by combining the output and inputs into dimensionless groups $^{141}$. Scaling an in vitro disease model with an in vivo organ boils
+
+## Review article
+
+down to matching the dimensionless groups between the two (Fig. 3 ). For an OoC, this matching could consist of proper ratios of the geomet­ ric lengths, morphologically correct arrangement of the cell types, and suitable ratios of mechanical and metabolic rates. These considerations ensure the correct translation of the key functional indices from the model to in vivo conditions $^{139}$.
+
+## Biomechanical cues
+
+Biomechanical stimuli, such as shear stress, stretching or compression, influence (patho)physiological processes 142 -$^{147}$. A sequential and physi­ ological exposure to biomechanical cues promotes the differentiation and maturation of organoids and bioengineered tissue models. For example, intestinal stem cells respond to the stiffness of the surround­ ing matrix, which guides cell differentiation and organoid formation $^{148}$. Similarly, exposure to mechanical forces that mimic cardiac preload and afterload improves the contractility, cell alignment and conduc­ tion velocity of bioengineered heart tissue $^{149}$. Another example using an alveoli­on­chip model revealed in vivo­like pathological responses to IL­2 toxicity $^{146}$ or nanoparticle inhalation$^{143}$ only when breathing mechanics were applied. Similarly, engineered heart tissues gener­ ated from patient­derived cells that harbour a desmoplakin mutation develop clinical arrhythmogenic cardiomyopathy only when exposed to dynamic mechanical loading $^{149}$. In vivo, mutations in the desmoplakin gene cause a specific type of cardiomyopathy, which is characterized by a thickening and stiffening of the heart muscle resulting in cardiac dys­ function. These examples highlight the importance of applying disease­ relevant and tissue­relevant biomechanical cues in bioengineered models. This consideration directly feeds into the choice of model type as not all of them allow the integration of physical forces per se.
+
+## Challenges and limitations
+
+Despite fast­paced advances, several challenges remain that limit the widespread application of bioengineered disease models.
+
+## Limited complexity
+
+Animal models are the only preclinical systems that allow the study of disease mechanisms and drug effects in the complex environment of a living organism. This argument is also commonly used to justify their necessity in biomedical research. Although this statement is not wrong per se, it fails to answer questions such as how valuable it is to know that a drug candidate is safe and effective in an inbred mouse strain (given the high rate of translational failure) or what it means for humans that certain nanoparticles can target the kidneys of zebrafish. Although some animal models mimic human physiology and/or pathology better than others (for example, the lungs and skin of pigs are anatomically and physiologically similar to human lungs and skin, which is not the case for rodents), simply conducting experiments in a living organism might not hold the solution.
+
+Nonetheless, similar unresolved questions can be asked when developing bioengineered human models, namely, how complex is complex enough? Or how simple can a model be and still remain predic­ tive of human pathophysiology? Putative key components, such as cells or biomechanical cues relevant to the disease of interest, are included based on existing knowledge, yet the possibility to overlook and thus exclude disease­relevant contributors remains. This biased approach bears the risk of false­positive or false­negative results.
+
+## Limited lifespan and long cultivation
+
+Although some OoC models have been maintained for up to 3 months $^{55}$, the effective lifetime of most disease models spans over a few days. The limited regenerative capacity of primary cell­based models is a major limitation as is identifying a universal culture medium that can maintain tissues of different germ layers in multi­organ models. Media mixtures are typically used in these models, which, however, could reverse tis­ sue maturation because cells from different germ layers are exposed to unspecific factors. This mismatch could result in gene and protein expression levels that are atypical for the tissue of interest, a feature
+
+## Box 1
+
+## Similarity criteria for scaling organs-on-chips
+
+## Geometric similarity
+
+Tissue geometry and curvature influence cell behaviour, tissue formation and function, and therefore the (patho)physiological relevance of in vitro models 181 . For example, the crypts of the gut and the sac-like structures of the alveoli provide a huge epithelial surface area, thereby defining the absorption rates of nutrients and gas. These features cannot be recapitulated 1:1 in vitro because it is difficult to control the formation, dimensions and shapes of tissuerelevant geometric structures, which often results in high model variability and limited biomimicry.
+
+## Morphological similarity
+
+Organs-on-chips should include the same cell types with the correct proportion as real organs, such that the assembled layout contains specific cell types mixed together and others segregated into layers. For example, a liver-on-a-chip should use a physiological ratio of hepatocytes, liver sinusoidal endothelial cells, stellate cells and Kupffer cells, and layer them to mimic the morphology of the liver sinusoid 66 , 182 , 183 .
+
+## Kinematic similarity
+
+All rate parameters, for example, medium perfusion rate, diffusion and permeation rates, and basal metabolic rates, should resemble the in vivo situation 138 .
+
+## Dynamic and metabolic similarity
+
+All quantities related to forces, stresses and pressure should be in proper ratios as in vivo 184 . Mechanical readouts have often been the output of models; in disease models, however, the metabolism is instead mimicked to resemble pathophysiological conditions, especially for pharmacokinetic studies. In this case, the force or pressure is often an input or control parameter, for example, pumping the vascular system with physiological pressure and measuring its downstream effect. Furthermore, drug dosage, administration route and plasma concentration profiles should match those in the target organ. In toxicity studies, for example, this resemblance ensures that the pharmacokinetic and pharmacodynamic data are translatable to the target organs in vivo 139 , 185 .
+
+## Review article
+
+that seems particularly relevant for stem cell­derived models. Generat­ ing tissue­specific niches by introducing native endothelial barriers in OoC setups might hold a solution for this problem; while these barriers keep the tissue models in their optimized environment by separat­ ing them from a common media circuit, inter­tissue communication is still possible through the exchange of, for example, cytokines or exosomes $^{150}$.
+
+Notably, organoids can be cultivated over months and probably even years, thus enabling the investigation of tissue maturation in a disease context as shown for SARS­CoV­2 infections in brain orga­ noids $^{87}$. However, even such a long lifespan might not be sufficient to study neural diseases that develop or progress slowly - for example, Alzheimer disease and Parkinson disease. In this case, the simplicity of bioengineered human disease models could prove advantageous because disease­relevant effects might appear more rapidly owing to the lack of compensatory mechanisms that typically exist in vivo that can compensate for or mask tissue dysfunction.
+
+Moreover, broad clinical implementation of patient­specific dis­ ease models, such as PDOs, is currently hindered by low efficiencies in PDO establishment (60-70% success rate on average although, for some tissues, up to 90% have been reported for intestinal organoids $^{151}$) as well as lengthy generation times and expansion procedures. The establishment and expansion of PDOs and subsequent drug testing cur­ rently span several weeks or even months, although technical solutions to shorten the process are emerging. For example, microfabricated array devices using organoids at passage 0 provide drug screening results within a week without compromising the predictivity of patient responses to anticancer drugs $^{152}$.
+
+Similarly, protocols for cell differentiation into disease models can span several weeks, especially for multicellular tissue models. To accelerate and guide stem cell differentiation, the overexpression of transcription factors relevant to the differentiation of the target tis­ sue (for example, ETV2 for endothelial cells or NGN1 for neurons) can switch on rapid cell differentiation. Subsequent mixing or controlled spatial patterning through, for example, 3D printing of iPS cells pre­ programmed for doxycycline­induced overexpression of such cell type­specific transcription factors, ultimately facilitates the differen­ tiation into multicellular and spatially patterned organoids indepen­ dently from extracellular differentiation cues present in the culture medium $^{153}$. This strategy could substantially expedite the generation of multicellular disease models.
+
+## Immunoregulation
+
+Emulating the fine­tuned and highly interdependent immunoregu­ lation in the human body remains a main limitation of in vitro human disease models. The human immune system is incredibly complex, orchestrating a multitude of immune cell (sub­)types of different func­ tionality, many poorly understood and others probably still unrecog­ nized. Although many disease models already contain certain immune cell types 143 , 145 , 154 -$^{156}$, most models rely on the integration of only a few, pre­defined immune cell types, which, however, does not emulate the complexity of in vivo immunoregulation. For example, in the gut-liverbrain OoC setup for modelling Parkinson disease, only regulatory and T helper 17 cells were used $^{103}$. Similarly, to study pathogen-host interac­ tions in human disease models, only T cells and in some cases B cells have often been included $^{113}$. By contrast, peripheral blood mononuclear cells have been increasingly added in OoC setups $^{157}$. Bioengineered second­ ary immune organs, such as lymphoid tissue models 158 -$^{160}$, might help overcome this limitation; however, this is still an underdeveloped area.
+
+## Disease model validation
+
+A key task for the bioengineering community is to demonstrate the equivalence or superiority of human disease models over their animal­ based counterparts. Therefore, rigorous disease model validation is essential but often neglected. The problem is further aggravated by variabilities in model composition, complexity and experimental protocols. First, the model needs to capture relevant features of the disease through, for example, histological similarity, in vivo­like gene regulation and protein expression patterns, or known drug responses. Similarly, the assays and readout parameters need to be relevant to the disease of interest, and the model and experimental setup should minimize noise and bias. Finally, it needs to be determined if the data generated by the model can be extrapolated for clinical applications. Establishing these criteria and ensuring inter­laboratory reproducibility needs to be standardized. Automated procedures ranging from liquid handling and cell seeding to sampling and sample analysis can improve the reproducibility, controllability and, thus, robustness of the models.
+
+Omics technologies$\_{.}$$\_{ Single­cell and spatial profiling at transcrip­}$ tional, proteomic and epigenetic levels (Box 2 ) can substantially improve disease model validation 161 , $^{162}$. For example, scRNA­seq helped identify and mitigate shortcomings related to the high variability of cell composition of in vitro models, exemplified in cerebral organoids generated from individuals with autism spectrum disorder $^{163}$. By using an integrated scRNA and bulk RNA­seq approach, genes that showed low inter­individual variability, and thus high inter­individual correla­ tion, allowed pinpointing of genes of relevance for autism spectrum disorder. Furthermore, combining scRNA­seq with ATAC­seq $^{164}$ (Box 2 ) can help determine the degree of biomimicry of (disease) models by identifying cell type­specific chromatin accessibility patterns as well as transcription factors and cascades that are pivotal for cell fate speci­ fication and topographic identity as shown for brain and retinal orga­ noids 165 , $^{166}$. Using omics technologies, differences in gene regulation and signalling pathways between organoids and the corresponding primary tissue samples can be identified.
+
+Imaging and data-driven approaches$\_{.}$$\_{ The complex architecture of }$ disease models, their characterization and the investigation of cell­ specific pathological reactions require advanced 3D imaging tech­ nologies, such as light­sheet fluorescence microscopy or multiphoton imaging $^{167}$. Unlike 2D imaging, these technologies allow high­resolution 3D whole­mount imaging of disease models at different scales, includ­ ing cellular compositions, cell shapes, cell-cell interactions and cell fate $^{167}$. The superiority of light­sheet fluorescence microscopy over conventional line­scan imaging has already been demonstrated for 3D organoids $^{168}$. However, the huge amount of data generated, espe­ cially for high­throughput screenings of PDOs, has called for anincreas­ ing use of artificial intelligence­driven data analysis algorithms such as machine learning $^{169}$. For example, tracking morphological and tex­ tural changes of PDOs to different drugs using bright field images enables the generation of PDO­specific dose-response curves $^{170}$. Simi­ larly, using a neural network­based high­throughput approach for light microscopy­based screening demonstrates strong correlations between clinical and predicted PDO response across different tumour entities $^{171}$. Similarly, integration of network modelling and perturbation analysis with pathological disease features of 1,300 patient­derived brain organoids provided a high­content system for drug screening $^{172}$. These combinatorial approaches could help identify effective drugs more reliably, although their actual impact has yet to be proven.
+
+## Review article
+
+When aiming for routine and standardized applications, follow­ ing the 'digital twins' concept can be useful. A digital twin is an in silico method that uses real­world data to predict how a product or process will perform. Examples of their successful application can be found in space missions or aeroplane construction $^{173}$. In bioengineering, the implementation of digital twins could facilitate the shift from exploration towards a patient­focused and manufacturing­focused, and therefore more standardized, approach. For example, digital twin­ based mathematical models should accurately describe real­world phenomena, starting with a simple structure and known effects (such as cell kinetics, stationary and fluid flow characteristics, and distribu­ tion of components such as growth factors) and gradually adapting it to newly available data and observations (for example, by including mass transfer and shear effects). Although still in their infancy, digital twins are being explored for tissue models and have enormous potential to be used for other disease models 174 , $^{175}$.
+
+## Commercialization and accessibility
+
+Developing and maintaining bioengineered disease models require high­level expertise and costly infrastructures. Even static 3D tissue models are substantially more expensive and technically demanding than conventional 2D biomedical methods. Moreover, the notion that in vitro methods are cheaper is misleading because bioengineered disease models can be as if not more expensive than animal models. As the demand for human­based models increases, more companies are emerging to fill the gap; however, commercially available setups are often still very expensive and therefore not affordable for many laboratories. Moreover, these models mainly focus on preclinical safety testing and not disease modelling and are not customizable $^{169}$. For example, all commercially available OoC setups are run with pre­set chips, which determines a priori the type and dimension of tissues that can be integrated. Some OoC setups have the size of a coin (or even smaller), thereby making it difficult to cultivate actual 3D tissue models. Moreover, as of now, only few disease models are commercially available.
+
+## Outlook
+
+Bioengineered disease models are revolutionizing biomedical research and will increasingly replace animal models in basic and preclinical research. Their implementation in preclinical or clinical stages could accelerate the drug development process, reduce false­positive and false­negative results, and facilitate the clinical translation of findings from bench to bedside. These benefits could also substantially cut down drug development costs, with an estimated 10-26% cost reduction per newly approved drug $^{2}$. It is therefore not surprising that pharmaceutical companies have considerably ramped up their investments in this area.
+
+Nonetheless, animal models are still considered the gold standard and therefore are often requested by default by grant review panels or reviewers. In our view, this is benchmarking against the wrong stand­ ard. Ideally, patient­derived in vivo data should be used as a benchmark to corroborate findings from human disease models, especially dur­ ing model development and validation. Therefore, models should be continuously re­assessed to ensure that they comply with the most recent and relevant scientific findings.
+
+Animal testing is not going to be completely replaced in the near future for several reasons, one of them being that toxicity testing in animals is legally mandated before entering clinical trials. Therefore, the most realistic short­term and mid­term scenario is the complemen­ tary use of both human­based and animal models. Nonetheless, drugs
+
+## Box 2
+
+## Omics techniques for model validation
+
+## Genomic profiling
+
+Assessing tissue-specific and disease-specific gene signatures is key for (disease) model validation. Initial information can be gained through bulk RNA sequencing (RNA-seq), which measures average gene expression levels across all cell types in different cell states. Higher resolution readouts can be obtained through single-cell RNA-seq, which enables whole-transcriptome profiling of individual cells, identification of rare cell populations and detection of cell type-specific driver genes for disease development. Spatial profiling provides further information on tissue organization and three-dimensional architecture, thereby being essential for model validation 186 , 187 . Despite being powerful and scalable, these methods are still expensive and require trained bioinformatics personnel. As the technology advances, these tools will likely become more accessible.
+
+## Protein profiling
+
+Because proteins are the most common drug targets today, disease model validation at the protein level is crucial. Mass spectrometrybased proteomics measures protein abundance and dynamics, identifies subcellular protein localization and post-transcriptional modifications, and facilitates the generation of interaction networks 162 . Proteomics can thus help unravel disease mechanisms and tissue responses to certain stimuli. Metabolic labelling 188 , chemical tags 189 , isobaric labelling 190 and label-free quantification 191 can also help protein quantification by generating small differences in peptide mass and have already been used to characterize organoids.
+
+Similar to bulk RNA-seq, proteomic analysis at the bulk level provides a population average and obscures cellular heterogeneities. Unlike spatial profiling on genomic data, single-cell proteomics is still in its infancy; measurements are time consuming, expensive and have a limited dynamic range of measurements, rendering it low throughput. Another limiting factor is the complexity of data analysis of single-cell proteomics, which has limited the routine application of this technology for model validation so far. However, few groups have already managed to quantify more than 1,000 proteins per single cell 192 while measuring ≥70 cells in parallel 193 . Mass spectrometry imaging is another exciting technology that can resolve the spatial distribution of proteins and has been used in tumour organoids 194 ; however, it is not yet widely accessible to the scientific community.
+
+can already enter clinical trials without providing animal­derived data if the in vitro data is compelling, no suitable animal models are available and a considerable medical benefit is expected. Moreover, the FDA Modernization Act 2.0 has further broadened the scope of accepted preclinical models and encourages scientists to test drug efficacy and safety in human models whenever possible. This landmark decision is expected to cause ripple effects worldwide.
+
+## Review article
+
+Notably, different disease models are suitable for different appli­ cations; organoids, for example, are useful for high­throughput drug screenings, whereas OoCs are more applicable for drug safety and efficacy testing. On the one hand, personalized disease models are well suited for clinical decision­making and in clinical trials to diversify the patient cohorts with respect to ethnicity, sex or age. On the other hand, they are poorly suited for high­throughput screenings. To ensure a widespread preclinical and clinical application of human disease models, meeting the following key milestones is essential: definition of robust criteria for disease model validation, benchmarking against patient­derived in vivo data, regulatory approval and legal basis for the implementation of human disease models in the drug development process, and the establishment of scalable, robust and standardized manufacturing processes (Fig. 3 ).
+
+For this purpose,the experiencefromthe in vitropro­arrhythmia assay (CiPA) initiative, launched in 2013 to improve the assessment of the pro­arrhythmic potential of new drugs, can prove useful. Mem­ bers of the CiPA initiative include regulatory authorities such as the FDA or EMA, pharmaceutical companies, and academics. The initia­ tive has defined sub­working groups that collaborate to reach pre­ defined milestones and could serve as a role model for the widespread implementation of bioengineered models in (pre­)clinical research.
+
+The formation of dedicated core facilities would also make human disease models more accessible and promote their usage. In this regard, a survey amongst scientists that do not use OoC setups revealed that the lack of ready­to­use­systems and production facilities as well as high entry barriers and costs are the main reasons for not employing OoCs $^{169}$. Therefore, facilities that support researchers with hands­on training, ready­to­use tissue models or scientific advice would promote the widespread usage of human disease models, the Hubrecht Organoid Technology organization in Utrecht, The Netherlands, being one exam­ ple. Similarly, 'living biobanks' can provide access to patient­derived cells and organoids from large patient cohorts, and have already been established for different cancers 124 , 151 , 176 -$^{178}$, genetic diseases such as cystic fibrosis, infectious diseases, chronic obstructive pulmonary disease and inflammatory bowel diseases $^{179}$.
+
+It is unrealistic to assume that the complexity of a human can be fully recapitulated in vitro. At the same time, the ideal should be to reach maximal clinical mimicry. Although several challenges remain unsolved, initial drawbacks, such as the lack of cell diversity, vascu­ larization and the ability to study tissue crosstalk, have already been largely overcome, highlighting the potential of human disease models to fundamentally change the future of biomedical research.
+
+Published online: 11 May 2023
+
+## References
+
+- 1. Adhikary, P. P., Ul Ain, Q., Hocke, A. C. & Hedtrich, S. COVID-19 highlights the model dilemma in biomedical research. Nat. Rev. Mater. 6 , 374-376 (2021).
+- 2. Franzen, N. et al. Impact of organ-on-a-chip technology on pharmaceutical R&D costs. Drug Discov. Today 24 , 1720-1724 (2019).
+- 3. IQVIA Institute. Global Trends in R&D 2022 (IQVIA Institute, 2021).
+- 4. Golding, H., Khurana, S. & Zaitseva, M. What is the predictive value of animal models for vaccine efficacy in humans? The importance of bridging studies and species-independent correlates of protection. Cold Spring Harb. Perspect. Biol. 10 , a028902 (2018).
+- 5. Franco, R. & Cedazo-Minguez, A. Successful therapies for Alzheimer's disease: why so many in animal models and none in humans? Front. Pharmacol. 5 , 146 (2014).
+- 6. Ingber, D. E. Human organs-on-chips for disease modelling, drug development and personalized medicine. Nat. Rev. Genet. 23 , 467-491 (2022).
+- 7. Brennan, F. R. et al. Safety testing of monoclonal antibodies in non-human primates: case studies highlighting their impact on human risk assessment. mAbs 10 , 1-17 (2018).
+- 8. Rothgangl, T. et al. In vivo adenine base editing of PCSK9 in macaques reduces LDL cholesterol levels. Nat. Biotechnol. 39 , 949-957 (2021).
+- 9. Muñoz-Fontela, C. et al. Animal models for COVID-19. Nature 586 , 509-515 (2020).
+
+- 10. Brooks, I. R. et al. Functional genomics and the future of iPSCs in disease modeling. Stem Cell Rep. 17 , 1033-1047 (2022).
+- 11. Jensen, C. & Teng, Y. Is it time to start transitioning from 2D to 3D cell culture? Front. Mol. Biosci. 7 , 33 (2020).
+- 12. Htwe, S. S. et al. Investigating NF-κB signaling in lung fibroblasts in 2D and 3D culture systems. Respir. Res. 16 , 144 (2015).
+- 13. DesRochers, T. M., Suter, L., Roth, A. & Kaplan, D. L. Bioengineered 3D human kidney tissue, a platform for the determination of nephrotoxicity. PLoS One 8 , e59219 (2013).
+- 15. Pati, F. & Cho, D. W. Bioprinting of 3D tissue models using decellularized extracellular matrix bioink. Methods Mol. Biol. 1612 , 381-390 (2017).
+- 14. Vepari, C. & Kaplan, D. L. Silk as a biomaterial. Prog. Polym. Sci. 32 , 991-1007 (2007).
+- 16. Stoltz, J. F., Zhang, L., Ye, J. S. & De Isla, N. Organ reconstruction: dream or reality for the future. Biomed. Mater. Eng. 28 , S121-S127 (2017).
+- 17. Hassanpour, A., Talaei-Khozani, T., Kargar-Abarghouei, E., Razban, V. & Vojdani, Z. Decellularized human ovarian scaffold based on a sodium lauryl ester sulfate (SLES)-treated protocol, as a natural three-dimensional scaffold for construction of bioengineered ovaries. Stem Cell Res. Ther. 9 , 252 (2018).
+- 18. Debels, H., Hamdi, M., Abberton, K. & Morrison, W. Dermal matrices and bioengineered skin substitutes: a critical review of current options. Plast. Reconstr. Surg. Global Open 3 , e284 (2015).
+- 19. Caddeo, S., Boffito, M. & Sartori, S. Tissue engineering approaches in the design of healthy and pathological in vitro tissue models. Front. Bioeng. Biotechnol. 5 , 40 (2017).
+- 20. Upadhyay, S. & Palmberg, L. Air-liquid interface: relevant in vitro models for investigating air pollutant-induced pulmonary toxicity. Toxicol. Sci. 164 , 21-30 (2018).
+- 21. Moniz, T., Costa Lima, S. A. & Reis, S. Human skin models: from healthy to disease-mimetic systems; characteristics and applications. Br. J. Pharmacol. 177 , 4314-4329 (2020).
+- 22. Khetani, S. R. & Bhatia, S. N. Microscale culture of human liver cells for drug development. Nat. Biotechnol. 26 , 120-126 (2008).
+- 23. Cantley, W. et al. Functional and sustainable 3D human neural network models from pluripotent stem cells. ACS Biomater. Sci. Eng. 4 , 4278-4288 (2018).
+- 24. Hofer, M. & Lutolf, M. P. Engineering organoids. Nat. Rev. Mater. 6 , 402-420 (2021).
+- 25. Du, Y. et al. Development of a miniaturized 3D organoid culture platform for ultrahigh-throughput screening. J. Mol. Cell Biol. 12 , 630-643 (2020).
+- 26. Vonk, A. M. et al. Protocol for application, standardization and validation of the forskolininduced swelling assay in cystic fibrosis human colon organoids. STAR Protoc. 1 , 100019 (2020).
+- 27. Spence, J. R. et al. Directed differentiation of human pluripotent stem cells into intestinal tissue in vitro. Nature 470 , 105-109 (2011).
+- 28. McCracken, K. W. et al. Modelling human development and disease in pluripotent stemcell-derived gastric organoids. Nature 516 , 400-404 (2014).
+- 29. Takebe, T. et al. Vascularized and functional human liver from an iPSC-derived organ bud transplant. Nature 499 , 481-484 (2013).
+- 30. Huang, L. et al. Ductal pancreatic cancer modeling and drug screening using human pluripotent stem cell-and patient-derived tumor organoids. Nat. Med. 21 , 1364-1371 (2015).
+- 31. Wong, A. P. et al. Directed differentiation of human pluripotent stem cells into mature airway epithelia expressing functional CFTR protein. Nat. Biotechnol. 30 , 876-882 (2012).
+- 32. Kurmann, A. A. et al. Regeneration of thyroid function by transplantation of differentiated pluripotent stem cells. Cell Stem Cell 17 , 527-542 (2015).
+- 33. Taguchi, A. et al. Redefining the in vivo origin of metanephric nephron progenitors enables generation of complex kidney structures from pluripotent stem cells. Cell Stem Cell 14 , 53-67 (2014).
+- 34. Phillips, M. J. et al. Blood-derived human iPS cells generate optic vesicle-like structures with the capacity to form retinal laminae and develop synapses. Invest. Ophthalmol. Vis. Sci. 53 , 2007-2019 (2012).
+- 35. Lancaster, M. A. et al. Cerebral organoids model human brain development and microcephaly. Nature 501 , 373-379 (2013).
+- 36. Mansour, A. A. et al. An in vivo model of functional and vascularized human brain organoids. Nat. Biotechnol. 36 , 432-441 (2018).
+- 37. Revah, O. et al. Maturation and circuit integration of transplanted human cortical organoids. Nature 610 , 319-326 (2022).
+- 38. Sachs, N. et al. Long-term expanding human airway organoids for disease modeling. EMBO J. 38 , e100300 (2019).
+- 39. Sato, T. et al. Long-term expansion of epithelial organoids from human colon, adenoma, adenocarcinoma, and Barrett's epithelium. Gastroenterology 141 , 1762-1772 (2011).
+- 40. Boj, S. F. et al. Organoid models of human and mouse ductal pancreatic cancer. Cell 160 , 324-338 (2015).
+- 41. Bartfeld, S. et al. In vitro expansion of human gastric epithelial stem cells and their responses to bacterial infection. Gastroenterology 148 , 126-136.e6 (2015).
+- 42. Huch, M. et al. Long-term culture of genome-stable bipotent stem cells from adult human liver. Cell 160 , 299-312 (2015).
+- 43. Turco, M. Y. et al. Long-term, hormone-responsive organoid cultures of human endometrium in a chemically defined medium. Nat. Cell Biol. 19 , 568-577 (2017).
+- 44. Drost, J. et al. Organoid culture systems for prostate epithelial and cancer tissue. Nat. Protoc. 11 , 347-358 (2016).
+- 45. Kessler, M. et al. The Notch and Wnt pathways regulate stemness and differentiation in human fallopian tube organoids. Nat. Commun. 6 , 8989 (2015).
+- 46. Linnemann, J. R. et al. Quantification of regenerative potential in primary human mammary epithelial cells. Development 142 , 3239-3251 (2015).
+
+## Review article
+
+- 47. Chichagova, V. et al. Human iPSC differentiation to retinal organoids in response to IGF1 and BMP4 activation is line- and method-dependent. Stem Cell 38 , 195-201 (2020).
+- 48. Lock, R. et al. A framework for developing sex-specific engineered heart models. Nat. Rev. Mater. 7 , 295-313 (2021).
+- 49. Lai Benjamin, F. L. et al. Recapitulating pancreatic tumor microenvironment through synergistic use of patient organoids and organ-on-a-chip vasculature. Adv. Funct. Mater. 30 , 2000545 (2020).
+- 50. Yadid, M. et al. Endothelial extracellular vesicles contain protective proteins and rescue ischemia-reperfusion injury in a human heart-on-chip. Sci. Transl. Med. 12 , eaax8005 (2020).
+- 51. Si, L. et al. A human-airway-on-a-chip for the rapid identification of candidate antiviral therapeutics and prophylactics. Nat. Biomed. Eng. 5 , 815-829 (2021).
+- 52. Low, L. A., Mummery, C., Berridge, B. R., Austin, C. P. & Tagle, D. A. Organs-on-chips: into the next decade. Nat. Rev. Drug Discov. 20 , 345-361 (2021).
+- 53. Vunjak-Novakovic, G., Ronaldson-Bouchard, K. & Radisic, M. Organs-on-a-chip models for biological research. Cell 184 , 4597-4611 (2021).
+- 54. Leung, C. M. et al. A guide to the organ-on-a-chip. Nat. Rev. Methods Primers 2 , 33 (2022).
+- 55. Maschmeyer, I. et al. A four-organ-chip for interconnected long-term co-culture of human intestine, liver, skin and kidney equivalents. Lab Chip 15 , 2688-2699 (2015).
+- 56. Lai, B. F. L. et al. A well plate-based multiplexed platform for incorporation of organoids into an organ-on-a-chip system with a perfusable vasculature. Nat. Protoc. 16 , 2158-2189 (2021).
+- 57. Chou, D. B. et al. On-chip recapitulation of clinical bone marrow toxicities and patientspecific pathophysiology. Nat. Biomed. Eng. 4 , 394-406 (2020).
+- 58. Edington, C. D. et al. Interconnected microphysiological systems for quantitative biology and pharmacology studies. Sci. Rep. 8 , 4530 (2018).
+- 59. Herland, A. et al. Quantitative prediction of human pharmacokinetic responses to drugs via fluidically coupled vascularized organ chips. Nat. Biomed. Eng. 4 , 421-436 (2020).
+- 60. Novak, R. et al. Robotic fluidic coupling and interrogation of multiple vascularized organ chips. Nat. Biomed. Eng. 4 , 407-420 (2020).
+- 61. Marx, U. et al. Biology-inspired microphysiological system approaches to solve the prediction dilemma of substance testing. Altex 33 , 272-321 (2016).
+- 62. Matsui, T. & Shinozawa, T. Human organoids for predictive toxicology research and drug development. Front. Genet. 12 , 767621 (2021).
+- 63. Li, M. et al. Advanced human developmental toxicity and teratogenicity assessment using human organoid models. Ecotoxicol. Environ. Saf. 235 , 113429 (2022).
+- 64. Cong, Y. et al. Drug toxicity evaluation based on organ-on-a-chip technology: a review. Micromachines 11 , 381 (2020).
+- 65. Nawroth, J. C. et al. Modeling alcohol-associated liver disease in a human liver-chip. Cell Rep. 36 , 109393 (2021).
+- 66. Sphabmixay, P. et al. High resolution stereolithography fabrication of perfusable scaffolds to enable long-term meso-scale hepatic culture for disease modeling. Biofabrication 13 , ac23aa (2021).
+- 67. Bauer, S. et al. Functional coupling of human pancreatic islets and liver spheroids on-a-chip: towards a novel human ex vivo type 2 diabetes model. Sci. Rep. 7 , 14620 (2017).
+- 68. Wimmer, R. A. et al. Human blood vessel organoids as a model of diabetic vasculopathy. Nature 565 , 505-510 (2019).
+- 69. Jabali, A. et al. Human cerebral organoids reveal progenitor pathology in EML1-linked cortical malformation. EMBO Rep 23 , e54027 (2022).
+- 70. Vatine, G. D. et al. Human iPSC-derived blood-brain barrier chips enable disease modeling and personalized medicine applications. Cell Stem Cell 24 , 995-1005.e6 (2019).
+- 71. Hönzke, S. et al. Influence of Th2 cytokines on the cornified envelope, tight junction proteins, and ß-defensins in filaggrin-deficient skin equivalents. J. Investig. Dermatol. 136 , 631-639 (2016).
+- 72. Zamprogno, P. et al. Second-generation lung-on-a-chip with an array of stretchable alveoli made with a biological membrane. Commun. Biol. 4 , 168 (2021).
+- 73. van der Vaart, J. et al. Modelling of primary ciliary dyskinesia using patient-derived airway organoids. EMBO Rep. 22 , e52058 (2021).
+- 74. Charbaji, R. et al. Design and testing of efficient mucus-penetrating nanogels - pitfalls of preclinical testing and leassons learned. Small https://doi.org/10.1002/smll.202007963 (2021).
+- 75. Kayisoglu, O. et al. Location-specific cell identity rather than exposure to GI microbiota defines many innate immune signalling cascades in the gut epithelium. Gut 70 , 687-697 (2021).
+- 76. Lõhmussaar, K. et al. Patient-derived organoids model cervical tissue dynamics and viral oncogenesis in cervical cancer. Cell Stem Cell 28 , 1380-1396.e6 (2021).
+- 77. Vila, O. F. et al. Bioengineered optogenetic model of human neuromuscular junction. Biomaterials 276 , 121033 (2021).
+- 78. Williams, K. et al. A 3-D human model of complex cardiac arrhythmias. Acta Biomater. 132 , 149-161 (2021).
+- 79. Mastikhina, O. et al. Human cardiac fibrosis-on-a-chip model recapitulates disease hallmarks and can serve as a platform for drug testing. Biomaterials 233 , 119741 (2020).
+- 80. Wang, E. Y. et al. An organ-on-a-chip model for pre-clinical drug evaluation in progressive non-genetic cardiomyopathy. J. Mol. Cell Cardiol. 160 , 97-110 (2021).
+- 81. Ronaldson-Bouchard, K. et al. Engineering of human cardiac muscle electromechanically matured to an adult-like phenotype. Nat. Protoc. 14 , 2781-2817 (2019).
+
+- 82. Lu, R. X. Z. et al. Vasculature-on-a-chip platform with innate immunity enables identification of angiopoietin-1 derived peptide as a therapeutic for SARS-CoV-2 induced inflammation. Lab Chip 22 , 1171-1186 (2022).
+- 83. Zhang, M. et al. Biomimetic human disease model of SARS-CoV-2 induced lung injury and immune responses on organ chip system. Adv. Sci. 8 , 2002928 (2020).
+- 84. Katsura, H. et al. Human lung stem cell-based alveolospheres provide insights into SARS-CoV-2-mediated interferon responses and pneumocyte dysfunction. Cell Stem Cell 27 , 890-904.e8 (2020).
+- 85. Lamers, M. M. et al. An organoid-derived bronchioalveolar model for SARS-CoV-2 infection of human alveolar type II-like cells. EMBO J. 40 , e105912 (2021).
+- 86. Thacker, V. V. et al. Rapid endotheliitis and vascular damage characterize SARS-CoV-2 infection in a human lung-on-chip model. EMBO Rep. 22 , e52744 (2021).
+- 87. Ramani, A. et al. SARS-CoV-2 targets neurons of 3D human brain organoids. EMBO J. 39 , e106230 (2020).
+- 88. Andrews, M. G. et al. Tropism of SARS-CoV-2 for human cortical astrocytes. Proc. Natl Acad. Sci. USA 119 , e2122236119 (2022).
+- 89. Jansen, J. et al. SARS-CoV-2 infects the human kidney and drives fibrosis in kidney organoids. Cell Stem Cell 29 , 217-231.e8 (2022).
+- 90. Helms, L. et al. Cross-validation of SARS-CoV-2 responses in kidney organoids and clinical populations. JCI Insight 6 , e154882 (2021).
+- 91. Ortega-Prieto, A. M. et al. 3D microfluidic liver cultures as a physiological preclinical tool for hepatitis B virus infection. Nat. Commun. 9 , 682 (2018).
+- 92. Nawroth, J. C. et al. A microengineered airway lung chip models key features of viral-induced exacerbation of asthma. Am. J. Respir. Cell Mol. Biol. 63 , 591-600 (2020).
+- 93. Koster, S. et al. Modelling Chlamydia and HPV co-infection in patient-derived ectocervix organoids reveals distinct cellular reprogramming. Nat. Commun. 13 , 1030 (2022).
+- 94. Liberti, D. C. et al. Alveolar epithelial cell fate is maintained in a spatially restricted manner to promote lung regeneration after acute injury. Cell Rep. 35 , 109092 (2021).
+- 95. Bui, C. H. T. et al. Tropism of influenza B viruses in human respiratory tract explants and airway organoids. Eur. Respir. J. 54 , 1900008 (2019).
+- 96. Ettayebi, K. et al. Replication of human noroviruses in stem cell-derived human enteroids. Science 353 , 1387-1393 (2016).
+- 97. Hayashi, T. et al. Dasabuvir inhibits human norovirus infection in human intestinal enteroids. mSphere 6 , e0062321 (2021).
+- 98. Alvarado, G. et al. Broadly cross-reactive human antibodies that inhibit genogroup I and II noroviruses. Nat. Commun. 12 , 4320 (2021).
+- 99. Qian, X. et al. Brain-region-specific organoids using mini-bioreactors for modeling ZIKV exposure. Cell 165 , 1238-1254 (2016).
+- 100. Garcez, P. P. et al. Zika virus impairs growth in human neurospheres and brain organoids. Science 352 , 816-818 (2016).
+- 101. Pleguezuelos-Manzano, C. et al. Mutational signature in colorectal cancer caused by genotoxic pks+ E. coli . Nature 580 , 269-273 (2020).
+- 102. Nougayrède, J. P. et al. A toxic friend: genotoxic and mutagenic activity of the probiotic strain Escherichia coli Nissle 1917. mSphere 6 , e0062421 (2021).
+- 103. Trapecar, M. et al. Human physiomimetic model integrating microphysiological systems of the gut, liver, and brain for studies of neurodegenerative diseases. Sci. Adv. 7 , eabd1707 (2021).
+- 104. Kim, J. et al. Fungal brain infection modelled in a human-neurovascular-unit-on-a-chip with a functional blood-brain barrier. Nat. Biomed. Eng. 5 , 830-846 (2021).
+- 105. Swalley, S. E. Expanding therapeutic opportunities for neurodegenerative diseases: a perspective on the important role of phenotypic screening. Bioorg Med. Chem. 28 , 115239 (2020).
+- 106. Naryshkin, N. A. et al. SMN2 splicing modifiers improve motor function and longevity in mice with spinal muscular atrophy. Science 345 , 688-693 (2014).
+- 107. Palacino, J. et al. SMN2 splice modulators enhance U1-pre-mRNA association and rescue SMA mice. Nat. Chem. Biol. 11 , 511-517 (2015).
+- 108. Theodoris, C. V. et al. Network-based screen in iPSC-derived cells reveals therapeutic candidate for heart valve disease. Science 371 , eabd0724 (2021).
+- 109. Monteil, V. et al. Inhibition of SARS-CoV-2 infections in engineered human tissues using clinical-grade soluble human ACE2. Cell 181 , 905-913.e7 (2020).
+- 110. Bai, H. et al. Mechanical control of innate immune responses against viral infection revealed in a human lung alveolus chip. Nat. Commun. 13 , 1928 (2021).
+- 111. Han, Y. et al. Identification of SARS-CoV-2 inhibitors using lung and colonic organoids. Nature 589 , 270-275 (2021).
+- 112. Rahmani, W. et al. Attenuation of SARS-CoV-2 infection by losartan in human kidney organoids. iScience 25 , 103818 (2022).
+- 113. Bai, H. et al. Mechanical control of innate immune responses against viral infection revealed in a human lung alveolus chip. Nat. Commun. 13 , 1928 (2022).
+- 114. Herpers, B. et al. Functional patient-derived organoid screenings identify MCLA-158 as a therapeutic EGFR × LGR5 bispecific antibody with efficacy in epithelial tumors. Nat. Cancer 3 , 418-436 (2022).
+- 115. Yun, J. et al. Antitumor activity of Amivantamab (JNJ-61186372), an EGFR-MET bispecific antibody, in diverse models of EGFR exon 20 insertion-driven NSCLC. Cancer Discov. 10 , 1194-1209 (2020).
+- 116. Rumsey, J. W. et al. Classical complement pathway inhibition in a "human-on-a-chip" model of autoimmune demyelinating neuropathies. Adv. Ther. 5 , 2200030 (2022).
+- 117. Fiedorczuk, K. & Chen, J. Molecular structures reveal synergistic rescue of Δ508 CFTR by Trikafta modulators. Science 378 , 284-290 (2022).
+
+## Review article
+
+- 118. Dekkers, J. F. et al. Characterizing responses to CFTR-modulating drugs using rectal organoids derived from subjects with cystic fibrosis. Sci. Transl. Med. 8 , 344ra384 (2016).
+- 119. Berkers, G. et al. Rectal organoids enable personalized treatment of cystic fibrosis. Cell Rep. 26 , 1701-1708.e3 (2019).
+- 120. Ooft, S. N. et al. Patient-derived organoids can predict response to chemotherapy in metastatic colorectal cancer patients. Sci. Transl. Med. 11 , eaay2574 (2019).
+- 121. Schütte, M. et al. Molecular dissection of colorectal cancer in pre-clinical models identifies biomarkers predicting sensitivity to EGFR inhibitors. Nat. Commun. 8 , 14267 (2017).
+- 122. Shi, R. et al. Organoid cultures as preclinical models of non-small cell lung cancer. Clin. Cancer Res. 26 , 1162-1174 (2020).
+- 123. Vlachogiannis, G. et al. Patient-derived organoids model treatment response of metastatic gastrointestinal cancers. Science 359 , 920-926 (2018).
+- 124. Lee, S. H. et al. Tumor evolution and drug response in patient-derived organoid models of bladder cancer. Cell 173 , 515-528.e17 (2018).
+- 125. Hill, S. J. et al. Prediction of DNA repair inhibitor response in short-term patient-derived ovarian cancer organoids. Cancer Discov. 8 , 1404-1421 (2018).
+- 126. Yao, Y. et al. Patient-derived organoids predict chemoradiation responses of locally advanced rectal cancer. Cell Stem Cell 26 , 17-26.e6 (2020).
+- 127. Tiriac, H. et al. Organoid profiling identifies common responders to chemotherapy in pancreatic cancer. Cancer Discov. 8 , 1112-1129 (2018).
+- 128. Driehuis, E. et al. Pancreatic cancer organoids recapitulate disease and allow personalized drug screening. Proc. Natl Acad. Sci. USA 116 , 26580-26590 (2019).
+- 129. Deng, J. et al. CDK4/6 inhibition augments antitumor immunity by enhancing T-cell activation. Cancer Discov. 8 , 216-233 (2018).
+- 130. Klein, S. L. & Flanagan, K. L. Sex differences in immune responses. Nat. Rev. Immunol. 16 , 626-638 (2016).
+- 131. Zeng, Z. et al. Sex-hormone-driven innate antibodies protect females and infants against EPEC infection. Nat. Immunol. 19 , 1100-1111 (2018).
+- 132. Ronaldson-Bouchard, K. & Vunjak-Novakovic, G. Organs-on-a-chip: a fast track for engineered human tissues in drug development. Cell Stem Cell 22 , 310-324 (2018).
+- 133. Park, D., Lee, J., Chung, J. J., Jung, Y. & Kim, S. H. Integrating organs-on-chips: multiplexing, scaling, vascularization, and innervation. Trends Biotechnol. 38 , 99-112 (2020).
+- 134. Malik, M., Yang, Y., Fathi, P., Mahler, G. J. & Esch, M. B. Critical considerations for the design of multi-organ microphysiological systems (MPS). Front. Cell Dev. Biol. 9 , 721338 (2021).
+- 135. Wagner, I. et al. A dynamic multi-organ-chip for long-term cultivation and substance testing proven by 3D human liver and skin tissue co-culture. Lab Chip 13 , 3538-3547 (2013).
+- 136. Wikswo, J. P. et al. Scaling and systems biology for integrating multiple organs-on-a-chip. Lab Chip 13 , 3496-3511 (2013).
+- 137. Ahluwalia, A. Allometric scaling in-vitro. Sci. Rep. 7 , 42113 (2017).
+- 138. Sung, J. H., Wang, Y. & Shuler, M. L. Strategies for using mathematical modeling approaches to design and interpret multi-organ microphysiological systems (MPS). APL Bioeng. 3 , 021501 (2019).
+- 139. Maass, C., Stokes, C. L., Griffith, L. G. & Cirit, M. Multi-functional scaling methodology for translational pharmacokinetic and pharmacodynamic applications using integrated microphysiological systems (MPS). Integr. Biol. 9 , 290-302 (2017).
+- 140. Feng, J. J. & Hedtrich, S. A similarity scaling approach for organ-on-chip devices. Lab Chip 22 , 3663-3667 (2022).
+- 141. Zlokarnik, M. Scale-Up in Chemical Engineering 2nd edn (Wiley -VCH Verlag GmbH & Co. KGaA, 2006).
+- 142. Frye, M. et al. Matrix stiffness controls lymphatic vessel formation through regulation of a GATA2-dependent transcriptional program. Nat. Commun. 9 , 1511 (2018).
+- 143. Huh, D. et al. Reconstituting organ-level lung functions on a chip. Science 328 , 1662-1668 (2010).
+- 144. Sontheimer-Phelps, A. et al. Human colon-on-a-chip enables continuous in vitro analysis of colon mucus layer accumulation and physiology. Cell Mol. Gastroenterol. Hepatol. 9 , 507-526 (2020).
+- 145. Bein, A. et al. Enteric coronavirus infection and treatment modeled with an immunocompetent human intestine-on-a-chip. Front. Pharmacol. 12 , 718484 (2021).
+- 146. Huh, D. et al. A human disease model of drug toxicity-induced pulmonary edema in a lung-on-a-chip microdevice. Sci. Transl. Med. 4 , 159ra147 (2012).
+- 147. Grassart, A. et al. Bioengineered human organ-on-chip reveals intestinal microenvironment and mechanical forces impacting shigella infection. Cell Host Microbe 26 , 435-444.e4 (2019).
+- 148. Gjorevski, N. et al. Designer matrices for intestinal stem cell and organoid culture. Nature 539 , 560-564 (2016).
+- 149. Bliley, J. M. et al. Dynamic loading of human engineered heart tissue enhances contractile function and drives a desmosome-linked disease phenotype. Sci. Transl. Med. 13 , eabd1817 (2021).
+- 150. Ronaldson-Bouchard, K. et al. A multi-organ chip with matured tissue niches linked by vascular flow. Nat. Biomed. Eng. 6 , 351-371 (2022).
+- 151. van de Wetering, M. et al. Prospective derivation of a living organoid biobank of colorectal cancer patients. Cell 161 , 933-945 (2015).
+- 152. Hu, Y. et al. Lung cancer organoids analyzed on microwell arrays predict drug responses of patients within a week. Nat. Commun. 12 , 2581 (2021).
+- 153. Skylar-Scott, M. A. et al. Orthogonally induced differentiation of stem cells for the programmatic patterning of vascularized organoids and bioprinted tissues. Nat. Biomed. Eng. 6 , 449-462 (2022).
+- 154. Wallmeyer, L. et al. TSLP is a direct trigger for T cell migration in filaggrin-deficient skin equivalents. Sci. Rep. 7 , 774 (2017).
+
+- 155. Maharjan, S., Cecen, B. & Zhang, Y. S. 3D immunocompetent organ-on-a-chip models. Small Methods 4 , 2000235 (2020).
+- 156. Kerns, S. J. et al. Human immunocompetent Organ-on-Chip platforms allow safety profiling of tumor-targeted T-cell bispecific antibodies. eLife 10 , e67106 (2021).
+- 157. Cipriano, M. et al. Human immunocompetent choroid-on-chip: a novel tool for studying ocular effects of biological drugs. Commun. Biol. 5 , 52 (2022).
+- 158. Goyal, G. et al. Ectopic lymphoid follicle formation and human seasonal influenza vaccination responses recapitulated in an organ-on-a-chip. Adv. Sci. 9 , e2103241 (2022).
+- 159. Gibot, L. et al. Cell-based approach for 3D reconstruction of lymphatic capillaries in vitro reveals distinct functions of HGF and VEGF-C in lymphangiogenesis. Biomaterials 78 , 129-139 (2016).
+- 160. Gibot, L. et al. Tissue-engineered 3D human lymphatic microvascular network for in vitro studies of lymphangiogenesis. Nat. Protoc. 12 , 1077-1088 (2017).
+- 161. Li, X. & Wang, C.-Y. From bulk, single-cell to spatial RNA sequencing. Int. J. Oral. Sci. 13 , 36 (2021).
+- 162. Kip, A. M. et al. Proteomics analysis of human intestinal organoids during hypoxia and reoxygenation as a model to study ischemia-reperfusion injury. Cell Death Dis. 12 , 95 (2021).
+- 163. Lim, E. T. et al. Orgo-Seq integrates single-cell and bulk transcriptomic data to identify cell type specific-driver genes associated with autism spectrum disorder. Nat. Commun. 13 , 3243 (2022).
+- 164. Baek, S. & Lee, I. Single-cell ATAC sequencing analysis: from data preprocessing to hypothesis generation. Comput. Struct. Biotechnol. J. 18 , 1429-1439 (2020).
+- 165. Finkbeiner, C. et al. Single-cell ATAC-seq of fetal human retina and stem-cell-derived retinal organoids shows changing chromatin landscapes during cell fate acquisition. Cell Rep. 38 , 110294 (2022).
+- 166. Ziffra, R. S. et al. Single-cell epigenomics reveals mechanisms of human cortical development. Nature 598 , 205-213 (2021).
+- 167. Fei, K., Zhang, J., Yuan, J. & Xiao, P. Present application and perspectives of organoid imaging technology. Bioengineering 9 , 121 (2022).
+- 168. Lallemant, L., Lebreton, C. & Garfa-Traoré, M. Comparison of different clearing and acquisition methods for 3D imaging of murine intestinal organoids. J. Biol. Methods 7 , e141 (2020).
+- 169. Busek, M., Aizenshtadt, A., Amirola-Martinez, M., Delon, L. & Krauss, S. Academic user view: organ-on-a-chip technology. Biosensors 12 , 126 (2022).
+- 170. Spiller, E. R. et al. Imaging-based machine learning analysis of patient-derived tumor organoid drug response. Front. Oncol. 11 , 771173 (2021).
+- 171. Larsen, B. M. et al. A pan-cancer organoid platform for precision medicine. Cell Rep. 36 , 109429 (2021).
+- 172. Park, J.-C. et al. A logical network-based drug-screening platform for Alzheimer's disease representing pathological features of human brain organoids. Nat. Commun. 12 , 280 (2021).
+- 173. Barricelli, B. R., Casiraghi, E. & Fogli, D. A survey on digital twin: definitions, characteristics, applications, and design implications. IEEE Access. 7 , 167653-167671 (2019).
+- 174. Möller, J. & Pörtner, R. Digital twins for tissue culture techniques - concepts, expectations, and state of the art. Processes 9 , 447 (2021).
+- 175. Fuhr, A., Kurtz, A., Hiepen, C. & Müller, S. Organoids as miniature twins - challenges for comparability and need for data standardization and access. Organoids 1 , 28-36 (2022).
+- 176. Yan, H. H. N. et al. A comprehensive human gastric cancer organoid biobank captures tumor subtype heterogeneity and enables therapeutic screening. Cell Stem Cell 23 , 882-897.e11 (2018).
+- 177. Sachs, N. et al. A living biobank of breast cancer organoids captures disease heterogeneity. Cell 172 , 373-386.e10 (2018).
+- 178. Jacob, F. et al. A patient-derived glioblastoma organoid model and biobank recapitulates inter- and intra-tumoral heterogeneity. Cell 180 , 188-204.e22 (2020).
+- 179. Ramalho, A. S. et al. Correction of CFTR function in intestinal organoids to guide treatment of cystic fibrosis. Eur. Respir. J. 57 , 1902426 (2021).
+- 180. Martin, L., Hutchens, M., Hawkins, C. & Radnov, A. How much do clinical trials cost? Nat. Rev. Drug Discov. 16 , 381-382 (2017).
+- 181. Werner, M. et al. Surface curvature differentially regulates stem cell migration and differentiation via altered attachment morphology and nuclear deformation. Adv. Sci. 4 , 1600347 (2017).
+- 182. Prodanov, L. et al. Long-term maintenance of a microfluidic 3D human liver sinusoid. Biotechnol. Bioeng. 113 , 241-246 (2016).
+- 183. Peel, S. et al. Introducing an automated high content confocal imaging approach for organs-on-chips. Lab Chip 19 , 410-421 (2019).
+- 184. Abaci, H. E. & Shuler, M. L. Human-on-a-chip design strategies and principles for physiologically based pharmacokinetics/pharmacodynamics modeling. Integr. Biol. 7 , 383-391 (2015).
+- 185. Tsamandouras, N. et al. Integrated gut and liver microphysiological systems for quantitative in vitro pharmacokinetic studies. AAPS J. 19 , 1499-1512 (2017).
+- 186. Fleck, J. S. et al. Resolving organoid brain region identities by mapping single-cell genomic data to reference atlases. Cell Stem Cell 28 , 1148-1159.e8 (2021).
+- 187. Rodriques, S. G. et al. Slide-seq: a scalable technology for measuring genome-wide expression at high spatial resolution. Science 363 , 1463-1467 (2019).
+- 188. Gonneaud, A. et al. A SILAC-based method for quantitative proteomic analysis of intestinal organoids. Sci. Rep. 6 , 38195 (2016).
+- 189. Cristobal, A. et al. Personalized proteome profiles of healthy and tumor human colon organoids reveal both individual diversity and basic features of colorectal cancer. Cell Rep. 18 , 263-274 (2017).
+
+## Review article
+
+- 190. Williams, K. E. et al. Quantitative proteomic analyses of mammary organoids reveals distinct signatures after exposure to environmental chemicals. Proc. Natl Acad. Sci. USA 113 , E1343-E1351 (2016).
+- 191. Melliou, S. et al. Regionally defined proteomic profiles of human cerebral tissue and organoids reveal conserved molecular modules of neurodevelopment. Cell Rep. 39 , 110846 (2022).
+- 192. Cong, Y. et al. Ultrasensitive single-cell proteomics workflow identifies >1000 protein groups per mammalian cell. Chem. Sci. 12 , 1001-1006 (2021).
+- 193. Williams, S. M. et al. Automated coupling of nanodroplet sample preparation with liquid chromatography-mass spectrometry for high-throughput single-cell proteomics. Anal. Chem. 92 , 10588-10596 (2020).
+- 194. Bakker, B. et al. Preparing ductal epithelial organoids for high-spatial-resolution molecular profiling using mass spectrometry imaging. Nat. Protoc. 17 , 962-979 (2022).
+
+## Acknowledgements
+
+We acknowledge partial funding of this work from the Stiftung Charité (S.H.), Einstein Foundation EC3R (A.L.), the Natural Sciences and Engineering Research Council Canada (NSERC, RGPIN-2020-04224 for S.H. and RGPIN-2019-04162 for J.J.F.), and the German Research Foundation (DFG)-funded Collaborative Research Centers 1449 (S.H., project A05) and 1340 (S.H., project A06).
+
+## Author contributions
+
+S.H., A.L. and J.J.F. contributed to the conceptualization, writing, figure drafting and revision of the article.
+
+## Competing interests
+
+The authors state no competing interests.
+
+## Additional information
+
+Peer review information Nature Reviews Bioengineering thanks Wei Zheng, who co-reviewed with Qi Zhang; Sina Bartfeld; Gordana Vunjak-Novakovic, who co-reviewed with Diogo Teles; and the other, anonymous, reviewer for their contribution to the peer review of this work.
+
+Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author selfarchiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+© Springer Nature Limited 2023, corrected publication 2023

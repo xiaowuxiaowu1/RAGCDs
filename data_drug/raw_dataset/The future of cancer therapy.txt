@@ -1,0 +1,357 @@
+<!-- image -->
+
+## OPEN ACCESS
+
+EDITED BY
+
+Geoffrey Brown,
+
+University of Birmingham, United Kingdom
+
+REVIEWED BY
+
+Garima Kaushik,
+
+Champions Oncology, Inc., United States
+
+Eliana Stanganello,
+
+Translationale Onkologie an der
+
+Universitätsmedizin der Johannes GutenbergUniversität Mainz, Germany
+
+*CORRESPONDENCE
+
+Alireza Nourazarian,
+
+noorazarian\_a@khoyums.ac.ir
+
+RECEIVED
+
+15 March 2024
+
+ACCEPTED
+
+06 May 2024
+
+PUBLISHED
+
+20 May 2024
+
+## CITATION
+
+Avci CB, Bagca BG, Shademan B, Takanlou LS, Takanlou MS and Nourazarian A (2024), The future of cancer therapy: exploring the potential of patient-derived organoids in drug development. Front. Cell Dev. Biol. 12:1401504. doi: 10.3389/fcell.2024.1401504
+
+## COPYRIGHT
+
+© 2024 Avci, Bagca, Shademan, Takanlou, Takanlou and Nourazarian. This is an openaccess article distributed under the terms of the Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+TYPE Review PUBLISHED 20 May 2024 DOI 10.3389/fcell.2024.1401504
+
+## The future of cancer therapy: exploring the potential of patient-derived organoids in drug development
+
+Cigir Biray Avci$^{1}$, Bakiye Goker Bagca$^{2}$, Behrouz Shademan$^{3}$, Leila Sabour Takanlou$^{1}$, Maryam Sabour Takanlou 1 and Alireza Nourazarian$^{4}$*
+
+$^{1}$Department of Medical Biology, Faculty of Medicine, Ege University, Izmir, Türkiye, $^{2}$Department of Medical Biology, Faculty of Medicine, Adnan Menderes University, Ayd ı n, Türkiye, $^{3}$Stem Cell Research Center, Tabriz University of Medical Sciences, Tabriz, Iran, $^{4}$Department of Basic Medical Sciences, Khoy University of Medical Sciences, Khoy, Iran
+
+Cancer therapy is on the brink of a significant transformation with the inclusion of patient-derived organoids (PDOs) in drug development. These threedimensional cell cultures, directly derived from a patient ' s tumor, accurately replicate the complex structure and genetic makeup of the original cancer. This makes them a promising tool for advancing oncology. In this review, we explore the practical applications of PDOs in clinical drug screening and pharmacognostic assessment, as well as their role in refining therapeutic strategies. We provide insights into the latest advancements in PDO technology and its implications for predicting treatment responses and facilitating novel drug discoveries. Additionally, we address the operational challenges associated with incorporating PDOs into the drug development process, such as scaling up organoid cultures, ensuring consistent results, and addressing the ethical use of patient-derived materials. Aimed at researchers, clinicians, and key stakeholders in oncology, this article aims to succinctly present both the extraordinary potential and the obstacles to integrating PDOs, thereby shedding light on their prospective impact on the future of cancer treatment.
+
+## KEYWORDS
+
+patient-derived organoids, cancer therapy, drug development, personalized medicine, preclinical drug screening
+
+## 1 Introduction
+
+Cancer remains a significant health challenge in the 21st century, with its worldwide impact continuing to grow. Due to the complexity and genetic diversity of the disease, there is an increasing trend in the scientific community toward personalized treatment strategies. Patient-derived organoids (PDOs) have emerged as a groundbreaking tool in oncology research ( Sachs and Clevers, 2014 ), offering three-dimensional cell cultures that better resemble human cancer compared to traditional two-dimensional methods ( Weeber et al., 2017 ). These mini-organs preserve the histological and genetic characteristics of the original tumors ( van de Wetering et al., 2015 ), making them invaluable for studying tumor biology, progression, and treatment response in a controlled laboratory setting. This helps bridge the gap between preclinical models and clinical outcomes ( Vlachogiannis et al., 2018 ).
+
+<!-- image -->
+
+Historically, drug development has faced challenges such as high costs and low success rates, with many compounds failing in clinical trials due to inefficacy or unexpected toxicity ( DiMasi et al., 2016 ). PDOs represent a paradigm shift by providing a more predictive model for evaluating the drug efficacy and toxicity. This patientcentered approach also enables the exploration of interpatient variability, which is crucial for personalized medicine ( Wensink et al., 2021 ). The application of PDOs in drug discovery is multifaceted, involving high-throughput screenings to assess compound libraries against a diverse range of organoids ( Drost and Clevers, 2018 ).
+
+This strategy is complemented by co-clinical trials, where organoids derived from a patient ' s tumor are used alongside clinical treatment to administer the most effective therapy ( Servant et al., 2021 ). Additionally, it includes the potential for co-clinical trials and where organoids d f riv f d from a pati f nt ' s tumor ar f used in parallel with the patient ' s clinical treatment to identify the most ffff ctiv f th f rapy for that individual ( Fujii et al., 2016 ). These approaches not only expedite the drug discovery process but also improve the ethical aspects of cancer research by minimizing animal testing and focusing on human models ( Tuveson and Clevers, 2019 ). Moreover, PDOs contribute significantly to understanding drug resistance mechanisms, as researchers can observe resistance patterns and explore combination therapies ( Shaffer et al., 2017 ). They also facilitate the study of the tumor microenvironment, which greatly influences drug sensitivity and resistance ( Katt et al., 2016 ). The advantages and disadvantages of PDOs in cancer research are shown in Figure 1 . Despite these
+
+advantages, the widespread implementation of PDOs in drug development faces practical challenges such as standardizing organoid culture to ensure reproducibility and scalability ( Boj et al., 2015 ). Ethical considerations related to the use of patientderived materials, such as consent and privacy, also require attention ( Munsie et al., 2017 ).
+
+To use the full potential of PDOs in cancer therapy, a multidisciplinary approach is essential, necessitating collaboration across various fields, including oncology, biology, pharmacology, and ethics. This article provides an overview of the current state of PDOs in drug development, acknowledging both the obstacles and the promising directions that could revolutionize cancer treatment.
+
+## 2 Historical perspective
+
+Cancer is an unyielding and intricate adversary. It has been extensively examined using various research models, including traditional in vitro cell lines ( Sajjad et al., 2021 ) and in vivo animal models ( Abdolahi et al., 2022 ) These models have played a crucial role in our initial comprehension of cancer biology and therapeutics. While cell lines offer valuable insights into cancer cell behavior, they often fail to replicate the three-dimensional structure and tumor microenvironment observed in vivo ( Barbosa et al., 2021 ). Animal models, particularly murine ones, provide a systemic perspective but encounter challenges in translatingfindings to clinical settings due to interspecies differences ( Onaciu et al., 2020 ; Shin et al., 2021 ).
+
+<!-- image -->
+
+The emergence of organoids has revolutionized cancer research by providing three-dimensional cultures derived from stem cells or patient tumors. These cultures closely mimic the architecture and function of organs, offering a relevant platform for studying cancer biology and therapy ( Clevers and Tuveson, 2019 ). The use of cancer cells cultivated in three-dimensional environments has yielded clinically pertinent data, reflecting the tumor environment of patients ( Fessart and Delom, 2024 ). Personalized medicine has especially benefited from the development of PDOs, which accurately replicate the genetic, transcriptomic, and histopathological characteristics of the patient ' s tumor. PDOs serve as effective tools for drug screening and predicting therapeutic responses ( Xu et al., 2019a ). Advancements such as integration of CRISPR -Cas9 technology with organoid cultures have further propelled the field by enabling precise genetic manipulation and facilitating the study of gene function and drug -gene interactions within a relevant tumor context ( Hendriks et al., 2021 ). High-throughput screening technologies have expedited the identification of potential therapeutic agents ( Tuveson and Clevers, 2019 ). Furthermore, the inclusion of immune cells in co-culture systems has provided invaluable insights into the tumor immune microenvironment, which is essential for development of immunotherapies ( Campillo et al., 2019 ). The establishment of biobanks for organoid lines, ensuring a diverse representation of tumor subtypes and patient demographics, has been another significant stride, providing valuable resources for ongoing and future oncological studies ( Tuveson and Clevers, 2019 ).
+
+In conclusion, the integration of organoid technology into oncology research marks a significant shift in drug development. This approach sets the stage for a new era of personalized cancer therapy, with the potential to bridge the gap between preclinical studies and clinical application, thereby enhancing outcomes for cancer patients worldwide.
+
+## 3 Biotechnological advances in organoid culturing
+
+PDOs represent a significant breakthrough in cancer research, utilizing the inherent ability of stem cells to self-organize into threedimensional (3D) structures. These structures emulate the intricate architecture and function of native tissues ( Kretzschmar, 2021 ). The process involves harvesting stem cells from a patient ' s tumor biopsy, which are then cultured in specialized scaffolds that support 3D growth, along with growth factors that simulate the natural cellular environment. The resulting organoids retain the genetic and phenotypic characteristics of the original tumor ( Drost and Clevers, 2018 ), marking an important milestone in personalized medicine. Advancements in the field have been propelled by improved culturing methods, such as the use of the Matrigel dome technique and the development of synthetic and tunable hydrogels, including alginateand collagen-based matrices ( Tuveson and Clevers, 2019 ; Fang et al., 2023 ). These innovations offer controlled environments that enhance reproducibility across
+
+different research settings ( Tuveson and Clevers, 2019 ). Additionally, the integration of microfluidic systems with precise microchannels has streamlined the automated delivery of nutrients and waste management, optimized growth conditions, and enabled large-scale, high-throughput drug screening ( El Harane et al., 2023 ). 3D bioprinting technology has further advanced organoid complexity by allowing precise placement of cells and matrix components in a layer-by-layer fashion ( Drost and Clevers, 2018 ; Tuveson and Clevers, 2019 ; Fang et al., 2023 ). This creates intricate and diverse structures that more accurately reflect the tumor microenvironment, including vascular networks, which are crucial for studying the effects of anticancer drugs targeting the tumor vasculature ( Zhao et al., 2021 ).
+
+The co-culture capability of bioprinting permits various cell types, such as cancer, stromal, and immune cells, to be cultured together, generating a more precise model of tumor -immune system interactions -a key aspect in immunotherapy research ( Drost and Clevers, 2018 ; Tiwari et al., 2022 ). These advancements are transforming preclinical drug development by providing models that more closely resemble patient tumors, enhancing the accuracy of predictions regarding drug effectiveness and resistance, which could lead to tailored treatment plans ( Lim et al., 2023 ). For instance, researchers have successfully bioprinted glioblastoma organoids from patients, which incorporate endothelial cells, facilitating personalized evaluations of responses to anti-angiogenic therapies ( Zhang et al., 2023 ). This approach not only has the potential to improve treatment outcomes but also reduce the time and costs associated with traditional drug development processes. Despite these advancements, it is crucial to address the challenges that persist in fully harnessing the potential of these technologies. Broad adoption in research and clinical settings requires consideration of factors such as cost, accessibility, and standardization ( Tu et al., 2023 ). Moreover, further research is needed to refine bioprinting techniques for scalability and to ensure the long-term viability and functionality of complex organoids ( Hafa et al., 2023 ). In summary, recent innovations in organoid culturing technologies, including synthetic hydrogels, microfluidic systems, and 3D bioprinting, are revolutionizing preclinical cancer research. These technologies facilitate the development of more complex and patient-specific models that could significantly advance personalized cancer therapy by overcoming limitations of traditional cultures and providing more accurate representations of tumor biology.
+
+## 4 Organoids in cancer research: current applications
+
+PDOs have played a crucial role in cancer research by bridging the gap between basic in vitro cell lines and complex in vivo animal models. Figure 2 show the limitations of the use of cell lines and animal models in cancer research. These three-dimensional, multicellular systems accurately replicate the structural and functional characteristics of human tumors, making them indispensable for personalized medicine and the study of cancer progression, metastasis, and treatment response ( Sachs et al., 2018 ). PDOs maintain the genetic and phenotypic features of the original tumor, allowing for precise evaluation of individual drug responses
+
+and the development of personalized treatments ( Drost and Clevers, 2018 ). They also provide insights into the dynamics of cancer progression and the role of the microenvironment, including the influence of stromal and immune cells ( Nagini, 2017 ).
+
+For instance, pancreatic cancer PDOs have provided valuable information about tumor invasion and metastasis, revealing that elevated levels of doublecortin-like kinase 1 (DCLK1) can drive cancer cell migration. Additionally, targeting DCLK1 may inhibit liver metastasis, suggesting potential new therapeutic targets ( Ito et al., 2016 ). Moreover, these organoids are instrumental in drug screening and preclinical testing, expediting the discovery of novel cancer treatments. Organoids derived from mammary Paget ' s disease (MPD) have been particularly beneficial for breast cancer research as they accurately represent the genomic landscape of the disease, including copy number variations, mutational burden, and specific mutations in cancer-related genes identified through extensive genomic sequencing. Consequently, MPD organoids serve as an effective ex vivo platform for studying both the clinical and genomic aspects of breast cancer ( Yu et al., 2022 ). In the context of glioblastoma, patient-derived orthotopic xenografts (PDOX) and the resulting organoids retain the key characteristics of the original tumor, making them suitable for drug screening and predicting therapeutic responses. Studies have shown that glioblastoma organoids respond to treatments such as temozolomide and targeted therapies, thus paving the way for personalized interventions based on genetic and epigenetic markers ( Xu et al., 2019b ; Yu et al., 2022 ). For example, researchers have used glioblastoma PDOs to identify potential new drugs. These drugs are currently undergoing evaluation in clinical trials ( Rahman et al., 2023 ).
+
+Technological advancements in culturing methods and bioengineering are propelling the research field forward. Novel extracellular matrix analogs, microfluidic systems, and 3D bioprinting are improving organoid viability, function, and structure, enabling the creation of more sophisticated models for tumor studies and personalized medicine ( Xu et al., 2019b ; Yu et al., 2022 ). Additionally microfluidic systems enable dynamic culturing with continuous nutrient supply and waste removal and further improving the physiological relevance of these models ( Babaliari et al., 2023 ). Figure 3 illustrates the current and future applications of PDOs.
+
+However, challenges such as scalability, cost, and standardization persist. Efforts are underway to incorporate immune cells and capture the full spectrum of tumor heterogeneity in PDOs ( Xu et al., 2019b ; Ding et al., 2021 ). In conclusion, PDOs are revolutionizing cancer research by providing models that closely resemble human tumors. The integration of cellular biology and cutting-edge bioengineering holds great promise for the future of personalized therapies and targeted treatments. Continuous technological advancements and addressing current limitations are essential for PDOs to potentially transform cancer treatment and significantly improve patient outcomes.
+
+## 5 Organoids in drug development
+
+PDOs have significantly transformed high-throughput screening (HTS) in cancer therapy by facilitating the swift
+
+<!-- image -->
+
+assessment of multiple anticancer drugs on tumor tissues that closely mimic the in vivo environment ( Driehuis et al., 2020 ). These 3D cultures, derived from cancer cells of patients, accurately represent the genetic and phenotypic variations found in tumors. They serve as personalized models for developing drugs and therapies in the field of oncology ( Wei et al., 2021 ). They represent a shift away from a generic approach to targeted treatment strategies, significantly enhancing the precision and effectiveness of HTS. For instance, studies have shown that glioblastoma organoids can accurately predict clinical responses to chemotherapy agents, which could potentially reduce the time and costs involved in drug development ( Driehuis et al., 2019 ).
+
+Furthermore, the integration of organoids with pharmacogenomics is driving the advancement of personalized medicine in the field of oncology. Research has consistently demonstrated the considerable value of PDOs in identifying genetic factors that contribute to drug response and resistance ( Rajan et al., 2023 ). This has led to the development of customized treatment plans aimed to improve treatment effectiveness and minimize side effects.
+
+In 2019, research utilizing PDOs identified specificgenomic alterations that correlate with drug sensitivity or resistance, which further underscores the potential of PDOs in tailoring cancer treatment to an individual ' sgeneticprofile ( Driehuis et al., 2019 ). Success stories have documented the pivotal role of organoids in facilitating drug development. An example of this is the utilization of the therapeutically guided multidrug optimization (TGMO) technique in colorectal cancer models. This approach has proven effective in identifying optimized drug combinations that surpass the efficacy of conventional care ( Cheng et al., 2022 ).
+
+In another study, Neal et al. presented an air -liquid interface (ALI) method that enables the growth of PDOs from tumors in both humans and mice. This method preserves the tumor epithelium and the native immune cells (T, B, NK, and macrophages) that are present within the tumor. Consequently, the PDOs accurately replicate the original tumor ' s T-cell receptor (TCR) spectrum ( Neal et al., 2018 ). Despite these advancements, challenges such as cost, scalability, and standardization remain in the use of PDOs for drug development. Active research areas include incorporating the complexity of the tumor microenvironment and immune system components. Addressing these hurdles will be essential for wider adoption and full realization of PDOs ' transformative potential in cancer treatment ( Genova et al., 2021 ; Lv et al., 2022 ).
+
+## 6 Personalized medicine and patientderived organoids
+
+Personalized medicine in oncology is undergoing a significant transformation with the use of PDOs. These PDOs play a crucial role in developing individualized treatment strategies by cultivating a patient ' s own tumor cells, which accurately represent the specific genetic and molecular properties of their cancer. This precision approach not only enhances treatment efficacy but also reduces side effects and the use of ineffective medications ( Wang et al., 2022a ; Zeng et al., 2023 ). Evidence strongly supports the use of PDOs for pre-treatment testing, as studies have shown higher response rates and improved survival outcomes compared to conventional treatments that do not consider individual variability ( Yahng et al., 2017 ; Wensink et al., 2021 ). PDOs serve as reliable in vitro models that simulate the patient ' s tumor environment, providing a
+
+predictive framework for understanding how a tumor may respond to specific therapies ( Dantes et al., 2023 ). Integrating genomic data with organoid responses holds promise in creating predictive models, especially for rare or aggressive cancer types with limited treatment options. For example, a 2021 study used PDOs to forecast responses to immunotherapy in melanoma patients, helping identify those most likely to benefit from such treatments ( Abbott et al., 2021 ).
+
+While PDO technology has vast potential, it is crucial to address the ethical implications inherent in patient-centered medicine. Issues such as ownership of biological material, commercial use of organoids, informed consent, and genetic privacy must be carefully navigated. Clearly defined consent processes and ethical guidelines are essential to maintaining patient trust and effectively managing unexpected genetic findings that could impact patients or their relatives ( de Jongh et al., 2022 ). It is crucial to maintain trust and int f grity within the patient -physician relationship and the broader medical community. Although PDOs have immense potential, challenges still exist in fully realizing their clinical utility for personalized medicine. Cost and scalability and potential discrepancies between in vitro and in vivo responses are key limitations that require attention ( Goetz and Schork, 2018 ). Furthermore, despite the potential of PDOs, there are practical hurdles that hinder their widespread clinical application. Challenges such as cost, scalability, and disparities between in vitro and in vivo responses are significant and are actively being addressed by the scientific community. Ongoing research aims to improve the scalability and standardization of PDOs, and the integration of complementary technologies like microfluidics and artificial intelligence (AI) is paving the way for broader implementation and more sophisticated applications.
+
+In conclusion, PDOs offer a transformative avenue for cancer treatment and drug development. Their unique ability to replicate individual tumor biology and predict treatment response brings us closer to a future of more precise and effective cancer therapies. Addressing ethical considerations and overcoming current obstacles are key to unlocking the full potential of this innovative technology.
+
+## 7 Challenges and limitations
+
+PDOs hold tremendous potential in the fields of personalized medicine and drug development. However, there are several challenges that need to be addressed through further research. One significant challenge is maintaining the inherent heterogeneity and complexity of tumors within PDOs. A single PDO model may not fully capture the complexity of an entire tumor because intra-tumor heterogeneity can lead to varying growth patterns and drug responses, making clinical applications more complicated ( Ramon et al., 2020 ; Bose et al., 2021 ). Another crucial aspect is long-term viability and functionality, which require a deep understanding of the tumor microenvironment, including stromal interactions and nutrient signaling ( Gjorevski et al., 2016 ; Chitrangi et al., 2023 ).
+
+Standardization is also a persistent concern, as variations in protocols, starting materials, and culture media compositions can impact the reproducibility of organoid formation and function ( Manduca et al., 2023 ). Therefore, it is essential to establish uniform methods to ensure consistent and reliable data generation. Additionally,
+
+scaling up PDO production poses challenges, especially for aggressive cancers where prompt therapeutic decisions are vital. High-throughput drug screening integration requires cost-effective automation technologies that can maintain patient-specific characteristics ( Gjorevski et al., 2016 ).
+
+Research advancements are aimed at mitigating these limitations. Bioprinting and improved culture media formulations are being developed to enhance PDO viability and accurately replicate the tumor microenvironment ( Geyer and Queiroz, 2021 ). Microfluidic platforms for high-throughput drug screening show promise for efficient analysis of PDOs ( Xu et al., 2019b ).Theroleofthetumor microenvironment is pivotal, particularly in influencing the immune response in cancer research. Current PDO models lack continuous blood flow and the diverse cellular components found in vivo .Thiscan be addressed by incorporating immune cells, endothelial cells, and stromal components into the organoid culture to better simulate physiological conditions ( Choo et al., 2021 ).
+
+The ongoing research is improving the fidelity of PDOs used in cancer research by addressing their limitations in simulating the TME. Bioprinting technologies show promise in reconstructing the TME with greater accuracy, leading to more representative organoid models ( Mi et al., 2023 ). Researchers are developing advanced culture media that better support PDO viability by mimicking interactions with stromal cells and key signaling molecules ( Manduca et al., 2023 ). Additionally, microfluidic platforms are being explored for their potential in high-throughput drug screening, enabling efficient and cost-effective analysis of PDOs ( Geyer and Queiroz, 2021 ; Yoon et al., 2024 ).
+
+The effectiveness of cancer immunotherapies is closely linked to the TME ' s role in modulating the immune response. However, current PDO models lack continuous blood flow, which is essential for immune cell recruitment ( Wang et al., 2022b ; Peng et al., 2022 ). This limitation can be addressed by co-culturing PDOs with immune cells to reflect dynamic tumor -immune interactions ( Peng et al., 2022 ). Nevertheless, traditional PDOs often exclude non-tumorcellularcomponentsofthe TME, which play a crucial role in shaping immune responses through mechanisms like hypoxia and the presence of immunosuppressive cells ( Wang et al., 2021 ). To capture the complexity of the TME, research has focused on integrating immune and endothelial cells into organoid cultures ( Wang et al., 2022b ; Peng et al., 2022 ). Furthermore, investigations are underway for tumor microenvironment-responsive nanomedicines to regulate the TME and enhance immunotherapy outcomes ( Wang et al., 2021 ; Wang et al., 2022b ). These advancements are crucial in creating physiologically relevant in vitro models that can more accurately mimic the intricate interactions between tumors and the immune system in cancer research. As technology progresses, these improvementsinPDOmodelshavethe potential to revolutionize personalized cancer therapy and drug development, bringing us closer to clinical applications that replicate the true complexity of human cancers.
+
+## 8 Overcoming barriers to implementation
+
+Biotechnology innovators are using PDOs to advance cancer therapy and research. However, there are challenges in integrating PDOs into drug development. For instance, researchers are developing
+
+new biomaterials to better recreate the tumor microenvironment, improving the accuracy and functionality of PDOs ( Joyce et al., 2017 ; Abdul Samat and Yahaya, 2022 ). Genetic sequencing and editing techniques are also being employed to maintain the genetic similarity between PDOs and the original tumors, address intratumor heterogeneity, and make organoid technologies more relevant ( Landon Brace et al., 2021 ). Improvements in scaffold design contribute to the structural complexity of PDOs, resulting in more reliable outcomes in drug testing ( Unnikrishnan et al., 2021 ). Establishing interdisciplinary consortia with scientists, clinicians, and pharmaceutical companies is crucial for standardizing data sharing and validating organoid models. These networks also create open-source databases, which refine organoid methodologies and boost research productivity ( Winkelmaier and Parvin, 2021 ; Castro Fernandez, 2023 ). Looking ahead, technological advancements will reshape the PDO landscape. Automated systems are being developed for high-throughput organoid analysis, speeding up drug discovery and pharmacogenomic medicine ( Lim et al., 2023 ; Wijler et al., 2023 ). AI-driven tools will streamline the assimilation of complex organoid data, optimizing the identification and formulation of targeted treatments ( Zhou et al., 2021 ; Lim et al., 2023 ). Furthermore, integrating microfluidics enables real-time assessment of drug interactions within PDO cultures, enhancing the predictive power of these models ( Deliorman et al., 2023 ). Overall, these innovations lay the foundation for incorporating PDOs into personalized cancer treatment, overcoming current obstacles and paving the way for future breakthroughs.
+
+## 9 Case studies and clinical trials
+
+PDOs are becoming increasingly important in oncology research, particularly in clinical trials. They have the ability to customize cancer treatment and accelerate drug development. Various studies, such as trial NCT04212545, are validating their role by assessing the use of PDOs to determine the most effective chemotherapy regimens for metastatic gastrointestinal cancers. This has the potential to improve treatment specificity and patient outcomes ( Ooft et al., 2019 ). Another trial, NCT03827850, is utilizing PDOs to identify optimal treatments for patients with advanced solid tumors, demonstrating the shift toward personalized medicine through the utilization of individual tumor biology ( Pacini et al., 2021 ). The potential of PDOs is highlighted by early successes, such as the work of Vlachogiannis et al., which showcased their usefulness in predicting patient-specific responses to anticancer drugs in metastatic gastrointestinal cancer, facilitating customized therapies ( Vlachogiannis et al., 2018 ). However, the widespread integration of PDOs into clinical practice faces challenges. These include the need for scalable production and the development of automated systems for PDO management as well as the establishment of robust regulatory frameworks to ensure a smooth transition into clinical workflows ( van Gool et al., 2017 ). Multistakeholder collaborations are crucial in this regard, with initiatives like the OncoTrack project leading the way in standardizing PDO production, ensuring quality control, and validating their use in pharmaceutical medicine ( Dantes et al., 2023 ). Furthermore, cuttingedge technologies such as single-cell analysis and organ-on-a-chip models are advancing PDO technology beyond clinical trials. These technologies provide more detailed insights into tumor heterogeneity and interactions within the microenvironment. This could lead to
+
+highly accurate and representative PDO models for personalized cancer treatment and drug development.
+
+In summary, PDOs hold significant promise for the future of personalized cancer care. Ongoing trials and collaborative efforts are establishing a strong foundation for their integration into clinical practice. Continued research and innovation are poised to revolutionize oncology, offering individualized treatment approaches that enhance patient outcomes and redefine the landscape of cancer treatment.
+
+## 10 The road ahead: future perspectives
+
+PDOs are ushering in a new era in oncology, with the potential to revolutionize the development, personalization, and evaluation of cancer therapies ( Vlachogiannis et al., 2018 ). What sets PDOs apart is their ability to study the intricacies of individual tumors in a controlled setting, bridging the gap between traditional cell culture and in vivo studies. This high-fidelity nature enhances our understanding of tumor biology, including mechanisms of drug resistance and metastasis. In the field of drug development, PDOs enable efficient screening of therapeutics, potentially reducing the industry ' s high attrition rates and expediting the transition from laboratory to clinical use ( Zhou et al., 2021 ; Lim et al., 2023 ). Technological advancements have expanded the utility of PDOs. Techniques such as CRISPR-Cas9 gene editing provide precise models of genetic mutations, while single-cell RNA sequencing combined with machine learning algorithms show promise in unraveling tumor heterogeneity and predicting patient-specific drug responses ( Vlachogiannis et al., 2018 ; Liu et al., 2021 ; Chen et al., 2023 ). Future research will focus on improving co-culture techniques that incorporate immune and stromal components, which are crucial for immunooncology studies ( Vlachogiannis et al., 2018 ). Standardizing protocols for PDO generation and maintenance will likely enhance reproducibility and broaden their application in research settings ( Lim et al., 2023 ). The envisioned use of PDOs in clinical practice goes beyond drug development and extends to guiding clinical decision-making. By determining the most effective treatment regimens for individual patients, PDOs could reduce the current trial-and-error approach in oncology, thus improving patient care ( Dantes et al., 2023 ). The predictive capabilities of PDOs have the potential to significantly enhance patient quality of life and survival rates by avoiding ineffective and harmful treatments. Looking forward, the integration of PDOs into diagnostic processes may provide insights into disease progression and recurrence, paving the way for proactive treatment strategies ( Aberle et al., 2018 ). However, realizing this vision requires overcoming challenges such as ethical considerations, scaling up processes, and ensuring equitable access to these innovative tools. Despite these obstacles, the transformative potential of PDOs for patient care remains unparalleled.
+
+## 11 Conclusion
+
+PDOs have the potential to greatly advance personalized cancer treatments. These three-dimensional models are directly cultivated from a patient ' s cancer cells, providing a more accurate representation of the patient ' s unique tumor biology compared to traditional 2D cultures or animal models. This personalized
+
+approach allows for targeted evaluation of drug efficacy and the study of resistance mechanisms, tailoring treatment to the patient ' sg e n e t i c profile and enhancing oncological precision. Despite the excitement surrounding PDOs for their role in cancer drug discovery and the potential for more customized therapies, several challenges remain. Issues such as cost, scalability, and accurately replicating the complexity of tumor -stroma interactions within the organoids must be addressed. While the use of PDOs in clinical trials is still in its early stages, the increasing sophistication of these models, which increasingly resemble in vivo conditions, highlights their growing importance. With ongoing investment and research, PDOs are poised to revolutionize cancer care and become a crucial component of the oncology arsenal, ultimately improving patient outcomes.
+
+## Author contributions
+
+CA: writing -original draft. BB: validation, visualization, and writing -original draft. BS: writing -original draft. LT: validation, visualization, and writing -review and editing. MT: writing -original draft. AN: writing -review and editing.
+
+## References
+
+Abbott, C. W., Boyle, S. M., Pyke, R. M., McDaniel, L. D., Levy, E., Navarro, F. C. P., et al. (2021). Prediction of immunotherapy response in melanoma through combined modeling of neoantigen burden and immune-related resistance mechanisms. Clin. Cancer Res. 27, 4265 -4276. doi:10.1158/1078-0432.CCR-20-4314
+
+Abdolahi, S., Ghazvinian, Z., Muhammadnejad, S., Saleh, M., Asadzadeh Aghdaei, H., and Baghaei, K. (2022). Patient-derived xenograft (PDX) models, applications and challenges in cancer research. J. Transl. Med. 20, 206. doi:10.1186/s12967-022-03405-8
+
+Abdul Samat, A., and Yahaya, B. H. (2022) Biomaterials in organoid development . Cham: Humana.
+
+Aberle, M. R., Burkhart, R. A., Tiriac, H., Olde Damink, S. W. M., Dejong, C. H. C., Tuveson, D. A., et al. (2018). Patient-derived organoid models help define personalized management of gastrointestinal cancer. Br. J. Surg. 105, e48 -e60. doi:10.1002/bjs.10726
+
+Babaliari, E., Ranella, A., and Stratakis, E. (2023). Microfluidic systems for neural cell studies. Bioeng. (Basel) 10, 902. doi:10.3390/bioengineering10080902
+
+Barbosa, M. A. G., Xavier, C. P. R., Pereira, R. F., Petrikaite, V., and Vasconcelos, M. H. (2021). 3D cell culture models as recapitulators of the tumor microenvironment for the screening of anti-cancer drugs. Cancers (Basel) 14, 190. doi:10.3390/ cancers14010190
+
+Boj, S. F., Hwang, C. I., Baker, L. A., Chio, I. I., Engle, D. D., Corbo, V., et al. (2015). Organoid models of human and mouse ductal pancreatic cancer. Cell. 160, 324 -338. doi:10.1016/j.cell.2014.12.021
+
+Bose, S., Clevers, H., and Shen, X. (2021). Promises and challenges of organoid-guided precision medicine. Med 2, 1011 -1026. doi:10.1016/j.medj.2021.08.005
+
+Campillo, N., Falcones, B., Otero, J., Colina, R., Gozal, D., Navajas, D., et al. (2019). Differential oxygenation in tumor microenvironment modulates macrophage and cancer cell crosstalk: novel experimental setting and proof of concept. Front. Oncol. 9, 43. doi:10.3389/fonc.2019.00043
+
+Castro Fernandez, R. (2023). Data-sharing markets: model, protocol, and algorithms to incentivize the formation of data-sharing consortia. Proc. ACM Manag. Data 1, 1 -25. doi:10.1145/3589317
+
+Chen, C., Wang, Z., and Qin, Y. (2023). CRISPR/Cas9 system: recent applications in immuno-oncology and cancer immunotherapy. Exp. Hematol. Oncol. 12, 95. doi:10. 1186/s40164-023-00457-4
+
+Cheng, G. J., Leung, E. Y., and Singleton, D. C. (2022). In vitro breast cancer models for studying mechanisms of resistance to endocrine therapy. Explor Target Antitumor Ther. 3, 297 -320. doi:10.37349/etat.2022.00084
+
+Chitrangi, S., Vaity, P., Jamdar, A., and Bhatt, S. (2023). Patient-derived organoids for precision oncology: a platform to facilitate clinical decision making. BMC Cancer 23, 689. doi:10.1186/s12885-023-11078-9
+
+Choo, N., Ramm, S., Luu, J., Winter, J. M., Selth, L. A., Dwyer, A. R., et al. (2021). High-throughput imaging assay for drug screening of 3D prostate cancer organoids. SLAS Discov. 26, 1107 -1124. doi:10.1177/24725552211020668
+
+## Funding
+
+The author(s) declare that no financial support was received for the research, authorship, and/or publication of this article.
+
+## Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+## Publisher ' s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors, and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Clevers, H., and Tuveson, D. A. (2019). Organoid models for cancer research. Annu. Rev. Cancer Biol. 3, 223 -234. doi:10.1146/annurev-cancerbio-030518-055702
+
+Dantes, Z., Huang, L., Slawska, J., Manjunath, A., Zormaier, S., Ferreira, L., et al. (2023). Onco-PDO test utilizing patient-derived organoids (PDOs) and next-generation precision oncology in breast cancer. J. Clin. Oncol. 41, e13594. doi:10.1200/JCO.2023.41. 16\_suppl.e13594
+
+de Jongh, D., Massey, E. K., consortium, V., and Bunnik, E. M. (2022). Organoids: a systematic review of ethical issues. Stem Cell. Res. Ther. 13, 337. doi:10.1186/s13287022-02950-9
+
+Deliorman, M., Ali, D. S., and Qasaimeh, M. A. (2023). Next-generation microfluidics for biomedical research and healthcare applications. Biomed. Eng. Comput. Biol. 14, 11795972231214387. doi:10.1177/11795972231214387
+
+DiMasi, J. A., Grabowski, H. G., and Hansen, R. W. (2016). Innovation in the pharmaceutical industry: new estimates of R&D costs. J. Health Econ. 47, 20 -33. doi:10. 1016/j.jhealeco.2016.01.012
+
+Ding, S., Wang, Z., Obando, M. N., Palomino, Gr, Rotstein, T., Williamson, I., et al. (2021). Patient-derived micro-organospheres recapitulate tumor microenvironment and heterogeneity for precision oncology. J. Clin. Oncol. 39, 3076. doi:10.1200/JCO. 2021.39.15\_suppl.3076
+
+Driehuis, E., Kretzschmar, K., and Clevers, H. (2020). Establishment of patientderived cancer organoids for drug-screening applications. Nat. Protoc. 15, 3380 -3409. doi:10.1038/s41596-020-0379-4
+
+Driehuis, E., van Hoeck, A., Moore, K., Kolders, S., Francies, H. E., Gulersonmez, M. C., et al. (2019). Pancreatic cancer organoids recapitulate disease and allow personalized drug screening. Proc. Natl. Acad. Sci. U. S. A. 116, 26580 -26590. doi:10.1073/pnas. 1911273116
+
+Drost, J., and Clevers, H. (2018). Organoids in cancer research. Nat. Rev. Cancer 18, 407 -418. doi:10.1038/s41568-018-0007-6
+
+El Harane, S., Zidi, B., El Harane, N., Krause, K. H., Matthes, T., and Preynat-Seauve, O. (2023). Cancer spheroids and organoids as novel tools for research and therapy: state of the art and challenges to guide precision medicine. Cells 12, 1001. doi:10.3390/ cells12071001
+
+Fang, Z., Li, P., Du, F., Shang, L., and Li, L. (2023). The role of organoids in cancer research. Exp. Hematol. Oncol. 12, 69. doi:10.1186/s40164-023-00433-y
+
+Fessart, D., and Delom, F. (2024). Organoids in cancer research. Bull. Cancer 111, 235 -236. doi:10.1016/j.bulcan.2023.10.001
+
+Fujii, M., Shimokawa, M., Date, S., Takano, A., Matano, M., Nanki, K., et al. (2016). A colorectal tumor organoid library demonstrates progressive loss of niche factor requirements during tumorigenesis. Cell. Stem Cell. 18, 827 -838. doi:10.1016/j.stem. 2016.04.003
+
+Genova, C., Dellepiane, C., Carrega, P., Sommariva, S., Ferlazzo, G., Pronzato, P., et al. (2021). Therapeutic implications of tumor microenvironment in lung cancer: focus on
+
+immune checkpoint blockade. Front. Immunol. 12, 799455. doi:10.3389/fimmu.2021. 799455
+
+Geyer, M., and Queiroz, K. (2021). Microfluidic platforms for high-throughput pancreatic ductal adenocarcinoma organoid culture and drug screening. Front. Cell. Dev. Biol. 9, 761807. doi:10.3389/fcell.2021.761807
+
+Gjorevski, N., Sachs, N., Manfrin, A., Giger, S., Bragina, M. E., Ordonez-Moran, P., et al. (2016). Designer matrices for intestinal stem cell and organoid culture. Nature 539, 560 -564. doi:10.1038/nature20168
+
+Goetz, L. H., and Schork, N. J. (2018). Personalized medicine: motivation, challenges, and progress. Fertil. Steril. 109, 952 -963. doi:10.1016/j.fertnstert.2018.05.006
+
+Hafa, L., Breideband, L., Posada, L. R., Torras, N., Martinez, E., Stelzer, E. H. K., et al. (2023), Laser patterning bioprinting using a light sheet-based system equipped with light sheet imaging produces long-term viable skin constructs. Bio Rxiv . doi:10.1101/ 2023.05.10.539793
+
+Hendriks, D., Artegiani, B., Hu, H., Chuva de Sousa Lopes, S., and Clevers, H. (2021). Establishment of human fetal hepatocyte organoids and CRISPR-Cas9-based gene knockin and knockout in organoid cultures from human liver. Nat. Protoc. 16, 182 -217. doi:10.1038/s41596-020-00411-2
+
+Ito, H., Tanaka, S., Akiyama, Y., Shimada, S., Adikrisna, R., Matsumura, S., et al. (2016). Dominant expression of DCLK1 in human pancreatic cancer stem cells accelerates tumor invasion and metastasis. PLoS One 11, e0146564. doi:10.1371/ journal.pone.0146564
+
+Joyce, M. H., Allen, S., Suggs, L., and Brock, A. (2017). Novel nanomaterials enable biomimetic models of the tumor microenvironment. J. Nanotechnol. 2017, 1 -8. doi:10. 1155/2017/5204163
+
+Katt, M. E., Placone, A. L., Wong, A. D., Xu, Z. S., and Searson, P. C. (2016). In vitro tumor models: advantages, disadvantages, variables, and selecting the right platform. Front. Bioeng. Biotechnol. 4, 12. doi:10.3389/fbioe.2016.00012
+
+Kretzschmar, K. (2021). Cancer research using organoid technology. J. Mol. Med. Berl. 99, 501 -515. doi:10.1007/s00109-020-01990-z
+
+Landon Brace, N., Cadavid, J. L., Latour, S., Co, I. L., Rodenhizer, D., Li, N. T., et al. (2021). An engineered patient-derived tumor organoid model that can Be disassembled to study cellular responses in a graded 3D microenvironment. Adv. Funct. Mater. 31. doi:10.1002/adfm.202105349
+
+L i m ,A . ,T o n g ,Z . ,M a c h a ,P . ,a n dS i r e n k p ,O .( 2 0 2 3 ) .A b s t r a c t1 9 :n o v e l platform for automation of high throughput drug discovery using patient derived colorectal cancer organoids. Cancer Res. 83, 199. doi:10.1158/15387445.Am2023-199
+
+Liu, L., Yu, L., Li, Z., Li, W., and Huang, W. (2021). Patient-derived organoid (PDO) platforms to facilitate clinical decision making. J. Transl. Med. 19, 40. doi:10.1186/ s12967-020-02677-2
+
+Lv, B., Wang, Y., Ma, D., Cheng, W., Liu, J., Yong, T., et al. (2022). Immunotherapy: reshape the tumor immune microenvironment. Front. Immunol. 13, 844142. doi:10. 3389/fimmu.2022.844142
+
+Manduca, N., Maccafeo, E., De Maria, R., Sistigu, A., and Musella, M. (2023). 3D cancer models: one step closer to in vitro human studies. Front. Immunol. 14, 1175503. doi:10.3389/fimmu.2023.1175503
+
+Mi, X., Su, Z., Yue, X., Ren, Y., Yang, X., Qiang, L., et al. (2023). 3D bioprinting tumor models mimic the tumor microenvironment for drug screening. Biomater. Sci. 11, 3813 -3827. doi:10.1039/d3bm00159h
+
+Munsie, M., Hyun, I., and Sugarman, J. (2017). Ethical issues in human organoid and gastruloid research. Development 144, 942 -945. doi:10.1242/dev.140111
+
+Nagini, S. (2017). Breast cancer: current molecular therapeutic targets and new players. Anticancer Agents Med. Chem. 17, 152 -163. doi:10.2174/ 1871520616666160502122724
+
+Neal, J. T., Li, X., Zhu, J., Giangarra, V., Grzeskowiak, C. L., Ju, J., et al. (2018). Organoid modeling of the tumor immune microenvironment. Cell. 175, 1972 -1988. doi:10.1016/j.cell.2018.11.021
+
+Onaciu, A., Munteanu, R., Munteanu, V. C., Gulei, D., Raduly, L., Feder, R. I., et al. (2020). Spontaneous and induced animal models for cancer research. Diagn. (Basel) 10, 660. doi:10.3390/diagnostics10090660
+
+Ooft, S. N., Weeber, F., Dijkstra, K. K., McLean, C. M., Kaing, S., van Werkhoven, E., et al. (2019). Patient-derived organoids can predict response to chemotherapy in metastatic colorectal cancer patients. Sci. Transl. Med. 11, eaay2574. doi:10.1126/ scitranslmed.aay2574
+
+Pacini, L., Jenks, A. D., Lima, N. C., and Huang, P. H. (2021). Targeting the fibroblast growth factor receptor (FGFR) family in lung cancer. Cells 10, 1154. doi:10.3390/ cells10051154
+
+Peng, S., Xiao, F., Chen, M., and Gao, H. (2022). Tumor-microenvironmentresponsive nanomedicine for enhanced cancer immunotherapy. Adv. Sci. (Weinh) 9, e2103836. doi:10.1002/advs.202103836
+
+Rahman,R.,Ventz,S.,Redd,R.,Cloughesy,T.,Alexander,B.M.,Wen,P.Y., et al. (2023). Accessible data collections for improved decision making in neurooncology clinical trials. Clin. Cancer Res. 29, 2194 -2198. doi:10.1158/1078-0432. CCR-22-3524
+
+Rajan, R. G., Fernandez-Vega, V., Sperry, J., Nakashima, J., Do, L. H., Andrews, W., et al. (2023). In vitro and in vivo drug-response profiling using patient-derived highgrade glioma. Cancers (Basel) 15, 3289. doi:10.3390/cancers15133289
+
+Ramon, Y. C. S., Sese, M., Capdevila, C., Aasen, T., De Mattos-Arruda, L., Diaz-Cano, S. J., et al. (2020). Clinical implications of intratumor heterogeneity: challenges and opportunities. J. Mol. Med. Berl. 98, 161 -177. doi:10.1007/s00109-020-01874-2
+
+Sachs, N., and Clevers, H. (2014). Organoid cultures for the analysis of cancer phenotypes. Curr. Opin. Genet. Dev. 24, 68 -73. doi:10.1016/j.gde.2013.11.012
+
+Sachs, N., de Ligt, J., Kopper, O., Gogola, E., Bounova, G., Weeber, F., et al. (2018). A living biobank of breast cancer organoids captures disease heterogeneity. Cell. 172, 373 -386. doi:10.1016/j.cell.2017.11.010
+
+Sajjad, H., Imtiaz, S., Noor, T., Siddiqui, Y. H., Sajjad, A., and Zia, M. (2021). Cancer models in preclinical research: a chronicle review of advancement in effective cancer research. Anim. Model. Exp. Med. 4, 87 -103. doi:10.1002/ame2.12165
+
+Servant, R., Garioni, M., Vlajnic, T., Blind, M., Pueschel, H., Muller, D. C., et al. (2021). Prostate cancer patient-derived organoids: detailed outcome from a prospective cohort of 81 clinical specimens. J. Pathol. 254, 543 -555. doi:10.1002/path.5698
+
+Shaffer, S. M., Dunagin, M. C., Torborg, S. R., Torre, E. A., Emert, B., Krepler, C., et al. (2017). Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance. Nature 546, 431 -435. doi:10.1038/nature22794
+
+Shin, H. S., Shin, H. H., and Shudo, Y. (2021). Current status and limitations of myocardial infarction large animal models in cardiovascular translational research. Front. Bioeng. Biotechnol. 9, 673683. doi:10.3389/fbioe.2021.673683
+
+Tiwari, A., Trivedi, R., and Lin, S. Y. (2022). Tumor microenvironment: barrier or opportunity towards effective cancer therapy. J. Biomed. Sci. 29, 83. doi:10.1186/s12929022-00866-3
+
+Tu, Z., Wang, C., Hu, Q., Tao, C., Fang, Z., Lin, L., et al. (2023). Protein disulfideisomerase A4 confers glioblastoma angiogenesis promotion capacity and resistance to anti-angiogenic therapy. J. Exp. Clin. Cancer Res. 42, 77. doi:10.1186/s13046-02302640-1
+
+Tuveson, D., and Clevers, H. (2019). Cancer modeling meets human organoid technology. Science 364, 952 -955. doi:10.1126/science.aaw6985
+
+Unnikrishnan, K., Thomas, L. V., and Ram Kumar, R. M. (2021). Advancement of scaffold-based 3D cellular models in cancer tissue engineering: an update. Front. Oncol. 11, 733652. doi:10.3389/fonc.2021.733652
+
+van de Wetering, M., Francies, H. E., Francis, J. M., Bounova, G., Iorio, F., Pronk, A., et al. (2015). Prospective derivation of a living organoid biobank of colorectal cancer patients. Cell. 161, 933 -945. doi:10.1016/j.cell.2015.03.053
+
+van Gool, A. J., Bietrix, F., Caldenhoven, E., Zatloukal, K., Scherer, A., Litton, J. E., et al. (2017). Bridging the translational innovation gap through good biomarker practice. Nat. Rev. Drug Discov. 16, 587 -588. doi:10.1038/nrd.2017.72
+
+Vlachogiannis, G., Hedayat, S., Vatsiou, A., Jamin, Y., Fernandez-Mateos, J., Khan, K., et al. (2018). Patient-derived organoids model treatment response of metastatic gastrointestinal cancers. Science 359, 920 -926. doi:10.1126/science.aao2774
+
+Wang,B.,Zhao,Q.,Zhang,Y.,Liu,Z.,Zheng,Z.,Liu,S.,etal.(2021).Targeting hypoxia in the tumor microenvironment: a potential strategy to improve cancer immunotherapy. J. Exp. Clin. Cancer Res. 40, 24. doi:10.1186/s13046-02001820-7
+
+Wang, E., Xiang, K., Zhang, Y., and Wang, X.-F. (2022a). Patient-derived organoids (PDOs) and PDO-derived xenografts (PDOXs): new opportunities in establishing faithful pre-clinical cancer models. J. Natl. Cancer Cent. 2, 263 -276. doi:10.1016/j. jncc.2022.10.001
+
+Wang, M., Wu, M., Liu, X., Shao, S., Huang, J., Liu, B., et al. (2022b). Pyroptosis remodeling tumor microenvironment to enhance pancreatic cancer immunotherapy driven by membrane anchoring photosensitizer. Adv. Sci. (Weinh) 9, e2202914. doi:10. 1002/advs.202202914
+
+Weeber, F., Ooft, S. N., Dijkstra, K. K., and Voest, E. E. (2017). Tumor organoids as a pre-clinical cancer model for drug discovery. Cell. Chem. Biol. 24, 1092 -1100. doi:10. 1016/j.chembiol.2017.06.012
+
+Wei, H., Karelehto, E., Dubbin, K., Sebastian, A., Warren, R., Moya, M., et al. (2021). Abstract 2638: developing 3d hydrogel model for patient-derived organoids of metastatic colorectal cancer. Cancer Res. 81, 2638. doi:10.1158/1538-7445.Am20212638
+
+Wensink, G. E., Elias, S. G., Mullenders, J., Koopman, M., Boj, S. F., Kranenburg, O. W., et al. (2021). Patient-derived organoids as a predictive biomarker for treatment response in cancer patients. NPJ Precis. Oncol. 5, 30. doi:10.1038/s41698-021-00168-1
+
+Wijler, L., Mateos, J. G., Nguyen, M., Staes, A., van Seters, L., Hasan, L. A., et al. (2023). Abstract 198: pan-cancer assay-ready organoid drug screening with robust, reproducible and clinically-relevant output. Cancer Res. 83, 198. doi:10.1158/1538-7445. Am2023-198
+
+Winkelmaier, G., and Parvin, B. (2021). An enhanced loss function simplifies the deep learning model for characterizing the 3D organoid models. Bioinformatics 37, 3084 -3085. doi:10.1093/bioinformatics/btab120
+
+Xu, X., Pathi, S., Shang, L., Liu, Y., Han, P., Zhang, L., et al. (2019b). Abstract 1925: establishment and characterization of 3D cancer organoids as clinically relevant ex vivo
+
+drug screening tools for cancer translational research and drug discovery. Cancer Res. 79, 1925. doi:10.1158/1538-7445.Am2019-1925
+
+Xu, X., Shang, L., Wang, L., Li, C., Liu, Y., Han, P., et al. (2019a). Abstract B068: the establishment of a large tumor organoid biobank using a well characterized/annotated patient-derived xenograft (PDX) library to enable drug discovery and translational research. Mol. Cancer Ther. 18, B068. doi:10.1158/1535-7163.Targ-19-b068
+
+Yahng, S. A., Kim, M., Kim, T. M., Jeon, Y. W., Yoon, J. H., Shin, S. H., et al. (2017). Better transplant outcome with pre-transplant marrow response after hypomethylating treatment in higher-risk MDS with excess blasts. Oncotarget 8, 12342 -12354. doi:10. 18632/oncotarget.12511
+
+Yoon, S., Kilicarslan You, D., Jeong, U., Lee, M., Kim, E., Jeon, T. J., et al. (2024). Microfluidics in high-throughput drug screening: organ-on-a-chip and C. Elegansbased innovations. Biosens. (Basel) 14, 55. doi:10.3390/bios14010055
+
+Yu, V. Z., Lung, B. C.-c, Wong, I. Y.-h, Wong, C. L.-y, Chan, D. K.-k, Chan, F. S.-y, et al. (2022). Patient-derived tumor organoids and xenografts as basic and preclinical
+
+translational esophageal squamous cell carcinoma models. Dis. Esophagus 35, 269. doi:10.1093/dote/doac051.269
+
+Zeng, X., Ma, Q., Li, X. K., You, L. T., Li, J., Fu, X., et al. (2023). Patient-derived organoids of lung cancer based on organoids-on-a-chip: enhancing clinical and translational applications. Front. Bioeng. Biotechnol. 11, 1205157. doi:10.3389/fbioe. 2023.1205157
+
+Zhang, A. B., Mozaffari, K., Aguirre, B., Li, V., Kubba, R., Desai, N. C., et al. (2023). Exploring the past, present, and future of anti-angiogenic therapy in glioblastoma. Cancers (Basel) 15, 830. doi:10.3390/cancers15030830
+
+Zhao, X., Xu, Z., Xiao, L., Shi, T., Xiao, H., Wang, Y., et al. (2021). Review on the vascularization of organoids and organoids-on-a-chip. Front. Bioeng. Biotechnol. 9, 637048. doi:10.3389/fbioe.2021.637048
+
+Zhou, Z., Cong, L., and Cong, X. (2021). Patient-derived organoids in precision medicine: drug screening, organoid-on-a-chip and living organoid biobank. Front. Oncol. 11, 762184. doi:10.3389/fonc.2021.762184

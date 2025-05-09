@@ -1,0 +1,630 @@
+<!-- image -->
+
+<!-- image -->
+
+## OPEN ACCESS
+
+EDITED BY Jing Wu, Shandong Provincial Qianfoshan Hospital, China
+
+REVIEWED BY Chunming Cheng, The Ohio State University, United States Chao Sun, The Second Hospital of Shandong University, China
+
+*CORRESPONDENCE
+
+Kai Liang,
+
+liangkai@pku.edu.cn
+
+SPECIALTY SECTION
+
+This article was submitted to Experimental Pharmacology and Drug Discovery, a section of the journal Frontiers in Pharmacology
+
+07 February 2023
+
+RECEIVED ACCEPTED 13 March 2023 PUBLISHED 23 March 2023
+
+CITATION
+
+Liang K (2023), Mitochondrial CPT1A: Insights into structure, function, and basis for drug development. Front. Pharmacol. 14:1160440. doi: 10.3389/fphar.2023.1160440
+
+COPYRIGHT
+
+© 2023 Liang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+TYPE Review PUBLISHED 23 March 2023 DOI 10.3389/fphar.2023.1160440
+
+## Mitochondrial CPT1A: Insights into structure, function, and basis for drug development
+
+Kai Liang*
+
+School of Life Science, Peking University, Beijing, China
+
+Carnitine Palmitoyl-Transferase1A (CPT1A) is the rate-limiting enzyme in the fatty acid β -oxidation, and its deficiency or abnormal regulation can result in diseases like metabolic disorders and various cancers. Therefore, CPT1A is a desirable drug target for clinical therapy. The deep comprehension of human CPT1A is crucial for developing the therapeutic inhibitors like Etomoxir. CPT1A is an appealing druggable target for cancer therapies since it is essential for the survival, proliferation, and drug resistance of cancer cells. It will help to lower the risk of cancer recurrence and metastasis, reduce mortality, and offer prospective therapy options for clinical treatment if the effects of CPT1A on the lipid metabolism of cancer cells are inhibited. Targeted inhibition of CPT1A can be developed as an effective treatment strategy for cancers from a metabolic perspective. However, the pathogenic mechanism and recent progress of CPT1A in diseases have not been systematically summarized. Here we discuss the functions of CPT1A in health and diseases, and prospective therapies targeting CPT1A. This review summarizes the current knowledge of CPT1A, hoping to prompt further understanding of it, and provide foundation for CPT1Atargeting drug development.
+
+KEYWORDS
+
+CPT1a, FATTY ACID β -OXIDATION, cancer, inhibitor, drug development
+
+## Introduction
+
+Globally, the prevalence of obesity has increased, and more and more attention has been paid to lipid metabolism ( Bluher, 2019 ). Fatty acid oxidation (FAO), a process that occurs within cells, is an important energy source. Diabetes patients cannot use sugar as their primary source of energy since they have poor insulin sensitivity ( Shepherd and Kahn, 1999 ). Additionally, the majority of cancer cells use lipid metabolism as a source of energy ( Munir et al., 2019 ). Reducing or inhibiting FAO can turn off the energy source of cancer cells and starve them to death ( Bergers and Fendt, 2021 ).
+
+The majority of FAO happens in mitochondrion. Long chain fatty acids (LCFAs) cannot directly enter the mitochondrial inner membrane, and CPT1A is required to convert acylCoA (carbon chain longer than 12) into acyl-carnitine ( Ceccarelli et al., 2011 ). CACT (carnitine/acylcarnitine carrier protein), a transporter in the inner mitochondrial membrane, transports free carnitine out of the mitochondrial matrix and into the cytoplasm as well as acyl-carnitine into the mitochondrial matrix ( Indiveri et al., 2011 ). Acyl-carnitine entering the mitochondrial matrix is again converted to acyl-CoA by CPT2 and participates in the true fatty acid β -oxidation cycle ( Indiveri et al., 2011 ).
+
+FIGURE 1
+
+<!-- image -->
+
+Chart showing how the CPT shuttle system transports palmitoylCoA into the mitochondria. The carnitine shuttle system includes CPT1A, CACT, and CPT2. Mitochondrial fatty acid β -oxidation (FAO) is started by the successive actions of CPT1A (in the outer membrane) and CPT2 (in the inner membrane), together with a carnitine-acylcarnitine translocase (CACT).
+
+CPT1A is a rate-limiting enzyme of FAO that catalyzes the transfer of the long-chain acyl group in acyl-CoA ester to carnitine, allowing fatty acids to enter the mitochondrial matrix for oxidation ( Figure 1 )( Houten et al., 2016 ).
+
+CPT1 was originally identified by McGarry and Foster in 1978, and they hypothesized that CPT1 is the rate-limiting enzyme in fatty acid oxidation ( McGarry et al., 1978 ). CPT1A can be divided into three isoforms, known as CPT1A, CPT1B, and CPT1C, based on its tissue distribution, and sequence characteristics. CPT1A is extensively expressed in the liver, kidney, pancreas, adipose tissue, lymphocytes, and fibroblast, while CPT1B and CPT1C have strict tissue-specific distributions ( Bonnefontetal.,2004 ). CPT1A has a higher affinity for carnitine (Km = 30 μ M for ratCPT1A) than CPT1B (Km = 500 μ MforratCPT1B)( Ramsay et al., 2001 ; Ceccarelli et al., 2011 ). Both CPT1A and CPT1B have significant effects on the metabolic syndrome, cardiovascular disease, type 2 diabetes, and other disorders ( B o n e f o n te ta l . ,2 0 4 ). Human CPT1A and CPT1B share 63% of their total sequence homology, 82% around the active region ( Figure 2 ) ( Ceccarelli et al., 2011 ). CPT1C is mostly found in the hypothalamus and hippocampus, where it can control ceramide levels and influence learning, cognition ( Virmani et al., 2015 ). Although CPT1C can bind malonyl-CoA, it has low catalytic activity, making functional investigations difficult
+
+<!-- image -->
+
+<!-- image -->
+
+Molecular properties and physiological functions of CPT1A. (A) Domain structure of the full-length CPT1A; Two transmembrane helical regions (TM1 and TM2) divide CPT1A protein into the small N-terminal regulatory region (about 47 amnio acids) and the main C-terminal catalytic domain. (B) Dual physiological functions of CPT1A.
+
+( Fado et al., 2021 ). Spastic paraplegia, which is exclusive to CPT1C and has nothing in common with CPT1A deficiency, is most likely caused by a dominant genetic variant in CPT1C ( Rinaldi et al., 2015 ).
+
+CPT1A gene encodes a protein with 773 amino acids, which is a transmembrane protein located in the outer membrane of mitochondria facing the cytoplasm ( Ramsay et al., 2001 ). Two transmembrane helical regions divide CPT1A protein into the small N-terminal regulatory region (about 47 amnio acids) and the main C-terminal catalytic domain ( Gobin et al., 2003 ). Near the N-terminal region of CPT1A, two transmembrane helices act as an anchor to the mitochondrial outer membrane. The majority of the N- and C-termini are located on the cytoplasmic side, leaving just a loop of about 27 amino acid residues at the N-terminus in the inner and outer membrane space ( Figure 3 )( Fraser et al., 1997 ).
+
+The basic state of CPT1A is a trimer, which has the potential to further merge into a hexamer, and may play a role in the sensitivity to malonyl-CoA ( Faye et al., 2007 ). CPT1A, together with acyl-CoA synthetase (ACSL) and voltage-dependent anion channel (VDAC) form the fatty acid transfer complex located in the outer membrane ( Lee et al., 2011 ).
+
+So far, it is difficult to find a membrane (or membrane-like) condition that can maintain the enzyme activity of CPT1 to make the protein soluble, let alone to study the structure of this enzyme. Despite characterization of the ratCPT2 crystal structure, the sequence similarity with CPT1A is low, making it of little use as a reference for CPT1A structure research ( Gobin et al., 2003 ).
+
+## Structure of CPT1A
+
+CPT1A was discovered in 1978 as the result of a gene located at 11q13.3 that comprises 22 exons and belongs to the carnitine/ choline acetyltransferase family ( McGarry et al., 1978 ). The CPT1A gene codes for a 773 amino acid protein that has a short N-terminal regulatory domain (residues 1 -47), a mitochondrial intermembrane domain (residues 74 -102), two transmembrane (TM) domains (residues 48 -73 for TM1 and residues 103 -122 for TM2), and a catalytic domain (residues 123 -773). A conformation shift in the N-terminal region is critical in malonyl-CoA-mediated enzyme activity control ( Rao et al., 2011 ).
+
+CPT1A can be homo-oligomerized to form trimers ( Figure 4 ), which further form hexamers ( Faye et al., 2007 ; Jenei et al., 2009 ). It has been suggested that the interaction between the GXXXG and GXXXA motifs in CPT1A TM2 helix is essential for its oligomerization ( Jenei et al., 2009 ). Another study revealed that long chain acyl-CoA synthetase 1 (ACSL1) and the voltagedependent anion channel (VDAC) were also immunocaptured by CPT1A antibodies, suggesting that CPT1A, ACSL1, and VDAC may all be members of mitochondrial outer membrane acylcarnitine translocation complex ( Lee et al., 2011 ). Regarding the oligomerization of CPT1A, both models have a justification for existing due to the lack of structural support, and further ( in situ ) structural studies are needed to resolve this issue.
+
+CPT1A homo-trimer structure predicted by ClusPro online server ( https://cluspro.org/ ). (A) Top view of CPT1A trimer; (B) Bottom view of CPT1A trimer with transmembrane region highlighted by yellow circle; (C) Side view of CPT1A trimer located on mitochondrial outer membrane.
+
+<!-- image -->
+
+## Physiological functions of CPT1A
+
+## Succinylation
+
+Lysine succinylation is a newly identified protein posttranslational modification ( Zhang et al., 2011 ). CPT1A is one of four well-known succinylation regulators including CPT1A, lysine acetyltransferase 2A (KAT2A), Sirtuin5 (SIRT5) and Sirtuin7 (SIRT7) ( Wang et al., 2017 ; Kurmi et al., 2018 ; Lu et al., 2021 ). CPT1A mutant H473A (key acyl-CoA binding site) loses all acylation activity; mutant G710E loses the carnitine palmitoyl-transferase activity, however, maintains its succinylation activity, suggesting that Gly710 is very important for CPT1A succinyl-transferase activity ( Kurmi et al., 2018 ). CPT1A can modulate the succinylation of enolase 1 to enhance the growth of breast cancer ( Kurmi et al., 2018 )and the succinylation of S100A10 to facilitate the spread of gastric cancer ( Wang et al., 2019 ).
+
+## CPT1A in iTreg cell differentiation
+
+Inducible regulatory T (iTreg) cells are critical for immune suppression and maintains the immune homeostasis ( Josefowicz et al., 2012 ; Savage et al., 2013 ). Butyric acid can be processed to butyryl-CoA, which competes with malonylCoA at His473 to release CPT1A activity for FAO, thereby inducing inducible regulatory T cell (iTreg cell) differentiation via Butyric acid- Butyryl CoA -CPT1A axis ( Hao et al., 2021 ).
+
+## Regulation of CPT1A
+
+The balance of lipid metabolism is crucial for maintaining homeostasis, making it crucial to control CPT1A, the key enzyme of FAO. Genetic, physiological, and dietary modulators are all involved in the regulation of CPT1A ( Figure 5 ).
+
+## Transcriptional regulation of CPT1A
+
+PPAR α Proliferative activated receptor α (PPAR α ) can greatly enhance CPT1A expression ( Kersten et al., 1999 ). The transcriptional coactivator PPAR gamma coactivator 1 α (PGC-1 α ) cooperates with PPAR α to modulate CPT1A in the liver ( Jackson-Hayes et al., 2003 ). Besides, the regulation of CPT1A by Leucine-rich repeat kinase 2 (LRRK2) may be through the activation of AMP-activated protein kinase (AMPK) and PPAR α ( Lin et al., 2020 ).
+
+FGF21 The PPAR α -fibroblast growth factor 21 (FGF21) axis was activated in the liver of CPT1A deficient mice, which could be used to avoid inflammation, insulin resistance, and weight gain ( Sun et al., 2021 ). Besides, FGF21 could promote CPT1A expression and FAO in β -cells by activating the AMPK-ACC (acetyl-CoA carboxylase) pathway and PPAR δ / γ signaling axis ( Xie et al., 2019 ).
+
+PGC-1 α PGC1 α binds to CCAAT/enhancer binding protein β (CEBPB) to enhance CPT1A transcription, resulting in activation of FAO through PGC1 α /CEBPB/CPT1A/FAO signaling axis, which can promote radiation resistance of nasopharyngeal carcinoma (NPC) ( Du et al., 2019 ).
+
+## MiRNA regulation of CPT1A
+
+MiR-33a/b Several genes involved in fatty acid metabolism including CPT1A, HADHB contain predicted binding sites for miR-33a/b ( Davalos et al., 2011 ). Overexpression of miR-33a/b can reduce FAO by downregulating CPT1A and lead to the accumulation of triglycerides in human hepatic cells ( Davalos et al., 2011 ).
+
+MiR-124 Downregulation of CPT1A expression by miR-124, limiting the conversion of long-chain acyl-CoA moieties to longchain acylcarnitine ( Valentino et al., 2017 ).
+
+MiR-328-3p CPT1A is a downstream target of miR-328-3p in breast cancer, and miR-328-3p overexpression suppresses cancer spread by interfering with FAO via CPT1A ( Zeng et al., 2022 ). The MiR-328-3p-CPT1A-FAO pathway is crucial for the metastasis of
+
+<!-- image -->
+
+breast cancer, and miR-328-3p upregulation can be used for reducing metastasis in breast cancer patients ( Zeng et al., 2022 ).
+
+MiR-370 The liver miR-370 plays a significant role in the inhibition of CPT1A gene expression, which can directly affect its target gene CPT1A, suppressing its expression and lowering FAO efficacy ( Iliopoulos et al., 2010 ).
+
+## Hormone regulation of CPT1A
+
+Hormones can affect CPT1A in organs like the heart, liver, and muscle. Several hormones can take involvement in CPT1A expression and enzyme activity control.
+
+Insulin Insulin can significantly lower the expression of CPT1A and increase its sensitivity to malonyl-coA ( Park et al., 1995 ). By controlling CPT1A expression and enzyme activity, insulin can limit FAO and gluconeogenesis in order to lower blood sugar level, which is also one of the mechanisms to treat diabetes.
+
+Thyroxine Thyroxine, a different hormonal modulator, has a significant impact on FAO in the liver. CPT1A mRNA could rise byfive times with thyroxine supplementation, but mRNA in hypothyroid rats decreased ( Heimberg et al., 1985 ).Thyroxine can increase CPT1A expression by interacting with the thyroid response elements (TRE) in the CPT1A promoter, ( Mynatt et al., 1994 ). Thyroxine can also assist in the upregulation of the CPT1A gene by increasing PGC-1 α mRNA and protein levels in hepatocytes ( Zhang et al., 2004 ).
+
+ERR α Estrogen-Related Receptorα (ERR α ), which belongs to the nuclear receptor subfamily, is a viable target for NAFLD and that the ERR α agonist may serve as an intriguing pharmacological option for management of metabolic diseases ( Mao et al., 2022 ). ERR α reduces the thyroid hormone-induced expression of CPT1A and mitochondrial FAO via PGC1 α ( Singh et al., 2018 ). Inhibition of
+
+ERR α with XCT790 treatment can increase the expression of CPT1A, further promoting lipid metabolism ( Michalek et al., 2011 ).
+
+Adiponectin Adiponectin, an adipose-secreted protein that has been linked to insulin sensitivity, plasma lipids, and inflammatory patterns, is an established biomarker for metabolic health ( Aslibekyan et al., 2017 ). Adiponectin phosphorylates and triggers AMPK, which modulates CPT1A via the AMPK-ACCCPT1A pathway ( Li et al., 2007 ). The acetyl-CoA carboxylase (ACC)/malonyl-CoA pathway could be strongly blocked by phosphorylated AMPK, thus increasing the activity of the CPT1A enzyme. Besides, CPT1A methylation is associated with circulating adiponectin levels, likely in an obesity-dependent manner, which can be a novel pleiotropic marker of chronic disease risk ( Aslibekyan et al., 2017 ).
+
+## Metabolite regulation of CPT1A
+
+Long chain fatty acid (LCFA) LCFA is a substrate for CPT1A and one natural ligand of PPAR α ( Nakamura et al., 2014 ). It can upregulate CPT1A by directly acting on peroxisome proliferator response elements (PPREs) in CPT1A introns, as well as via activating PPAR α ( Chatelain et al., 1996 ; Le May et al., 2005 ).
+
+Malonyl-CoA Malonyl-CoA is produced by acetyl-CoA carboxylase2 (ACC2) during fatty acid synthesis, and is a natural inhibitor of CPT1A. CPT1A is sensitive to malonyl-CoA, and the sensitivity depends on the concentration of malonyl-CoA ( Robinson and Zammit, 1982 ). However, fasting or insulin deficit significantly reduces CPT1A ' s sensitivity to malonyl-CoA ( Park et al., 1995 ; Akkaoui et al., 2009 ). CPT1A structure has a short N-terminus and a major C-terminus containing a catalytic site and a malonyl-CoA binding site. Malonyl-CoA inhibition of CPT1A will be lost as a result of the specific area of the N-terminal interacting with the
+
+malonyl-CoA binding site in the C-terminal ( Morillas et al., 2004 ; Lopez-Vinas et al., 2007 ; Rufer et al., 2009 ; Rao et al., 2011 ).
+
+Malonyl-CoA inhibits CPT1A activity through allosteric inhibition and in a concentration-dependent manner, and the C-termini of CPT1A served as the malonyl-CoA binding site ( Rao et al., 2011 ). The affinity for malonyl-CoA can also be influenced by the N-terminal state of CPT1A (residues 1 -42), which has two possible conformational states (N α inhibitory state and N β non-inhibitory state) ( Lopez-Vinas et al., 2007 ; Rao et al., 2011 ). The presence of a curved, amphiphilic binding surface is necessary for the non-inhibitory state ( Rao et al., 2011 ).
+
+CPT1A activity can be regulated via the AMPK-ACC-CPT1A axis ( Figure 6 )( Yao et al., 2020 ). ACC is inhibited through phosphorylation by AMPK, and ACC ' s inhibiting effect on CPT1A is relieved by lowering the malonyl-CoA level ( Yao et al., 2020 ).
+
+## CPT1A in diseases
+
+## CPT1A deficiency
+
+CPT1A deficiency is a rare mitochondrial FAO disorder caused by autosomal recessive mutations ( Bellusci et al., 2017 ). The CPT1A deficiency can trigger a variety of illnesses, including hepatic encephalopathy, recurrent hypoglycemia, hepatomegaly, hyperammonemia, renal tubular acidosis, and so on ( Collins et al., 2010 ). Rapid onset, frequent recurrence, and high mortality are significant features for CPT1A deficiency. Symptoms are classified into three classes according to the frequency ( Figure 7 ).
+
+Mutations associated with CPT1A deficiency can be divided into two categories: type one affect directly the catalytic center, which results in loss of activity (functional determinant); type two affects the stability of the enzyme, which indirectly decreases the catalytic efficiency (structural determinant) ( Gobin et al., 2003 ).
+
+Mutations A275T, R357W, A414V, L484P, and Y498C, far away from the active region, decrease activity by affecting the stability of CPT1A ( Gobin et al., 2003 ). C304W, P479L, and R395 deletion almost lose activity ( Brown et al., 2001 ). High mortality rate mutants P479L is a frequent CPT1A mutation found in Arctic regions like Canada ( Rajakumar et al., 2009 ; Gessner et al., 2010 ). Additionally,
+
+FIGURE 6 Summary of CPT1A-related diseases.
+
+<!-- image -->
+
+G709E and G710E, two sites essential for the hydrophobic core in the catalytic site, can abolish CPT1A activity ( Dai et al., 2000 ). The hydrophobic catalytic core is altered when Gly709 or Gly710 is changed to a Glu, which introduces a large and negatively charged group ( Gobin et al., 2003 ). This mutation is close to the catalytic His473 residue and the carnitine binding site, which can significantly change the hydrophobic pocket of CPT1A ( Gobin et al., 2003 ). We compiled the majority of the reported natural mutations so far and mapped them onto CPT1A structure model ( Figure 8 )( Table 1 ).
+
+Currently, there is no specific drug for CPT1A deficiency, and diet control is the main therapy. Tubular acidosis can be improved after treatment with medium chain triglyceride in CPT1A deficiency patients ( Falik-Borenstein et al., 1992 ). Therefore, timely screening and diagnosis of CPT1A defects appear to be particularly important, and CPT1A defects can be finally confirmed based on results from multiple aspects ( Figure 7 ).
+
+## CPT1A and metabolic diseases
+
+Patients with metabolic syndrome, obesity, and type 2 diabetes frequently have non-alcoholic fatty liver disease, hypertriglyceridemia, and other lipid metabolism abnormalities, which can be somewhat improved by increasing CPT1A expression ( Deprince et al., 2020 ). Increased CPT1A expression has been shown to drastically lower liver triglyceride levels (Stefanovic-Racic et al., 2008), and suppress JNK factor to prevent the inflammatory response brought on by free fatty acids (Gao et al., 2011). Fatty acid accumulation can cause the development of insulin resistance, which can eventually result in type 2 diabetes and hyperinsulinemia (Levin et al., 2007; Pan et al., 1997).
+
+## CPT1A in vascular diseases
+
+Metabolism of endothelial cell depends on FAO to resist oxidative stress in the development of blood vessels, and CPT1A plays a crucial role in this process, offering a new potential target for the treatment of vascular-related diseases ( Rohlenova et al., 2018 ).
+
+## CPT1A in heart failure
+
+Heart failure is one of the top causes of death and disability around the world, but there is yet no safe and effective clinical therapy for heart failure ( Bui et al., 2011 ). The clinical study of the CPT1A inhibitor etomoxir showed improvement in heart failure, but was ended prematurely due to elevated liver transaminase in enrolled patients ( Holubarsch et al., 2007 ).
+
+Perhexiline was an effective anti-angina drug used in the last century, but was recalled by the manufacturer because of hepatotoxicity and peripheral neurotoxicity ( Ashrafian et al., 2007 ). Later studies confirmed that Perhexiline could selectively block CPT1A in liver and heart, and had an ideal inhibitory effect on FAO and improved the oxidation of carbohydrate in the heart ( Ashrafian et al., 2007 ).
+
+## CPT1A in NAFLD
+
+The global obesity epidemic has dramatically increased the prevalence of non-alcoholic fatty liver disease (NAFLD), with no
+
+FIGURE 8
+
+<!-- image -->
+
+## FIGURE 7
+
+On the left are the symptoms of CPT1A deficiency gathered from Genetic and Rare Diseases (GARD) Information Center ( https://rarediseases.info. nih.gov/ ). On the right is the confirmatory screening process for CPT1A deficiency diagnosis. The normal value of the C0/(C16 + C18) ratio is 278.75; Total carnitine is normal at 33 -70 mmol/L and free carnitine is normal at 28 -52 mmol/L ( Dowsett et al., 2017 ).
+
+<!-- image -->
+
+CPT1A deficiency related mutations reported in patients. (A) The CPT1A structure (from AlphaFold database) is colored by grey. The C α atoms of the CPT1A mutations in patients are shown as red spheres. R123C, C304W, T314I, R316G, F343V, R357W, E360G, R395 (missing), A414V, D454G, G465W, P479L, L484P, Y498C, G709E, and G710E are among the missense mutations discovered in CPT1A.
+
+approved treatment now ( Weber et al., 2020 ). Deficient CPT1A expression in the liver results in a healthy steatotic state that protects against high-fat diet-induced liver damage and increases adipose browning in a PPAR α -FGF21 axis dependent manner, suggesting that inhibition of hepatic CPT1A may serve as a viable strategy for the treatment of obesity and NAFLD ( Weber et al., 2020 ; Sun et al., 2021 ).
+
+## CPT1A in multiple sclerosis
+
+Inuits have a low prevalence of multiple sclerosis, possibly associated with in CPT1A P479L mutation ( Morkholt et al., 2019 ). This point mutation result in 22% residual activity of the
+
+CPT1A ( Collins et al., 2010 ). CPT1A inhibition may represent a prospective therapeutic therapy for multiple sclerosis.
+
+## CPT1A in renal fibrosis
+
+Renal fibrosis is a result of several types of chronic kidney diseases, and currently, the only treatment is to control blood pressure and blood sugar levels ( Drawz and Rosenberg, 2013 ). With conditional overexpression of CPT1A, mitochondrial dysfunction in the fibrosis kidney can be alleviated, and renalfibrosis can be significantly decreased ( Miguel et al., 2021 ). Gain of function in CPT1A strategy may be a novel approach to treatingfibrosis in renal fibrosis ( Miguel et al., 2021 ).
+
+## CPT1A and cancer
+
+Oxidative stress is the key element that causes prostate cancer to develop ( Khandrika et al., 2009 ). Androgens may raise the levels of CPT1A and the accumulation of reactive oxygen species, which are closely linked to prostate cancer cell proliferation and differentiation ( Joshi et al., 2020 ). Currently, the primary treatments for prostate cancer include diet modification and the use of antioxidants, while CPT1A inhibition may provide novel therapeutic options ( Lin et al., 2010 ).
+
+One characteristic of cancer is metabolic reprogramming, which provides tumor cells the basic elements for fast cell growth and maintains cell survival under hypoxic or nutrient-deficient conditions ( Yoshida, 2015 ). Abnormal fat metabolism has a profound impact on cell carcinogenesis. As an important source of NADH, NADPH, FADH2 and ATP, FAO plays a key role in various stages of tumor occurrence, development and metastasis ( Wang et al., 2021 ). CPT1A is the critical rate-limiting enzyme in FAO, responsible for transporting fatty acids from cytoplasm to mitochondria for oxidation. There is evidence that CPT1A is crucial for metabolic adaptability in the development of cancer, and CPT1A inhibition slows the spread of cancer ( Tang et al., 2022 ).
+
+TABLE 1 Natural mutations of CPT1A found in patients.
+
+| Gene                  | Protein        | Disease Description   | Effect                 | References                                   |
+|-----------------------|----------------|-----------------------|------------------------|----------------------------------------------|
+| c.367C > T            | R123C          | CPT1A deficiency      | -                      | Brown et al. (2001)                          |
+| c.912C > T/c.912C > G | C304W          | CPT1A deficiency      | decreased stability    | Brown et al. (2001)                          |
+| c.941C > T            | T314I          | CPT1A deficiency      | -                      | Stoler et al. (2004)                         |
+| c.946C > G            | R316G          | CPT1A deficiency      | -                      | Bennett et al. (2004)                        |
+| c.1027T > G           | F343V          | CPT1A deficiency      | -                      | Bennett et al. (2004)                        |
+| c.1069C > T           | R357W          | CPT1A deficiency      | decreased stability    | Brown et al. (2001)                          |
+| c.1079A > G           | E360G          | CPT1A deficiency      | reduced protein levels | Ogawa et al. (2002)                          |
+| -                     | R395 (missing) | CPT1A deficiency      | loss of activity       | Brown et al. (2001)                          |
+| c.1241C > T           | A414V          | CPT1A deficiency      | decreased activity     | Gobin et al. (2002), Gobin et al. (2003)     |
+| c.1361A > G           | D454G          | CPT1A deficiency      | loss of activity       | IJlst et al. (1998)                          |
+| c.1393G > T           | G465W          | CPT1A deficiency      | -                      | Bennett et al. (2004)                        |
+| c.1436C > T           | P479L          | CPT1A deficiency      | decreased activity     | Brown et al. (2001)                          |
+| c.1451T > C           | L484P          | CPT1A deficiency      | decreased stability    | Brown et al. (2001)                          |
+| c.1493A > G           | Y498C          | CPT1A deficiency      | decreased activity     | Gobin et al. (2002), Gobin et al. (2003)     |
+| c.2126G > A           | G709E          | CPT1A deficiency      | loss of activity       | Gobin et al. (2003)                          |
+| c.2129G > A           | G710E          | CPT1A deficiency      | loss of activity       | Prip-Buus et al. (2001), Gobin et al. (2003) |
+
+According to growing amounts of experimental evidence published in reputable journals in recent years, CPT1A may be a significant drug target for a number of cancer cells, including breast cancer ( Xiong et al., 2018 ; Tan et al., 2021 ), prostate cancer ( Schlaepfer et al., 2014 ; Joshi et al., 2019 ), glioblastoma ( Jiang et al., 2022 ; Kim et al., 2022 ; Luo et al., 2022 ), colon cancer ( Wang et al., 2018 ), gastric cancer ( Wang et al., 2019 ; Wang et al., 2020 ), multiple myeloma ( Shi et al., 2016 ), nasopharyngeal cancer ( Tan et al., 2018 ; Tang et al., 2022 ), etc. CPT1 plays an important role in the occurrence and development for these cancers, and pharmacological inhibition of CPT1A can effectively inhibit cancer cell proliferation, which makes CPT1 a possible molecular marker for tumor diagnosis and a new target for anti-tumor therapy.
+
+## CPT1A in breast cancer
+
+Breast cancer is the most prevalent and leading cause of cancer death among women globally, which has a poor prognosis, a high rate of recurrence and metastasis, and a high fatality rate ( Waks and Winer, 2019 ). In 2020, there were 2.26 million new instances of breast cancer worldwide, overtaking lung cancer (2.21 million) for the first time to take the top place among all cancers, according to the International Agency for Research on Cancer ' s (IARC) estimate of the global cancer ( Ferlay et al., 2021 ).
+
+Invasion and lymphangiogenesis in breast cancer cells can be inhibited by CPT1A knockdown, and CPT1A-null Human Dermal Lymphatic Endothelial Cells (HDLEC cells) consistently showed impaired invasion and lymphangiogenesis ( Xiong et al., 2018 ). CPT1A knockdown reduced the expression of lymphangiogenic markers like Vascular endothelial growth factor receptor-3 (VEGFR-3) in HDLEC cells via acetyl-CoA-mediated Histone
+
+H3 lysine 9 acetylation (H3K9ac), which can be reversed by the addition of acetate ( Xiong et al., 2018 ).
+
+Myc-overexpressing triple-negative breast cancer (TNBC) has a greater bioenergetic dependence on FAO, and CPT1A can be pharmaceutically inhibited to reduce energy metabolism in Mycoverexpressing TNBC cells and stop tumor growth in a xenograft model of Myc-overexpressing TNBC ( Camarda et al., 2016 ; Park et al., 2016 ). This suggests that CPT1A inhibition may be a promising therapeutic approach for this particular subtype of breast cancer.
+
+Besides, Chemotherapy (CT) and radiotherapy (RT) target rapidly dividing cells but still have significant normal tissue toxicity. One indicator of RT and CT resistant tumor cells is thought to be the abnormal upregulation of CPT1A-dependent FAO ( Corn et al., 2020 ). High CPT1A expression, increased FAO, and a poor prognosis are characteristics of radiationresistant breast cancer cells ( Corn et al., 2020 ). Radiation resistant breast cancer cells respond to ionizing radiation by increasing FAO and ATP production, resulting in increased phosphorylation of extracellular signal regulated kinase 1/2 (ERK1/2), decreased apoptosis, and promotes a more aggressive phenotype ( Han et al., 2019 ). Drug candidates such as Etomoxir or its analogs, which inhibits CPT1A and FAO, can be developed as RT and CT sensitizers in breast cancer ( Han et al., 2019 ).
+
+## CPT1A in prostate cancer
+
+The incidence of prostate cancer ranks the second among male malignant tumors in the world ( Schlaepfer et al., 2014 ). In United States, prostate cancer has surpassed lung cancer, becoming the most serious malignant tumor ( Carlsson et al., 2012 ). China has lower rates of prostate cancer than Western nations, but these rates have been rising recently ( Culp et al., 2020 ).
+
+Rather than using aerobic glycolysis, prostate cancer prefers lipid for fuel. Prostate cancer cells may have less vitality after therapy with etomoxir, irreversible inhibitor of CPT1A, and etomoxir treatment in mice reduced xenograft growth for a period of 21 days ( Schlaepfer et al., 2014 ). Reduced mTOR signaling, elevated caspase-3 activation, and decreased androgen receptor expression are linked to these outcomes ( Schlaepfer et al., 2014 ). The growth of prostate cancer may be aided by a stress state caused by reactive oxygen species (ROS) that is linked to CPT1A overexpression ( Joshi et al., 2020 ). Besides, increased histone acetylation has been observed in prostate cancer cells that overexpress CPT1A, suggesting that acetylation may be a means by which CPT1A controls prostate cancer cell proliferation ( Joshi et al., 2019 ). These facts highlight the therapeutic potential of CPT1A blockade to prevent prostate cancer.
+
+## CPT1A in lung cancer
+
+Lung cancer is one of the most common malignant tumors in humans, and its incidence and mortality are increasing year by year worldwide ( de Sousa and Carvalho, 2018 ). Cisplatin is one widely used chemotherapy drugs for lung cancer ( O ' Byrne et al., 2011 ; Wang and Lippard, 2005 ). Knockdown of CPT1A can promote tumor cell susceptibility to Cisplatin. The CPT1A inhibitor etomoxir can affect and coordinate with the conventional chemotherapy drug cisplatin to increase tumor cell sensitivity to the chemotherapeutic agent, inhibit tumor cell proliferation and promote apoptosis, thus providing a novel approach to improving the efficacy of chemotherapy in non-small cell lung cancer ( Dheeraj et al., 2018 ; Hoy et al., 2021 ).
+
+## CPT1A in glioblastoma multiforme (GBM)
+
+GBM is the most common and difficult central nervous system malignancies, with a 5-year survival rate of 6.8% ( Ostrom et al., 2020 ). Radiotherapy is the primary treatment for GBM, and radiotherapy plus immunotherapy is emerging as a new option due to the strong resistance and poor efficacy of GBM to radiotherapy ( Arina et al., 2020 ). However, tumor cells after radiotherapy develop a tolerance to immunotherapy, allowing tumor cells to escape the killing of immune cells, leading to treatment failure ( Darragh et al., 2018 ). After treatment of radioresistant GBM cells with the CPT1A inhibitor etomoxir, Oxygen Consumption Rate (OCR) and ATP production were significantly inhibited, suggesting that energy conversion from glycolysis to FAO occurs in radio-resistant GBM cells ( Jiang et al., 2022 ). CPT1A and CD47 are highly expressed in radiotherapy resistant GBM tumors, and inhibition of CPT1A can result in decreased CD47 expression and increased macrophage phagocytosis of tumor cells ( Jiang et al., 2022 ). High expression of CPT1A not only enhances radiotherapy resistance in GBM tumor cells, but also enhances immune escape of macrophages through CD47, suggesting CPT1A as a novel strategy for the treatment of recurrent GBM multiforme.
+
+## CPT1A in colon cancer
+
+Colon cancer develops in adipose-rich microenvironment, and CPT1A overexpression is crucial for adipocytes to promote tumor growth in colon cancer ( Wen et al., 2017 ; Pearce et al., 2018 ). CPT1A
+
+upregulation is a key metabolic alteration that cancer cells use to promote β -catenin acetylation and activation, while knockdown of CPT1A can reduce the expression of genes linked with colon cancer cells downstream of Wnt/ β -catenin ( Wen et al., 2017 ). Overall, CPT1A inhibition may be a useful strategy to lessen the promotion impact of adipocytes on colon cancer.
+
+## CPT1A in gastric cancer
+
+Gastric cancer is a malignancy of stomach lining ( Torre et al., 2015 ; Sung et al., 2021 ). In gastric cancer, the calcium-binding cytosolic protein S100A10 is overexpressed and is essential for the invasion and migration of tumor cells ( El-Rifai et al., 2002 ). CPT1A succinylated S100A10 at lysine 47, and the degree of succinylation was elevated in human gastric cancer ( Wang et al., 2019 ). In summary, S100A10 succinylation promotes gastric cancer progression and is regulated by CPT1A-mediated succinylation and sirtuin5 (SIRT5)-mediated desuccinylation ( Wang et al., 2019 ).
+
+## CPT1A in ovarian cancer
+
+CPT1A was found to be highly expressed in ovarian cancer, and its overexpression is linked to a poor survival in ovarian cancer patients ( Shao et al., 2016 ; Tan et al., 2018 ). CPT1A inactivation reduced cellular ATP levels and caused cell cycle arrest at G0/ G1 stage, implying that ovarian cancer cells rely on CPT1Amediated FAO for cell cycle progression ( Shao et al., 2016 ).
+
+## CPT1A in nasopharyngeal carcinoma
+
+Nasopharyngeal carcinoma (NPC) incidence can be affected by genetic susceptibility, and environmental factors. In NPC cells, CPT1A was the only up-expressed carnitine palmitoyl transferase ( Tang et al., 2022 ). Upregulated CPT1A enhances the production of nucleoside metabolic intermediates that promote cell cycle progression is increased in NPC cells ( Tang et al., 2022 ). Belgian scientists revealed via isotope labeling that palmitate-derived carbons considerably augmented the Krebs cycle and could be integrated into nucleotide precursors such as aspartic acid, and pyrimidine nucleoside triphosphate ( Schoors et al., 2015 ). Inhibiting CPT1A causes cells to deplete stored aspartic acid and dNTP, impairs de novo dNTP synthesis, and inhibits NPC cell cycle ' s DNA replication at G1/S transition, implying a potential treatment strategy for NPC based on lipid metabolism regulation ( Schoors et al., 2015 ; Tan et al., 2018 ).
+
+Furthermore, radiation resistance is still a significant barrier for NPC treatment ( Chua et al., 2016 ; Tan et al., 2018 ). NPC radiation resistance may be enhanced via the PPAR coactivator-1 α (PGC1 α )/ CCAAT/enhancer binding protein β (CEBPB)/CPT1A/FAO signaling axis ( Du et al., 2019 ). Radiation-resistant NPC cells consistently displayed active up-regulation of CPT1A, and inhibition of CPT1A could render NPC cells once again vulnerable to radiation treatment by inducing mitochondrial apoptosis ( Tan et al., 2018 ).
+
+## CPT1A in leukemia
+
+In acute myeloid leukemia (AML), overexpression of CPT1A indicates poor clinical prognosis, and strong synergistic inhibitory
+
+effects on AML were seen when the CPT1A-selective inhibitor ST1326 and the Bcl-2 inhibitor ABT199 were applied in combination ( Mao et al., 2021 ). Overall, CPT1A expression is abnormally high in AML, and targeted suppression of CPT1A has potent anti-leukemic effects, suggesting that CPT1A might be a therapeutic target for the treatment of AML ( Mao et al., 2021 ).
+
+## CPT1A as a target for cancer treatment
+
+CPT1A inhibitors can lessen the survivability of cancer cells, so CPT1A may be a useful target for cancer therapy. The main drawback of CPT1A blockage is the undesirable impact on nontumor cells given the extensive tissue distribution of CPT1A. Unfortunately, there has not yet been any evidence of apparent selectivity against other CPT1 isoforms when developing small molecules as CPT1A inhibitors.
+
+## CPT1A and drug development
+
+CPT1A is an intriguing target with significant potential for pharmacological application. For decades, drugs targeting CPT1A have been the focus of research on diseases like type 2 diabetes (T2D), obesity, and other disorders ( Rufer et al., 2009 ). Therefore, drug development targeting CPT1A has attracted much attention.
+
+## CPT1A inhibitors
+
+The efforts to study the molecular mechanisms of CPT1A inhibition in disease intervention have increased in recent years due to the association with cancer ( Schlaepfer et al., 2014 ). However, there are few small-molecule inhibitors of CPT1A. In the past, efforts were concentrated on CPT1A inhibitors, primarily two main kinds of inhibitors including substrate derivatives, glycidic acid derivatives, and malonyl-CoA analogues ( Figure 9 )( Ceccarelli et al., 2011 ).
+
+Etomoxir and 2-tetradecylglycidic acid (TDGA) are both ethylene oxide compounds. Etomoxir and TDGA can bind to the active site of CPT1A to produce inhibitory effects ( Brady and Brady, 1986 ; Ratheiser et al., 1991 ). These two inhibitors belong to the first developed class. However, Etomoxir lacks selectivity to CPT1 isoforms, and TDGA can affect the renin angiotensin system, resulting in myocardial hypertrophy and other side
+
+FIGURE 9
+
+<!-- image -->
+
+Four well-studied inhibitors (Etomoxir, Perhexiline, ST1326, TDGA) of CPT1A.
+
+effects ( Brady and Brady, 1986 ). Etomoxir is a strong irreversible inhibitor of CPT1A ( Selby and Sherratt, 1989 ). However, preclinical research was stopped because of hepatotoxicity after a phase II clinical trial ( Holubarsch et al., 2007 ).
+
+An amino-carnitine analog called ST1326 (oral formulationTeglicar) was initially created for diabetic ketoacidosis ( Giannessi et al., 2003 ). ST1326 belongs to formyl-carnitine derivatives, which has a specific and reversible inhibitory effect on liver CPT1A, and is currently used as a novel anti-hyperglycemic drug ( Conti et al., 2011 ). Compared to etomoxir, ST1326 (oral formulation-Teglicar) is more selective for CPT1A while CPT1B can also be inhibited by etomoxir ( Conti et al., 2011 ). ST1326 can significantly improve hyperglycemia and adjust the dynamic balance of glucose in obesity and type 2 diabetes models, showing good application prospects ( Conti et al., 2011 ).
+
+It was discovered that C75 directly stimulated CPT1A activity ( Idrovo et al., 2012 ). However, it was also found that CPT1A is inhibited by low amounts of C75 that have been converted to C75CoA ( Mera et al., 2009 ). There is still debate about this matter, though.
+
+Perhexiline, a clinical CPT1A/CPT2 inhibitor, is approved for the management of angina pectoris outside of the United States ( Ashrafian et al., 2007 ). Perhexiline increases the efficiency of oxygen consumption by blocking FAO and switching the energy metabolism from lipid to carbohydrate. Despite being effective for angina pectoris, perhexiline was reported with neurotoxicity and hepatotoxicity for prolonged use ( Ren et al., 2020 ).
+
+CPT1A is a significant therapeutic target due to its important function in a variety of illnesses ( Schlaepfer and Joshi, 2020 ). CPT1A ' s protein structure is still unknown, though. It is crucial to discover the structure and catalytic role of the enzyme in order to design more powerful inhibitors. To avoid side effects, selectivity needs to be considered further. For instance, the fact that perhexiline targets both CPT1A and CPT2 raises the possibility that the negative effects may be related to its lack of isoform selectivity.
+
+The isoform selectivity of CPT1A inhibitor has a significant impact on how the therapeutic benefit is evaluated. The best-studied CPT1 inhibitor, etomoxir, may have the problem of off-target side effect ( Yao et al., 2018 ). When assessing safety, liver selectivity should also be taken into account for CPT1A.
+
+## CPT1A agonists
+
+Moderately increasing the expression or activity of CPT1A can promote FAO and improve a variety of metabolic diseases caused by high fat diet ( Figure 10 ).
+
+C75 and baicalin can directly activate CPT1A ( Idrovo et al., 2012 ; Fang et al., 2020 ). In addition, several small molecules can indirectly activate CPT1A by acting on ACC2, including the AMPK activators metformin and AICAR ( Tomita et al., 2005 ), and the ACC2 inhibitors TOFA and Soraphen ( Agostini et al., 2022 ). AntiSense Oligonucleotide (ASO)-mediated inhibition of ACC2 may also play a role in activating CPT1A. CPT1A can also be indirectly promoted by PPAR activators Fibrates and GW501516 ( Cox, 2017 ).
+
+However, overexpression of CPT1A may increase the FAO rate, promote cell metabolism, and accelerate cell apoptosis, which brings certain difficulties for the development of related drugs.
+
+<!-- image -->
+
+Strategies to directly or indirectly stimulate CPT1A. ASO, antisense oligonucleotide; PPAR, peroxisome proliferator activated receptor; ACC, acetylCoA carboxylase; AMPK, adenosine monophosphate-activated protein kinase.
+
+## Conclusion and perspectives
+
+In summary, as a key enzyme in FAO, CPT1A affects the occurrence and development of a variety of diseases. The physiological function and impact of CPT1A are becoming increasingly better understood, which has important guiding significance for the research of CPT1A related diseases, and also provides support for the drug development and application based on targeting CPT1A. CPT1A has become a focus of pharmaceutical research due to CPT1A pathogenic mutations and abnormal expression in malignancies. Interest in CPT1A ' s role in cancer has increased recently. The mechanisms through which CPT1A aids in cancer cell survival remain not fully clarified. Given that CPT1A was reported to promote anoikis-resistance and metastasis in cancers like colorectal cancer, CPT1A would be a desirable target to counteract resistance of anticancer drugs ( Wang et al., 2018 ). Although currently available small-molecule drugs targeting CPT1A have shown promising therapeutic effects, their off-target effects and side effects are still the biggest obstacles to their application. Finally, further research on the structure of CPT1A will continue to improve the specificity of drug selectivity to CPT1A to avoid off-target effect and other undesired side effects, which will provide safer and more effective drugs for the clinical therapy.
+
+## References
+
+Agostini, M., Melino, G., Habeb, B., Calandria, J. M., and Bazan, N. G. (2022). Targeting lipid metabolism in cancer: Neuroblastoma. Cancer Metastasis Rev. 41, 255 -260. doi:10.1007/s10555-022-10040-8
+
+Akkaoui, M., Cohen, I., Esnous, C., Lenoir, V., Sournac, M., Girard, J., et al. (2009). Modulation of the hepatic malonyl-CoA-carnitine palmitoyltransferase 1A partnership
+
+## Author contributions
+
+KL wrote the manuscript, made the figures, and approved thefinal manuscript.
+
+## Funding
+
+This work is financially supported by the Boya Postdoctoral program.
+
+## Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+## Publisher ' s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+creates a metabolic switch allowing oxidation of de novo fatty acids. Biochem. J. 420, 429 -438. doi:10.1042/BJ20081932
+
+Arina, A., Gutiontov, S. I., and Weichselbaum, R. R. (2020). Radiotherapy and immunotherapy for cancer: From "systemic" to "multisite. Clin. Cancer Res. 26, 2777 -2782. doi:10.1158/1078-0432.CCR-19-2034
+
+Ashrafian, H., Horowitz, J. D., and Frenneaux, M. P. (2007). Perhexiline. Cardiovasc Drug Rev. 25, 76 -97. doi:10.1111/j.1527-3466.2007.00006.x
+
+Aslibekyan, S., Do, A. N., Xu, H., Li, S., Irvin, M. R., Zhi, D., et al. (2017). CPT1A methylation is associated with plasma adiponectin. Nutr. Metab. Cardiovasc Dis. 27, 225 -233. doi:10.1016/j.numecd.2016.11.004
+
+Bellusci, M., Quijada-Fraile, P., Barrio-Carreras, D., Martin-Hernandez, E., GarciaSilva, M., Merinero, B., et al. (2017). Carnitine palmitoyltransferase 1A deficiency: Abnormal muscle biopsy findings in a child presenting with reye ' s syndrome. J. Inherit. Metab. Dis. 40, 751 -752. doi:10.1007/s10545-017-0041-7
+
+Bennett, M. J., Boriack, R. L., Narayan, S., Rutledge, S. L., and Raff, M. L. (2004). Novel mutations in CPT 1A define molecular heterogeneity of hepatic carnitine palmitoyltransferase I deficiency. Mol. Genet. Metab. 82, 59 -63. doi:10.1016/j. ymgme.2004.02.004
+
+Bergers, G., and Fendt, S. M. (2021). The metabolism of cancer cells during metastasis. Nat. Rev. Cancer 21, 162 -180. doi:10.1038/s41568-020-00320-2
+
+Bluher, M. (2019). Obesity: Global epidemiology and pathogenesis. Nat. Rev. Endocrinol. 15, 288 -298. doi:10.1038/s41574-019-0176-8
+
+Bonnefont, J. P., Djouadi, F., Prip-Buus, C., Gobin, S., Munnich, A., and Bastin, J. (2004). Carnitine palmitoyltransferases 1 and 2: Biochemical, molecular and medical aspects. Mol. Asp. Med. 25, 495 -520. doi:10.1016/j.mam.2004.06.004
+
+Brady, P. S., and Brady, L. J. (1986). Action in vivo and in vitro of 2-tetradecylglycidic acid, 2-tetradecylglycidyl-CoA and 2-tetradecylglycidylcarnitine on hepatic carnitine palmitoyltransferase. Biochem. J. 238, 801 -809. doi:10.1042/bj2380801
+
+Brown, N. F., Mullur, R. S., Subramanian, I., Esser, V., Bennett, M. J., Saudubray, J. M., et al. (2001). Molecular characterization of L-CPT I deficiency in six patients: Insights into function of the native enzyme. J. Lipid Res. 42, 1134 -1142. doi:10.1016/s00222275(20)31604-7
+
+Bui, A. L., Horwich, T. B., and Fonarow, G. C. (2011). Epidemiology and risk profile of heart failure. Nat. Rev. Cardiol. 8, 30 -41. doi:10.1038/nrcardio.2010.165
+
+Camarda, R., Zhou, A. Y., Kohnz, R. A., Balakrishnan, S., Mahieu, C., Anderton, B., et al. (2016). Inhibition of fatty acid oxidation as a therapy for MYC-overexpressing triple-negative breast cancer. Nat. Med. 22, 427 -432. doi:10.1038/nm.4055
+
+Carlsson, S., Vickers, A. J., Roobol, M., Eastham, J., Scardino, P., Lilja, H., et al. (2012). Prostate cancer screening: Facts, statistics, and interpretation in response to the US preventive services task force review. J. Clin. Oncol. 30, 2581 -2584. doi:10.1200/JCO. 2011.40.4327
+
+Ceccarelli, S. M., Chomienne, O., Gubler, M., and Arduini, A. (2011). Carnitine palmitoyltransferase (CPT) modulators: A medicinal chemistry perspective on 35 years of research. J. Med. Chem. 54, 3109 -3152. doi:10.1021/jm100809g
+
+Chatelain, F., Kohl, C., Esser, V., McGarry, J. D., Girard, J., and Pegorier, J. P. (1996). Cyclic AMP and fatty acids increase carnitine palmitoyltransferase I gene transcription in cultured fetal rat hepatocytes. Eur. J. Biochem. 235, 789 -798. doi:10.1111/j.14321033.1996.00789.x
+
+Chua, M. L. K., Wee, J. T. S., Hui, E. P., and Chan, A. T. C. (2016). Nasopharyngeal carcinoma. Lancet 387, 1012 -1024. doi:10.1016/S0140-6736(15)00055-0
+
+Collins, S. A., Sinclair, G., McIntosh, S., Bamforth, F., Thompson, R., Sobol, I., et al. (2010). Carnitine palmitoyltransferase 1A (CPT1A) P479L prevalence in live newborns in yukon, northwest territories, and nunavut. Mol. Genet. Metab. 101, 200 -204. doi:10. 1016/j.ymgme.2010.07.013
+
+Conti, R., Mannucci, E., Pessotto, P., Tassoni, E., Carminati, P., Giannessi, F., et al. (2011). Selective reversible inhibition of liver carnitine palmitoyl-transferase 1 by teglicar reduces gluconeogenesis and improves glucose homeostasis. Diabetes 60, 644 -651. doi:10.2337/db10-0346
+
+Corn, K. C., Windham, M. A., and Rafat, M. (2020). Lipids in the tumor microenvironment: From cancer progression to treatment. Prog. Lipid Res. 80, 101055. doi:10.1016/j.plipres.2020.101055
+
+Cox, R. L. (2017). Rationally designed PPAR δ -specific agonists and their therapeutic potential for metabolic syndrome. Proc. Natl. Acad. Sci. U. S. A. 114, 3284 -3285. doi:10. 1073/pnas.1702084114
+
+Culp, M. B., Soerjomataram, I., Efstathiou, J. A., Bray, F., and Jemal, A. (2020). Recent global patterns in prostate cancer incidence and mortality rates. Eur. Urol. 77, 38 -52. doi:10.1016/j.eururo.2019.08.005
+
+Dai, J., Zhu, H., Shi, J., and Woldegiorgis, G. (2000). Identification by mutagenesis of conserved arginine and tryptophan residues in rat liver carnitine palmitoyltransferase I important for catalytic activity. J. Biol. Chem. 275, 22020 -22024. doi:10.1074/jbc. M002118200
+
+Darragh, L. B., Oweida, A. J., and Karam, S. D. (2018). Overcoming resistance to combination radiation-immunotherapy: A focus on contributing pathways within the tumor microenvironment. Front. Immunol. 9, 3154. doi:10.3389/fimmu.2018.03154
+
+Davalos, A., Goedeke, L., Smibert, P., Ramirez, C. M., Warrier, N. P., Andreo, U., et al. (2011). miR-33a/b contribute to the regulation of fatty acid metabolism and insulin signaling. Proc. Natl. Acad. Sci. U. S. A. 108, 9232 -9237. doi:10.1073/pnas.1102281108
+
+de Sousa, V. M. L., and Carvalho, L. (2018). Heterogeneity in lung cancer. Pathobiology 85, 96 -107. doi:10.1159/000487440
+
+Deprince, A., Haas, J. T., and Staels, B. (2020). Dysregulated lipid metabolism links NAFLD to cardiovascular disease. Mol. Metab. 42, 101092. doi:10.1016/j.molmet.2020. 101092
+
+Dheeraj, A., Agarwal, C., Schlaepfer, I. R., Raben, D., Singh, R., Agarwal, R., et al. (2018). A novel approach to target hypoxic cancer cells via combining beta-oxidation inhibitor etomoxir with radiation. Hypoxia (Auckl) 6, 23 -33. doi:10.2147/HP.S163115
+
+Dowsett, L., Lulis, L., Ficicioglu, C., and Cuddapah, S. (2017). Utility of genetic testing for confirmation of abnormal newborn screening in disorders of long-chain fatty acids: A missed case of carnitine palmitoyltransferase 1A (CPT1A) deficiency. Int. J. Neonatal Screen 3, 10. doi:10.3390/ijns3020010
+
+Drawz, P. E., and Rosenberg, M. E. (2013). Slowing progression of chronic kidney disease. Kidney Int. Suppl. 3, 372 -376. doi:10.1038/kisup.2013.80
+
+Du, Q., Tan, Z., Shi, F., Tang, M., Xie, L., Zhao, L., et al. (2019). PGC1 α /CEBPB/ CPT1A axis promotes radiation resistance of nasopharyngeal carcinoma through activating fatty acid oxidation. Cancer Sci. 110, 2050 -2062. doi:10.1111/cas.14011
+
+El-Rifai, W., Moskaluk, C. A., Abdrabbo, M. K., Harper, J., Yoshida, C., Riggins, G. J., et al. (2002). Gastric cancers overexpress S100A calcium-binding proteins. Cancer Res. 62, 6823 -6826.
+
+Fado, R., Rodriguez-Rodriguez, R., and Casals, N. (2021). The return of malonyl-CoA to the brain: Cognition and other stories. Prog. Lipid Res. 81, 101071. doi:10.1016/j. plipres.2020.101071
+
+Falik-Borenstein, Z. C., Jordan, S. C., Saudubray, J. M., Brivet, M., Demaugre, F., Edmond, J., et al. (1992). Brief report: Renal tubular acidosis in carnitine palmitoyltransferase type 1 deficiency. N. Engl. J. Med. 327, 24 -27. doi:10.1056/ NEJM199207023270105
+
+Fang, P., Yu, M., Shi, M., Bo, P., Gu, X., and Zhang, Z. (2020). Baicalin and its aglycone: A novel approach for treatment of metabolic disorders. Pharmacol. Rep. 72, 13 -23. doi:10.1007/s43440-019-00024-x
+
+Faye, A., Esnous, C., Price, N. T., Onfray, M. A., Girard, J., and Prip-Buus, C. (2007). Rat liver carnitine palmitoyltransferase 1 forms an oligomeric complex within the outer mitochondrial membrane. J. Biol. Chem. 282, 26908 -26916. doi:10.1074/jbc. M705418200
+
+Ferlay, J., Colombet, M., Soerjomataram, I., Parkin, D. M., Pineros, M., Znaor, A., et al. (2021). Cancer statistics for the year 2020: An overview. Int. J. Cancer 149, 778 -789. doi:10.1002/ijc.33588
+
+Fraser, F., Corstorphine, C. G., and Zammit, V. A. (1997). Topology of carnitine palmitoyltransferase I in the mitochondrial outer membrane. Biochem. J. 323 (3), 711 -718. doi:10.1042/bj3230711
+
+Gessner, B. D., Gillingham, M. B., Birch, S., Wood, T., and Koeller, D. M. (2010). Evidence for an association between infant mortality and a carnitine palmitoyltransferase 1A genetic variant. Pediatrics 126, 945 -951. doi:10.1542/peds. 2010-0687
+
+Giannessi, F., Pessotto, P., Tassoni, E., Chiodi, P., Conti, R., De Angelis, F., et al. (2003). Discovery of a long-chain carbamoyl aminocarnitine derivative, a reversible carnitine palmitoyltransferase inhibitor with antiketotic and antidiabetic activity. J. Med. Chem. 46, 303 -309. doi:10.1021/jm020979u
+
+Gobin, S., Bonnefont, J. P., Prip-Buus, C., Mugnier, C., Ferrec, M., Demaugre, F., et al. (2002). Organization of the human liver carnitine palmitoyltransferase 1 gene (CPT1A) and identification of novel mutations in hypoketotic hypoglycaemia. Hum. Genet. 111, 179 -189. doi:10.1007/s00439-002-0752-0
+
+Gobin, S., Thuillier, L., Jogl, G., Faye, A., Tong, L., Chi, M., et al. (2003). Functional and structural basis of carnitine palmitoyltransferase 1A deficiency. J. Biol. Chem. 278, 50428 -50434. doi:10.1074/jbc.M310130200
+
+Han, S., Wei, R., Zhang, X., Jiang, N., Fan, M., Huang, J. H., et al. (2019). CPT1A/2Mediated FAO enhancement-A metabolic target in radioresistant breast cancer. Front. Oncol. 9, 1201. doi:10.3389/fonc.2019.01201
+
+Hao, F., Tian, M., Zhang, X., Jin, X., Jiang, Y., Sun, X., et al. (2021). Butyrate enhances CPT1A activity to promote fatty acid oxidation and iTreg differentiation. Proc. Natl. Acad. Sci. U. S. A. 118, e2014681118. doi:10.1073/pnas.2014681118
+
+Heimberg, M., Olubadewo, J. O., and Wilcox, H. G. (1985). Plasma lipoproteins and regulation of hepatic metabolism of fatty acids in altered thyroid states. Endocr. Rev. 6, 590 -607. doi:10.1210/edrv-6-4-590
+
+H o l u b a r s c h ,C .J . ,R o h r b a c h ,M . ,K a r a s c h ,M . ,B o e h m ,E . ,P o l n s k i ,L . , Ponikowski, P., et al. (2007). A double-blind randomized multicentre clinical trial to evaluate the efficacy and safety of two doses of etomoxir in comparison with placebo in patients with moderate congestive heart failure: The ERGO (etomoxir for the recovery of glucose oxidation) study. Clin.Sci.(Lond) 113, 205 -212. doi:10. 1042/CS20060307
+
+Houten, S. M., Violante, S., Ventura, F. V., and Wanders, R. J. (2016). The biochemistry and physiology of mitochondrial fatty acid beta-oxidation and its genetic disorders. Annu. Rev. Physiol. 78, 23 -44. doi:10.1146/annurev-physiol021115-105045
+
+Hoy, A. J., Nagarajan, S. R., and Butler, L. M. (2021). Tumour fatty acid metabolism in the context of therapy resistance and obesity. Nat. Rev. Cancer 21, 753 -766. doi:10.1038/ s41568-021-00388-4
+
+Idrovo, J. P., Yang, W. L., Nicastro, J., Coppa, G. F., and Wang, P. (2012). Stimulation of carnitine palmitoyltransferase 1 improves renal function and attenuates tissue damage after ischemia/reperfusion. J. Surg. Res. 177, 157 -164. doi:10.1016/j.jss.2012. 05.053
+
+Ijlst, L., Mandel, H., Oostheim, W., Ruiter, J. P., Gutman, A., and Wanders, R. J. (1998). Molecular basis of hepatic carnitine palmitoyltransferase I deficiency. J. Clin. Invest. 102, 527 -531. doi:10.1172/JCI2927
+
+Iliopoulos, D., Drosatos, K., Hiyama, Y., Goldberg, I. J., and Zannis, V. I. (2010). MicroRNA-370 controls the expression of microRNA-122 and Cpt1alpha and affects lipid metabolism. J. Lipid Res. 51, 1513 -1523. doi:10.1194/jlr.M004812
+
+Indiveri, C., Iacobazzi, V., Tonazzi, A., Giangregorio, N., Infantino, V., Convertini, P., et al. (2011). The mitochondrial carnitine/acylcarnitine carrier: Function, structure and physiopathology. Mol. Asp. Med. 32, 223 -233. doi:10.1016/j.mam.2011.10.008
+
+Jackson-Hayes, L., Song, S., Lavrentyev, E. N., Jansen, M. S., Hillgartner, F. B., Tian, L., et al. (2003). A thyroid hormone response unit formed between the promoter and first intron of the carnitine palmitoyltransferase-Ialpha gene mediates the liver-specific induction by thyroid hormone. J. Biol. Chem. 278, 7964 -7972. doi:10.1074/jbc. M211062200
+
+Jenei, Z. A., Borthwick, K., Zammit, V. A., and Dixon, A. M. (2009). Self-association of transmembrane domain 2 (TM2), but not TM1, in carnitine palmitoyltransferase 1A: Role of GXXXG(A) motifs. J. Biol. Chem. 284, 6988 -6997. doi:10.1074/jbc.M808487200
+
+Jiang, N., Xie, B., Xiao, W., Fan, M., Xu, S., Duan, Y., et al. (2022). Fatty acid oxidation fuels glioblastoma radioresistance with CD47-mediated immune evasion. Nat. Commun. 13, 1511. doi:10.1038/s41467-022-29137-3
+
+Josefowicz, S. Z., Lu, L. F., and Rudensky, A. Y. (2012). Regulatory T cells: Mechanisms of differentiation and function. Annu. Rev. Immunol. 30, 531 -564. doi:10.1146/annurev.immunol.25.022106.141623
+
+Joshi, M., Kim, J., D ' Alessandro, A., Monk, E., Bruce, K., Elajaili, H., et al. (2020). CPT1A over-expression increases reactive oxygen species in the mitochondria and promotes antioxidant defenses in prostate cancer. Cancers (Basel) 12, 3431. doi:10.3390/ cancers12113431
+
+Joshi, M., Stoykova, G. E., Salzmann-Sullivan, M., Dzieciatkowska, M., Liebman, L. N., Deep, G., et al. (2019). CPT1A supports castration-resistant prostate cancer in androgen-deprived conditions. Cells 8, 1115. doi:10.3390/cells8101115
+
+Kersten, S., Seydoux, J., Peters, J. M., Gonzalez, F. J., Desvergne, B., and Wahli, W. (1999). Peroxisome proliferator-activated receptor alpha mediates the adaptive response to fasting. J. Clin. Invest. 103, 1489 -1498. doi:10.1172/JCI6223
+
+Khandrika, L., Kumar, B., Koul, S., Maroni, P., and Koul, H. K. (2009). Oxidative stress in prostate cancer. Cancer Lett. 282, 125 -136. doi:10.1016/j.canlet.2008.12.011
+
+Kim, S. J., Park, S. J., Park, J., Cho, H. J., Shim, J. K., Seon, J., et al. (2022). Dual inhibition of CPT1A and G6PD suppresses glioblastoma tumorspheres. J. Neurooncol 160, 677 -689. doi:10.1007/s11060-022-04189-z
+
+Kurmi, K., Hitosugi, S., Wiese, E. K., Boakye-Agyeman, F., Gonsalves, W. I., Lou, Z., et al. (2018). Carnitine palmitoyltransferase 1A has a lysine succinyltransferase activity. Cell Rep. 22, 1365 -1373. doi:10.1016/j.celrep.2018.01.030
+
+Le May, C., Cauzac, M., Diradourian, C., Perdereau, D., Girard, J., Burnol, A. F., et al. (2005). Fatty acids induce L-CPT I gene expression through a PPARalpha-independent mechanism in rat hepatoma cells. J. Nutr. 135, 2313 -2319. doi:10.1093/jn/135.10.2313
+
+Lee, K., Kerner, J., and Hoppel, C. L. (2011). Mitochondrial carnitine palmitoyltransferase 1a (CPT1a) is part of an outer membrane fatty acid transfer complex. J. Biol. Chem. 286, 25655 -25662. doi:10.1074/jbc.M111.228692
+
+Li, L., Wu, L., Wang, C., Liu, L., and Zhao, Y. (2007). Adiponectin modulates carnitine palmitoyltransferase-1 through AMPK signaling cascade in rat cardiomyocytes. Regul. Pept. 139, 72 -79. doi:10.1016/j.regpep.2006.10.007
+
+Lin, C. W., Peng, Y. J., Lin, Y. Y., Mersmann, H. J., and Ding, S. T. (2020). LRRK2 regulates CPT1A to promote beta-oxidation in HepG2 cells. Molecules 25, 4122. doi:10.3390/molecules25184122
+
+Lin, H., Lu, J. P., Laflamme, P., Qiao, S., Shayegan, B., Bryskin, I., et al. (2010). Interrelated in vitro effects of androgens, fatty acids and oxidative stress in prostate cancer: A mechanistic model supporting prevention strategies. Int. J. Oncol. 37, 761 -766. doi:10. 3892/ijo\_00000725
+
+Lopez-Vinas, E., Bentebibel, A., Gurunathan, C., Morillas, M., de Arriaga, D., Serra, D., et al. (2007). Definition by functional and structural analysis of two malonyl-CoA sites in carnitine palmitoyltransferase 1A. J. Biol. Chem. 282, 18212 -18224. doi:10.1074/ jbc.M700885200
+
+Lu, W., Che, X., Qu, X., Zheng, C., Yang, X., Bao, B., et al. (2021). Succinylation regulators promote clear cell renal cell carcinoma by immune regulation and RNA N6methyladenosine methylation. Front. Cell Dev. Biol. 9, 622198. doi:10.3389/fcell.2021. 622198
+
+Luo, M., Liu, Y. Q., Zhang, H., Luo, C. H., Liu, Q., Wang, W. Y., et al. (2022). Overexpression of carnitine palmitoyltransferase 1A promotes mitochondrial fusion and differentiation of glioblastoma stem cells. Lab. Invest. 102, 722 -730. doi:10.1038/ s41374-021-00724-0
+
+Mao, L., Peng, L., Ren, X., Chu, Y., Nie, T., Lin, W., et al. (2022). Discovery of JND003 as a new selective estrogen-related receptor alpha agonist alleviating
+
+nonalcoholic fatty liver disease and insulin resistance. ACS Bio Med. Chem. Au 2, 282 -296. doi:10.1021/acsbiomedchemau.1c00050
+
+Mao, S., Ling, Q., Pan, J., Li, F., Huang, S., Ye, W., et al. (2021). Inhibition of CPT1a as a prognostic marker can synergistically enhance the antileukemic activity of ABT199. J. Transl. Med. 19, 181. doi:10.1186/s12967-021-02848-9
+
+McGarry, J. D., Leatherman, G. F., and Foster, D. W. (1978). Carnitine palmitoyltransferase I. The site of inhibition of hepatic fatty acid oxidation by malonyl-CoA. J. Biol. Chem. 253, 4128 -4136. doi:10.1016/s0021-9258(17)34693-8
+
+Mera, P., Bentebibel, A., Lopez-Vinas, E., Cordente, A. G., Gurunathan, C., Sebastian, D., et al. (2009). C75 is converted to C75-CoA in the hypothalamus, where it inhibits carnitine palmitoyltransferase 1 and decreases food intake and body weight. Biochem. Pharmacol. 77, 1084 -1095. doi:10.1016/j.bcp.2008.11.020
+
+Michalek, R. D., Gerriets, V. A., Nichols, A. G., Inoue, M., Kazmin, D., Chang, C. Y., et al. (2011). Estrogen-related receptor-alpha is a metabolic regulator of effector T-cell activation and differentiation. Proc. Natl. Acad. Sci. U. S. A. 108, 18348 -18353. doi:10. 1073/pnas.1108856108
+
+Miguel, V., Tituana, J., Herrero, J. I., Herrero, L., Serra, D., Cuevas, P., et al. (2021). Renal tubule Cpt1a overexpression protects from kidney fibrosis by restoring mitochondrial homeostasis. J. Clin. Invest. 131, e140695. doi:10.1172/JCI140695
+
+Morillas, M., Lopez-Vinas, E., Valencia, A., Serra, D., Gomez-Puertas, P., Hegardt, F. G., et al. (2004). Structural model of carnitine palmitoyltransferase I based on the carnitine acetyltransferase crystal. Biochem. J. 379, 777 -784. doi:10.1042/BJ20031373
+
+Morkholt, A. S., Trabjerg, M. S., Oklinski, M. K. E., Bolther, L., Kroese, L. J., Pritchard, C. E. J., et al. (2019). CPT1A plays a key role in the development and treatment of multiple sclerosis and experimental autoimmune encephalomyelitis. Sci. Rep. 9, 13299. doi:10.1038/s41598-019-49868-6
+
+Munir, R., Lisec, J., Swinnen, J. V., and Zaidi, N. (2019). Lipid metabolism in cancer cells under metabolic stress. Br. J. Cancer 120, 1090 -1098. doi:10.1038/s41416-0190451-4
+
+Mynatt, R. L., Park, E. A., Thorngate, F. E., Das, H. K., and Cook, G. A. (1994). Changes in carnitine palmitoyltransferase-I mRNA abundance produced by hyperthyroidism and hypothyroidism parallel changes in activity. Biochem. Biophys. Res. Commun. 201, 932 -937. doi:10.1006/bbrc.1994.1791
+
+Nakamura, M. T., Yudell, B. E., and Loor, J. J. (2014). Regulation of energy metabolism by long-chain fatty acids. Prog. Lipid Res. 53, 124 -144. doi:10.1016/j. plipres.2013.12.001
+
+O ' Byrne, K. J., Barr, M. P., and Gray, S. G. (2011). The role of epigenetics in resistance to Cisplatin chemotherapy in lung cancer. Cancers (Basel) 3, 1426 -1453. doi:10.3390/ cancers3011426
+
+Ogawa, E., Kanazawa, M., Yamamoto, S., Ohtsuka, S., Ogawa, A., Ohtake, A., et al. (2002). Expression analysis of two mutations in carnitine palmitoyltransferase IA deficiency. J. Hum. Genet. 47, 342 -347. doi:10.1007/s100380200047
+
+Ostrom, Q. T., Patil, N., Cioffi, G., Waite, K., Kruchko, C., and Barnholtz-Sloan, J. S. (2020). CBTRUS statistical report: Primary brain and other central nervous system tumors diagnosed in the United States in 2013-2017. Neuro Oncol. 22, iv1 -iv96. doi:10. 1093/neuonc/noaa200
+
+Park, E. A., Mynatt, R. L., Cook, G. A., and Kashfi, K. (1995). Insulin regulates enzyme activity, malonyl-CoA sensitivity and mRNA abundance of hepatic carnitine palmitoyltransferase-I. Biochem. J. 310 (3), 853 -858. doi:10.1042/bj3100853
+
+Park, J. H., Vithayathil, S., Kumar, S., Sung, P. L., Dobrolecki, L. E., Putluri, V., et al. (2016). Fatty acid oxidation-driven src links mitochondrial energy reprogramming and oncogenic properties in triple-negative breast cancer. Cell Rep. 14, 2154 -2165. doi:10. 1016/j.celrep.2016.02.004
+
+Pearce, O. M. T., Delaine-Smith, R. M., Maniati, E., Nichols, S., Wang, J., Bohm, S., et al. (2018). Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers. Cancer Discov. 8, 304 -319. doi:10. 1158/2159-8290.CD-17-0284
+
+Prip-Buus, C., Thuillier, L., Abadi, N., Prasad, C., Dilling, L., Klasing, J., et al. (2001). Molecular and enzymatic characterization of a unique carnitine palmitoyltransferase 1A mutation in the Hutterite community. Mol. Genet. Metab. 73, 46 -54. doi:10.1006/ mgme.2001.3176
+
+Rajakumar, C., Ban, M. R., Cao, H., Young, T. K., Bjerregaard, P., and Hegele, R. A. (2009). Carnitine palmitoyltransferase IA polymorphism P479L is common in Greenland Inuit and is associated with elevated plasma apolipoprotein A-I. J. Lipid Res. 50, 1223 -1228. doi:10.1194/jlr.P900001-JLR200
+
+Ramsay, R. R., Gandour, R. D., and van der Leij, F. R. (2001). Molecular enzymology of carnitine transfer and transport. Biochim. Biophys. Acta 1546, 21 -43. doi:10.1016/ s0167-4838(01)00147-9
+
+Rao, J. N., Warren, G. Z. L., Estolt-Povedano, S., Zammit, V. A., and Ulmer, T. S. (2011). An environment-dependent structural switch underlies the regulation of carnitine palmitoyltransferase 1A. J. Biol. Chem. 286, 42545 -42554. doi:10.1074/jbc. M111.306951
+
+Ratheiser, K., Schneeweiss, B., Waldhausl, W., Fasching, P., Korn, A., Nowotny, P., et al. (1991). Inhibition by etomoxir of carnitine palmitoyltransferase I reduces hepatic glucose production and plasma lipids in non-insulin-dependent diabetes mellitus. Metabolism 40, 1185 -1190. doi:10.1016/0026-0495(91)90214-h
+
+Ren, Z., Chen, S., Seo, J. E., Guo, X., Li, D., Ning, B., et al. (2020). Mitochondrial dysfunction and apoptosis underlie the hepatotoxicity of perhexiline. Toxicol Vitro 69, 104987. doi:10.1016/j.tiv.2020.104987
+
+Rinaldi, C., Schmidt, T., Situ, A. J., Johnson, J. O., Lee, P. R., Chen, K. L., et al. (2015). Mutation in CPT1C associated with pure autosomal dominant spastic paraplegia. JAMA Neurol. 72, 561 -570. doi:10.1001/jamaneurol.2014.4769
+
+Robert, X., and Gouet, P. (2014). Deciphering key features in protein structures with the new ENDscript server. Nucleic Acids Res. 42, W320 -W324. doi:10.1093/nar/gku316
+
+Robinson, I. N., and Zammit, V. A. (1982). Sensitivity of carnitine acyltransferase I to malonly-CoA inhibition in isolated rat liver mitochondria is quantitatively related to hepatic malonyl-CoA concentration in vivo . Biochem. J. 206, 177 -179. doi:10.1042/ bj2060177
+
+Rohlenova, K., Veys, K., Miranda-Santos, I., De Bock, K., and Carmeliet, P. (2018). Endothelial cell metabolism in health and disease. Trends Cell Biol. 28, 224 -236. doi:10. 1016/j.tcb.2017.10.010
+
+Rufer, A. C., Thoma, R., and Hennig, M. (2009). Structural insight into function and regulation of carnitine palmitoyltransferase. Cell Mol. Life Sci. 66, 2489 -2501. doi:10. 1007/s00018-009-0035-1
+
+Savage, P. A., Malchow, S., and Leventhal, D. S. (2013). Basic principles of tumorassociated regulatory T cell biology. Trends Immunol. 34, 33 -40. doi:10.1016/j.it.2012. 08.005
+
+Schlaepfer, I. R., and Joshi, M. (2020). CPT1A-mediated fat oxidation, mechanisms, and therapeutic potential. Endocrinology 161, bqz046. doi:10.1210/endocr/bqz046
+
+Schlaepfer, I. R., Rider, L., Rodrigues, L. U., Gijon, M. A., Pac, C. T., Romero, L., et al. (2014). Lipid catabolism via CPT1 as a therapeutic target for prostate cancer. Mol. Cancer Ther. 13, 2361 -2371. doi:10.1158/1535-7163.MCT-14-0183
+
+Schoors, S., Bruning, U., Missiaen, R., Queiroz, K. C., Borgers, G., Elia, I., et al. (2015). Fatty acid carbon is essential for dNTP synthesis in endothelial cells. Nature 520, 192 -197. doi:10.1038/nature14362
+
+Selby, P. L., and Sherratt, H. S. (1989). Substituted 2-oxiranecarboxylic acids: A new group of candidate hypoglycaemic drugs. Trends Pharmacol. Sci. 10, 495 -500. doi:10. 1016/0165-6147(89)90049-7
+
+Shao, H., Mohamed, E. M., Xu, G. G., Waters, M., Jing, K., Ma, Y., et al. (2016). Carnitine palmitoyltransferase 1A functions to repress FoxO transcription factors to allow cell cycle progression in ovarian cancer. Oncotarget 7, 3832 -3846. doi:10.18632/ oncotarget.6757
+
+Shepherd, P. R., and Kahn, B. B. (1999). Glucose transporters and insulin action-implications for insulin resistance and diabetes mellitus. N. Engl. J. Med. 341, 248 -257. doi:10.1056/NEJM199907223410406
+
+Shi, J., Fu, H., Jia, Z., He, K., Fu, L., and Wang, W. (2016). High expression of CPT1A predicts adverse outcomes: A potential therapeutic target for acute myeloid leukemia. EBioMedicine 14, 55 -64. doi:10.1016/j.ebiom.2016.11.025
+
+Singh, B. K., Sinha, R. A., Tripathi, M., Mendoza, A., Ohba, K., Sy, J. A. C., et al. (2018). Thyroid hormone receptor and ERR α coordinately regulate mitochondrialfission , mitophagy, biogenesis, and function. Sci. Signal 11, eaam5855. doi:10.1126/ scisignal.aam5855
+
+Stoler, J. M., Sabry, M. A., Hanley, C., Hoppel, C. L., and Shih, V. E. (2004). Successful long-term treatment of hepatic carnitine palmitoyltransferase I deficiency and a novel mutation. J. Inherit. Metab. Dis. 27, 679 -684. doi:10.1023/b:boli.0000042979.42120.55
+
+Sun, W., Nie, T., Li, K., Wu, W., Long, Q., Feng, T., et al. (2021). Erratum. Hepatic CPT1A facilitates liver-adipose cross talk via induction of FGF21 in mice. Diabetes 2022;71:31-42. Diabetes 71, 1827. doi:10.2337/db22-er08a
+
+Sung, H., Ferlay, J., Siegel, R. L., Laversanne, M., Soerjomataram, I., Jemal, A., et al. (2021). Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J. Clin. 71, 209 -249. doi:10.3322/ caac.21660
+
+Tamura,K.,Stecher,G.,andKumar,S.(2021).MEGA11: Molecular evolutionary genetics analysis version 11. Mol. Biol. Evol. 38, 3022 -3027. doi:10.1093/molbev/msab120
+
+Tan, Z., Xiao, L., Tang, M., Bai, F., Li, J., Li, L., et al. (2018). Targeting CPT1Amediated fatty acid oxidation sensitizes nasopharyngeal carcinoma to radiation therapy. Theranostics 8, 2329 -2347. doi:10.7150/thno.21451
+
+Tan, Z., Zou, Y., Zhu, M., Luo, Z., Wu, T., Zheng, C., et al. (2021). Carnitine palmitoyl transferase 1A is a novel diagnostic and predictive biomarker for breast cancer. BMC Cancer 21, 409. doi:10.1186/s12885-021-08134-7
+
+Tang, M., Dong, X., Xiao, L., Tan, Z., Luo, X., Yang, L., et al. (2022). CPT1A-mediated fatty acid oxidation promotes cell proliferation via nucleoside metabolism in nasopharyngeal carcinoma. Cell Death Dis. 13, 331. doi:10.1038/s41419-022-04730-y
+
+Tomita, K., Tamiya, G., Ando, S., Kitamura, N., Koizumi, H., Kato, S., et al. (2005). AICAR, an AMPK activator, has protective effects on alcohol-induced fatty liver in rats. Alcohol Clin. Exp. Res. 29, 240S -245S. doi:10.1097/01.alc.0000191126.11479.69
+
+Torre, L. A., Bray, F., Siegel, R. L., Ferlay, J., Lortet-Tieulent, J., and Jemal, A. (2015). Global cancer statistics, 2012. CA Cancer J. Clin. 65, 87 -108. doi:10.3322/caac.21262
+
+Valentino, A., Calarco, A., Di Salle, A., Finicelli, M., Crispi, S., Calogero, R. A., et al. (2017). Deregulation of MicroRNAs mediated control of carnitine cycle in prostate cancer: Molecular basis and pathophysiological consequences. Oncogene 36, 6030 -6040. doi:10.1038/onc.2017.216
+
+Virmani, A., Pinto, L., Bauermann, O., Zerelli, S., Diedenhofen, A., Binienda, Z. K., et al. (2015). The carnitine palmitoyl transferase (CPT) system and possible relevance for neuropsychiatric and neurological conditions. Mol. Neurobiol. 52, 826 -836. doi:10. 1007/s12035-015-9238-7
+
+Waks, A. G., and Winer, E. P. (2019). Breast cancer treatment: A review. JAMA 321, 288 -300. doi:10.1001/jama.2018.19323
+
+Wang, C., Zhang, C., Li, X., Shen, J., Xu, Y., Shi, H., et al. (2019). CPT1A-mediated succinylation of S100A10 increases human gastric cancer invasion. J. Cell Mol. Med. 23, 293 -305. doi:10.1111/jcmm.13920
+
+Wang, D., and Lippard, S. J. (2005). Cellular processing of platinum anticancer drugs. Nat. Rev. Drug Discov. 4, 307 -320. doi:10.1038/nrd1691
+
+Wang, J., Xiang, H., Lu, Y., Wu, T., and Ji, G. (2021). The role and therapeutic implication of CPTs in fatty acid oxidation and cancers progression. Am. J. Cancer Res. 11, 2477 -2494.
+
+Wang, L., Li, C., Song, Y., and Yan, Z. (2020). Inhibition of carnitine palmitoyl transferase 1A-induced fatty acid oxidation suppresses cell progression in gastric cancer. Arch. Biochem. Biophys. 696, 108664. doi:10.1016/j.abb.2020.108664
+
+Wang, Y., Guo, Y. R., Liu, K., Yin, Z., Liu, R., Xia, Y., et al. (2017). KAT2A coupled with the alpha-KGDH complex acts as a histone H3 succinyltransferase. Nature 552, 273 -277. doi:10.1038/nature25003
+
+Wang, Y. N., Zeng, Z. L., Lu, J., Wang, Y., Liu, Z. X., He, M. M., et al. (2018). CPT1Amediated fatty acid oxidation promotes colorectal cancer cell metastasis by inhibiting anoikis. Oncogene 37, 6025 -6040. doi:10.1038/s41388-018-0384-z
+
+Weber, M., Mera, P., Casas, J., Salvador, J., Rodriguez, A., Alonso, S., et al. (2020). Liver CPT1A gene therapy reduces diet-induced hepatic steatosis in mice and highlights potential lipid biomarkers for human NAFLD. FASEB J. 34, 11816 -11837. doi:10.1096/ fj.202000678R
+
+Wen, Y. A., Xing, X., Harris, J. W., Zaytseva, Y. Y., Mitov, M. I., Napier, D. L., et al. (2017). Adipocytes activate mitochondrial fatty acid oxidation and autophagy to promote tumor growth in colon cancer. Cell Death Dis. 8, e2593. doi:10.1038/cddis. 2017.21
+
+Xie, T., So, W. Y., Li, X. Y., and Leung, P. S. (2019). Fibroblast growth factor 21 protects against lipotoxicity-induced pancreatic beta-cell dysfunction via regulation of AMPK signaling and lipid metabolism. Clin. Sci. (Lond) 133, 2029 -2044. doi:10.1042/ CS20190093
+
+Xiong, Y., Liu, Z., Zhao, X., Ruan, S., Zhang, X., Wang, S., et al. (2018). CPT1A regulates breast cancer-associated lymphangiogenesis via VEGF signaling. Biomed. Pharmacother. 106, 1 -7. doi:10.1016/j.biopha.2018.05.112
+
+Yao, C. H., Liu, G. Y., Wang, R., Moon, S. H., Gross, R. W., and Patti, G. J. (2018). Identifying off-target effects of etomoxir reveals that carnitine palmitoyltransferase I is essential for cancer cell proliferation independent of beta-oxidation. PLoS Biol. 16, e2003782. doi:10.1371/journal.pbio.2003782
+
+Yao, Q., Li, S., Cheng, X., Zou, Y., Shen, Y., and Zhang, S. (2020). Yin Zhi Huang, a traditional Chinese herbal formula, ameliorates diet-induced obesity and hepatic steatosis by activating the AMPK/SREBP-1 and the AMPK/ACC/CPT1A pathways. Ann. Transl. Med. 8, 231. doi:10.21037/atm.2020.01.31
+
+Yoshida, G. J. (2015). Metabolic reprogramming: The emerging concept and associated therapeutic strategies. J. Exp. Clin. Cancer Res. 34, 111. doi:10.1186/ s13046-015-0221-y
+
+Zeng, F., Yao, M., Wang, Y., Zheng, W., Liu, S., Hou, Z., et al. (2022). Fatty acid betaoxidation promotes breast cancer stemness and metastasis via the miRNA-328-3pCPT1A pathway. Cancer Gene Ther. 29, 383 -395. doi:10.1038/s41417-021-00348-y
+
+Zhang, Y., Ma, K., Song, S., Elam, M. B., Cook, G. A., and Park, E. A. (2004). Peroxisomal proliferator-activated receptor-gamma coactivator-1 alpha (PGC-1 alpha) enhances the thyroid hormone induction of carnitine palmitoyltransferase I (CPT-I alpha). J. Biol. Chem. 279, 53963 -53971. doi:10.1074/jbc.M406028200
+
+Zhang, Z., Tan, M., Xie, Z., Dai, L., Chen, Y., and Zhao, Y. (2011). Identification of lysine succinylation as a new post-translational modification. Nat. Chem. Biol. 7, 58 -63. doi:10.1038/nchembio.495

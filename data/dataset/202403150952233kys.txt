@@ -1,0 +1,229 @@
+## 1. Introduction
+
+Rechargeable zinc -air batteries (ZABs) are well known for their low cost and high theoretical energy density. 1 -3 However, due to the slow kinetics of oxygen electrode reactions (including the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER)), as well as the high reversible potential difference of oxygen reaction ( D E ), ZABs exhibit an imbalance of charge and discharge, large voltage gaps, low energy conversion efficiency and other problems, which seriously hinder their marketization. 4 -7 Therefore, research and development of bifunctional catalysts with a low reversible potential difference, high activity and cost-effectiveness is a necessary condition to promote the commercialization of rechargeable ZABs. Transition metal nitrogen-doped carbon (M-N-C) is popular among researchers due to its low cost and rich M-N$_{x}$ sites, as well as its potential to replace precious metal-based catalysts. 8 -10 During the preparation process of M-N-C catalysts by a high temperature carbonization method, metal nanoparticles (M-NPs) are generally produced. 11,12 Whether the presence of metal
+
+College of Chemistry and Chemical Engineering, Hunan Normal University, Changsha 410081, China. E-mail: xc9229@outlook.com; yangyahui2002@sina.com
+
+† Electronic supplementary information https://doi.org/10.1039/d3se01067h
+
+(ESI)
+
+available.
+
+See
+
+DOI:
+
+|
+
+nanoparticles is bene  cial for catalytic reactions is controversial. On one hand, the presence of M-NPs increases the number and variety of active sites and affects electrocatalytic activity. On the other hand, the agglomeration of metal nanoparticles may seriously block the pore structure of the material, decreasing the speci  c surface area (SSA) and affecting the exposure and catalytic activity of the active sites in M-N-C. The two vastly different viewpoints above demonstrate the uncertainty of the impact of M-NPs on the activity of M-N-C materials.
+
+Several studies have been conducted to demonstrate the role of M-NPs in materials. Some studies have shown that the removal of metal nanoparticles from M-N-C materials by additional acid etching steps is bene  cial to enhance the catalytic performance of M-N-C via increasing the SSA, and these studies maintain a negative attitude towards the presence of M-NPs. 13,14 In contrast, other studies suggest that the presence of metal nanoparticles (especially Fe, Co, Ni) improves the OER catalytic activity of carbon substrates. For instance, Han et al. 15 prepared N-doped carbon nanotubes containing Co NPs and demonstrated that Co NPs in the catalyst have a synergistic effect on enhancing the OER activity. Based on the above considerations, the relation between the nanoparticle content and the SSA should be reasonably adjusted. Achieving the relative balance between the SSA of catalysts and the content of nanoparticles will be bene  cial to improve the catalytic activity. This balance have the following three advantages: (1) the presence of M-NPs will not seriously block the pores of materials and seriously
+
+reduce the SSA of catalysts; (2) the density of active sites containing M-NPs can be increased as much as possible to fully utilize the inherent activity of M-NPs; (3) no unnecessary etching steps are required, and the experimental operation is simple. However, the regulation of this  ne equilibrium state is tough.
+
+Herein, hollow porous N-doped carbon-encapsulated FeCo alloy nanoparticles (Fe$_{x}$Co$_{y}$@N-C-0.3) were fabricated via epitaxial growth and pyrolysis strategies. It is expected that the Fe$_{x}$Co$_{y}$@N-C-0.3 catalyst has excellent ORR and OER activities for the following reasons: (1) the FeCo alloy has high structural activity, especially for the OER; (2) the FeCo alloy has a strong synergistic effect with the carbon skeleton, which can optimize the electronic structure; (3) the balance between the number of FeCo alloy nanoparticles and the pore volume of the material can increase the density and exposure of the active sites. In fact, Fe$_{x}$Co$_{y}$@N-C-0.3 displays extraordinary bifunctional electrocatalytic performance with a small D E of 0.686 V, which was better than the value reported in lots of studies. The assembled aqueous ZABs exhibit a high-power density of 191 mW cm - 2 and a voltage gap of only 0.73 V a  er 345 h. In addition, the  exible ZABs have an outstanding cycling stability of 50 h and excellent  exibility at different bending angles.
+
+## 2. Experimental section
+
+## 2.1. Materials
+
+2-Methylimidazole (2-MIM), polyvinyl alcohol, Co(NO$_{3}$)$_{2}$ $ 6H$_{2}$O, FeSO$_{4}$ $ 7H$_{2}$O and NaCl were purchased from Shanghai Macklin Biochemical Co., Ltd. Zn(NO$_{3}$)$_{2}$ $ 6H$_{2}$O was purchased from Shanghai Sinopharm Chemical Reagent Co., Ltd. All the chemicals were used without further puri  cation.
+
+## 2.2. Synthesis of Fe$_{x}$Co$_{y}$@N-C-0.3
+
+2-MIM (11.3 mmol), Zn(NO$_{3}$)$_{2}$ $ 6H$_{2}$O (2.8 mmol) and FeSO$_{4}$-$ 7H$_{2}$O (0.3 mmol) were dissolved in 70 mL methanol with stirring for 15 h to obtain a Zn/Fe co-doped zeolitic imidazolate framework (ZnFe-ZIF). Then, 0.2 g ZnFe-ZIF, Co(NO$_{3}$)$_{2}$ $ 6H$_{2}$O (1.4 mmol), and 2-MIM (11.3 mmol) were dissolved in 90 mL methanol to obtain ZnFe-ZIF@ZIF-67. Finally, Fe$_{x}$Co$_{y}$@N-C-0.3 (the number represents an iron doping of 0.3 mmol) was obtained through the pyrolysis of the mixture of ZnFe-ZIF@ZIF-67 and NaCl at 900 °C for 2 h in a N$_{2}$ atmosphere. In addition, the Co@N-C (Fe free), Fe@N-C (Co free), Fe$_{x}$Co$_{y}$@N-C-0.1, and Fe$_{x}$Co$_{y}$@N-C-0.5 catalysts were synthesized by regulating the doping amount of Fe/Co.
+
+## 2.3. Materials characterization
+
+To observe the morphology and microstructure of speci  c materials, transmission and scanning electron microscopy studies (TEM: JEOL JEM 2100 F/SEM: ZEISS Sigma 300) were performed. The X-ray diffraction (XRD) patterns of the samples were obtained using a Rigaku SmartLab SE powder diffractometer to analyze the crystal structure. Elements and composition of the catalysts were analyzed by X-ray photoelectron spectroscopy (XPS) using a Thermo Scienti  c K-Alpha
+
+instrument. N$_{2}$ adsorption -desorption isotherms of the samples were recorded using a B Micromeritics ASAP 2460 instrument. The speci  c surface areas were calculated by the Brunauer -Emmett -Teller (BET) method.
+
+## 2.4. Electrochemical measurements
+
+ORR and OER performances were measured on a CorrTest electrochemical station workstation (Wuhan CorrTest Instruments Co.). Linear sweep voltammetry (LSV) curves were collected at a rotation speed of 1600 rpm and scanning speed of 5 mV s - 1 in O$_{2}$-saturated 0.1 M KOH. By dispersing 5 mg catalyst in Na  on (50 m L, 5 wt%) and ethanol (950 m L) mixed solution, the catalyst ink was prepared. The catalyst loading was 0.36 mg cm - $^{2}$.ORR performance was measured on a rotating disk electrode device (RRDE-3A, F = 5 mm). The OER performance of the catalysts was measured on a carbon paper (0.25 cm$^{2}$). Hydrogen peroxide yields and the electron transfer number ( n ) were calculated:
+
+where I$_{d}$ is the disk current, I$_{r}$ is the ring current, and N (0.43) is the current collection efficiency of the Pt ring. 16
+
+According to the cyclic voltammetry (CV) test from 1.09 -1.19 V ( vs. RHE), the electrochemical double-layer capacitance ( C$_{dl}$ ) of the catalysts was measured. The OER stability of the catalysts was measured by the chronoamperometry method at 1.55 V ( vs. RHE). The D E could be calculated:
+
+where E$_{j}$$_{=}$$_{10}$ is the potential at 10 mA cm - 2 for the OER, and E$_{1/2}$ is the half-wave potential for the ORR.
+
+The electrochemically active surface area (ECSA) can be calculated from the formula using C$_{dl}$ : 17
+
+## 2.5. Assembly of aqueous and  exible ZABs
+
+Aqueous rechargeable ZABs were composed of a zinc plate (99.99% purity) as the anode and a gas diffusion layer loaded with catalysts as the cathode (catalyst loading is 1 mg cm - $^{2}$). The performance of ZABs with 6 M KOH and 0.2 M Zn (CH$_{3}$COO)$_{2}$ as the electrolyte was tested using an electrochemical workstation and NEWARE BTS test system (NEWARE, Shenzhen). For synthesizing the gel electrolyte used in  exible ZABs, 1.5 g polyvinyl alcohol and 2 mL of 18 M KOH were added to the deionized water under magnetic stirring at 95 °C. Then 40 m L 0.3 M ammonium persulfate is added to the previous solution. The catalyst loading in  exible ZABs is 2.0 mg cm - $^{2}$.
+
+## 3. Results and discussion
+
+## 3.1. Synthesis and characterization of Fe$_{x}$Co$_{y}$@N-C-0.3
+
+The detailed synthetic process for Fe$_{x}$Co$_{y}$@N-C-0.3 is schematically illustrated in Fig. 1a. In short, ZIF-67 was wrapped in the outer layer of ZnFe-ZIF to obtain ZnFe-ZIF@ZIF-67 with a core -shell structure using the epitaxial growth method. Then, the Fe$_{x}$Co$_{y}$@N-C-0.3 catalyst was obtained by the pyrolysis of ZnFeZIF@ZIF-67. The morphology and structure of the Fe$_{x}$Co$_{y}$@N-C0.3 catalyst were examined by SEM/TEM. Compared with Fe$_{x}$Co$_{y}$@N-C-0.1, Fe$_{x}$Co$_{y}$@N-C-0.5, Fe@N-C and Co@N-C (Fig. S1 † ), Fe$_{x}$Co$_{y}$@N-C-0.3 has a dodecahedron morphology with a dimension of 1.0 -2.5 m m, and its surface is embedded with a large number of nanoparticles (Fig. 1b and c). Interestingly, as the doping amount of Fe increases, the size of as-prepared Fe$_{x}$Co$_{y}$@N-C also increases. This result demonstrates the importance of adjusting the iron content for precise control of sample sizes. TEM images reveal that Fe$_{x}$Co$_{y}$@N-C-0.3 has a hollow carbon cage encapsulating lots of nanoparticles (Fig. 1d and e). The hollow porous structure of the carbon
+
+skeleton can effectively prevent the agglomeration of metals, facilitate charge/mass transfer, and provide a large SSA to ensure full exposure of FeCo alloy nanoparticles and M-N$_{x}$ active sites. 18 Moreover, the high-resolution TEM (HRTEM) image shows that the lattice fringes of 0.14 nm and 0.20 nm correspond to the (200) and (110) planes of the FeCo alloy respectively (Fig. 1f and g). FeCo alloy NPs are surrounded by multiple graphite carbon shells, which is conducive to preventing corrosion and leaching of metals during the electrocatalytic process. 19,20 Furthermore, TEM and the corresponding elemental mapping images indicate the distribution of Co, Fe, C, and N elements in Fe$_{x}$Co$_{y}$@N-C-0.3 (Fig. 1h and i). Speci  -cally, the superposition of Fe and Co signals in element mapping images demonstrates the alloying of partial Fe and Co species in the carbon substrate.
+
+As displayed in Fig. 2a, unlike the Fe@N-C sample, no characteristic peaks of Fe$_{3}$C can be observed in the XRD images of all Fe$_{x}$Co$_{y}$@N-C samples, indicating that Fe is more likely to form FeCo alloy nanoparticles rather than Fe$_{3}$C. The characteristic diffraction peaks of Fe$_{x}$Co$_{y}$@N-C-0.3 at 44.4° can be
+
+Fig.1 (a) The synthesis route to Fe$_{x}$Co$_{y}$@N-C-0.3. (b and c) SEM images, (d and e) TEM images of Fe$_{x}$Co$_{y}$@N-C-0.3 with different magnifications. (f and g) HRTEM image of FeCo alloy nanoparticles with a core -shell structure in Fe$_{x}$Co$_{y}$@N-C-0.3, and (h and i) TEM and the elemental mapping images of Fe$_{x}$Co$_{y}$@N-C-0.3.
+
+|
+
+Fig. 2 (a) XRD patterns, and (b) Raman spectra of Fe$_{x}$Co$_{y}$@N-C-0.1, Fe$_{x}$Co$_{y}$@N-C-0.3, Fe$_{x}$Co$_{y}$@N-C-0.5, Fe@N-C and Co@N-C. The comparison of high-resolution XPS spectra of (c) Fe 2p and (d) Co 2p.
+
+attributed to the (110) planes of the FeCo alloy (PDF#48-1817). 21 In addition, the degree of graphitization of carbon in Fe$_{x}$Co$_{y}$@N-C-0.3 and other prepared samples can be further investigated by Raman spectra (Fig. 2b). 22 The bands located at ∼ 1305 and ∼ 1575 cm - 1 correspond to the D band and G band, respectively. 23,24 The I$_{D}$ / I$_{G}$ value (1.15) of the Fe$_{x}$Co$_{y}$@N-C-0.3 sample is less than those of Fe@N-C (1.57), Co@N-C (1.54) and other Fe$_{x}$Co$_{y}$@N-C samples, indicating Fe$_{x}$Co$_{y}$@N-C-0.3 has a higher degree of graphitization. The higher degree of graphitization contributes to the stability and conductivity of carbon materials during the electrocatalytic reaction.
+
+As displayed in Fig. S2, † the full XPS spectrum indicates the species of C, N, O, Fe and Co in Fe$_{x}$Co$_{y}$@N-C-0.3. In the Fe 2p spectra of Fe$_{x}$Co$_{y}$@N-C-0.3 and Fe@N-C samples,  ve peaks were ascribed to Fe 0 (720.3 eV), Fe 2+ (711.4 eV/724.0 eV), and Fe$^{3+}$(714.2 eV/727.5 eV) species. $^{25}$Other  tting peaks at 717.2 eV and 732.9 eV can be classi  ed as shakeup satellite peaks (Fig. 2c). 26 In comparison with Fe 2p XPS of Fe@N-C, the positions of Fe 0 and Fe 2+ peaks at Fe$_{x}$Co$_{y}$@N-C-0.3 shi  positively due to the alloying of Fe and Co atoms. The Co 2p spectrum of Fe$_{x}$Co$_{y}$@N-C-0.3 exhibits the characteristic 2p$_{3/2}$ and 2p$_{1/2}$ peaks for Co 0 (Co 2p$_{3/2}$ at 776.6 eV) and Co 2+ (Co 2p$_{3/2}$ at 781.2 eV and Co 2p$_{1/2}$ at 797.1 eV) (Fig. 2d). 27 -29 Compared with the Co 2p spectrum of Co@N-C, the peak of Co 0 moves positively towards
+
+the binding energy, and the peak of Co 2+ moves inversely towards the binding energy. These changes in peak position are due to the modulation of charge distribution by alloying of Fe and Co. 30,31 The C 1s XPS spectrum (Fig. S3 † ) has three peaks, which are C -C (284.8 eV), C -N (286.0 eV), and C -O (290.5 eV). 32 In addition, through the comparison of various carbon contents in Fe$_{x}$Co$_{y}$@N-C-0.3, Fe@N-C and Co@N-C, it was found that the Fe$_{x}$Co$_{y}$@N-C-0.3 sample has a higher C -C content (48.8%), indicating that the electronic conductivity was stronger. The N 1s spectrum (Fig. S4 † )ofFe $_{x}$Co$_{y}$ @N-C-0.3 is deconvoluted into pyridinic N (398.3 eV), M-N$_{x}$ (M = Co, Fe) (399.0 eV), pyrrolic N (400.5 eV), graphitic N (401.5 eV), and oxidized N (405.1 eV). 33,34 In general, pyridine N and M-N$_{x}$ can act as the catalytically active sites, and graphite N can increase the diffusion current of the catalyst, thus contributing to the catalytic reaction kinetics of the catalyst. 35,36 Therefore, it is necessary to analyze the contents of various nitrogens in Fe$_{x}$Co$_{y}$@N-C-0.3, Fe@N-C and Co@N-C. The total contents of pyridine nitrogen, metallic nitrogen and graphitic nitrogen were the highest in the Fe$_{x}$Co$_{y}$@N-C-0.3 sample, suggesting its stronger catalytic capacity.
+
+The pore information and speci  c surface area of Fe$_{x}$Co$_{y}$@NC-0.3 were investigated by nitrogen adsorption -desorption tests. A typical type IV isotherm with an obvious hysteresis loop in the relative high-pressure range ( P / P$_{0}$ = 0.4 -1.0) is detected
+
+Fig. 3 (a) N$_{2}$ adsorption -desorption isotherms of Fe$_{x}$Co$_{y}$@N-C-0.3, Fe@N-C and Co@N-C and (b) the corresponding pore size distribution. (c) N$_{2}$ adsorption -desorption isotherms of Fe$_{x}$Co$_{y}$@N-C-0.1, Fe$_{x}$Co$_{y}$@N-C-0.3, Fe$_{x}$Co$_{y}$@N-C-0.5 and (d) the corresponding pore size distribution.
+
+for the Fe$_{x}$Co$_{y}$@N-C-0.3 sample, suggesting the micropore/ mesopore dominated hierarchical porous structure (Fig. 3a). In addition, the SSA decreases from Fe@N-C (518.22 m 2 g - $^{1}$), Fe$_{x}$Co$_{y}$@N-C-0.3 (351.64 m 2 g - $^{1}$) to Co-N-C (276.46 m2 g - $^{1}$), indicating that some pores are indeed blocked during the formation of the FeCo alloy, as well as Fe doping can improve the SSA. Further observation of the hysteresis curve shows that the hysteresis of Fe$_{x}$Co$_{y}$@N-C-0.3 is larger than that of Fe@N-C and Co-N-C, indicating more mesopores. The fact that there are more mesopores for Fe$_{x}$Co$_{y}$@N-C-0.3 means that FeCo alloy NPs clog micropores without reducing the overall catalytic activity of the catalyst. In the micropore region of the pore size distribution diagram, the formation of the FeCo alloy in the Fe$_{x}$Co$_{y}$@NC-0.3 reduces the number of micropores, but generates a large number of mesopores at the same time (Fig. 3b). The simultaneous existence of micropores and mesopores, especially the presence of mesopores, is conducive to the charge transport and gas/mass transfer of the Fe$_{x}$Co$_{y}$@N-C-0.3 sample during the catalytic process. 16,37,38 Compared with the samples Fe$_{x}$Co$_{y}$@NC-0.1 (382.05 m 2 g - $^{1}$) and Fe$_{x}$Co$_{y}$@N-C-0.5 (175.48 m2 g - $^{1}$)in Fig. 3c, the SSA of Fe$_{x}$Co$_{y}$@N-C-0.3 (351.64 m 2 g - $^{1}$)i sa t a medium level. This means that a moderate Fe doping results in a moderate number of FeCo alloy nanoparticles, with negligible negative effects on the speci  c surface area. In Fig. 3d, the number of mesopores in Fe$_{x}$Co$_{y}$@N-C-0.3 slightly decreases, but
+
+|
+
+the number of mesopores does not decrease compared with Fe$_{x}$Co$_{y}$@N-C-0.3. Adjusting the doping amount of Fe can moderate the content of FeCo alloy nanoparticles, resulting in little negative effects on the number of pores and the speci  c surface area. Therefore, it is expected that Fe$_{x}$Co$_{y}$@N-C-0.3 has a better proportional relationship between the content of FeCo alloy nanoparticles and the speci  c surface area, optimizing the catalytic activity.
+
+## 3.2. Electrocatalytic performance of Fe$_{x}$Co$_{y}$@N-C-0.3
+
+The ORR performance of the Fe$_{x}$Co$_{y}$@N-C-0.3 catalyst was measured in 0.1 M KOH. As displayed in Fig. 4a, the positive half-wave potential of Fe$_{x}$Co$_{y}$@N-C-0.3 (0.842 V) is more positive than those of Fe@N-C (0.810 V) and Co@N-C (0.803 V) and other Fe$_{x}$Co$_{y}$@N-C samples, representing that Fe$_{x}$Co$_{y}$@N-C-0.3 has better ORR activity. Among all the prepared samples, Fe$_{x}$Co$_{y}$@N-C-0.3 had the lowest Tafel slope (88.1 mV dec - $^{1}$), followed by Fe$_{x}$Co$_{y}$@N-C-0.1 (90.9 mV dec - $^{1}$) and Fe$_{x}$Co$_{y}$@N-C-0.5 (94.3 mV dec - $^{1}$) (Fig. 4b and Table S1 † ). These data con  rm that the FeCo alloy and M-N$_{x}$ sites (FeCo/M-N$_{x}$) synergically improve the reaction kinetics of the ORR. 39 -41 Therefore, adjusting the doping amount of Fe can balance the relationship between the density of the active sites and the SSA of the catalyst, so as to obtain the optimal catalytic activity. Remarkably, the ORR activity of Fe$_{x}$Co$_{y}$@N-C-0.3 exceeds some relevant states of M-N-
+
+Fig. 4 Electrochemical performance test of Fe$_{x}$Co$_{y}$@N-C-0.1, Fe$_{x}$Co$_{y}$@N-C-0.3, Fe$_{x}$Co$_{y}$@N-C-0.5, Fe@N-C, Co@N-C, Pt/C and RuO$_{2}$ for the ORR and OER. (a) ORR polarization curves. (b) The corresponding Tafel plots. (c) The H$_{2}$O$_{2}$ yield and electron transfer number. (d) The stability test for the ORR. (e) OER polarization curves and (f) the derived Tafel plots. (g) The stability test for the OER. (h) Bifunctional ORR/OER polarization curves of the electrocatalysts. (i) The D E values of the above catalysts.
+
+C catalysts in Table S2. † The peroxide percentage of Fe$_{x}$Co$_{y}$@NC-0.3 is below 12.2%, giving an electron transfer number of 3.76 -3.95, revealing the high selectivity towards the ORR and the efficient 4e-transfer mechanism (Fig. 4c). 42 In addition, Fe$_{x}$Co$_{y}$@N-C-0.3 has excellent long-term stability with a current retention of 91.6% against 10 h continuous testing (Fig. 4d), while the current retention of Pt/C is decreased to be 82.8% a  er testing for 8 h. Moreover, the E$_{1/2}$ of the Fe$_{x}$Co$_{y}$@N-C-0.3 is almost unchanged a  er 1000 CV cycles (Fig. S5 † ). Furthermore, Fe$_{x}$Co$_{y}$@N-C-0.3 has outstanding methanol tolerance and ability to prevent methanol poisoning, manifesting its potential application in direct methanol fuel cells (Fig. S6 † ).
+
+The OER performance of the Fe$_{x}$Co$_{y}$@N-C-0.3 catalyst was also evaluated on a Corrtest electrochemical station workstation. The potential of Fe$_{x}$Co$_{y}$@N-C-0.3 at 10 mA cm - 2 was 1.528 V, beating those of RuO$_{2}$ (1.607 V), Fe@N-C (1.661 V), Co@N-C (1.637 V) and other Fe$_{x}$Co$_{y}$@N-C samples (Fig. 4e and Table S3 † ), indicating that the Fe$_{x}$Co$_{y}$@N-C-0.3 sample has the
+
+best OER activity. Notably, Fe$_{x}$Co$_{y}$@N-C-0.3 has the highest OER activity, meaning that the balance between the alloy and SSA is useful for improving the OER performance. Fe$_{x}$Co$_{y}$@N-C-0.3 has the smallest Tafel slope (87.7 mV dec - $^{1}$) among all samples, which con  rms that the OER of the catalyst is optimized when the amount of FeCo alloy in the Fe$_{x}$Co$_{y}$@N-C-0.3 sample is in equilibrium with the speci  c surface area (Fig. 4f). The OER performance of Fe$_{x}$Co$_{y}$@N-C-0.3 is comparable to those of reported advanced M-N-C catalysts, demonstrating the excellent OER catalytic ability of the Fe$_{x}$Co$_{y}$@N-C0.3 sample (Table S4 † ). A  er 10 h continuous testing, the current retention of Fe$_{x}$Co$_{y}$@N-C-0.3 is 90.6%, while the current density of RuO$_{2}$ declines to 71.5% (Fig. 4g). In addition, the value of E$_{j}$$_{=}$$_{10}$ for Fe$_{x}$Co$_{y}$@N-C-0.3 slightly changed a  er 1000 cycles of CV tests (Fig. S7 † ). Those results revealed the superior long-term durability of Fe$_{x}$Co$_{y}$@N-C-0.3. The remarkable catalytic activity of the sample is due to the highest degree of graphitization of all the Fe$_{x}$Co$_{y}$@N-C samples, the balance
+
+between the SSA and the number of FeCo alloy nanoparticles, and the synergistic effect of the FeCo alloy with the carbon substrate, which can facilitate the increase of the active site density and exposure and the electron transfer rate.
+
+The C$_{dl}$ value was used to investigate the ECSA of the Fe$_{x}$Co$_{y}$@N-C-0.3 catalyst to obtain information about the active site density. 43 As displayed in Fig. S8, † Fe$_{x}$Co$_{y}$@N-C-0.3 has a larger C$_{dl}$ value (6.3 mF cm - $^{2}$) than that of Fe@N-C (4.8 mF cm - $^{2}$), Co@N-C (3.1 mF cm - $^{2}$) and other Fe$_{x}$Co$_{y}$@N-C samples, which is mainly due to its hierarchically porous structure, and high intrinsic activity of the FeCo alloy nanoparticles and FeCo/M-N$_{x}$ composite active sites. In addition, the moderately doped FeCo alloy effectively utilizes the pore structure of the material and ensures the exposure of the active sites. The ECSA standardized oxygen evolution/hydrogen evolution current was used for highlighting inherent catalytic activities of the samples. In Fig. S9a, † of all the samples, Fe$_{x}$Co$_{y}$@N-C-0.3 has the most positive E$_{1/2}$ when the current is normalized to ECSA. For the OER, the maximum ECSA normalization current of CoFeLDH@NPC (at the same large potential) indicates that the
+
+increase in OER activity is due to the increase in ECSA and the strong interaction between the alloy and the carbon substrate (Fig. S9b † ). D E can be used as a major criterion to estimate the bifunctional activities of the catalysts. 44 As presented in Fig. 4h, i and Table S5, † Fe$_{x}$Co$_{y}$@N-C-0.3 exhibits a very low D E of 0.686 V, exceeding those of Pt/C and RuO$_{2}$ (0.798 V) and advanced bifunctional electrocatalysts reported. This result indicates that the equilibrium between the high density and large SSA of the FeCo alloy and the synergism between the FeCo alloy and carbon cage can improve the bifunctional activities of Fe$_{x}$Co$_{y}$@N-C-0.3 samples.
+
+## 3.3. Performance of Fe$_{x}$Co$_{y}$@N-C-0.3-based ZABs
+
+ZABs using Fe$_{x}$Co$_{y}$@N-C-0.3 as an air cathode catalyst were assembled to investigate the performance of Fe$_{x}$Co$_{y}$@N-C-0.3 in practical applications. The aqueous ZABs based on Fe$_{x}$Co$_{y}$@NC-0.3 produced a high open circuit potential (OCP) of 1.45 V and a peak power density of 191 mW cm - 2 (Fig. 5a and b), exceeding those of Pt/C + RuO$_{2}$-based ZABs (1.42 V, 99 mW cm - $^{2}$). As displayed in Fig. 5c and d, the initial charge/discharge
+
+Fig. 5 (a) The OCP curves and (b) polarization curves and power density plots, and cycling test at 5 mA cm - 2 of aqueous ZABs based on (c) Fe$_{x}$Co$_{y}$@N-C-0.3 and (d) Pt/C + RuO$_{2}$. (e) The schematic representation of the flexible ZABs based on Fe$_{x}$Co$_{y}$@N-C-0.3. (f) OCP curves, (g) cycling tests at 5 mA cm - $^{2}$of flexible ZABs based on Fe$_{x}$Co$_{y}$@N-C-0.3 and Pt/C + RuO$_{2}$, and (h) discharge -charge voltage profiles at 5 mA cm - 2 for every five cycles under different bending angles.
+
+|
+
+voltage gap of 0.70 V is shown for Fe$_{x}$Co$_{y}$@N-C-0.3-based ZABs, while the initial voltage gap of ZABs based on Pt/C + RuO$_{2}$ is 0.83 V. A  er 345 h of cycling test, the voltage gap of Fe$_{x}$Co$_{y}$@NC-0.3-based ZABs becomes 0.73 V, and the voltage loss in the test is only 0.03 V, indicating that the battery has high energy efficiency. However, the voltage gap of Pt/C + RuO$_{2}$-based ZABs increased by 0.66 V a  er the cycling test for 260 h, suggesting serious performance degradation. In terms of OCP, peak power density, voltage gap, and cycle time, the Fe$_{x}$Co$_{y}$@N-C-0.3-based ZAB presents similar or better data compared to the advanced ZABs based on M-N-C catalysts in Table S6. † These remarkable data (high OCP, large peak power density, low charge -discharge voltage gap and cycling stability) verify the efficient and stable electrocatalytic performance of Fe$_{x}$Co$_{y}$@N-C-0.3 in practical applications. In addition, ZABs based on Fe$_{x}$Co$_{y}$@N-C-0.3 exhibited a high speci  c capacity of 769.06 mA h g - 1 (Fig. S10 † ), demonstrating the application capability of Fe$_{x}$Co$_{y}$@N-C-0.3 in the  eld of ZABs.
+
+Flexible ZABs were also assembled using Fe$_{x}$Co$_{y}$@N-C-0.3 as the catalyst to meet the high safety requirements (Fig. 5e). As shown in Fig. 5f,  exible ZABs based on Fe$_{x}$Co$_{y}$@N-C-0.3 display a higher OCP of 1.40 V compared with that of  exible Pt/C + RuO$_{2}$ based-ZABs (1.38 V). At 5 mA cm - $^{2}$, the  exible ZABs based on Fe$_{x}$Co$_{y}$@N-C-0.3 achieve an outstanding cycle stability of 50 h (Fig. 5g). However, the  exible ZABs based on Pt/C + RuO$_{2}$ have a sharp increase in the voltage gap within ∼ 18 h. This stark contrast demonstrates that Fe$_{x}$Co$_{y}$@N-C-0.3 has more prominent long-term stability and reversibility than Pt/C + RuO$_{2}$. Moreover, the outstanding stability and  exibility of the Fe$_{x}$Co$_{y}$@N-C-0.3 cathode can also be evaluated by the almost unchanged round-trip efficiency of ZABs when bent at 0° and 90° (Fig. 5h). Compared with some relevant  exible ZABs based on the same type of catalyst, Fe$_{x}$Co$_{y}$@N-C-0.3 also has excellent performance (Table S7 † ). The reasons for the enhancement of the bifunctional activity of Fe$_{x}$Co$_{y}$@N-C-0.3 include: (1) the FeCo alloy has high structural activity; (2) the strong synergistic effect between the FeCo alloy and carbon skeleton can optimize the electronic structure; (3) the balance between the number of FeCo alloy nanoparticles and the pore volume of the material can increase the density and exposure of the active sites.
+
+## 4. Conclusions
+
+In summary, a bifunctional alloy catalyst has been fabricated by encapsulating FeCo alloy nanoparticles into porous hollow carbon cages (Fe$_{x}$Co$_{y}$@N-C-0.3). The synthesized Fe$_{x}$Co$_{y}$@N-C0.3 catalyst exhibits excellent bifunctional catalytic performance activity with a minimal D E value of 0.686 V. The enhancement of catalytic activity and stability of Fe$_{x}$Co$_{y}$@N-C0.3 is due to the balance between the content of the FeCo alloy and the porosity of the catalyst. This balance not only helps to improve the density of the FeCo alloy, but also solves the problem of agglomeration and low accessibility of active sites owing to the too small speci  c surface area, consequently improving the activity of the catalyst. Assembled aqueous ZABs based on Fe$_{x}$Co$_{y}$@N-C-0.3 exhibit a high peak power density of 191 mW cm - $^{2}$, a quite low initial voltage gap of 0.70 V and an
+
+excellent cycling stability of 345 h, outperforming those of recently reported ZABs. The  exible Fe$_{x}$Co$_{y}$@N-C-0.3-based ZABs also exhibit an outstanding cycling stability,  exibility and good round-trip efficiency at 5 mA cm - $^{2}$. In brief, this work found a way to integrate carbon materials that encapsulate bimetallic alloy nanoparticles into advanced bifunctional oxygen catalysts in rechargeable ZABs, effectively narrowing the voltage gap and improving the energy conversion efficiency.
+
+## Author contributions
+
+Nan Li: conceptualization, methodology, writing -original dra  , funding acquisition. Ting Yang: methodology, data curation. Hang Lou: visualization, data curation. Lijuan Huang: resources, investigation, data curation. Xiaoyu Ma: data curation, visualization. Hao Jiang: validation, formal analysis. Jiaxiang Xiao: validation. Chao Xie: supervision, writing -review & editing. Yahui Yang: writing -review & editing, funding acquisition.
+
+## Conflicts of interest
+
+There are no con  icts to declare.
+
+## Acknowledgements
+
+This study was supported by the National Natural Science Foundation of China (No. 52074119), the Joint Funds of National Natural Science Foundation of China (No. U20A20280), the Hunan Provincial Natural Science Foundation of China (No. 2022JJ30393 and 2023JJ40448), the Changsha Natural Science Foundation (No. kq2208160), the Scienti  c Research Fund of Hunan Provincial Education Department (No. 22B0042) and the Postgraduate Scienti  c Research Innovation Project of Hunan Province (No. CX20230517). The authors thank Shiyanjia Lab ( http://www.shiyania.com/ ) for the XPS characterization.
+
+## Notes and references
+
+1 W. Li, L. Wu, X. Wu, C. Shi, Y. Li, L. Zhang, H. Mi, Q. Zhang, C. He and X. Ren, Appl. Catal., B , 2022, 303 , 120849.
+
+2 Y. Zhang, Q. He, Z. Chen, Y. Chi, J. Sun, D. Yuan and L. Zhang, J. Energy Chem. , 2023, 76 , 117 -126.
+
+3 Y. Guan, N. Li, J. He, Y. Li, L. Zhang, Q. Zhang, X. Ren, C. He, L. Zheng and X. Sun, J. Mater. Chem. A , 2021, 9 , 21716 -21722.
+
+4 L. Li, J. Chen, S. Wang, Y. Huang and D. Cao, Appl. Surf. Sci. , 2022, 582 , 152375.
+
+5 Y. X. Zhao, J. H. Wen, P. Li, P. F. Zhang, S. N. Wang, D. C. Li, J. M. Dou, Y. W. Li, H. Y. Ma and L. Xu, Angew Chem. Int. Ed. Engl. , 2023, e202216950.
+
+6 P. Zhang, K. Chen, J. Li, M. Wang, M. Li, Y. Liu and Y. Pan, Adv. Mater. , 2023, 35 , 2303243.
+
+7 C. Fan, X. Wang, X. Wu, Y. Chen, Z. Wang, M. Li, D. Sun, Y. Tang and G. Fu, Adv. Energy Mater. , 2023, 13 , 2203244.
+
+8 K. Liu, J. Fu, Y. Lin, T. Luo, G. Ni, H. Li, Z. Lin and M. Liu, Nat. Commun. , 2022, 13 , 2075.
+
+9 Q. Wang, R. Lu, Y. Yang, X. Li, G. Chen, L. Shang, L. Peng, D. Sun-Waterhouse, B. C. C. Cowie, X. Meng, Y. Zhao, T. Zhang and G. I. N. Waterhouse, Sci. Bull. , 2022, 67 , 1264 -1273.
+
+10 H. Tian, A. Song, P. Zhang, K. Sun, J. Wang, B. Sun, Q. Fan, G. Shao, C. Chen, H. Liu, Y. Li and G. Wang, Adv. Mater. , 2023, 35 , 2210714.
+
+11 S.-H. Yin, J. Yang, Y. Han, G. Li, L.-Y. Wan, Y.-H. Chen, C. Chen, X.-M. Qu, Y.-X. Jiang and S.-G. Sun, Angew Chem. Int. Ed. Engl. , 2020, 59 , 21976 -21979.
+
+12 X. Cheng, Y. Li, J. Zheng, S. Yin, C. Wang, X. Qu, J. Yang, Y. Jiang and S. Sun, Nano Energy , 2022, 100 , 107440.
+
+13 L. Yang, L. Shi, D. Wang, Y. Lv and D. Cao, Nano Energy , 2018, 50 , 691 -698.
+
+14 L. Zhong, C. Jiang, M. Zheng, X. Peng, T. Liu, S. Xi, X. Chi, Q. Zhang, L. Gu, S. Zhang, G. Shi, L. Zhang, K. Wu, Z. Chen, T. Li, M. Dahbi, J. Alami, K. Amine and J. Lu, ACS Energy Lett. , 2021, 6 , 3624 -3633.
+
+15 H. Han, J. W. Paik, M. Ham, K. M. Kim, J. K. Park and Y. K. Jeong, Small , 2020, 16 , 2002427.
+
+16 J. Li, W. Li, H. Mi, Y. Li, L. Deng, Q. Zhang, C. He and X. Ren, J. Mater. Chem. A , 2021, 9 , 22635 -22642.
+
+17 J. Wang, S. Xin, Y. Xiao, Z. Zhang, Z. Li, W. Zhang, C. Li, R. Bao, J. Peng, J. Yi and S. Chou, Angew Chem. Int. Ed. Engl. , 2022, 61 , e202202518.
+
+18 Q. Zhou, S. Zhang, G. Zhou, H. Pang, M. Zhang, L. Xu, K. Sun, Y. Tang and K. Huang, Small , 2023, 19 , 2301324.
+
+19 X. Xu, J. Xie, B. Liu, R. Wang, M. Liu, J. Zhang, J. Liu, Z. Cai and J. Zou, Appl. Catal., B , 2022, 316 , 121687.
+
+20 J. Liu, C. Wang, H. Sun, H. Wang, F. Rong, L. He, Y. Lou, S. Zhang, Z. Zhang and M. Du, Appl. Catal., B , 2020, 279 , 119407.
+
+21 H. Zhang, M. Zhao, H. Liu, S. Shi, Z. Wang, B. Zhang, L. Song, J. Shang, Y. Yang, C. Ma, L. Zheng, Y. Han and W. Huang, Nano Lett. , 2021, 21 , 2255 -2264.
+
+22 X. Wang, J. Wang, P. Wang, L. Li, X. Zhang, D. Sun, Y. Li, Y. Tang, Y. Wang and G. Fu, Adv. Mater. , 2022, 34 , 2206540.
+
+23 Y. Xue, Y. Guo, Q. Zhang, Z. Xie, J. Wei and Z. Zhou, NanoMicro Lett. , 2022, 14 , 162.
+
+24 H. Chang, Y.-F. Guo, X. Liu, P.-F. Wang, Y. Xie and T.-F. Yi, Appl. Catal., B , 2023, 327 , 122469.
+
+25 S. Wang, H. Wang, C. Huang, P. Ye, X. Luo, J. Ning, Y. Zhong and Y. Hu, Appl. Catal., B , 2021, 298 , 120512.
+
+26 S. Ren, X. Duan, F. Ge, Z. Chen, Q. Yang, M. Zhang and H. Zheng, Chem. Eng. J. , 2022, 427 , 131614.
+
+|
+
+27 Y. Liu, Z. Chen, Z. Li, N. Zhao, Y. Xie, Y. Du, J. Xuan, D. Xiong, J. Zhou, L. Cai and Y. Yang, Nano Energy , 2022, 99 , 107325.
+
+28 Y. Deng, J. Zheng, B. Liu, Y. Liu, H. Li and M. Yang, Carbon , 2023, 210 , 118000.
+
+29 M. Li, X. Wang, K. Liu, Z. Zhu, H. Guo, M. Li, H. Du, D. Sun, H. Li, K. Huang, Y. Tang and G. Fu, Adv. Energy Mater. , 2023, 13 , 2301162.
+
+30 M. Li, X. Pan, M. Jiang, Y. Zhang, Y. Tang and G. Fu, Chem. Eng. J. , 2020, 395 , 125160.
+
+31 M. Li, X. Wang, K. Liu, H. Sun, D. Sun, K. Huang, Y. Tang, W. Xing, H. Li and G. Fu, Adv. Mater. , 2023, 35 , 2302462.
+
+32 Y. Liu, Z. Chen, N. Zhao, G. Tong, Z. Li, B. Wang, Y. Du, Q. Pan, Z. Li, Y. Xie and Y. Yang, Chem. Eng. J. , 2022, 433 , 134469.
+
+33 Y. Guan, N. Li, Y. Li, L. Sun, Y. Gao, Q. Zhang, C. He, J. Liu and X. Ren, Nanoscale , 2020, 12 , 14259 -14266.
+
+34 N. Li, Y. Guan, Y. Li, H. Mi, L. Deng, L. Sun, Q. Zhang, C. He and X. Ren, J. Mater. Chem. A , 2021, 9 , 1143 -1149.
+
+35 C. Y. Su, H. Cheng, W. Li, Z. Q. Liu, N. Li, Z. Hou, F. Q. Bai, H. X. Zhang and T. Y. Ma, Adv. Energy Mater. , 2017, 7 , 1602420.
+
+36 C. Lai, J. Wang, W. Lei, C. Xuan, W. Xiao, T. Zhao, T. Huang, L. Chen, Y. Zhu and D. Wang, ACS Appl. Mater. Interfaces , 2018, 10 , 38093 -38100.
+
+37 Z. Chen, B. Fei, M. Hou, X. Yan, M. Chen, H. Qing and R. Wu, Nano Energy , 2020, 68 , 104371.
+
+38 S. Y. Lin, L. X. Xia, Y. Cao, H. L. Meng, L. Zhang, J. J. Feng, Y. Zhao and A. J. Wang, Small , 2022, 18 , e2107141.
+
+39 C. Hu and L. Dai, Adv. Mater. , 2017, 29 , 1604942.
+
+40 H. Jiang, J. Xia, L. Jiao, X. Meng, P. Wang, C.-S. Lee and W. Zhang, Appl. Catal., B , 2022, 310 , 121352.
+
+41 R. Zhuge, P. Shi and T. Zhang, Chin. J. Struct. Chem. , 2022, 41 , 2203062 -2203069.
+
+42 J. Lilloja, E. Kibena-P ˜ oldsepp, A. Sarapuu, M. K a arik, J. Kozlova, P. Paiste, A. Kikas, A. Treshchalov, J. Leis, A. Tamm, V. Kisand, S. Holdcro  and K. Tammeveski, Appl. Catal., B , 2022, 306 , 121113.
+
+43 M. Li and L. G. Feng, Chin. J. Struct. Chem. , 2022, 41 , 2201019 -2201024.
+
+44 D. Chen, X. Chen, Z. Cui, G. Li, B. Han, Q. Zhang, J. Sui, H. Dong, J. Yu, L. Yu and L. Dong, Chem. Eng. J. , 2020, 399 , 125718.

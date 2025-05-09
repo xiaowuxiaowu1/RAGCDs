@@ -1,0 +1,251 @@
+## 1. Introduction
+
+low-cost, abundant resources to replace them. 5-8 Furthermore, its selective oxidation is also valuable to study.
+
+In the face of uncontrolled utilization of non-renewable energy and increasingly serious environmental problems, non-fossil energy has received the attention of researchers. As green energy, hydrogen has been applied in many fields. 1,2 There are numerous ways to produce hydrogen, among which the application of long-term solar energy to drive hydrogen generation from water splitting via photocatalysis is considered to be one of the most promising approaches. 3,4 In order to advance the hydrogen evolution rate (HER), photocatalytic water splitting often requires the addition of sacrificial agents, such as triethanolamine and methanol, having relatively high costs and limit further applications. This necessitates the use of
+
+|
+
+At the same time, resource scarcity and environmental pollution have prompted more extensive research on biomass. It serves as an abundant and easily accessible resource that can produce a large number of value-added platform chemicals. 9,10 As a high-value biochemical substance derived from biomass, lactic acid is widely used in the pharmaceutical, food, and chemical industries. 11 The synthesis strategies of lactic acid mainly include microbial and chemical methods. 12 Among them, about 70% of lactic acid comes from the fermentation of crops via microorganisms. This method owns the merits of mild operation temperature, low energy demand, and high selectivity. However, it suffers from some problems in actual production. For instance, the fermentation process will generate a large amount of waste when grains are used as raw materials. 13,14 Moreover, long durations, harsh reaction conditions, and low efficiency of these processes restrict their large-scale applications. These problems result in lactic acid production with high costs. 15 For the chemical method, although the selectivity of thermal catalysisishigh,itspracticalapplicationstillhascertainlimitations, such as hazardous conditions, complicated purification, and environmental pollution. 16 In contrast, photocatalysis technology has the advantages of high catalytic activity, non-toxicity, good stability, safety, low energy consumption, and reusability. Furthermore, the coupling of photocatalytic selective oxidation of
+
+biomass conversion and photo splitting to co-generate highvalued chemicals and hydrogen is of great significance and limited reports have been studied. Therefore, it is of great significance to invoke an efficient catalysis system to facilitate the process, 17 and the key to achieving this goal is to design and prepare an efficient photocatalyst.
+
+As the most explored photocatalyst, TiO$_{2}$ has non-toxicity, good stability, and low cost, which has been used in biomass conversion.$^{18-20}$However, it could be only activated under ultraviolet light (less than 5% in sunlight) with a wavelength less than 387 nm due to the larger band gap. 21 Meanwhile, the fast charge recombination also slows down its photocatalytic activity, which further limits its large-scale application. 22 Recently, various strategies have been applied to expand its absorption wavelength range. 23-25 Among them, coupling with other narrow-bandgap semiconductors to form a heterojunction structure is one of the attractive approaches that can enhance its conduction band. 26,27 For example, the TiO$_{2}$/NiO heterojunction obtained by depositing NiO nanorods on TiO$_{2}$ greatly improved its migration of photo-generated carriers, leading to improved photocatalytic performance. 28 Meanwhile, transition metal phosphides of RuP$_{2}$ are reportedly effective cocatalysts for photocatalytic H$_{2}$ production, owing to their resistance against acids and alkali corrosion in photocatalytic water spitting, as well as high stability. 29 For example, the RuP$_{2}$ in RuP$_{2}$/CdS intensively attracted photo-electrons and transferred them from CdS to RuP$_{2}$, thus greatly promoting the separation of photo-generated charges, which helped to improve the photocatalytic H$_{2}$ evolution performance. 30 Therefore, the construction of a reasonable heterostructure with RuP$_{2}$ on TiO$_{2}$ could be envisioned to significantly accelerate the photocatalytic performance of the integrated system for biomass conversion coupled with water splitting, but it is yet to be achieved.
+
+In this study, a ternary photocatalyst (denoted as RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$) has been designed and used in synchronous water splitting and biomass conversion. RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was prepared via nano TiO$_{2}$, sodium hypophosphite, and ruthenium trichloride using an evaporation-calcination strategy. Interestingly, the surface of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 has uniformly arranged nanospheres, which can increase the active sites and promote the diffusion of photogenerated electrons. In addition, the introduced RuP$_{2}$ and Ti$_{4}$P$_{6}$O$_{23}$ can broaden the visible light response range, provide abundant edge active sites for hydrogen evolution, and significantly accelerate the migration of photo-generated carriers by forming a heterojunction. It simultaneously furnishes 16.3 mmol g - 1 h - 1 of hydrogen release and 2.41 mmol g - 1 h - 1 of lactic acid production from the xylose solution. Moreover, RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 showed good recoverability, in which the lactic acid production and the hydrogen release still reached 2.14 mmol g - 1 h - 1 and 9.03 mmol g - 1 h - 1 in the 5th cycle, respectively.
+
+## 2. Results and discussion
+
+## 2.1. Photocatalyst preparation and characterization
+
+The construction scheme of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ is presented in Fig. 1A. Initially, the precursor from nano TiO$_{2}$, sodium
+
+|
+
+Fig. 1 Preparation scheme of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ (A). SEM image (B), TEM image (C), HRTEM image (D) and HAADF-STEM image (E) of RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7. Elemental mapping images of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7: Ru (F), P (G), Ti (H), O (I). XRD patterns of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7 (J).
+
+hypophosphite, and ruthenium trichloride was formed using an evaporation-calcination strategy. After calcination (600 1 C, 2 h), RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ could be successfully obtained. For its characterization, a series of technologies were used. As shown in Fig. 1B, scanning electron microscopy (SEM) showed that keyboard-like shaped RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 with a series of nanospheres was anchored on its surface. Likewise, it can be clearly seen from the transmission electron microscopy (TEM) image that nanospheres are anchored on the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7 surface (Fig. 1C). Meanwhile, some obvious lattice fringes on RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 were observed via HRTEM (Fig. 1D). Amongst, the lattice fringe of 0.294 nm is attributed to the (020) crystal plane of RuP$_{2}$, 31 indicating the successful formation of RuP$_{2}$. The lattice fringe of 0.605 nm is attributed to the (012) plane of Ti$_{4}$P$_{6}$O$_{23}$. For TiO$_{2}$, the lattice fringe of 0.237 nm (004) was also observed. In addition, the HAADFSTEM (Fig. 1E) and elemental mapping images (Fig. 1F-I) displayed that the elements of Ru, P, Ti, and O were evenly distributed on RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7. All the results showed that RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was successfully prepared and formed a heterojunction structure. Fig. 1J displays the X-ray diffraction
+
+(XRD) patterns of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7. The diffraction peaks at 48.04 1 , 37.76 1 , and 25.33 1 belong to the (200), (004), and (101) planes of TiO$_{2}$ (JCPDS 21-1272), respectively, 32 whereas the diffraction peaks situated at 14.48 1 , 24.23 1 , 29.20 1 , 32.38 1 and 49.66 1 correspond to the (012), (113), (024), (116), and (226) crystal planes of Ti$_{4}$P$_{6}$O$_{23}$ (JCPDS 39-0004), respectively, representing the successful formation of Ti$_{4}$P$_{6}$O$_{23}$, 33 which is consistent with the TEM results. However, no relevant diffraction peaks of RuP$_{2}$ were observed (JCPDS 34-0333), which was caused by the low content of RuP$_{2}$. For the N$_{2}$ adsorptiondesorption isotherm (Fig. S1, ESI † ), RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 presented the VI isotherm and H3 hysteresis loop, suggesting that RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 has a mesoporous structure. Meanwhile, the pore size of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was concentrated around 5 nm.
+
+To further study the obtained RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7, X-ray photoelectron spectroscopy (XPS) was used. The elements of Ru, Ti, P, and O were observed in the XPS survey spectrum of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7, which is consistent with the results of elemental mappings (Fig. S2, ESI † ). For O 1s spectra, the peaks of 530.3 and 531.9 eV were divided (Fig. 2A), ascribed to the Ti-O and -OH groups, respectively. 34 Amongst, the formation -OH groups were attributed to chemisorbed H$_{2}$O. 35,36 As shown in Fig. 2B, the P-O peak located at 132.7 eV was observed in the phosphate-related surface groups, which is derived from Ti$_{4}$P$_{6}$O$_{23}$. 37 The peaks at 130.4 eV and 129.5 eV were ascribed to P 2p$_{1/2}$ and P 2p$_{3/2}$ of Ru-P, respectively. 38 Furthermore, the Ru 3d$_{5/2}$ (279.5 eV) and Ru 3d$_{3/2}$ (283.5 eV) of Ru-P were presented in the Ru 3d spectra, which are derived from the orbitals of RuP$_{2}$, respectively (Fig. 2C). 39,40 Due to the carbon contamination on the surface of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7, the C 1s spectrum located at 284.2 eV was observed. 41 Furthermore, the Ti 2p$_{3/2}$ (458.2 eV) and Ti 2p$_{1/2}$ (465.0 eV) were also divided in the Ti 2p spectra (Fig. 2D), suggesting the existence of Ti$^{4+}$;meanwhile, Ru 3p$_{3/2}$ (459.6 eV) was also present. 42,43
+
+Fig. 2 XPS high-resolution spectra of O 1s (A), P 2p (B), Ru 3d (C) and Ti 2p + Ru 3p (D) of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7.
+
+|
+
+As is well known, optical and electrical properties are the important properties of photocatalysts. Here, the light absorption performances of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 were investigated by ultraviolet-visible diffuse reflectance spectroscopy (UV-vis DRS). As shown in Fig. 3A, an obvious red-shifted absorption edge of visible light of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7 was observed as compared with TiO$_{2}$, indicating that the visible light absorption region of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was enhanced. Correspondingly, the band gaps were decreased from 2.95 eV (TiO$_{2}$) to 2.00 eV (RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7). The results indicated that the formation of heterojunction could enhance the visible light absorption of TiO$_{2}$ and narrow its band gap, 44 which is beneficial for improving photocatalytic activity. Furthermore, the positive slopes were observed from Mott-Schottky (M-S) curves (Fig. 3B), showing that both TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 are n-type semiconductors. Amongst, the flat potentials of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$7 are - 1.20 and - 0.94 V vs. Ag/AgCl, respectively. The conduction band position (CB) of the n-type semiconductor is - 0.2 V over the flat-band potential. 45 Thus, the CB of TiO$_{2}$ is - 1.40 V vs. Ag/AgCl, whereas the CB of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 is - 1.14 V vs. Ag/AgCl. Correspondingly, the CB of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 is - 1.20 V and - 0.94 V vs. NHE., respectively.
+
+Next, ultraviolet photoelectron spectroscopy (UPS) was also used to study TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7. As shown in Fig. 3C, the work functions ( F ) were 4.75 eV (21.20-16.45 eV) for TiO$_{2}$ and 3.65 eV (21.20-17.55 eV) for RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7, respectively. According to the above results, the valence band position (VB) of TiO$_{2}$ is 6.19 eV (relative vacuum) and that of RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 is 5.50 eV (relative vacuum). Correspondingly, the VB of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 is 1.75 and 1.06 eV, respectively. Thus, the electronic band positions of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7arewell-defined.TheCBandVBofRuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 are lower (Fig. S3, ESI † ). To study the migration and recombination of photo-generated carriers, photoluminescence (PL) spectroscopy was performed (Fig. 3D). Obviously, the PL intensity of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was smaller than that of TiO$_{2}$, indicating that the charge recombination of RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was suppressed. The results indicated that the electron trapping ability was enhanced by the in-site introduction of RuP$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 on TiO$_{2}$, thereby improving the separation rate of photo-generated carriers, which is beneficial for enhancing the photocatalytic activity. Fig. 3E shows the photocurrent response of various samples under visible light irradiation. The photocurrent density of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was higher than that of RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-3, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-5, and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-9, suggesting that more electrons were generated with RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7. To investigate the robustness of the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 photocatalytic system, a long-term transient photocurrent response has been detected (Fig. S4, ESI † ). No obvious reduction was observed after 1 h of testing, indicating the excellent photocurrent robustness of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7. Furthermore, here, electrochemical impedance spectroscopies (EIS) of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 were performed (Fig. 3F).
+
+Fig. 3 (A) UV-Vis DRS for TiO$_{2}$ (I) and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 (II), inset is the plot of transformed Kubelka-Munk function versus photo energy for TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 samples. (B) Mott-Schottky plots of TiO$_{2}$ (I) and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 (II) at frequencies of 500, 800, 1000 Hz in 0.5 M Na$_{2}$SO$_{4}$. (C) UPS for TiO$_{2}$ (I) and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 (II). (D) Photoluminescence emission spectra of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7. (E) Periodic ON/OFF photocurrent response of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-3, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-5, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-9 in 0.5 M Na$_{2}$SO$_{4}$ electrolyte under visible light irradiation ( l 4 420 nm) at 0.5 V vs. Ag/AgCl electrode. (F) EIS of TiO$_{2}$ and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 (F).
+
+Expectedly, the arc radius of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was smaller than that of TiO$_{2}$, indicating that the surface of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7 was more conducive to the migration of photo-generated electrons. Overall, a heterojunction structure was obtained with the in situ formed of RuP$_{2}$ and Ti$_{4}$P$_{6}$O$_{23}$ on TiO$_{2}$,whichsignificantly enhanced its visible light absorption region, electron
+
+concentrations, and separation/transmission rate of photogenerated carriers, thereby improving its photocatalytic activity.
+
+## 2.2. Photocatalytic tests
+
+To study the performance of these photocatalysts, the conversion of xylose was conducted. The results indicated that
+
+Fig. 4 The effects of various conditions on co-production of hydrogen and lactic acid, (A): Ru content, (B): alkalinity, (C): catalyst dosage, (D): Pt loading, (E): irradiation time. The recycling test of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 for co-production of hydrogen and lactic acid (F).
+
+|
+
+RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 of TiO$_{2}$ in lactic acid production and HER had 1.3 and 3.0 times, respectively (Fig. S5, ESI † ), suggesting that the formed heterojunction on RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 facilitates the redox reaction. Subsequently, the effects of RuCl$_{3}$ addition for the preparation of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ on lactic acid and hydrogen generation were studied. Interestingly, the lactic acid production was raised with enhancing of RuCl$_{3}$ addition (Fig. 4A). For hydrogen release, there was an increase followed by a decrease, and the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 has excellent HER. From the SEM and BET results, a series of nanospheres were observed on the surface of TiO$_{2}$ with the in situ formed RuP$_{2}$ and Ti$_{4}$P$_{6}$O$_{23}$ on TiO$_{2}$, but the surface area was decreased. When the balance of the resultant photoelectric characteristics and surface was broken, the hydrogen release began to decrease. Furthermore, the trend of hydrogen evolution rate corresponded to the photocurrent density. Therefore, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was used in the following experiments. According to previous reports, 46,47 neutral and acidic conditions are not conducive to the simultaneous generation of hydrogen and lactic acid. Thus, the tests were performed to study the roles of alkalinity in the reaction. As shown in Fig. 4B, only just 0.9 mmol g - 1 h - 1 of hydrogen and 3.46 mmol g - 1 h - 1 of lactic acid were produced in 0.1 mol L - 1 KOH solution. With increasing alkalinity, lactic acid production and hydrogen release are enhanced. When the concentration of KOH solution exceeded 5 mol L - $^{1}$, no obvious change in hydrogen release was observed; meanwhile, the lactic acid production started to decline. This may be caused by the oxidation activity increasing with the addition of KOH, leading to the peroxidation of the lactic acid produced. Then, the effects of various catalyst dosages on the processes were investigated. Apparently, as the addition of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 varied from 5 to 100 mg, the lactic acid production decreased to 2.21 mmol g - 1 h - $^{1}$,a n d the HER increased to 10.2 mmol g - 1 h - $^{1}$.However,whenRuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 dosage exceeded 100 mg, no obvious change of HER was observed (Fig. 4C). The reason for this phenomenon is that the transmittance was reduced, resulting in low utilization of visible light. Furthermore, as we know, the co-catalyst (Pt) plays a critical role in the photocatalytic water splitting to hydrogen. The hydrogen release significantly improved with Pt addition, but when the Pt exceeded 0.54 wt%, hydrogen release began to decrease (Fig. 4D). Meanwhile, although Pt has a negligible effect on lactic acid production, it also increased initially and then decreased with the growth of Pt dosage. Furthermore, irradiation time also plays a key role in hydrogen release and biomass conversion. As displayed in Fig. 4E, hydrogen production enhanced from 2.40 to 11.02 mmol g - 1 h - 1 and lactic acid production increased from 6.88 mmol g - 1 to 14.6 mmol g - 1 with the irradiation time ranging from 2 to 10 h, but the growth rate gradually decreased, which may be caused by the consumption of active species and reactants.
+
+As is well known, the stability and reusability of a photocatalyst are essential. Here, the recycling experiments were carried out to study the stability and reusability of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7. During the 5 cycles, the hydrogen release and lactic acid production were 10.40 mmol g - 1 h - $^{1}$/2.24 mmol g - 1 h - $^{1}$,9.85mmolg - 1 h - $^{1}$/
+
+|
+
+2.19 mmol g - 1 h - $^{1}$,9 . 4 3m m o lg - 1 h - $^{1}$/2.17 mmol g - 1 h - $^{1}$, 9.39 mmol g - 1 h - $^{1}$/2.16 mmol g - 1 h - $^{1}$, and 9.03 mmol g - 1 h - $^{1}$/ 2.14 mmol g - 1 h - $^{1}$, respectively (Fig. 4F). Amongst, the hydrogen release retained 86.83% in the 5th cycle of its first value, and the lactic acid production maintained 95.76% of its initial use. In addition, there was no obvious difference between the first cycle and last cycle XRD of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 (Fig. S6, ESI † ). According to the above discussion, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7 is a stable and efficient catalyst for synchronous generation of hydrogen and lactic acid.
+
+## 2.3. The photocatalytic universality
+
+To study the universality of the system, a series of experiments were conducted. Generally, a mixture of reagents (150 mg), RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 (100 mg), co-catalyst (500 m L, 5.5 mmol L - $^{1}$, H$_{2}$PtCl$_{6}$ solution), and KOH solution (30 mL, 5 mol L - $^{1}$) was first treated in the dark conditions, and then experiments were performed at 30 1 C under the visible light irradiation for 6 h. As displayed in Fig. 5A, the hydrogen releases of xylose and arabinose reaction systems were 10.4 mmol g - 1 h - 1 and 16.3 mmol g - 1 h - $^{1}$, respectively. For hexoses, the hydrogen releases were 8.1 mmol g - 1 h - 1 (fructose), 5.9 mmol g - 1 h - 1 (glucose), 4.4 mmol g - 1 h - 1 (rhamnose), and 3.7 mmol g - 1 h - 1 (mannose), respectively, which are lower than that of pentoses. For lactic acid production, a similar trend was also observed (arabinose: 2.41 mmol g - 1 h - $^{1}$, xylose: 2.19 mmol g - 1 h - $^{1}$, fructose: 1.70 mmol g - 1 h - $^{1}$, glucose: 1.06 mmol g - 1 h - $^{1}$, rhamnose: 0.63 mmol g - 1 h - $^{1}$, mannose: 1.10 mmol g - 1 h - $^{1}$). As aforementioned, the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 has excellent photocatalytic performance for the small molecule reaction systems, but what about the macromolecular reactant? Here, the macromolecular xylan was used in the photocatalytic system (Fig. 5B). Surprisingly, the lactic acid production achieved 0.63 g g$_{xylan}$ - $^{1}$, and the HER was 0.6 mmol g - 1 h - $^{1}$.Meanwhile, a certain amount of formic acid (0.01 g g$_{xylan}$ - $^{1}$) and acetic acid (0.02 g g$_{xylan}$ - $^{1}$) were also produced. Moreover, to further study the reaction system of the catalyst, the effects of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7 on hydrogen generation were compared to those of TiO$_{2}$-based photocatalysts reported previously. 48-52 The RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 exhibits excellent photocatalytic hydrogen evolution capability (Table S1, ESI † ). All the results indicated that RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 is a beneficial photocatalyst for the synchronous
+
+Fig. 5 The effects of different biomass-derived monosaccharides (A) and xylan (B) on the synchronous production of hydrogen and lactic acid via RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 photocatalysis (A: arabinose, X: xylose, F: fructose, G: glucose, R: rhamnose, M: mannose).
+
+generation of hydrogen and lactic acid from an aqueous solution of biomass-derived feedstocks.
+
+## 2.4. ESR characterizations and the roles of active radicals on xylose conversion
+
+For the effective identification and quantification of short-lived radicals, electron spin resonance (ESR) characterization was used. Here, 2,2,6,6-tetramethyl-1-piperidinyloxy (TEMPO) was used as a capture agent to identify e - and h$^{+}$. As is well known, TEMPO presented a typical triple equal signal peak, and once the e - produced, the formed TEMPO-e - adduct resulted in a weak signal (Fig. 6A). Meanwhile, the signal intensity reduced with the increasing illumination, indicating more e - are produced. As we know, e - is paired with h$^{+}$, so its change is similar to the e - (Fig. 6B). However, the activity of h + is weaker than that of e $^{-}$, leading to a low changing trend. Furthermore, 5,5dimethyl-1-pyrrole N -oxide (DMPO) was applied to detect $^{GLYPH<C15>}$O$_{2}$ - and $^{GLYPH<C15>}$OH, which can combine with $^{GLYPH<C15>}$O$_{2}$ - and $^{GLYPH<C15>}$OH to generate DMPO/ $^{GLYPH<C15>}$O$_{2}$ - and DMPO/ $^{GLYPH<C15>}$OH adducts, respectively. As shown in Fig. 6C, no signal was found for the system without DMPO addition or with DMPO addition in the dark. Once the DMPO was added in the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 system under the irradiation conditions, a quadruple equal signal peak presented, attributed to the formation of DMPO/ $^{GLYPH<C15>}$O$_{2}$$^{-}$, indicating that $^{GLYPH<C15>}$O$_{2}$ - was generated in the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 photocatalytic system. With the increase in irradiation time, the signal intensity enhanced, corresponding to more $^{GLYPH<C15>}$O$_{2}$ - produced. For $^{GLYPH<C15>}$OH, all the results are similar to that of $^{GLYPH<C15>}$O$_{2}$$^{-}$, except for the signal intensity of $^{GLYPH<C15>}$OH being 1 : 2 : 2 : 1 (Fig. 6D). Subsequently, to investigate $^{1}$O$_{2}$, 2,2,6,6-tetramethyl-4-piperidone (TEMPONE) was employed. As displayed in Fig. 6E, no signals were detected under the control conditions (no TEMPONE addition or with
+
+TEMPONE addition in the dark conditions), indicating that no $^{1}$O$_{2}$ was produced. When the irradiation and TEMPONE were applied to the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 photocatalytic system, a triplet peak with an intensity of 1 : 1 : 1 appeared, and it increased with the irradiation extension. The results showed that the $^{1}$O$_{2}$ was formed in the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 photocatalytic system, and its contents increased with enhanced irradiation time. Lastly, the roles of different active radicals in the processes were studied. When the Trp, IPA, KI, and BQ were added in the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 photocatalytic systems, the corresponding $^{1}$O$_{2}$, $^{GLYPH<C15>}$OH, h $^{+}$,and $^{GLYPH<C15>}$O$_{2}$ - were restrained, respectively. As shown in Fig. 6F, $^{1}$O$_{2}$, $^{GLYPH<C15>}$O$_{2}$$^{-}$,h $^{+}$,and $^{GLYPH<C15>}$OH favor the lactic acid generation, in which $^{GLYPH<C15>}$OH displays a critical effect.
+
+## 2.5. A possible pathway for the conversion of xylose via RuP$_{2}$/ Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 photocatalysis
+
+According to the aforementioned results and previous reports, 53-56 a possible reaction mechanism was proposed (Fig. S7, ESI † ). Initially, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 absorbed photons with sufficient energy to produce e - and h$^{+}$. Then, the obtained e - jumped to CB, leaving h + on VB. Afterwards, hydrogen was produced by the association of protons and e - on CB. Furthermore, h + reacted with water molecules to release O$_{2}$ and protons, and the obtained O$_{2}$ reacted with e - to produce $^{GLYPH<C15>}$O$_{2}$$^{-}$. 57 The $^{GLYPH<C15>}$OH can be generated by the reaction of h + with OH $^{-}$. 58 Moreover, $^{1}$O$_{2}$ was produced by the reaction between $^{GLYPH<C15>}$O$_{2}$ - and h$^{+}$. 59
+
+With the assistance of active oxidation species, xylose first reacted to give intermediate I during the oxidation halfreaction. Then, intermediate I was isomerized to produce intermediate II. Furthermore, glyceraldehyde and oxalic acid were synthesized via retro-aldol of intermediate I. Meanwhile,
+
+Fig. 6 TEMPO ESR spin-labelling for e - (A) and h + (B). DMPO ESR spin-labelling for $^{GLYPH<C15>}$O$_{2}$ - (C) and $^{GLYPH<C15>}$OH (D). TEMPONE ESR spin-labelling for $^{1}$O$_{2}$ (E). The effects of different active oxidation species on the co-production of lactic acid and hydrogen (F).
+
+|
+
+glyceraldehyde was transformed into lactic acid. According to the a -oxidation of xylose, intermediate I, and intermediate II, accompanying the production of acetic acid, intermediate III was generated. Similarly, oxalic acid and intermediate III were produced via b -oxidation. Finally, the C-C bond of oxalic acid was broken to give formic acid.
+
+## 3. Conclusions
+
+In conclusion, we successfully prepared RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ for lactic acid and hydrogen generation in one system. The surface of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 has uniformly arranged nanospheres, which can increase the active sites and promote the diffusion of photo-generated e $^{-}$. As compared with TiO$_{2}$ , the in situ introduced RuP$_{2}$ and Ti$_{4}$P$_{6}$O$_{23}$ significantly broadened the visible light response range, provided abundant edge active sites for hydrogen evolution, and significantly accelerated the migration of photo-induced carriers by forming a heterojunction. The RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 displayed excellent photocatalytic activity with a hydrogen release of 16.3 mmol g - 1 h - 1 and lactic acid production of 2.41 mmol g - 1 h - 1 (sugar: arabinose, catalyst dosage: 100 mg, KOH: 5 M, Pt loading: 0.54%, reaction time: 6 h). RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 also showed good recoverability, in which the lactic acid production and the hydrogen release still reached 2.14 mmol g - 1 h - 1 and 9.03 mmol g - 1 h - 1 in the 5th cycle, respectively. Meanwhile, the RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 photocatalytic system has been successfully used in the monosaccharides and macromolecule xylan systems, in which the pentoses are more active than the hexoses. For xylan, the lactic acid reached 0.63 g g$_{xylan}$ - $^{1}$. Overall, this work opens up a new insight into photocatalysis and biomass utilization.
+
+## 4. Experimental section
+
+## 4.1. Preparation of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ photocatalyst
+
+The RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ hybrids were prepared by an evaporationcalcination strategy. Firstly, 1.0 g of TiO$_{2}$ and 2.25 g of NaH$_{2}$PO$_{2}$ were dispersed in 6.0 mL of deionized water. Afterwards, 1.0 mL of RuCl$_{3}$ solution (20.0 mg mL - $^{1}$) was added to the mixture. The obtained suspension was stirred continuously at 80 1 C until evaporated to dryness. The evaporated mixture was further desiccated at 60 1 C for 6 h. After grinding, the mixture was treated at 600 1 C for 2 h under the Ar atmosphere (99.99%, 30 mL min - $^{1}$) to give RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-1 (0.03 wt% of Ru). Similarly, other RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ hybrids (represented as RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-3, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-5, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7, and RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-9, respectively) were synthesized under the same conditions by varying the addition amount of RuCl$_{3}$ solution ( e.g. , 3.0, 5.0, 7.0 and 9.0 mL, respectively).
+
+## 4.2. Coupling of biomass conversion and water splitting via RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ photocatalysis
+
+Photocatalytic selective oxidation of biomass coupling with water splitting to co-produce hydrogen and lactic acid was carried out under a sealed gas circulation system, in which
+
+|
+
+the reaction temperature was maintained at 30 1 C. Generally, xylose (150 mg), H$_{2}$PtCl$_{6}$ GLYPH<C1> 6H$_{2}$O (5.5 mM) solution, and a certain amount of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ were added to KOH solution (30 mL) of different concentrations. Subsequently, the system was sonicated for 3 min and then degassed with 101 kPa of Ar gas 5 times. The reactions were carried out with the assistance of 10 W visible light irradiation for different times. Finally, the obtained gas samples were detected using gas chromatography (GC), and the liquid samples were analyzed by high-performance liquid chromatography (HPLC). 60
+
+## 4.3. Universality test
+
+Typically, 150 mg of small molecule sugars (glucose, rhamnose, xylose, mannose, arabinose, and fructose) or macromolecular sugar (Xylan), 100 mg of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$ and 500 m Lof H$_{2}$PtCl$_{6}$ GLYPH<C1> 6H$_{2}$O solution (5.5 mM) were added to KOH solution (30 mL) with various concentrations. After 3 min of ultrasonication, the suspension was degassed with 101 kPa of Ar gas 5 times. The obtained system was irradiated for 6 h by visible light (10 W). The final samples were studied using GC and HPLC.
+
+## 4.4. Recycling test
+
+To study the recyclability of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7, recycling tests were conducted. Generally, 100 mg of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7, 150 mg of xylose, and 500 m Lo fH $_{2}$PtCl$_{6}$ solution (5.5 mM) were added to KOH solution (30 mL, 5 M). After 3 min of sonication, the reaction system was degassed with Ar (101 kPa) 5 times and then reacted at 30 1 C for 6 h with 10 W visible light assistance. After that, RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was collected by filtration and washed several times. For the next cycle, the obtained RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@TiO$_{2}$-7 was desiccated in an oven at 60 1 C for 8 h. It should be noted that no H$_{2}$PtCl$_{6}$ was inserted in the subsequent cycle reactions. Likewise, the hydrogen release was detected by GC, while the liquid products were analyzed by HPLC.
+
+## 4.5. Poisoning test
+
+To study the roles of active oxidation species, poisoning experiments were conducted. Generally, 100 mg of RuP$_{2}$/Ti$_{4}$P$_{6}$O$_{23}$@ TiO$_{2}$-7, 150 mg of xylose, 500 m LofH$_{2}$PtCl$_{6}$ solution (5.5 mmol L - $^{1}$), and various scavengers (0.05 mol) were added to 30 mL of KOH solution (5.0 mol L - $^{1}$). After sonication for 3 min, Ar (101 kPa) was injected into the mixed system. The reaction system was carried out at 30 1 C under 10 W visible light irradiation (6 h). Similarly, the results were detected by GC and HPLC.
+
+## Conflicts of interest
+
+The authors declare no conflicts of interest.
+
+## Acknowledgements
+
+This work was supported by the National Natural Science Foundation of China (22008018), China Postdoctoral Science Foundation (2020M670716), Liaoning Province ''Xingliao
+
+Talent Plan'' Outstanding Talent Project (XLYC1901004), the Foundation (No. 2021KF08) of Guangxi Key Laboratory of Clean Pulp & Papermaking and Pollution Control, College of Light Industry and Food Engineering, Guangxi University, the Natural Science Foundation of Guangdong Province (2022A1515011737). We also thank the Shiyanjia lab ( https:// www.shiyanjia.com ) for the XPS analysis.
+
+## Notes and references
+
+1 Y. M. Zhang, J. H. Zhao, H. Wang, B. Xiao, W. Zhang, X. B. Zhao, T. P. Lv, M. Thangamuthu, J. Zhang, Y. Guo, J. N. Ma, L. N. Lin, J. W. Tang, R. Huang and Q. J. Liu, Nat. Commun. , 2022, 13 , 58.
+
+2 X. Yan and Z. L. Jin, Chem. Eng. J. , 2021, 420 , 127682.
+
+3 H. Zhao, Z. F. Jiang, K. M. Xiao, H. L. Sun, H. S. Chan, T. H. Tsang, S. J. Yang and P. K. Wong, Appl. Catal., B , 2021, 280 , 119456.
+
+4 Q. Y. Bi, E. Song, J. C. Chen, M. S. Riaz, M. H. Zhu, J. J. Liu, Y. F. Han and F. Q. Huang, Appl. Catal., B ,2022, 309 , 121222.
+
+5 Y. X. Zhang, Q. X. Cao, X. L. Wu, Y. H. Xiao, A. Y. Meng, Q. T. Zhang, Y. X. Yu and W. D. Zhang, Chem. Eng. J. , 2022, 427 , 132042.
+
+6 Y. L. Chen, F. Y. Su, H. Q. Xie, R. P. Wang, C. H. Ding, J. D. Huang, Y. X. Xu and L. Q. Ye, Chem. Eng. J. , 2021, 404 , 126498.
+
+7 Z. H. Liao, C. X. Li, Z. Shu, J. Zhou, T. T. Li, W. B. Wang, Z. L. Zhao, L. N. Xu, L. L. Shi and L. L. Feng, Int. J. Hydrogen Energy , 2021, 46 , 26318-26328.
+
+8 Q. Li, L. M. Zhang, J. N. Liu, J. Zhou, Y. Q. Jiao, X. D. Xiao, C. Zhao, Y. Zhou, S. Ye, B. J. Jiang and J. Liu, Nat. Small , 2021, 17 , 2006622.
+
+9 U. Nwosu, A. Wang, B. Palma, H. Zhao, M. Khan, M. Kibria and J. G. Hu, Renewable Sustainable Energy Rev. , 2021, 148 , 111266.
+
+10 D. N. Jin, J. L. Ma and R. C. Sun, J. Mater. Chem. C , 2022, 10 , 3500.
+
+11 H. Zhao, C. F. Li, X. Yong, P. W. Kumar, B. Palma, Z. Y. Hu, G. Van Tendeloo, S. Siahrostami, S. Larter, D. Zheng, S. Y. Wang, Z. X. Chen, M. Kibria and J. G. Hu, iScience , 2021, 24 , 102109.
+
+12 R. Datta and M. Henry, J. Chem. Technol. Biotechnol. , 2010, 81 , 1119-1129.
+
+13 D. Carrillo-Nieves, S. Saldarriaga-Hernandez, G. Gutie ' rrezSoto, M. Rostro-Alanis, C. Herna ' ndez-Luna, A. Alvarez, H. M. N. Iqbal and R. Parra-Saldı ' var, Biomass Convers. Biorefin. , 2022, 12 , 253-264.
+
+14 Z. Gulsunoglu-Konuskan and M. Kilic-Akyilmaz, J. Agric. Food Chem. , 2022, 70 , 6901-6910.
+
+15 F. Castillo Martinez, E. Balciunas, J. Salgado, J. M. D. Gonza ' lez, A. Converti and R. Oliveira, Trends Food Sci. Technol. , 2013, 30 , 70-83.
+
+16 J. Wu, K. H. Kim, K. H. Jeong, D. W. Kim, C. S. Kim, J. M. Ha, R. P. Chandra and J. N. Saddler, Bioresour. Technol. , 2021, 324 , 124664.
+
+17 J. L. Ma, D. N. Jin, Y. C. Li, D. Q. Xiao, G. J. Jiao, Q. Liu, Y. Z. Guo, L. P. Xiao, X. H. Chen, X. Z. Li, J. H. Zhou and R. C. Sun, Appl. Catal., B , 2021, 283 , 119520.
+
+18 Q. Zhu, Z. Xu, B. Qiu, M. Xing and J. Zhang, Small , 2021, 17 , 2101070.
+
+19 W. Q. Zhang, C. F. Fu, J. X. Low, D. L. Duan, J. Ma, W. B. Jiang, Y. H. Chen, H. J. Liu, Z. M. Qi, R. Long, Y. F. Yao, X. B. Li, H. B. Zhang, Z. Liu, J. L. Yang, Z. G. Zou and Y. J. Xiong, Nat. Commun. , 2022, 13 , 2806.
+
+20 Z. Y. Zhang, Z. Y. Xiong, C. C. Zhao, P. J. Guo, H. J. Wang and Y. J. Gao, Appl. Surf. Sci. , 2021, 565 , 150554.
+
+21 H. Do, D. Nguyen, X. Nguyen, T. Le, T. Nguyen, Q. Trinh, S. Ahn, D. Vo, S. Kim and Q. Le, Arabian J. Chem. , 2020, 13 , 3653-3671.
+
+22 Y. C. Guo, X. K. Kong, Z. Q. Liang, Y. J. Xue, H. Z. Cui and J. Tian, J. Colloid Interface Sci. , 2020, 571 , 412-418.
+
+23 H. H. Pan, M. H. Sun, X. G. Wang, M. Zhang, M. Murugananthan and Y. R. Zhang, Appl. Catal., B , 2022, 307 , 121174.
+
+24 Q. Y. Bi, E. Song, J. C. Chen, M. S. Riaz, M. H. Zhu, J. J. Liu, Y. F. Han and F. Q. Huang, Appl. Catal., B ,2022, 309 , 121222.
+
+25 C. Y. Liu, H. H. Niu, D. X. Wang, C. Gao, A. Said, Y. S. Liu, G. Wang, C. H. Tung and Y. F. Wang, ACS Catal. , 2022, 12 , 8202-8213.
+
+26 S. Peiris, H. Silva, K. N. Ranasinghe, S. V. Bandara and I. R. Perera, J. Chin. Chem. Soc. , 2021, 68 , 738-769.
+
+27 P. Parnicka, W. Lisowski, T. Klimczuk, A. Mikolajczyk and A. Zaleska-Medynska, Appl. Catal., B , 2022, 310 , 121349.
+
+28 J. Chen, M. G. Wang, J. Han and R. Guo, J. Colloid Interface Sci. , 2020, 562 , 313-321.
+
+29 Z. H. Pu, I. S. Amiinu, Z. K. Kou, W. Q. Li and S. C. Mu, Angew. Chem., Int. Ed. , 2017, 56 , 11559-11564.
+
+30 L. Song and S. Zhang, Powder Technol. , 2018, 339 , 479-486.
+
+31 Q. B. Chang, J. W. Ma, Y. Z. Zhu, Z. Li, D. Y. Xu, X. Z. Duan, W. C. Peng, Y. Li, G. L. Zhang, F. B. Zhang and X. B. Fan, ACS Sustainable Chem. Eng. , 2018, 6 , 6388-6394.
+
+32 M. Balogun, W. T. Qiu, Y. Luo, Y. H. Huang, C. L. Liang, X. H. Lu and Y. X. Tong, ACS Appl. Mater. Interfaces , 2020, 12 , 42446.
+
+33 L. Wei, Y. M. Yang, Y. N. Yu, X. M. Wang, H. Y. Liu, Y. H. Lu, M. X. Ma and Y. Chen, Int. J. Hydrogen Energy , 2021, 46 , 3811-3820.
+
+34 L. Wang, B. Cheng, L. Zhang and J. Yu, Small , 2021, 17 , 2103447.
+
+35 M. Shirkhanzadeh, J. Mater. Sci.: Mater. Med. , 1995, 6 , 206-210.
+
+36 M. Shen, M. Wang, Q. Wang, J. J. Tian, L. X. Zhang, L. Z. Wang and Z. L. Shi, Chem. Eng. J. , 2021, 425 , 131513.
+
+37 H. Q. Song, Y. J. Cheng, B. J. Li, Y. P. Fan, B. Z. Liu, Z. Y. Tang and S. Y. Lu, ACS. Sustainable Chem. Eng. , 2020, 8 , 3995-4002.
+
+38 Y. Zhao, X. Y. Zhang, Y. X. Gao, Z. Chen, Z. J. Li, T. Y. Ma, Z. X. Wu, L. Wang and S. H. Feng, Small , 2022, 18 , 2105168.
+
+39 H. F. Du, Z. Z. Du, T. F. Wang, B. X. Li, S. He, K. Wang, L. H. Xie, W. Ai and W. Huang, Adv. Mater. , 2022, 34 , 2204624.
+
+40 Y. Zhou, Q. Zhang, X. Shi, Q. Song, C. Zhou and D. Jiang, J. Colloid Interface Sci. , 2022, 608 , 2809-2819.
+
+41 S. Y. Nong, W. J. Dong, J. W. Yin, B. W. Dong, Y. Lu, X. T. Yuan, X. Wang, K. J. Bu, M. Y. Chen, S. D. Jiang, L. M. Liu, M. L. Sui and F. Q. Huang, J. Am. Chem. Soc. , 2018, 140 , 5719-5727.
+
+42 L. N. Chen, S. H. Wang, P. Y. Zhang, Z. X. Chen, X. Lin, H. J. Yang, T. Sheng, W. F. Lin, N. Tian, S. G. Sun and Z. Y. Zhou, Nano Energy , 2021, 88 , 106211.
+
+43 Y. M. Zhou, Q. X. Zhang, X. L. Shi, Q. Song, C. J. Zhou and D. L. Jiang, J. Colloid Interface Sci. , 2022, 608 , 2809-2819.
+
+44 J. L. Ma, Y. C. Li, D. N. Jin, Z. Ali, G. J. Jiao, J. Q. Zhang, S. Wang and R. C. Sun, Green Chem. , 2020, 22 , 6384-6392.
+
+45 K. Gelderman, L. Lee and S. W. Donne, J. Chem. Educ. , 2007, 84 , 685.
+
+46 A. Lo ' pez-Va ' squez, A. Sua ' rez-Escobar and F. E. Lo ' pez-Sua ' rez, Top. Catal. , 2020, 63 , 1325-1335.
+
+47 K.N.Liu,J.L.Ma,X.P.Yang,D.N.Jin,Y.C.Li,G.J.Jiao,S.Q.Yao, S. L. Sun and R. C. Sun, J. Alloys Compd. , 2022, 906 , 164276.
+
+48 F. He, A. Meng, B. Cheng, W. Ho and J. Yu, Chin. J. Catal. , 2020, 41 , 9-20.
+
+49 Q. Wang, G. Wang, J. Wang, J. Li, K. Wang, S. Zhou and Y. Su, Adv. Sustainable Syst. , 2022, 11 , 2200027.
+
+50 W. Ding, X. Zhang, Q. Wang, X. Jiang, L. Xiao and H. Du, Energy Technol. , 2022, 10 , 2200059.
+
+|
+
+51 Z. Hu, D. Shi, G. Wang, T. Gao, J. Wang, L. Lu and J. Li, Appl. Surf. Sci. , 2022, 601 , 154167.
+
+52 X. Xu, T. Wang, M. Xu, X. Yang, J. Hou, D. Cao and Q. Wang, Spectrochim. Acta, Part A , 2022, 276 , 121215.
+
+53 S. K. Cushing, F. Meng, J. Zhang, B. Ding, C. Chen, C. Chen, R. S. Liu, A. D. Bristow, J. Bright, P. Zheng and N. Wu, ACS Catal. , 2017, 7 , 1742-1748.
+
+54 F. Clippel, M. Dusselier, R. Van Rompaey, P. Vanelderen, J. Dijkmans, E. Makshina, L. Giebeler, S. Ostwald, G. V. Baron, J. F. M. Denayer, P. P. Pescarmona, P. A. Jacobs and B. F. Sels, J. Am. Chem. Soc. , 2012, 134 , 10089-10101.
+
+55 L. Yang, J. Su, S. Carl, J. G. Lynam, X. K. Yang and H. F. Lin, Appl. Catal., B , 2015, 162 , 149-157.
+
+56 M. Spangsberg Holm, S. Saravamurugan and E. Taarning, Science , 2010, 328 , 602-605.
+
+57 S. H. Zhang, J. T. Lv, R. X. Han, Z. Wang, P. Christie and S. Z. Zhang, Water Res. , 2021, 196 , 117034.
+
+58 G. Feng, P. Cheng, W. F. Yan, M. Boronat, X. Li, J. H. Su, J. Y. Wang, Y. Li, A. Corma and J. H. Yu, Science , 2016, 351 , 1188-1191.
+
+59 R. Ossola, O. M. Jo nsson, K. Moor and K. McNeill, Chem. Rev. , 2021, 121 , 4100-4146.
+
+60 K. N. Liu, J. L. Ma, X. P. Yang, Z. D. Liu, X. Z. Li, J. Q. Zhang, R. Cui and R. C. Sun, Chem. Eng. J. , 2022, 437 , 135232.

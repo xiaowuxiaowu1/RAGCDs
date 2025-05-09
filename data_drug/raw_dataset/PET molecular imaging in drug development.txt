@@ -1,0 +1,512 @@
+<!-- image -->
+
+## Edited by:
+
+Ronan Abgral, Centre Hospitalier Regional Universitaire (CHU) de Brest, France
+
+## Reviewed by:
+
+Linjing Mu, ETH Zürich, Switzerland Giorgio Treglia, Ente Ospedaliero Cantonale (EOC), Switzerland
+
+## *Correspondence:
+
+Sridhar Goud Nerella sridhar.ku23@gmail.com
+
+## Specialty section:
+
+This article was submitted to Nuclear Medicine, a section of the journal Frontiers in Medicine
+
+Received:
+
+Accepted:
+
+Published:
+
+10 November 2021 18 January 2022 28 February 2022
+
+## Citation:
+
+Nerella SG, Singh P, Sanam T and Digwal CS (2022) PET Molecular Imaging in Drug Development: The Imaging and Chemistry Perspective. Front. Med. 9:812270. doi: 10.3389/fmed.2022.812270
+
+REVIEW
+
+published: 28 February 2022 doi: 10.3389/fmed.2022.812270
+
+<!-- image -->
+
+## PET Molecular Imaging in Drug Development: The Imaging and Chemistry Perspective
+
+Sridhar Goud Nerella$^{1}$*, Priti Singh$^{2}$, Tulja Sanam 3 and Chander Singh Digwal 2
+
+$^{1}$Department of Neuroimaging and Interventional Radiology, National Institute of Mental Health and Neurosciences, Bengaluru, India, $^{2}$Department of Medicinal Chemistry, National Institute of Pharmaceutical Education and Research, Hyderabad, India, $^{3}$Department of Microbiology and Applied Sciences, University of Agricultural Sciences, Bangalore, India
+
+Positron emission tomography with selective radioligands advances the drug discovery and development process by revealing information about target engagement, proof of mechanism, pharmacokinetic and pharmacodynamic profiles. Positron emission tomography (PET) is an essential and highly significant tool to study therapeutic drug development, dose regimen, and the drug plasma concentrations of new drug candidates. Selective radioligands bring up target-specific information in several disease states including cancer, cardiovascular, and neurological conditions by quantifying various rates of biological processes with PET, which are associated with its physiological changes in living subjects, thus it reveals disease progression and also advances the clinical investigation. This study explores the major roles, applications, and advances of PET molecular imaging in drug discovery and development process with a wide range of radiochemistry as well as clinical outcomes of positron-emitting carbon-11 an dflu orine-18 radiotracers.
+
+Keywords:PETmolecularimaging,drugdevelopment,radioligands, fluorine-18,carbon-11
+
+## INTRODUCTION
+
+The selective radioligands used for positron emission tomography molecular imaging have vastly increased over the past decade because of many advances in biomedical research as well as clinical investigation (1). It has been estimated that radiopharmaceuticals with 39.1% and radiodiagnostics with 7% were used in the 5 years from 2020 to 2025 by the MEDrays Intell nuclear medicine world market report 2019 (2). Positron emission tomography (PET) molecular imaging with radioligand acts like precision pharmacology, provide accurate information related to therapeutic drug development in living subjects in vivo like determining dose and dosing interval, a biomarker for drug efficacy, identifying homogeneous groups whether a new drug reaches the specific region of interest in the body with an effective ED$\_{50}$ concentration, specific/non-specific receptor binding, receptor occupancy, quantitative relationship, brain penetration, metabolism in the brain as well as peripheral, which could enhance clinical trials and biomedical research involving animal studies with more reliable data (3). The PET imaging modality visualizes and measures rates of various physiological processes at the molecular level in vivo such as glucose metabolism, neurotransmitters, uptakes, and blood flow, etc. in cancer, cardiovascular, and various neurological conditions (4). The basic principle of PET is the detection of two annihilated photons traveling in opposite directions at 180 · through the collision of an emitted positron from a radiotracer with a local electron in the living system, followed by giving medical images which
+
+map the location of radiotracer in the body (5). The PET is very sensitive because it detects photons from tracer quantity of radioligand in picomolar to nanomolar range, and which do not show any pharmacological responses due to lower concentration than ED$\_{50}$ values, and the radiation exposure to a patient is also minimal (6). Its major limitation is to provide low anatomical information, whereas CT, and MRI provide good anatomical data, therefore PET is combined with other molecular imaging modalities and emerged as multimodality devices like PETCT, and PET-MRI to provide both functional and anatomical data simultaneously. The spatial resolution of PET is 2-6 mm but the MRI has << 1 mm, whereas the sensitivity of PET is 10 - 12 M, but the MRI has only 10 - 4 M, hence it has higher significance in the field of medical imaging (7). To enable good performance in vivo , each radioligand should meet the criteria which include lipophilicity (log D) in the range of 1 ≤ log D ≤ 3, molecular weight < 500 daltons, number of hydrogen bond donors is < 1, No active P-glycoprotein-mediated efflux pump, Affinity based on dissociation/inhibition constant (K$\_{d}$/K$\_{i}$) is < 10 nM, and the receptor density to affinity ratio should be > 10 (8). Several fluorine-18 and carbon-11 radiotracers are being used currently in various biomedical research programs (preclinical studies) as well as in clinical PET centers (clinical studies), in which the fluorine-18 radiotracers include $^{18}$F -flu orodeoxyglucose for glucose metabolism, $^{18}$F-fluorothymidine for tumor cell proliferation, $^{18}$F-fluoromizonidazole for tumor hypoxia, $^{18}$F-fluoromisonidazole for myocardial ischemia, $^{18}$F -flu orodopa for Dopamine neuronal densities, $^{18}$F-flumazenil for benzodiazepine receptors densities, $^{18}$F-estradiol for estrogen receptor expression, whereas the carbon-11 radiotracers include $^{11}$C-methionine for amino acid transport and protein synthesis, 2-[$^{11}$C]thymidine for tumor cell proliferation, $^{11}$C-acetate for the tricarboxylic acid cycle, [$^{11}$C]meta-hydroxyephedrine for presynaptic catecholamine reuptake, $^{11}$C-raclopride for dopamine receptor densities, $^{11}$C-methylspiperone for 5-HT2 receptor density, and $^{11}$C-PK11195 for neuronal microglial activation (9, 10). A generalized view of radiochemistry and PET molecular imaging studies has been shown in Figure 1 , where the initial step focuses on generating positron-emitting radionuclides like carbon-11 and fluorine-18 using different targets in a cyclotron, the second step is critical and it involves the radiochemical synthesis by transferring radioactivity into either automated modules like GE Tracerlab MX, FX$\_{2}$C, FX$\_{2}$N or hot cell apparatus where the mixture of selective precursor for radiolabeling and solvents are present in a heating vial, and this step should adhere with cGMP compliances for human applications, and the third step focuses on the preparation of suitable radiopharmaceutical formulation for injection into a living subject after conformation with quality control studies like pH, endotoxin levels, purity, molar activity, solvent levels, etc. (11). The fourth step is the PET imaging data acquisition by setting up required parameters for different studies like static or dynamic PET studies, where simultaneous arterial blood sampling is required for dynamic PET study to quantify the available receptor concentration in living subjects. The majority of clinical PET centers use static PET studies just to monitor the physiological changes in different diseases
+
+conditions like oncology, neurology, and cardiology. The fifth step is the PET data pre- and post-processing for both static and dynamic studies, the parameters include motion correction, coregistration of MRI with PET, spatial normalization, generation of the region of interest (ROI), and partial volume correction (PVC). The static PET data analysis gives standardized uptake values (SUV), which differentiate patient conditions from healthy controls, whereas the dynamic PET data analysis provide pharmacokinetic and pharmacodynamic profiles of radiotracers like the volume of distribution, binding potential, metabolism, etc. using different methods like tissue compartmental analysis, spectral analysis, and mathematical graphical analysis. The last stage is the PET images of living subjects' brains or whole bodies with color-coding to observe the radiotracer uptake in the specific regions of the body, which provides information about the physiological changes in any disease condition compared to normal healthy controls (12).
+
+The United States Food and Drugs Administration (USFDA) does not have regulations to monitor the production of PET drugs for research purposes, since they do not come under the drugs and cosmetic act, which outlines that they should exhibit pharmacological actions at therapeutic doses. The investigational use of PET drugs are subject to Investigation of New Drug (IND) approval to check the efficacy and safety of new PET drugs for clinical use, whereas research use of PET drugs does not need the approval of IND, but Radioactive Drug Research Committee (RDRC) approval is necessary to check basic information about the physiochemical properties, metabolism, pathophysiology, biochemistry or pharmacology of new PET drugs for clinical use. Section 121C/1A of the Modernization Act by the FDA focuses on IND approval processes and current good manufacturing practice (CGMP) requirements for PET drugs to be used clinically. Section 21 CFR 361.1 by FDA regulations describes conditions for PET drugs for research use that are exempted from approval of IND since they are considered safe and effective to use for research studies but not for clinical trials by RDRC with an approval. Some of the PET drugs for clinical use in compliance with CGMP regulations and United States Pharmacopeia (USP) monographs/standards include [$^{13}$N]NH$\_{3}$, [$^{11}$C]CO, [$^{11}$C]raclopride, [$^{11}$C]methionine, [$^{11}$C]flumazenil, [$^{11}$C]mespiperone, [$^{11}$C]sodium acetate, [$^{18}$F]FDG, [$^{18}$F]Fluorodopa, [$^{18}$F]sodium fluoride, [$^{15}$O]H$\_{2}$O (13, 14).
+
+The traditional preclinical and clinical studies without any advancements have shown very low success rate in the drug development process since many factors contribute to the difficulty of developing novel therapeutic drugs, which include the low optimal level of drug-receptor binding at the target, non-specific binding, lack of expected therapeutic efficacy or biological effects of a drug candidate, severe side effects, and drug metabolism. Therefore, there have been several advancements in the drug discovery and development process to overcome the limitations as well as increase the success rate, in which the best and most popular technique commonly used in drug discovery is the PET tool, it can facilitate the development of therapeutic drugs at a faster rate based on various approaches like target
+
+FIGURE1 | The schematic representation of receptor imaging with positron emission tomography (PET) and the flow from radionuclide generation to PET Imaging output, where the initial step is the generation of positron-emitting radionuclides, the second step is the radiochemical synthesis, the third step is the preparation of suitable radiopharmaceutical formulation, the fourth step is the PET imaging data acquisition, the fifth step is the PET data pre and post-processing using software technologies, the last stage is the output of PET images reveal physiological changes based on radiotracer uptake corresponding to the intensity and dynamics in the color of images.
+
+<!-- image -->
+
+engagement, proof of mechanism, proof of principle, and proof of concept ( Figure 2 ) (15, 16). The PET has many roles in the early and late-stage drug discovery and development process like in different stages of preclinical and clinical trials by revealing information about pharmacokinetic profiles as well as pharmacodynamic actions of a new drug candidate in a living system (17).
+
+The target engagement approach helps in finding key biological targets or biomarkers in various disease conditions, which can be identified by cross-sectional studies or longitudinal studies. The identified biological targets or biomarkers can also be used to monitor the therapeutic responses of a drug candidate. The proof of mechanism approach helps in finding specific binding of a drug candidate with biological targets or biomarkers through its volume of distribution and kinetic rates, metabolism in the brain, and penetration through the blood-brain barrier. The proof-of-concept approach helps in understanding the biological effects of a drug candidate and its interactions with receptors in various diseases conditions (18, 19). PET plays a crucial role in the early and late-stage preclinical studies to increase the drug development process
+
+by providing information on the key biological targets or biomarkers, selection of a suitable radiotracer, biodistribution, target quantification, pharmacokinetics, efficacy, safety, and toxicology profiles (20, 21), The PET imaging applications at various stages of the drug discovery and development process are shown in Figure 3.
+
+## QUANTITATIVE RECEPTOR BINDING AND BIODISTRIBUTION STUDIES USING PET
+
+Quantitative receptor binding and biodistribution are the major applications of PET molecular imaging in the drug discovery and development process. PET provides a change in the concentration of receptors in various disease conditions based on the quantitative measurement of receptor density, and biodistribution using different compartment models. The in vitro radioligand binding assays are the basis to translate its techniques into PET molecular imaging like receptors imaging in vivo , which are mainly based on the equilibrium between the bound ligand-receptor complex
+
+## The roles of PET imaging studies in the drug discovery and development
+
+## Target Engagement
+
+## Proof of Mechanism
+
+## Proof of Principle
+
+## Proof of Action
+
+- Identification of biomarkers/Targets by comparing patients and healthy control PET imaging results.
+- Pharmacokinetic profiles of a candidate like Volume of distribution, specific receptor binding. drug
+- Monitor therapeutical responses of a candidate drug
+- metabolism, and penetration through BBB
+
+## Early and Late drug discovery research
+
+## Clinical development and clinical outcomes
+
+FIGURE 2 | The roles of PET imaging studies in drug discovery and development, the PET advances the development of therapeutic drugs with various approaches like target engagement, proof of mechanism, proof of principle, and proof of concept at different stages of early and late-stage drug discovery research, and clinical development process.
+
+(LR) and a free receptor (R) as well as a free ligand (F) with reaction rate constants k$\_{on}$ and k$\_{offf}$ollow the law of mass action (22).
+
+$^{L}$+ R kon ⇌ $\_{koffL}$R (1)
+
+$^{L}$= Ligand $^{R}$= Receptor
+
+$^{LR}$= bound radioligand Rate of association = kon [L] [R], Rate of dissociation = koff[ LR]
+
+$^{At equilibrium: association}$= dissociation
+
+kon [ L ][ R $^{]}$= koff[LR ]
+
+the equilibrium dissociation constant ( K$\_{D}$ ) is derived from rate constants kon, and koff.
+
+koff k on = [ L ][ R ] / [ LR $^{]}$= K$\_{D}$ (2)
+
+Based on in vitro radioligand binding as well as dissociation constant (K$\_{D}$) for the first time, the term binding potential was introduced into in vivo PET molecular imaging. It is based on two parameters such as receptor density, and radioligand affinity toward the target to measure quantitatively the radioligand uptake in the brain. Therefore, it is considered that the
+
+binding potential (BP) is the ratio of receptor density (B$\_{max}$) to radioligand equilibrium dissociation constant (K$\_{D}$). Since the radioligand affinity is the inverse of the equilibrium dissociation constant (K$\_{D}$), the BP is also considered as a product of B$\_{max}$ and affinity (23). The in vivo binding potential quantifies a receptor population with the specific binding of radioligand to the receptor by omitting the free state of radioligand and non-specific binding, and the tracer quantity of radioligand occupies only < 5-10% of the target but quantifies the entire receptor population through specific radioligand binding (24).
+
+B$\_{max}$ = $^{[LR]}$+ [R] (3)
+
+$^{F}$= $^{free radioligand}$= [L]
+
+$^{B}$= $^{bound radioligand}$= [LR]
+
+$^{Equilibrium Michaelis}$- Menten : $^{s B}$= B max ∗ F / $^{K$\_{D}$}$+ F (4)
+
+Rearrange : B / F = B max / $^{K$\_{D}$}$+ F (5)
+
+In a PET study, a tracer quantity of radioligand is injected (KD >> F), and the Equation (5) is rearranged as below,
+
+B / F = B$\_{max}$ / K$\_{D}$ = $^{B$\_{max}$}$∗affinity (6)
+
+- Pharmacodynamic actions of a candidate based on percentage of receptor occupancy via baseline and after treatment with a blocker PET studies. drug
+- biological effects of drug candidate and its interactions with disease conditions.
+- Know both pharmacokinetic and pharmacodynamic profiles.
+
+The PET imaging applications in drug discovery and development, where the preclinical and clinical studies focused on pharmacokinetic profiles, pharmacodynamic actions, safety, efficacy, toxicity, dosage regimen, and response monitoring of a new drug candidate by studying behaviors of a radiotracer in living subjects.
+
+<!-- image -->
+
+Therefore, Radiotracer Binding Potential = B/ F = B$\_{max}$ / K$\_{D}$.
+
+The term B$\_{max}$ has been commonly used in radioligand binding assays in vitro due to the homogeneity of all available receptors, where the in vivo conditions show heterogenicity of receptors due to competition between radioligand and endogenous neurotransmitters for receptor binding. Hence, the term B$\_{max}$ has been replaced with B$\_{avail}$ (total available receptor concentration) for in vivo PET imaging studies. The in vivo binding potential (BP) quantifies the ratio of specific radioligand binding to other reference concentrations like free radioligand, bound with plasma proteins or non-displaceable binding at equilibrium, therefore, it was categorized into three individual binding potentials based on different reference concentrations of radioligand like BP$\_{F}$, BP$\_{P}$, and BP$\_{ND.}$ The BP$\_{F}$ refers to the ratio of the concentration of specific radioligand binding (Cs) to the concentration of free radioligand (C$\_{F}$) at equilibrium. The BP$\_{P}$ refers to the ratio of the concentration of specific radioligand binding (C$\_{S}$) to the concentration of both free and plasma protein-bound radioligand (C$\_{P}$) at equilibrium. The BP$\_{ND}$ refers to the ratio of the concentration
+
+of specific radioligand binding (Cs) to the concentration of nondisplaceable uptake (C$\_{ND}$). The below mathematical equations help us to understand different binding potential values with respect to reference concentrations of radioligand (25, 26). The BP$\_{F}$ and BP$\_{P}$ require measurement of the arterial input function to quantify receptor occupancy, whereas the BP$\_{ND}$ does not need blood sampling during PET analysis (27). All the parameters relating to BP$\_{F}$, BP$\_{P}$, and BP$\_{ND}$ are summarized in Table 1 .
+
+## VOLUMES OF DISTRIBUTION
+
+Determining the volume of distribution ( V$\_{T}$ in mL.cm - $^{3}$) is an essential step in the drug discovery and development process to establish the different binding potential values corresponding to receptor densities based on the Area Under Curves (AUC) as well as kinetic rate constants. V$\_{T}$ is the ratio at the equilibrium of the concentration of radioligand in the brain and the plasma. In general, V$\_{T}$ refers to an uptake of radioligand in the brain relative to how much radioligand is delivered via arterial plasma. V$\_{T}$ is calculated by the area brain curve divided by the area plasma curve at the equilibrium. V$\_{T}$ is
+
+TABLE 1 | Three different binding potential values and their associated factors.
+
+| Parameter   | Ratio            | Reference conc.         | Rate constants                    | PET   | Plasma parent   | Free fraction ( f$\_{P}$ )   | Result                         |
+|-------------|------------------|-------------------------|-----------------------------------|-------|-----------------|-----------------------------|--------------------------------|
+| BP$\_{ND}$   | C$\_{s}$/C$\_{ND}$ | Non-displaceable uptake | k$\_{3}$ ⇌ k$\_{4}$                 | √     | x               | x                           | B$\_{avail}$ K$\_{D}$ * f$\_{ND}$ |
+| BP$\_{P}$    | C$\_{S}$/C$\_{P}$  | Total plasma            | k$\_{1}$k$\_{3}$ ⇌ k$\_{2}$k$\_{4}$   | √     | √               | x                           | Bavail K$\_{D}$ * f$\_{P}$       |
+| BP$\_{F}$    | C$\_{S}$/C$\_{fp}$ | Free plasma             | k$\_{1}$k$\_{3}$ ⇌ fpk$\_{2}$k$\_{4}$ | √     | √               | √                           | B$\_{avail}$ K$\_{D}$            |
+
+B$\_{avail}$, Density of receptors available to bind radioligand but some receptors may be unavailable; bound by the transmitter or sequestered; f$\_{P}$, free fraction in plasma; f$\_{ND}$, free fraction in the nondisplaceable compartment.
+
+TABLE 2 | Three different parameters of distribution volume and their associated factors.
+
+| Parameter   | Ratio            | Reference conc.         | Rate constants                            | PET   | Plasma parent   | Free fraction ( f$\_{P}$ )   |
+|-------------|------------------|-------------------------|-------------------------------------------|-------|-----------------|-----------------------------|
+| V$\_{ND}$    | C$\_{ND}$/C$\_{P}$ | Non-displaceable uptake | k$\_{1}$ ⇌ k$\_{2}$                         | √     | √               | x                           |
+| Vs          | C$\_{S}$/C$\_{P}$  | Specific bound          | k$\_{1}$k$\_{3}$ ⇌ k$\_{2}$k$\_{4}$           | √     | √               | X                           |
+| V$\_{T}$     | C$\_{T}$/C$\_{P}$  | Total tissue            | k$\_{1}$ ⇌ k$\_{2}$ (1+ k$\_{3}$ ⇌ k$\_{4}$ ) | √     | √               | x                           |
+
+always independent of injected activity (28, 29). The total concentration of radioligand in the tissue (C$\_{T}$) is based on the concentration of specifically bound with receptors (S), bound with plasma proteins or non-displaceable binding (ND), and free state in the tissue water (F). The volume of distribution measures the ratio of the concentration of radioligand in each component like specific bound, non-specific bound, or free radioligand in tissue water at equilibrium to the concentration of parent radioligand (C$\_{P}$) in plasma, which is separated from radiometabolites by HPLC analysis. The V$\_{S}$ refers to the ratio of the concentration of specific radioligand binding (Cs) to the concentration of parent radioligand (C$\_{P}$) in plasma free from radiometabolites at equilibrium. The V$\_{ND}$ refers to the ratio of the concentration of non-displaceable uptake (C$\_{ND}$) to the concentration of parent radioligand (C$\_{P}$) in plasma free from radiometabolites at equilibrium. The V$\_{T}$ refers to the ratio of the concentration of radioligand in tissue (C$\_{T}$) to the concentration of parent radioligand (C$\_{P}$) in plasma free from radiometabolites at equilibrium. The below mathematical equations help us to understand different V$\_{T}$ values with respect to reference concentrations of radioligand (30, 31). All the parameters related to V$\_{S}$, V$\_{ND}$, and V$\_{T}$ are summarized in Table 2 .
+
+Here, C$\_{T}$ = $^{C$\_{S}$}$+ $^{C$\_{ND}$}$+ C$\_{FT}$ (7)
+
+The V$\_{S}$ and BP$\_{P}$ refer same as the ratio of the concentration of specific radioligand binding (C$\_{S}$) to the concentration of both free and plasma protein-bound radioligand (C$\_{P}$) without radiometabolites at equilibrium (32). The V$\_{T}$ and V$\_{ND}$ are calculated from specific region-of-interest using different reference tissue methods as an alternative to the arterial input function. In general, the ratio of V$\_{T}$/V$\_{ND}$ is referred to as the distribution volume ratio (DVR), it is commonly used as a function of receptor availability and it requires arterial input function, but many methods have been developed to calculate DVR without the need for blood sampling with different
+
+TABLE 3 | The relationship of rate constants to the volume of distribution and binding potential.
+
+| Binding Potential   | ← Volume of distribution    | ← Rate constants                   |
+|---------------------|-----------------------------|------------------------------------|
+| BP$\_{ND}$           | (V$\_{T}$-V$\_{ND}$)/V$\_{ND}$ | k$\_{3}$ ⇌ k$\_{4}$ k$\_{1}$k$\_{3}$ ⇌ |
+| BP$\_{P}$            | (V$\_{T}$-V$\_{ND}$)          | k$\_{2}$k$\_{4}$                     |
+| BP$\_{F}$            | (V$\_{T}$-V$\_{ND}$)/ f$\_{P}$ | k$\_{1}$k$\_{3}$ ⇌ fpk$\_{2}$k$\_{4}$  |
+
+reference tissue methods (33). The individual binding potential values are calculated using the volume of distribution, which in turn depends on rate constate values as shown in Table 3 .
+
+The rate constant values are based on two-tissue compartment models ( Figure 4 ), here these rate constant values provide the volume of distribution, which in turn provide binding potential values based on receptor density and dissociation constant. In the one-tissue compartment (1TCM) the whole tissue is considered as one compartment including the nondisplaceable (free plus non-specific) along with the specifically bound, whereas in the two-tissue compartment (2TCM), two compartments are present in the tissue which include nondisplaceable (free plus non-specific) and specifically bound (34, 35). The 2TCM is a commonly used model to obtain the volume of distribution and binding potential. Figure 5 illustrates a variety of examples on PET imaging of the human brain with abnormal conditions as well as normal healthy brain using different radioligands such [$^{11}$C]-PBR28 showed high binding in different cortical regions of Alzheimer's disease patient compared with a normal brain, [18F]-FDOPA showed a little uptake in regions of caudate and putamen corresponding to nigrostriatal pathway in Parkinson's disease patient from the healthy brain, (11) C-PK11195 showed uptake in the regions with high actation of microglia in a multiple sclerosis patients compared to a healthy normal brain, and
+
+the (11) C-PBR28 showed increased binding in frontal and temporal lobes in frontotemporal dementia compared with healthy controls (36-39).
+
+## RECEPTOR OCCUPANCY STUDIES USING PET
+
+The drug-receptor occupancy is one of the major applications of PET molecular imaging in the drug discovery and development process. Since PET is ready to provide receptor densities with selective radioligand, it can also easily test the efficacy of new drug candidates by measuring the plasma concentration with the receptor occupancy in a time course (40). This data provides a lot of pharmacological information of a new drug in the development process like the penetration capability across the blood-brain barrier, specific binding with the target, and rational dosage selection in different phases of drug development. The drug-receptor occupancy gives us a piece of information about the treatment-induced relative change in the concentration of available receptors, it can be easily calculated with the relative change in the binding potential before and after the drug treatment using PET baseline and blocking studies (41). The drug-receptor occupancy (RO%) is calculated using the below formula, and Figure 6 illustrates PET images of the human brain in Parkinson's Disease (PD) condition with baseline and after treatment with a blocking agent study, these studies were performed to measure the brain Monoamine Oxidase B (MAO-B) receptor occupancy by Rasagiline (selective MAO-B inhibitor) using the selective radiotracer $^{11}$C-L-Deprenyl, and also showed treatment response in PD condition with selective drug Rasagiline (42).
+
+RO (%) = 1 - B$\_{Avail}$(After Treatment) B$\_{Avail}$(Baseline) (8)
+
+## THE CHEMISTRY OF RADIOLABELING WITH FLUORINE-18 AND CARBON-11 FOR PET IMAGING
+
+## Radiosynthesis Using Fluorine-18
+
+The fluorine-18 is a commonly used radionuclide because of its maximum half-life of 110 min, high radiochemical yields, easy access to PET clinical centers, and best PET imaging properties (43). The [$^{18}$F]FDG is regarded as a potential PET radiotracer for imaging and quantifying various physiological changes in cancer, cardiovascular and neurological conditions. The number of research papers on the development of fluorine18 based PET radiotracers have been increasing exponentially, and many cGMP compliance cyclotron facility centers were set up to produce $^{18}$F-radiopharmaceuticals and distribution to nearby PET clinical centers (44). Many clinical and research centers produce fluorine-18 radionuclide with high molar activity through cyclotron facility using $^{18}$O water, which is irradiated in a metal target like titanium, niobium, silver, etc. with a proton through a source under high energy in the range of 320 MeV via nuclear reaction [$^{18}$O (p, n) $^{18}$F]. In this nuclear
+
+reaction, one proton combines with $^{18}$O water at high energy during irradiation to produce $^{18}$F fluoride by eliminating a neutron to balance this nuclear reaction (45). The produced $^{18}$F fluoride comes as $^{18}$F in $^{18}$O water and is used for $^{18}$Fradiopharmaceuticals development. The positrons emitted by a radioligand interact with local electrons in the body and cause annihilation reactions, through which two photons (gamma radiation) are generated with the energy of 511 KeV each and travel in the opposite direction at 180 · toward PET detectors around a living subject (46). Some cyclotron facilities can also generate fluorine-18 as [$^{18}$F]F$\_{2 flu}$orine gas using enriched $^{18}$O in an F$\_{2}$ gas target with high energy protons via nuclear reaction [$^{18}$O (p, n) $^{18}$F] (47). 18F-radiotracers travel distance is < 0.3 mm path linear range in biological tissues which is lower than other positron emitters. The fluorine-18 with a 110 min half-life can resist long-run radiosynthesis, quality control studies, and wholebody human scans by PET at later hours. The majority of $^{18}$Fradiopharmaceutical synthesis is automated using FX2C, FX2N, and MX modules to reduce radiation exposure to radiochemists, and scientists (48). The $^{18}$F fluoride acts as a nucleophile, hence it is used in nucleophilic substitution reactions, whereas [$^{18}$F]F 2flu orine acts as an electrophile, hence it is used in electrophilic substitution reactions (49). Recent advances have come to produce $^{18}$F-radiopharmaceuticals through transitional metalmediated reactions and prosthetic groups involved reactions for 18F-labeled peptides, and proteins (50).
+
+The electrophilic radiofluorination reactions with [$^{18}$F]F 2flu orine are limited since the radiochemical yield is almost 50% due to dilution of 19F fluorine, leakage or contamination is very common as [$^{18}$F]F$\_{2 flu}$orine comes as gas from the cyclotron, achieve minimum molar activity (0.05-0.5 GBq/ µ mol), and [$^{18}$F]F$\_{2 flu}$orine is a non-selective electrophilic agent for regiospecific reactions (51). The generation of electrophilic [$^{18}$F]F$\_{2 flu}$orine involves two steps, initially ,flu orine-18 is generated in a metal target using irradiating $^{18}$O water with high energy protons (10 MeV), later thi sflu orine-18 undergoes isotopic exchange with continuous irradiation of a mixture of molecular fluorine and noblegas (F: Ne = 2: 98) as a gas target, and finally the gaseous form of [$^{18}$F]F$\_{2 flu}$orine releases for electrophilic radiofluorination reactions (52). Initially, the clinically used PET radiotracers like [$^{18}$F]FDG, $^{18}$F-L-DOPA, $^{18}$F-EF5, and $^{18}$F-labeled 5-fluorouracil were synthesized using electrophilic radiofluorination reactions with $^{18}$F-F$\_{2}$ isotope gas, from which the synthesis of [$^{18}$F]FDG was shown in Figure 7A (53). Many synthetic challenges limited the use of electrophilic radiofluorination, and automated synthesis modules (54). The nucleophilic radiofluorination reactions with $^{18}$F fluoride are most common since the radiochemical yield is > 90% due to direct insertion of fluorine-18 into precursor, leakage or contamination is very limited as $^{18}$F fluoride comes as a liquid from the cyclotron, achieve maximum molar activity (5005,500 GBq/ µ mol), and $^{18}$F fluoride is a selective nucleophilic agent for regiospecific reactions (55). The major limitation of $^{18}$F fluoride is ready to form hydrogen bonds with the $^{18}$O water and reduces the nucleophilic substitution reaction rate due to its nucleophilicity, but it can be achieved by
+
+B
+
+Plasma Free + Protein Bound
+
+Nondisplaceable Free + Nonspecific
+
+Specific Receptor
+
+Plasma Free + Protein Bound
+
+Nondisplaceable Free + Nonspecific
+
+Specific Receptor
+
+<!-- image -->
+
+FIGURE 4 | Biopharmaceutical compartment analysis models. (A) One-tissue compartment, in which the whole tissue is considered as one compartment including the non-displaceable (free plus non-specific) along with the specifically bound. (B) Two-tissue compartment. In which two compartments are present in the tissue which include non-displaceable (free plus non-specific) and specific bound. The rate constants are generally obtained via dissociation constant from the tissue to the plasma.
+
+<!-- image -->
+
+FIGURE 5 | Illustrates a clear differentiation between the abnormal conditions in the brain from a healthy human brain control using PET molecular imaging tools with selective radioligand, herein a few best examples were taken from (36-39), such as [$^{11}$C]PBR28 showed high binding in different cortical regions of Alzheimer's Disease (AD) patient compared with a normal brain, the [$^{11}$C]PBR28 showed increased binding in frontal and temporal lobes in Frontotemporal Dementia (FD) compared with healthy controls, the [$^{18}$F]FDOPA showed a little uptake in regions of caudate and putamen corresponding to nigrostriatal pathway in Parkinson's Disease (PD) patient from the healthy brain, and the [$^{11}$C]PK11195 showed uptake in the regions with high activation of microglia in a Multiple Sclerosis (MS) patient compared to a healthy normal brain.
+
+<!-- image -->
+
+removal of water by evaporation and use of polar aprotic solvents in radiochemical reactions (56). The phase transfer catalyst (PTC) like the cryptand Kryptofix 2.2.2 in complex
+
+with potassium carbonate or tetrabutylammonium cation could enhance the solubility, and nucleophilicity of $^{18}$F fluoride in radiochemical synthesis (57). The azeotropic distillation method
+
+FIGURE 6 | The illustration of the treatment response of Rasagiline drug as a selective MAO-B inhibitor in patients with Parkinson's Disease (PD) using PET imaging studies, where the baseline and after treatment with a blocking agent PET studies were performed to calculate the percentage of receptor occupancy of the brain Monoamine Oxidase B (MAO-B) receptor by rasagiline using the selective radiotracer $^{11}$C-L-Deprenyl, three different PD patients were taken for the studies and performed initial baseline PET study with $^{11}$C-L-Deprenyl, followed by PET study with blocking agent rasagiline at different time intervals like immediate use, after 2-3 and 4-6 weeks to monitor the treatment response in PD condition, this case study was taken from (42).
+
+<!-- image -->
+
+is widely used in radiochemistry to dry the fluoride-cryptand complex with acetonitrile or using a microwave heating method (58). The commonly used polar aprotic solvents include acetonitrile, N, N-dimethylformamide, dimethyl sulfoxide, and dimethylacetamide. Based on the nature of molecules the nucleophilic radiofluorination is possible either for aliphatic or aromatic substitution reactions. The clinically used PET radiotracers like [$^{18}$F]FDG, $^{18}$F-FLT, $^{18}$F-FES, and $^{18}$F-choline were synthesized using nucleophilic radiofluorination reactions with $^{18}$F-fluoride, from which the synthesis of [$^{18}$F]FDG was shown in Figure 7B (59). Many automated synthesis modules and methodologies are developed based on nucleophilic radiofluorination (60, 61). Recently one study reported first transition metal assisted $^{18}$F-labeling of heteroaromatic phenols through deoxyfluorination process via Ruthenium π -complexes. It is well-established that this transition metal π -complexes lower the electron density of the heteroaromatic phenols and activates these for nucleophilic aromatic substitution. They have translated this method into a fully automated synthesis of tyrosine and β -CFT derivatives in GE tracer lab FX$\_{2}$N modules and achieved high radiochemical yields (62). The same research group extended their research into
+
+18F radiolabeling of biomolecules using the same approach of a chemoselective radio-deoxyfluorination of an aromatic amino acid residue, mainly a tyrosine residue for conjugation of biomolecules (63). Various aromatic and heteroaromatic iodonium salt precursors were developed for $^{18}$F-labeling via Cu-mediated radiofluorination, and the utility of iodonium salts has been increasing vastly for the development of various $^{18}$F-radiopharmaceuticals due to its high radiochemical yield, regioselectivity, high tolerance, and straightforward synthesis (64). Dr. Pike's group has done extensive research on different iodonium salt precursors and developed several useful PET radiotracers for oncology, and neurology using iodonium salts (65, 66). One research group reported Cu-mediated 18Fradiofluorination of diaryliodonium salts using [$^{18}$F]KF and translated this method into clinically used radiotracers like 4[$^{18}$F]fluorophenylalanine and 6-[$^{18}$F]F-DOPA, and achieved high radiochemical yields as shown in Figure 7C (67). However, nucleophilic radiofluorination has some limitations, mainly for $^{18}$F-radiolabeling of protein conjugates since peptides, protein conjugates are unstable at higher temperature is being used in nucleophilic radiofluorination (68). Therefore, prosthetic groups have been used to introduce $^{18}$F-radionuclide into
+
+<!-- image -->
+
+peptides, protein conjugates ( Figure 7D) . The $^{18}$F-radiotracers are developed by conjugating $^{18}$F-labeled precursors containing prosthetic groups with peptides, and proteins under normal conditions, but the limitations include lower yields and multistep process (69).
+
+## Radiosynthesis Using Carbon-11
+
+Like fluorine-18, carbon-11 is also a widely used radionuclide for PET radiotracer development, and it is a short-lived positron emitter with a half-life of 20.4 min and β + emission of 99.8%. The carbon-11 radionuclide can be generated in
+
+<!-- image -->
+
+two different sources from a cyclotron including [$^{11}$C]CO$\_{2}$ or [$^{11}$C]CH$\_{4}$ using different targets via the $^{14}$N (p, α )$^{11}$C nuclear reaction (70). These generated different forms of carbon-11 radionuclide are inserted into various organic biomolecules during radiochemical synthesis to develop target-based PET radiotracers. The [$^{11}$C]CO$\_{2}$ is generated from a target having nitrogen 100 % and oxygen ∼ 0.1-1% with higher activities ∼ 118 GBq and 11-17 MeV energy, the [$^{11}$C]CH$\_{4}$ is generated from a target having nitrogen 100% and hydrogen ∼ 10% with higher activities ∼ 67 GBq and 18 MeV energy (71). Several convenient methods were adopted to generate [$^{11}$C]CO$\_{2}$ or [$^{11}$C]CH$\_{4}$ in high molar activity using different targets (72). In general, the NoCarrier-Added (NCA) method was utilized to generate carbon11 since the specific (GBq/mg)/molar activity (GBq/ µ mol) is achieved, whereas the fluorine-18 generation mainly the $^{18}$FFluorine ($^{18}$F-F) is generated via Carrier-Added (CA) method, hence the specific (GBq/mg)/molar activity (GBq/ µ mol) is very low due to dilution with non-radioactive fluorine-19 atoms.
+
+Therefore, the molar activities (GBq/ µ mol) of carbon-11 are always higher than $^{18}$F-Fluorine ($^{18}$F-F) radionuclide (73). The presence of non-radioactive atoms causes saturation of biological targets thereby lowering target-based PET signal and resolution of PET images, hence the NCA method is essential to increase the ratio of radioactive atoms to non-radioactive atoms (74). The molar activities depend on characteristic decay, therefore, is it essential to focus on the radiotracer injection time during a PET study, duration of radiosynthesis, radionuclide generation, and bombardment time (75). In general, a human PET study requires about 500-600 MBq of carbon-11 at the time of injection, whereas for an animal PET studies < 200 MBq is sufficient based on body weight (76). The last stage radiochemical synthesis, rapid quality control studies, and fast dispensing for administration to a living subject are essential with carbon-11 since the half-life is about 20 min various carbon-11 radiotracers can be synthesized with different routes by generating primary and secondary precursors. The major advantage of carbon-11 is
+
+<!-- image -->
+
+the direct insertion of carbon-11 synthons into a precursor to synthesize 11C-radiotracers without optimization trials (77).
+
+The primary precursors [$^{11}$C]CO$\_{2}$ or [$^{11}$C]CH$\_{4}$ are directly synthesized from a cyclotron using specific targets with nitrogen gas, and a trace amount of hydrogen or oxygen via the $^{14}$N(p, α )$^{11}$C nuclear reaction. The radiochemical yields are very good due to the high concentration of nitrogen with low oxygen/hydrogen, whereas other primary precursors such as [$^{11}$C]CN or [$^{11}$C]CO can also be produced by changing target composition, but yields are moderate (78). Many studies reported the direct insertion of [$^{11}$C]CO$\_{2}$ into the molecules via [$^{11}$C]carboxylation reactions with different organic compounds like organometallic reagents, amines, etc (79). For example, the direct insertion of [$^{11}$C]CO$\_{2}$ can generate various carbon11 functional groups like $^{11}$C-carboxylic acid, $^{11}$C-urea, $^{11}$Camide, $^{11}$C-carbamate, and $^{11}$C-oxazolidinone, which can further be used for developing target-specific 11C -radiotracers like [$^{11}$C]AR-AO14418, is a selective GSK-3 β inhibitor where it has $^{11}$C-urea functional group, [$^{11}$C]Bexarotene, is a retinoid
+
+X receptor (RXR) agonist where it has an $^{11}$C-carboxylic acid functional group, and ([$^{11}$C]GR103545, is a kappa opioid agonist where it has $^{11}$C-carbamate functional group (80).
+
+Due to limited access to developing various radioligands with only the primary carbon-11 precursors [$^{11}$C]CO$\_{2}$ or [$^{11}$C]CH$\_{4}$, many secondary precursors have been developed and used as building blockers to synthesize target-specific radioligand with high accessibility. Many successful radiotracers are used in clinical and preclinical studies are developed using various secondary precursors like $^{11}$CH$\_{3}$I, $^{11}$CO, $^{11}$COCl, $^{11}$COCl$\_{2,}$ $^{11}$HCN, $^{11}$CH$\_{2}$O, $^{11}$CS$\_{2,}$ and $^{11}$CH$\_{3}$OTf (81). A few reported examples include [$^{11}$C]Raclopride is a cerebral D2 receptors antagonist for imaging Parkinson's diseases, which is synthesized by $^{11}$CH$\_{3}$I precursor, $^{11}$C(carbonyl)-estramustine phosphate is an estrogen receptors agonist for imaging solid tumors, which is synthesized by $^{11}$CO precursor, [$^{11}$C]citalopram is a selective serotonin reuptake inhibitor for imaging depressive conditions, which is synthesized by $^{11}$CH$\_{3}$I precursor (82). Various reaction pathways have been shown in Figure 8 to
+
+generate secondary precursors using the primary precursors [$^{11}$C]CO$\_{2}$ or [$^{11}$C]CH$\_{4}$ (83, 84). Three important steps must consider for an effective strategy to synthesize carbon-11 radioligands since it has a shorter half-life, which includes designing a protocol in a way to keep radiolabeling at th efin al step, the reaction time should be minimal, and reduce isotopic dilution to get a high molar activity. Currently, many organic methodologies have been adapted for developing selective radioligands through C-C bond formation despite using simple methylation with [$^{11}$C]CH$\_{3}$I, which include alkylation of nucleophilic groups with carbon-11 inserted alkyl halides, cyanides, and nitroalkanes which can act as electrophilic groups (85), [$^{11}$C]carboxylation reactions with different organometallic copper and other metal-catalyzed reagents, transition metals such as palladium, rhodium, ruthenium, and selenium assisted reactions with different secondary precursors like [$^{11}$C]CH$\_{3}$I, [$^{11}$C]CO, and [$^{11}$C]CN (86-88). A few of reported carbon-11 radioligands are synthesized via C-C bond formation include [$^{11}$C]A85380 is a nicotinic Ach receptor agonist, which is synthesized from Pd2(dba)$\_{3}$/$^{11}$CH$\_{3}$I, [$^{11}$C]MPEP, is a glutamate receptor subtype 5 receptors agonist, which is synthesized from Pd(PPh$\_{3}$)$\_{2}$Cl$\_{2}$/$^{11}$CH$\_{3}$I.
+
+## NOVEL FLUORINE-18 AND CARBON-11 RADIOLIGANDS FOR PET IMAGING IN ONCOLOGY
+
+Gauthier et al. have reported an $^{18}$F-Labeled Tropomyosin Receptor Kinase (Trk) Inhibitor $^{18}$F TRACK for PET Imaging. The overexpression of either Tropomyosin Receptor Kinase A, B, or C receptors induces tumor growth, metastasis, and some types of neurological diseases like Alzheimer's and Parkinson's diseases. The $^{18}$F-TRACK was synthesized via Cu mediated radiofluorination reaction in DMF. $^{18}$F-(R)-TRACK was found to cross the blood-brain barrier (BBB) and showed high brain uptake in studies with non-human primates (89). Zhang et al. have reported $^{18}$F labeled sulfonamide analog as human carbonic anhydrase IX inhibitor for PET imaging to detect hypoxia tumors. It was synthesized via a copper-mediated radiofluorination reaction (90). The studies in the human colorectal cancer xenograft model suggested high uptake in tumors with 0.41 ± 0.06% ID/g. The transmembrane-bound human carbonic anhydrase IX and XII are highly expressed in the tumor cells, and these are considered tumor-associated enzymes, mainly in hypoxic tumors. Therefore, overexpression of human carbonic anhydrase IX and XII are associated with tumor growth, metastasis, and angiogenesis (91-93). Song et al. have reported $^{18}$F-IRS as Epidermal Growth Factor (EGF) Receptor selective ligand for imaging mutant EGF receptors in non-smallcell lung carcinoma (NSCLC) patients. An overproduction of EGF receptor ligands in the tumor microenvironment leads to cause severe mutations in the EGFR receptors which in turn accelerate epithelial tumor cell growth, invasion, and metastasis (94, 95). This radiotracer showed a good uptake in tumor cells via targeting mutant EGF receptors in vivo. Wilson et al. have reported $^{18}$F-Olaparib for PET Imaging of PARP Expression.
+
+In-vitro studies showed a good tumor uptake of $^{18}$F -olaparib in PARP-1-expressing Capan-1 and MiaPaCa cells. In vivo studies showed specific uptake of $^{18}$F -olaparib in PARP-1expressing tumors in mice xenografts model. Overexpression $^{of PARP reduces cellular levels of NAD}$+, which leads to cause tumor growth, but the exact mechanism is not known (96). Nepal et al. have reported 18F-fluciclovine (Axumin) is a novel radiolabeled amino acid derivative for PET imaging in prostate cancer. This study suggested higher uptake of 18F -flu ciclovine in prostate cancer cells. 18F-fluciclovine (Axumin) is the US Food and Drug Administration (FDA) approved radiotracer for PET imaging in patients with recurrent prostate cancer (97). Strebl et al. have reported a new radiotracer [$^{18}$F]MGS3 for PET imaging of histone deacetylase in living subjects, this study confirms high brain uptake, specific binding, and regional distribution of [$^{18}$F]MGS3 (98). Overexpression of histone deacetylases (HDACs) is associated with cancer, neurodegenerative diseases, and psychiatric conditions. Many studies reported various biological targets plays a vital role in cancer progression, one of the major biomarkers is human galectin-1 protein, which is highly expressed in multiple cancers (99, 100), and therefore, which could be the potential targets for novel PET radiotracers to image various conditions in cancer, here a few examples of human galectin-1 selective inhibitors where they have been successfully labeled with fluorine-18 and proved to be PET imaging agents for the diagnosis of cancer (101, 102). The importance of molecular imaging for diagnosis and therapy has been increased in recent days for various cancer types, hence, the current cancer research is spreading widely onto various receptor-based radiotracers.
+
+Tyrosine kinases are highly upregulated in tumor development, and progression, and are considered cancer hallmarks. Several Tyrosine kinase inhibitors are developed to treat cancer (103). Recently, one study developed carbon11 labeled 3-Piperidinylethoxyanilinoquinazoline (PAQ), it is a derivative of vandetanib (tyrosine kinase inhibitor), a transgenic mouse model of breast cancer study showed promising results with [$^{11}$C]PAQ to check the cancer treatment status and considered as a good radiotracer in cancer therapy response treatment (104). A thymidine derivative [$^{11}$C]4DST (4 ' -[methyl-$^{11}$C]thiothymidine) is approved to use clinically for measurement of cancer cells development, metastasis, and invasion. It is one of the hallmarks of cancer cells. Th efir st radiotracer developed was [$^{11}$C]thymidine to measure the proliferative rates in different tumors (105). The large neutral amino acid transporters (LAT) like LAT1, LAT2, LAT3, and LAT4 are highly upregulated in tumor cells due to the full utilization of these transporters for tumor growth and development (106). Various carbon-11 labeled amino acid radiotracers are developed. Recently one study reported an 11C-labeled amino acid radiotracer to quantify tumor cell proliferation (107). Several studies confirmed the upregulation of Translocator protein (TSPO) in gliomas, and a recent study by Su et al. reported the use of [$^{11}$C]PK11195 radiotracer can be easily differentiated between the low-grade astrocytomas and oligodendrogliomas through a PET dynamic study (108). The
+
+TABLE 4 | The novel patented $^{18}$F and $^{11}$C-radiotracers with their specific biomarkers for various conditions in oncology.
+
+|   S. No | Radiotracer structure                                                 |                                               | Biological target                                                                             | Applications                           |
+|---------|-----------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------|
+|       1 | $^{18}$F-DCFPyL                                                       |                                               | Prostate-specific membrane antigen (PSMA)                                                     | Prostate cancer (112)                  |
+|       2 |                                                                       | $^{18}$F-labeled Factor VII PET imaging agent | Tumor tissue factor (TF) with a high binding affinity                                         | Pancreatic Cancer (113)                |
+|       3 |                                                                       | $^{18}$F-FMISO                                | Hypoxic cells (macromolecules)                                                                | Diffuse Intrinsic Pontine Glioma (114) |
+|       4 |                                                                       | $^{18}$F-FES                                  | Derivative of estrogen and is used to detect estrogen receptor-positive breast cancer lesions | Breast cancer (115)                    |
+|       5 |                                                                       | $^{18}$F-labeled PARP-1 inhibitor             | Poly (ADP-Ribose) Polymerase-1 (PARP-1)                                                       | Ovarian cancer (116)                   |
+|       6 | $^{18}$F-labeled tetrahydrofolate IF-labeled PARP-1 inhibitor # HNT A | OH OH A N 18F                                 | Folate receptor (FR) expressing cells                                                         | Cancer or inflammatory diseases. (117) |
+|       7 | HzN ~ A I8F-labeled tetrahydrofolate                                  | $^{18}$F-FMAU                                 | It's a thymidine derivative and involved in DNA                                               | brain tumors (118)                     |
+
+(Continued)
+
+TABLE 4 | Continued
+
+|   S. No | Radiotracer structure                           | Biological target                                         | Applications                  |
+|---------|-------------------------------------------------|-----------------------------------------------------------|-------------------------------|
+|       8 | $^{11}$C-labeled O6 -benzylguanine $^{11}$C-AZT | O6 -Methyl Guanine Methyltransferase (DNA repair protein) | Malignant brain tumors (119). |
+|       9 |                                                 | Nucleoside reverse transcriptase                          | Glioma tumors (120)           |
+|      10 | $^{11}$C-labeled Peptide                        | Somatostatin receptor                                     | Neuroendocrine tumors (121)   |
+
+PET molecular imaging studies with endogenous reporter genes have been translated into clinical research, and one recent study with trimethoprim labeled with carbon-11 ([$^{11}$C]TMP) showed high biodistribution and good sensitivity toward Escherichia coli dihydrofolate reductase expressing cells in a xenograft mouse model and suggested it could provide advancement in present PET reporter gene technologies (109). Natural compounds like coumarin and benzimidazole are the most popular ligands for the development of target-based selective anticancer agents, hence which trigger the development of target-based selective $^{11}$Cradiotracer for molecular imaging in oncology and neurology (110, 111) ( Figure 9 ). Here, we have reported a list of recent patents reported for fluorine-18 and carbon-11 radiotracers with their specific biomarkers for various conditions and clinical use in oncology ( Table 4 ).
+
+## NOVEL $^{18}$F AND $^{11}$C-RADIOTRACERS FOR PET IMAGING IN NEUROLOGY
+
+A study by Lu et al. reported a new PET ligand [$^{18}$F]LSN3316612 to quantify O-linkedβ -N-acetyl-glucosamine (O-GlcNAc) hydrolase (OGA) in the human brain. It enhances the phosphorylation of tau proteins, which are the biomarkers for Alzheimer's disease. Computational and in-vitro studies confirmed that LSN3316612 is a selective and potent OGA ligand. Initially, the [$^{3}$H]LSN3316612 was used to image and quantify OGA in the brains of living subjects like rats, monkeys, and humans, and later the [$^{18}$F]LSN3316612 was used to
+
+image OGA in vivo with the blocking agent thiamet G in monkeys. Furthermore, the research has been extended and reported the PET quantification of O-GlcNAcase in the brain of healthy human volunteers using [$^{18}$F]LSN3316612, the V$\_{T}$ was calculated with two tissue compartment model, and also reported Region-based as well as voxel-based quantification of [$^{18}$F]LSN3316612 in the human brain for O-GlcNAcase (122, 123). Zhang et al. have discovered a novel Radioligand PF-06445974 to image preferably Phosphodiesterase (PDE) 4B-isoform using PET, which is this cold ligand had shown promising results with high potency and selectivity over PDE-4D isoform. The selective PDE-4B inhibitors are used for the treatment of CNS disorders. The Bmax and biodistribution studies confirmed the selectivity of radioligand (124). Wang et al. have clearly reported the detailed structures of all four subtypes of phosphodiesterase-4 leads to providing knowledge to develop selective inhibitors, which could provide the possibility to develop selective subtype phosphodiesterase-4 radioligands (125). Lindberg et al. have developed [$^{18}$F]AZ10419096 radioligand for imaging 5-HT$\_{1B}$ receptors. The 5-HT$\_{1B}$ receptors abnormalities are associated with the CNS disorders like anxiety, and depression and become a hallmark to study with PET. In a baseline PET study with [$^{18}$F], AZ10419096 showed selectively high brain uptake into 5-HT$\_{1B}$ receptor, whereas in blocking PET study with AR-A000002 blocker, the binding was found to be 80% in occipital cortex suggested high specific binding (126). Koole et al. have reported a novel radiotracer [$^{18}$F]MK-6240 for Imaging Neurofibrillary
+
+<!-- image -->
+
+Tangles are a key pathological feature associated with cognitive decline in Alzheimer's disease. The safety of [$^{18}$F]MK-6240 is confirmed by preclinical toxicity studies, first-in-human biodistribution, and dosimetry studies for clinical use in imaging studies of the human brain (127). [$^{18}$F]FPYBF-2, is a novel $^{18}$F-radiotracer for imaging amyloid plaques in dementia conditions, where this study was performed in 55 dementia patients and 61 healthy volunteers. In Alzheimer's Disease (AD) patients, the $^{18}$F-FPYBF-2 showed high uptake gray matter and cerebral white suggested as a powerful PET imaging agent for AD (128).
+
+Shrestha et al. have reported a novel radioligand [$^{11}$C]MC1 for imaging low-density cyclooxygenase 2 (COX-2) enzyme in the human brain. It is an essential target for neuroinflammation. The COX-1 expression is high in the brain, whereas the COX2 expression is low in healthy brain tissue, but it is upregulated during the inflammatory process. This [$^{11}$C]MC1 is a selective radioligand for COX-2 and found that in rheumatoid arthritis conditions it detected high-density COX-2 in symptomatic joints. This study shows high uptake of [$^{11}$C]MC1 in the human brain and the specific binding to COX-2 was confirmed
+
+by blocking studies with celecoxib (129). Yan et al. have reported an improved PET radioligand [$^{11}$C]deschloroclozapine ([$^{11}$C]DCZ) to quantify the muscarinic DREADDs transfected in the brain of monkeys. In the monkey DREADDs model, the signal-to-background ratio of [$^{11}$C]DCZ was almost 2fold greater than that of [$^{11}$C]clozapine ([$^{11}$C]CLZ) due to a much lower background uptake. Hence, it is suggested that the [$^{11}$C]deschloroclozapine has high selectivity over DREADD hM4Di receptors than [$^{11}$C]CLZ (130). The Designer Receptors Exclusively Activated by Designer Drugs (DREADDs) are a novel chemogenetic technology used to activate or inhibit different neural populations in the brain regions leading to control various neurological conditions (131). Kim et al. have reported the first-in-human evaluation of a novel radioligand [$^{11}$C]PS13 to quantify cyclooxygenase-1 (COX-1) in the brain. It is also an essential target for neuroinflammation. The pharmacokinetic profiles were obtained through two-tissue compartment models, and Logan graphical analysis, the total distribution volume (V$\_{T}$) was also determined. This study found that [$^{11}$C] PS13 shows high uptake in the occipital cortex and hippocampal regions of the human brain (132).
+
+TABLE 5 | The novel patented $^{18}$F and $^{11}$C-radiotracers with their specific biomarkers for various conditions in neurology.
+
+|   S. No | Radiotracer structure                                                   | Biological target                                | Applications                                        |
+|---------|-------------------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|
+|       1 |                                                                         | Lipocalin-type prostaglandin D synthase (L-PGDS) | Alzheimer's disease (135)                           |
+|       2 | $^{18}$F-labeled fluorobutyl ethacrynic amide $^{18}$F-labeled nicotine | Nicotinic acetylcholine receptor (nAChR) Agonist | Parkinson's disease (136)                           |
+|       3 |                                                                         | Translocator protein (TSPO).                     | Neuroinflammation in neurological conditions        |
+|       4 | $^{18}$F-labeled imidazo [1,2-b] pyridazine derivative                  | β -amyloid (A β ) plaques                        | Alzheimer's disease (AD)                            |
+|       5 | $^{11}$C-DSB $^{11}$C-Pyrrolidine-2,5-dione analog                      | Glycogen Synthase                                | Senile dementia (139)                               |
+|       6 | $^{11}$C-phenyl-N'-methylguanidine analog                               | N-methyl-D-aspartate (NMDA) receptor             | Alzheimer's disease, and Huntington's disease (140) |
+
+TABLE 5 | Continued
+
+|   S. No | Radiotracer structure         | Biological target                              | Applications                                         |
+|---------|-------------------------------|------------------------------------------------|------------------------------------------------------|
+|       7 | $^{11}$C-pyrimidine analog    | Glutamate receptors (mGluRs)                   | Parkinson's disease, neuropathic pain (141)          |
+|       8 |                               | Octamer-binding transcription factor 4 (OCT-4) | Abrogate resistance to chemo- and radiotherapy (142) |
+|       9 | $^{11}$C-fursultiamine analog | Leucine-rich repeat kinase 2 protein (LRRK2)   | Parkinson's disease (143)                            |
+|      10 | $^{11}$C-G1023                | Glutamate receptor mGluR2                      | Schizophrenia, anxiety,                              |
+
+Wakabayashi et al. have reported a selective phosphodiesterase subtype 4D (PDE4D) radioligand, it is a potential target to improve cognition or antidepression category. This study has reported four lead compounds having an alkoxypyridinyl base with high in vivo PDE4D selectivity, potency, lipophilicity, and good brain uptake. The blocking studies with rolipram or BPN14770 (selective PDE4D inhibitor) confirmed specific binding of [$^{11}$C]T1650 in the cognitive functions associated regions like the prefrontal cortex, hippocampus, and temporal cortex, and the major limitation of this study is the high brain enzyme density ( V$\_{T}$ ) with scan duration because of accumulation of radiometabolites in the brain (133). The vesicular monoamine transporter 2 (VMAT$\_{2}$) protein is considered a biomarker to evaluate the condition of Parkinson's disease. The synthesized dopamine at the striatal cells is transported and stored in the synaptic storage vesicles mediated by VMAT$\_{2}$ receptors. $^{Hence, the recent study developed a novel radiotracer 10-(}$+)[$^{11}$C]DTBZ as in vivo PET imaging for VMAT$\_{2}$ using microPET study to understand Parkinson's disease condition (134) ( Figure 10 ). Here, we have reported a list of recent patents reported for fluorine-18 and carbon-11 radiotracers with their specific biomarkers for various conditions and clinical use in neurology ( Table 5 ).
+
+## FUTURE PERSPECTIVES
+
+The PET is the best technology with great potential and limited challenges in the field of molecular imaging. It plays a tremendous role in the medical diagnosis of various conditions in oncology, cardiology, and neurology. The specialty of PET is to measure lower concentrations like 10 - $^{6}$-10 - 9 gm of radiotracers in living subjects. The drawback of PET is to provide limited anatomic data which is overcome by hybrid technology such as PET-CT, and PET-MR for attenuation correction and anatomical orientation. The PET is more sensitive (10 - 12 M) than other medical imaging modalities like MRI (10 4 M), but it has a low special resolution (2-6 mm). Therefore, PET remains a remarkable molecular imaging modality in biomedical as well as clinical practice. Micro dosing is one of the best approaches in pharmaceutical development since the low concentration of radiopharmaceutical exhibits lower toxicologic risks. The totalbody PET/CT system, like a whole-body dynamic scan with high sensitivity, makes it useful for radiolabeled drug pharmacokinetic study. Therefore, the distribution of radiopharmaceuticals can be visualized, and the time of activity can be calculated in different tissue regions of interest simultaneously with dynamic images. Hence, pharmacokinetics, as well as pharmacodynamics,
+
+can be estimated more precisely. The total-body PET/CT has many advantages in the evaluation of various systemic diseases, which include higher sensitivity allows imaging at high signal to noise ratio (SNR) at later time points after radioligand injection, the total-body dynamic scan provides more kinetic information than normal conventional PET/CT, and the wholebody images can provide more comprehensive evidence of many of systemic diseases in oncology, cardiology, and neurology (145, 146). The fluorine-18 and carbon-11 are promising radiotracers with many advantages but limited challenges. Th eflu orine-18 can withhold long-run radiochemical synthesis due to a longer half-life of 110 min, and multiple studies can be done by PET in a single day. Despite the shorter half-life of carbon-11 ( t$\_{1}$$\_{/}$$\_{2}$ = 20.4 min), it is widely used in various synthetic methodologies with different heterocycles because of the direct insertion of the carbon-11 radionuclide. Several automated methods are adapted for easy, rapid, and efficient synthesis of various PET radiopharmaceuticals. Therefore, advances in multimodality devices could help in getting accurate and reliable data on drug candidates at different stages of drug development.
+
+## CONCLUSIONS
+
+In this article, we have focused on the importance of PET molecular imaging in the drug discovery and development process. The PET is mainly used to address essential factors to advance the drug development process, which include
+
+## REFERENCES
+
+- 1. Patel S, Schmidt K, Hesterman J, Hoppin J. Advancing drug discovery and development using molecular imaging (ADDMI): an Interest Group of the World Molecular Imaging Society and an Inaugural Session on Positron Emission Tomography (PET). Mol Imaging Biol. (2017) 19:34856. doi: 10.1007/s11307-017-1085-7
+- 2. MEDraysintell Publishes Its New Nuclear Medicine Report and Directory. (2019). Available online at: http://medraysintell.com
+- 3. Rudin M, Weissleder R. Molecular imaging in drug discovery and development. Nat Rev Drug Discov. (2003) 2:123-31. doi: 10.1038/nrd1007
+- 4. Lu F-M, Yuan Z. PET/SPECT molecular imaging in clinical neuroscience: Recent advances in the investigation of CNS diseases. Quant Imaging Med Surg . (2015) 5:433-47. doi: 10.3978/j.issn.2223-4292.2015.03.16
+- 5. Omami G, Tamimi D, Branstetter BF. Basic principles and applications of (18)F-FDG-PET/CT in oral and maxillofacial imaging: a pictorial essay. Imaging Sci Dent. (2014) 44:325-32. doi: 10.5624/isd.2014.44.4.325
+- 6. James ML, Shen B, Zavaleta CL, Nielsen CH, Mesangeau C, Vuppala PK, et al. New positron emission tomography (PET) radioligand for imaging σ -1 receptors in living subjects. J Med Chem. (2012) 55:827282. doi: 10.1021/jm300371c
+- 7. Cherry SR. Multimodality imaging: beyond PET/CT and SPECT/CT. Semin Nucl Med. (2009) 39:348-53. doi: 10.1053/j.semnuclmed.2009.03.001
+- 8. Honer M, Gobbi L, Martarello L, Comley RA. Radioligand development for molecular imaging of the central nervous system with positron emission tomography. Drug Discovery Today. (2014) 19:1936-44. doi: 10.1016/j.drudis.2014.08.012
+- 9. Aboagye EO, Price PM, Jones T. In vivo pharmacokinetics and pharmacodynamics in drug development using positronemission tomography. Drug Discov Today. (2001) 6:293302. doi: 10.1016/S1359-6446(01)01684-1
+
+understanding the pathophysiology, measuring roles and applications of PET molecular imaging in drug discovery and development. In addition, it is also focused on a variety of carbon-11 and fluorine-18 radioligands, their modified and advanced procedures of production, and their PET imaging applications in early state diagnosis, prognosis, and treatment of disease conditions in oncology, and neurology. Various radiofluorination methods, easy synthesis, appropriate precursor identification, and automated synthesis measures have been explored to reach the goals of developing selective radiotracers. Clinical use of PET imaging agents with carbon11 and fluorine-18 have vastly increased due to a wide range of advantages. It would be helpful to understand the significance of PET molecular imaging in drug development, and the importance of positrons emitting fluorine-18 and carbon-11 radiotracers.
+
+## AUTHOR CONTRIBUTIONS
+
+SN and PS: data collection, writing, analyzing, and setting up paper. TS: data collection, analysis, and review. CD: editorial role to the paper. All authors contributed to the article and approved the submitted version.
+
+## ACKNOWLEDGMENTS
+
+The authors are thankful to the department of NIIR, NIMHANS, and NIPER-Hyderabad.
+
+- 10. Galldiks N, Lohmann P, Albert NL, Tonn JC, Langen K-J. Current status of PET imaging in neuro-oncology. Neuro Oncol Adv. (2019) 1:vdz010. doi: 10.1093/noajnl/vdz010
+- 11. Rösch F. The basics of nuclear chemistry and radiochemistry: an introduction to nuclear transformations and radioactive emissions. In: Lewis JS, Windhorst AD, Zeglis BM, editors. Radiopharmaceutical Chemistry . Cham: Springer International Publishing (2019). p. 27-61.
+- 12. Zanzonico P. An overview of nuclear imaging. In: Lewis JS, Windhorst AD, Zeglis BM, editors. Radiopharmaceutical Chemistry . Cham: Springer International Publishing (2019). p. 101-17. doi: 10.1007/978-3-319-98947-1\_6
+- 13. The Guidance for Investigational New Drug Applications for Positron Emission Tomography (PET) Drugs at FDA . Available online at: https://www. fda.gov/files/drugs/published/Clinical-Trial-Imaging-Endpoint-ProcessStandards-Guidance-for-Industry
+- 14. The Guidance for Industry and Researchers on The Radioactive Drug Research Committee: Human Research Without an Investigational New Drug Application . Available online at: https://www.fda.gov/ regulatory-information/search-fda-guidance-documents/radioactivedrug-research-committee-human-research-without-investigational-newdrug-application.
+- 15. Waaijer SJH, Kok IC, Eisses B, Schröder CP, Jalving M, Brouwers AH, et al. Molecular imaging in cancer drug development. J Nucl Med. (2018) 59:726-32. doi: 10.2967/jnumed.116.188045
+- 16. Lindner JR, Link J. Molecular imaging in drug discovery and development. Circ: Cardiovascular Imaging. (2018) 11. doi: 10.1161/CIRCIMAGING.117.005355
+- 17. Matthews PM, Rabiner EA, Passchier J, Gunn RN. Positron emission tomography molecular imaging for drug development: PET for drug development. Br J Clin Pharmacol. (2012) 73:175-86. doi: 10.1111/j.1365-2125.2011.04085.x
+
+- 18. Kantrowitz JT, Grinband J, GoffDC, Lahti AC, Marder SR, Kegeles LS, et al. Proof of mechanism and target engagement of glutamatergic drugs for the treatment of schizophrenia: RCTs of pomaglumetad and TS-134 on ketamine-induced psychotic symptoms and pharmacoBOLD in healthy volunteers. Neuropsychopharmacol. (2020) 45:1842-50. doi: 10.1038/s41386-020-0706-z
+- 19. Wong DF, Tauscher J, Gründer G. The role of imaging in proof of concept for CNS drug discovery and development. Neuropsychopharmacol. (2009) 34:187-203. doi: 10.1038/npp.2008.166
+- 20. Scott AM. PET imaging in oncology. In: Bailey DL, Townsend DW, Valk PE, Maisey MN, editors. Positron Emission Tomography . London: SpringerVerlag (2005). p. 311-25.
+- 21. Chen Y-P, Lv J-W, Liu X, Zhang Y, Guo Y, Lin A-H, et al. The landscape of clinical trials evaluating the theranostic role of PET imaging in oncology: insights from an analysis of ClinicalTrials.gov Database. Theranostics. (2017) 7:390-9. doi: 10.7150/thno.17087
+- 22. Hulme EC, Trevethick MA. Ligand binding assays at equilibrium: validation and interpretation: equilibrium binding assays. Br J f Pharmacol. (2010) 161:1219-37. doi: 10.1111/j.1476-5381.2009.00604.x
+- 23. Lever SZ, Fan K-H, Lever JR. Tactics for preclinical validation of receptor-binding radiotracers. Nucl Med Biol. (2017) 44:430. doi: 10.1016/j.nucmedbio.2016.08.015
+- 24. Pike VW. Considerations in the development of reversibly binding PET radioligands for brain imaging. Curr Med Chem. (2016) 23:181869. doi: 10.2174/0929867323666160418114826
+- 25. Owen DR, Guo Q, Kalk NJ, Colasanti A, Kalogiannopoulou D, Dimber R, et al. Determination of [ 11 C]PBR28 binding potential in vivo: a first human TSPO blocking study. J Cereb Blood Flow Metab. (2014) 34:98994. doi: 10.1038/jcbfm.2014.46
+- 26. Jucaite A, Odano I, Olsson H, Pauli S, Halldin C, Farde L. Quantitative analyses of regional [11C]PE2I binding to the dopamine transporter in the human brain: a PET study. Eur J Nucl Med Mol Imaging. (2006) 33:65768. doi: 10.1007/s00259-005-0027-9
+- 27. Innis RB, Cunningham VJ, Delforge J, Fujita M, Gjedde A, Gunn RN, et al. Consensus nomenclature for in vivo imaging of reversibly binding radioligands. J Cereb Blood Flow Metab. (2007) 27:15339. doi: 10.1038/sj.jcbfm.9600493
+- 28. Fujimura Y, Zoghbi SS, Simèon FG, Taku A, Pike VW, Innis RB, et al. Quantification of translocator protein (18 kDa) in the human brain with PET and a novel radioligand, 18 F-PBR06. J Nucl Med. (2009) 50:104753. doi: 10.2967/jnumed.108.060186
+- 29. Kimura Y, Naganawa M, Sakata M, Ishikawa M, Mishina M, Oda K, et al. Distribution volume as an alternative to the binding potential for sigma1 receptor imaging. Ann Nucl Med. (2007) 21:533-5. doi: 10.1007/s12149-007-0063-6
+- 30. Schmidt KC, Turkheimer FE. Kinetic modeling in positron emission tomography. Q J Nucl Med . (2002) 46:70-85.
+- 31. Bentourkia M, Zaidi H. Tracer kinetic modeling in PET. PET Clin. (2007) 2:267-77. doi: 10.1016/j.cpet.2007.08.003
+- 32. Takahata K, Kimura Y, Seki C, Tokunaga M, Ichise M, Kawamura K, et al. A human PET study of [11C]HMS011, a potential radioligand for AMPA receptors. EJNMMI Res. (2017) 7:63. doi: 10.1186/s13550-017-0313-0
+- 33. Schain M, Fazio P, Mrzljak L, Amini N, Al-Tawil N, Fitzer-Attas C, et al. Revisiting the Logan plot to account for non-negligible blood volume in brain tissue. EJNMMI Res. (2017) 7:66. doi: 10.1186/s13550-017-0314-z
+- 34. Gunn RN, Gunn SR, Cunningham VJ. Positron emission tomography compartmental models. J Cereb Blood Flow Metab. (2001) 21:63552. doi: 10.1097/00004647-200106000-00002
+- 35. Watabe H, Ikoma Y, Kimura Y, Naganawa M, Shidahara M. PET kinetic analysis-compartmental model. Ann Nucl Med. (2006) 20:5838. doi: 10.1007/BF02984655
+- 36. Edison P, Donat CK, Sastre M. In vivo imaging of glial activation in Alzheimer's Disease. Front Neurol. (2018) 9:625. doi: 10.3389/fneur.2018.00625
+- 37. Peng S, Doudet DJ, Dhawan V, Ma Y. Dopamine. PET Clinics. (2013) 8:469-85. doi: 10.1016/j.cpet.2013.08.003
+- 38. Politis M. Imaging of microglia in patients with neurodegenerative disorders. Front Pharmacol. (2012) 3:96. doi: 10.3389/fphar.2012.00096
+
+- 39. Kreisl WC, Kim M-J, Coughlin JM, Henter ID, Owen DR, Innis RB. PET imaging of neuroinflammation in neurological disorders. Lancet Neurol. (2020) 19:940-50. doi: 10.1016/S1474-4422(20)30346-X
+- 40. Colom M, Vidal B, Zimmer L. Is there a role for GPCR agonist radiotracers in PET neuroimaging? Front Mol Neurosci. (2019) 12:255. doi: 10.3389/fnmol.2019.00255
+- 41. McCluskey SP, Plisson C, Rabiner EA, Howes O. Advances in CNS PET: the state-of-the-art for new imaging targets for pathophysiology and drug development. Eur J Nucl Med Mol Imaging. (2020) 47:45189. doi: 10.1007/s00259-019-04488-0
+- 42. Freedman NMT, Mishani E, Krausz Y, Weininger J, Lester H, Blaugrund E, et al. In Vivo measurement of brain monoamine oxidase b occupancy by rasagiline, using (11)C-l-Deprenyl and PET. J Nucl Med . (2005) 46:1618-24.
+- 43. Goud NS, Joshi RK, Bharath RD, Kumar P. Fluorine-18: A radionuclide with diverse range of radiochemistry and synthesis strategies for target based PET diagnosis. Eur J Med Chem. (2020) 187:111979. doi: 10.1016/j.ejmech.2019.111979
+- 44. Varagnolo L, Stokkel MPM, Mazzi U, Pauwels EKJ. 18F-labeled radiopharmaceuticals for PET in oncology, excluding FDG. Nucl Med Biol . (2000) 27:103-12. doi: 10.1016/S0969-8051(99)00109-2
+- 45. Clark JC, Silvester DJ. A cyclotron method for the production of fluorine-18. Int J Appl Radiat Isotopes. (1966) 17:1514. doi: 10.1016/0020-708X(66)90039-1
+- 46. Vaquero JJ, Kinahan P. Positron emission tomography: current challenges and opportunities for technological advances in clinical and preclinical imaging systems. Annu Rev Biomed Eng. (2015) 17:385-414. doi: 10.1146/annurev-bioeng-071114-040723
+- 47. Cyclotron Produced Radionuclides: Physical Characteristics and Production Methods . Vienna: International Atomic Energy Agency (2009).
+- 48. Goud NS, Ghouse MS, Nagaraju C, Bharath RD, Alvala M, Kumar P. Automated radiosynthesis and molecular docking studies of coumarintriazole hybrid with fluorine-18: a feasibility study. CRP. (2021) 14. doi: 10.2174/1874471014666210129141221
+- 49. Jacobson O, Kiesewetter DO, Chen X. Fluorine-18 radiochemistry, labeling strategies and synthetic routes. Bioconjugate Chem. (2015) 26:118. doi: 10.1021/bc500475e
+- 50. Scroggie KR, Perkins MV, Chalker JM. Reaction of [18F ]flu oride at heteroatoms and metals for imaging of peptides and proteins by positron emission tomography. Front Chem. (2021) 9:687678. doi: 10.3389/fchem.2021.687678
+- 51. Wagner M, Wuest F. The radiopharmaceutical chemistry of fluorine-18: electrophilic fluorinations. In: Lewis JS, Windhorst AD, Zeglis BM, editors. Radiopharmaceutical Chemistry . Cham: Springer International Publishing (2019). p. 285-95.
+- 52. Cole EL, Stewart MN, Littich R, Hoareau R, Scott PJH. Radiosyntheses usin gflu orine-18: the art and science of late stage fluorination. Curr Top Med Chem. (2014) 14:875-900. doi: 10.2174/1568026614666140202205035
+- 53. Schirrmacher R, Wangler C, Schirrmacher E. Recent developments and trends in 18F-radiochemistry: syntheses and applications. MROC. (2007) 4:317-29. doi: 10.2174/157019307782411699
+- 54. Banister S, Roeda D, Dolle F, Kassiou M. Fluorine-18 chemistry for PET: a concise introduction. CRP. (2010) 3:68-80. doi: 10.2174/1874471011003020068
+- 55. Ermert J, Neumaier B. The radiopharmaceutical chemistry o fflu orine-18: nucleophilic fluorinations. In: Lewis JS, Windhorst AD, Zeglis BM, editors. Radiopharmaceutical Chemistry . Cham: Springer International Publishing (2019). p. 273-83. doi: 10.1007/978-3-319-989 47-1\_15
+- 56. Cai L, Lu S, Pike VW. Chemistry with [ 18 F]Fluoride Ion. Eur J Org Chem. (2008) 2008:2853-73. doi: 10.1002/ejoc.200800114
+- 57. Dolle F. Fluorine-18-labelled fluoropyridines: advances in radiopharmaceutical design. CPD. (2005) 11:322135. doi: 10.2174/138161205774424645
+- 58. Guo N, Alagille D, Tamagnan G, Price RR, Baldwin RM. Microwaveinduced nucleophilic [18F]fluorination on aromatic rings: synthesis and effect of halogen on [18F]fluoride substitution of meta-halo (F, Cl, Br, I)-benzonitrile derivatives. Appl Radiat Isot. (2008) 66:1396402. doi: 10.1016/j.apradiso.2008.03.003
+
+- 59. Yu S. Review of 18F-FDG synthesis and quality control. Biomed Imaging Interv J. (2006) 2:e57. doi: 10.2349/biij.2.4.e57
+- 60. Kumar P, Nagaraj C, Joshi R, Goud NS, Kumar D, Korann V, et al. Radiosynthesis of [18F]flumazenil for imaging benzodiazepine receptors and its evaluation in human volunteers using simultaneous PET-MRI. J Radioanal Nucl Chem. (2021) 329:581-9. doi: 10.1007/s10967-021-07859-w
+- 61. Joshi RK, Goud NS, Nagaraj C, Kumar D, R G, Rao NP, et al. Radiosynthesis challenges of 11C and 18F-labeled radiotracers in the FX2C/N tracerlab and their validation through PET-MR imaging. Appl Radiat Isotopes. (2021) 168:109486. doi: 10.1016/j.apradiso.2020.109486
+- 62. Beyzavi MH, Mandal D, Strebl MG, Neumann CN, D'Amato EM, Chen J, et al. 18 F-Deoxyfluorination of Phenols via Ru π -Complexes. ACS Cent Sci . (2017) 3:944-8. doi: 10.1021/acscentsci.7b00195
+- 63. Rickmeier J, Ritter T. Site-specific deoxyfluorination of small peptides with [ 18 F]fluoride. Angew Chem Int Ed. (2018) 57:14207-11. doi: 10.1002/anie.201807983
+- 64. Pike VW, Aigbirhio FI. Reactions of cyclotron-produced [$^{18}$F]fluoride with diaryliodonium salts-a novel single-step route to nocarrier-added [$^{18}$]fluoroarenes. J Chem Soc Chem Commun. 1995:2215-6. doi: 10.1039/C39950002215
+- 65. Shah A, Pike VW, Widdowson DA. The synthesis of [18F]fluoroarenes from the reaction of cyclotron-produced [18F]fluoride ion with diaryliodonium salts. J Chem Soc Perkin Trans 1. (1998) 2043-6. doi: 10.1039/a802349b
+- 66. Chun J-H, Pike VW. Single-step syntheses of no-carrier-added functionalized [18F]fluoroarenes as labeling synthons from diaryliodonium salts. Org Biomol Chem. (2013) 11:6300. doi: 10.1039/c3ob41353e
+- 67. Ichiishi N, Brooks AF, Topczewski JJ, Rodnick ME, Sanford MS, Scott PJH. Copper-Catalyzed [ 18 F]Fluorination of (Mesityl)(aryl)iodonium Salts. Org Lett. (2014) 16:3224-7. doi: 10.1021/ol501243g
+- 68. Wängler C, Niedermoser S, Chin J, Orchowski K, Schirrmacher E, Jurkschat K, et al. One-step 18F-labeling of peptides for positron emission tomography imaging using the SiFA methodology. Nat Protoc. (2012) 7:1946-55. doi: 10.1038/nprot.2012.109
+- 69. Sugiura G, Kühn H, Sauter M, Haberkorn U, Mier W. Radiolabeling strategies for tumor-targeting proteinaceous drugs. Molecules. (2014) 19:2135-65. doi: 10.3390/molecules19022135
+- 70. Andersson J, Truong P, Halldin C. In-target produced [11C]methane: increased specific radioactivity. Appl Radiat Isotopes. (2009) 67:10610. doi: 10.1016/j.apradiso.2008.09.010
+- 71. Tu Z, Mach RH. C-11 radiochemistry in cancer imaging applications. CTMC. (2010) 10:1060-95. doi: 10.2174/156802610791384261
+- 72. Antoni G. The radiopharmaceutical chemistry of carbon-11: basic principles. In: Lewis JS, Windhorst AD, Zeglis BM, editors. Radiopharmaceutical Chemistry . Cham: Springer International Publishing (2019). p. 207-20.
+- 73. Coenen HH, Gee AD, Adam M, Antoni G, Cutler CS, Fujibayashi Y, et al. Consensus nomenclature rules for radiopharmaceutical chemistry -Setting the record straight. Nucl Med Biol. (2017) 55:v-xi. doi: 10.1016/j.nucmedbio.2017.09.004
+- 74. Pike VW. PET radiotracers: crossing the blood-brain barrier and surviving metabolism. Trends Pharmacol Sci. (2009) 30:431-40. doi: 10.1016/j.tips.2009.05.005
+- 75. Synowiecki MA, Perk LR, Nijsen JFW. Production of novel diagnostic radionuclides in small medical cyclotrons. EJNMMI Radiopharm Chem. (2018) 3:3. doi: 10.1186/s41181-018-0038-z
+- 76. Funk T, Sun M, Hasegawa BH. Radiation dose estimate in small animal SPECT and PET. Med Phys. (2004) 31:2680-6. doi: 10.1118/1.1781553
+- 77. Thompson S, Kealey S, Sephton SM, Aigbirhio FI. Radiochemistry with carbon. In: Scott P, Kilbourn M, editors. Handbook of Radiopharmaceuticals . 1st ed. Ann Arbor, MI: Wiley (2020).
+- 78. Dahl K, Halldin C, Schou M. New methodologies for the preparation of carbon-11 labeled radiopharmaceuticals. Clin Transl Imaging. (2017) 5:27589. doi: 10.1007/s40336-017-0223-1
+- 79. Taddei C, Gee AD. Recent progress in [ 11 C]carbon dioxide ([ 11 C]CO$\_{2}$ ) and [ 11 C]carbon monoxide ([ 11 C]CO) chemistry. J Label Compd Radiopharm. (2018) 61:237-51. doi: 10.1002/jlcr.3596
+- 80. Goud NS, Bhattacharya A, Joshi RK, Nagaraj C, Bharath RD, Kumar P. Carbon-11: radiochemistry and target-based PET molecular imaging
+
+- applications in oncology, cardiology, and neurology. J Med Chem. (2021) 64:1223-59. doi: 10.1021/acs.jmedchem.0c01053
+- 81. Pichler V, Berroterán-Infante N, Ozenil M, PfaffS, Philippe C, Wadsak W. The radiopharmaceutical chemistry of carbon-11: tracers and applications. In: Lewis JS, Windhorst AD, Zeglis BM, editors. Radiopharmaceutical Chemistry . Cham: Springer International Publishing (2019). p. 221-36.
+- 82. Dannals RF, Ravert HT, Wilson AA, Wagner HN. Synthesis of a selective serotonin uptake inhibitor: [11C]Citalopram. Int J Radiat Appl Instrument Part A Appl Radiat Isotopes. (1990) 41:541-3. doi: 10.1016/0883-2889(90)90036-G
+- 83. Taddei C, Pike VW. [11C]Carbon monoxide: advances in production and application to PET radiotracer development over the past 15 years. EJNMMI Radiopharm Chem. (2019) 4:25. doi: 10.1186/s41181-019-0073-4
+- 84. Szlosek-Pinaud M, Allard M, Fouquet E, James D. State of art in 11C labelled radiotracers synthesis. CMC. (2008) 15:235-77. doi: 10.2174/092986708783497292
+- 85. Attila V, Nagy S, Klencsar Z, Lovas RG, Rosch F. Handbook of Nuclear Chemistry . 2nd ed. New York, NY: Springer Science+ Business Media (2011).
+- 86. Correa A, Martín R. Metal-catalyzed carboxylation of organometallic reagents with carbon dioxide. Angew Chem Int Ed. (2009) 48:62014. doi: 10.1002/anie.200900667
+- 87. Doi H. Pd-mediated rapid cross-couplings using [ 11 C]methyl iodide: groundbreaking labeling methods in 11 C radiochemistry: development of Pd-mediated rapid C-[11C]methylations. J Label Compd Radiopharm. (2015) 58:73-85. doi: 10.1002/jlcr.3253
+- 88. Foresti R, Motterlini R. Interaction of carbon monoxide with transition metals: evolutionary insights into drug target discovery. CDT. (2010) 11:1595-604. doi: 10.2174/1389450111009011595
+- 89. Bernard-Gauthier V, Mossine AV, Mahringer A, Aliaga A, Bailey JJ, Shao X, et al. Identification of [ 18 F]TRACK, a fluorine-18-labeled tropomyosin receptor kinase (Trk) inhibitor for PET imaging. J Med Chem. (2018) 61:1737-43. doi: 10.1021/acs.jmedchem.7b01607
+- 90. Mossine AV, Brooks AF, Makaravage KJ, Miller JM, Ichiishi N, Sanford MS, et al. Synthesis of [$^{18}$F]Arenes via the copper-mediated [$^{18}$F]Fluorination of boronic acids. Org Lett. (2015) 17:5780-3. doi: 10.1021/acs.orglett.5b02875
+- 91. Chandra KM, Goud NS, Arifuddin M, Alvala M, Alvala R, Angeli A, et al. Synthesis and biological evaluation of novel 4,7-disubstituted coumarins as selective tumor-associated carbonic anhydrase IX and XII inhibitors. Bioorg Med Chem Lett. (2021) 39:127877. doi: 10.1016/j.bmcl.2021.127877
+- 92. Thacker PS, Sridhar Goud N, Argulwar OS, Soman J, Angeli A, Alvala M, et al. Synthesis and biological evaluation of some coumarin hybrids as selective carbonic anhydrase IX and XII inhibitors. Bioorg Chem. (2020) 104:104272. doi: 10.1016/j.bioorg.2020.104272
+- 93. Narella SG, Shaik MG, Mohammed A, Alvala M, Angeli A, Supuran CT. Synthesis and biological evaluation of coumarin-1,3,4-oxadiazole hybrids as selective carbonic anhydrase IX and XII inhibitors. Bioorg Chem. (2019) 87:765-72. doi: 10.1016/j.bioorg.2019.04.004
+- 94. Sasaki T, Hiroki K, Yamashita Y. The role of epidermal growth factor receptor in cancer metastasis and microenvironment. BioMed Res Int. (2013) 2013:1-8. doi: 10.1155/2013/546318
+- 95. Song Y, Xiao Z, Wang K, Wang X, Zhang C, Fang F, et al. Development and evaluation of 18F-IRS for molecular imaging mutant EGF receptors in NSCLC. Sci Rep. (2017) 7:3121. doi: 10.1038/s41598-017-0 1443-7
+- 96. Wilson TC, Xavier M-A, Knight J, Verhoog S, Torres JB, Mosley M, et al. PET imaging of PARP expression using 18 F-Olaparib. J Nucl Med. (2019) 60:504-10. doi: 10.2967/jnumed.118.213223
+- 97. Nepal P, Rodrigue P, Olsavsky T. 18F-fluciclovine (Axumin) PET/CT detecting occult bone metastasis. Egypt J Radiol Nucl Med . (2020) 51:142. doi: 10.1186/s43055-020-00267-2
+- 98. Strebl MG, Wang C, Schroeder FA, Placzek MS, Wey H-Y, Van de Bittner GC, et al. Development of a fluorinated class-I HDAC radiotracer reveals key chemical determinants of brain penetrance. ACS Chem Neurosci. (2016) 7:528-33. doi: 10.1021/acschemneuro.5b00297
+- 99. Goud NS, Bhattacharya A. Human galectin-1 in multiple cancers: a privileged molecular target in oncology. MRMC. (2021) 21:2021. doi: 10.2174/1389557521666210217093815
+
+- 100. Goud NS, Soukya PSL, Ghouse M, Komal D, Alvala R, Alvala M. Human galectin-1 and its inhibitors: privileged target for cancer and HIV. MRMC. (2019) 19:1369-78. doi: 10.2174/1389557519666190304120821
+- 101. Goud NS, Kanth Makani VK, Pranay J, Alvala R, Qureshi IA, Kumar P, et al. Synthesis, 18F-radiolabeling and apoptosis inducing studies of novel 4, 7-disubstituted coumarins. Bioorg Chem. (2020) 97:103663. doi: 10.1016/j.bioorg.2020.103663
+- 102. Sridhar Goud N, Pooladanda V, Muni Chandra K, Lakshmi Soukya PS, Alvala R, Kumar P, et al. Novel benzimidazole-triazole hybrids as apoptosis inducing agents in lung cancer: design, synthesis, 18Fradiolabeling & galectin-1 inhibition studies. Bioorg Chem. (2020) 102:104125. doi: 10.1016/j.bioorg.2020.104125
+- 103. Wei W, Ni D, Ehlerding EB, Luo Q-Y, Cai W. PET imaging of receptor tyrosine kinases in cancer. Mol Cancer Ther. (2018) 17:162536. doi: 10.1158/1535-7163.MCT-18-0087
+- 104. Tegnebratt T, Lu L, Eksborg S, Chireh A, Damberg P, Nikkhou-Aski S, et al. Treatment response assessment with (R)-[11CPAQ PET in the MMTV-PyMT mouse model of breast cancer. EJNMMI Res. (2018) 8:25. doi: 10.1186/s13550-018-0380-x
+- 105. Toyohara J. Evaluation of DNA synthesis with carbon-11-labeled 4 ' -thiothymidine. WJR. (2016) 8:799. doi: 10.4329/wjr.v8.i9.799
+- 106. Näslund O, Smits A, Förander P, Laesser M, Bartek J, Gempt J, et al. Amino acid tracers in PET imaging of diffuse low-grade gliomas: a systematic review of preoperative applications. Acta Neurochir. (2018) 160:145160. doi: 10.1007/s00701-018-3563-3
+- 107. Okochi Y, Nihashi T, Fujii M, Kato K, Okada Y, Ando Y, et al. Clinical use of 11C-methionine and 18F-FDG-PET for germinoma in central nervous system. Ann Nucl Med. (2014) 28:94-102. doi: 10.1007/s12149-013-0787-4
+- 108. Su Z, Herholz K, Gerhard A, Roncaroli F, Du Plessis D, Jackson A, et al. [11C]-(R)PK11195 tracer kinetics in the brain of glioma patients and a comparison of two referencing approaches. Eur J Nucl Med Mol Imaging. (2013) 40:1406-19. doi: 10.1007/s00259-0132447-2
+- 109. Sellmyer MA, Lee I, Hou C, Lieberman BP, Zeng C, MankoffDA, et al. Quantitative PET reporter gene imaging with [11C]Trimethoprim. Mol Therapy. (2017) 25:120-6. doi: 10.1016/j.ymthe.2016. 10.018
+- 110. Goud NS, Kumar P, Bharath RD. Recent developments of targetbased benzimidazole derivatives as potential anticancer agents. In: Nandeshwarappa BP, S. O. S, editors. Heterocycles - Synthesis and Biological Activities . IntechOpen (2020).
+- 111. Sridhar Goud N, Kumar P, Dawn Bharath R. Recent developments of target-based benzimidazole derivatives as potential anticancer agents. In: Nandeshwarappa PB, Sadahiv OS, editors. Heterocycles - Synthesis and Biological Activities . IntechOpen (2020).
+- 112. Kopka K, Benesova M. 18F-tagged inhibitors of prostate specific membrane antigen (PSMA), their use as imaging agents: EP3011976A1 . (2016).
+- 113. Nielsen CH, Erlandsson M, Jeppesen TE, Jensen MM, Kristensen LK, Madsen J, et al. Quantitative PET imaging of tissue factor expression using 18F-labeled active site inhibited Factor VII. J Nucl Med . (2016) 57:89-95. doi: 10.2967/jnumed.115.154849
+- 114. Satz S, Satz R. Imaging method for diffuse intrinsic pontine glioma using an imaging agent, and imaging agents for early stage diagnoses: US2019/0262479A1 . (2019).
+- 115. DiMagno S, Thatcher GR, Tonetti D, Xiong R, Hu B. Radiotracers for imaging ER-positive breast cancer: US2019/022434A1 . University of Illinois (2019). Available online at: https://patentimages.storage.googleapis.com/3b/ae/6d/ 3db38c2771a3fb/US20200360543A1.pdf
+- 116. Mach R, Chu W, Zhou D, Michel L, Chen D. Radiolabeled tracers for Poly (ADP-ribose) polymerase-1 (PARP-1), methods and uses thereof: WO2015/103526A1 . Washington University (2015).
+- 117. Rudolf M, Viola G, Cristina M, Roger S, Simon A, Silvan B. Isomerically pure 18F-labelled tetrahydrofolates: WO2018/172243A1 . Merck Patent GMBH (2018).
+- 118. Chen K, Conti PS. 18F: FMAU labeling for PET imaging of cancer patients: WO2019/191642A1 . University of Southern California (2019).
+- 119. Suzuki M, Ito K, Natsume A, et al. Method for Producing A 11c-Labelled O6-Benzylguanine . WO 2018/008311.
+
+- 120. Suzuki M, Zhang Z, Onoe H, Tawara T, Doi H. Preparation of [11C] labeled zidovudine, cancer imaging method, and pet probe using it: JP2014214092A . (2014).
+- 121. Hartmuth CK, Ursus K, Oliver L, Arno S. 11c-labelled peptide for detecting a tumour which expresses a somatostatin receptor: WO2012/000781 A2 . (2012).
+- 122. Lu S, Haskali MB, Ruley KM, Dreyfus NJF, DuBois SL, Paul S, et al. PET ligands [18F]LSN3316612 and [11C]LSN3316612 quantify O -linkedβ -N -acetyl-glucosamine hydrolase in the brain. Sci Transl Med . (2020) 12:eaau2939.
+- 123. Lee J-H, Liow J-S, Paul S, Morse CL, Haskali MB, Manly L, et al. PET quantification of brain O-GlcNAcase with [18F]LSN3316612 in healthy human volunteers. EJNMMI Res . (2020) 10:20. doi: 10.1186/s13550-020-0616-4
+- 124. Zhang L, Chen L, Beck EM, Chappie TA, Coelh RV, Dora SD, et al. The discovery of a novel phosphodiesterase (PDE) 4b-preferring radioligand for positron emission tomography (PET) imaging. J Med Chem . (2017) 60:8538-51. doi: 10.1021/acs.jmedchem.7b01050
+- 125. Wang H, Peng M-S, Chen Y, Geng J, Robinson H, Houslay MD, et al. Structures of the four subfamilies of phosphodiesterase-4 provide insight into the selectivity of their inhibitors. Biochem J . (2007) 408:193-201. doi: 10.1042/BJ20070970
+- 126. Lindberg A, Nag S, Schou M, Arakawa R, Nogami T, Moein MM, et al. Development of a 18F-labeled PET radioligand for imaging 5HT1B receptors: [18F]AZ10419096. Nucl Med Biol . (2019) 79:11-16. doi: 10.1016/j.nucmedbio.2019.10.003
+- 127. Koole M, Lohith TG, Valentine JL, Bennacef I, Declercq R, Reynders T, et al. Preclinical safety evaluation and human dosimetry of [18F]MK-6240, a novel pet tracer for imaging neurofibrillary tangles. Mol Imaging Biol . (2020) 22:173-80. doi: 10.1007/s11307-019-01367-w
+- 128. Higashi T, Nishii R, Kagawa S, Kishibe Y, Takahashi M, Okina T, et al. 18FFPYBF-2, a new F-18-labelled amyloid imaging PET tracer: first experience in 61 volunteers and 55 patients with dementia. Ann Nucl Med . (2018) 32:206-16. doi: 10.1007/s12149-018-1236-1
+- 129. Shrestha S, Kim M-J, Eldridge M, Lehmann ML, Frankland M, Liow JS, et al. PET measurement of cyclooxygenase-2 using a novel radioligand: upregulation in primate neuroinflammation and first-in-human study. J Neuroinflammation . (2020) 17:140. doi: 10.1186/s12974-020-01804-6
+- 130. Yan X, Telu S, Dick RM, Liow J-S, Zanotti-Fregonara P, Morse CL, et al. [11C]deschloroclozapine is an improved PET radioligand for quantifying a human muscarinic DREADD expressed in monkey brain. J Cereb Blood Flow Metab . (2021) 41:2571-82. doi: 10.1177/0271678X211007949
+- 131. Roth BL. DREADDs for neuroscientists. Neuron. (2016) 89:683-94. doi: 10.1016/j.neuron.2016.01.040
+- 132. Kim M-J, Lee J-H, Juarez Anaya F, Hong J, Miller W, Telu S, et al. Firstin-human evaluation of [11C]PS13, a novel PET radioligand, to quantify cyclooxygenase-1 in the brain. Eur J Nucl Med Mol Imaging. (2020) 47:314351. doi: 10.1007/s00259-020-04855-2
+- 133. Wakabayashi Y, Telu S, Dick RM, Fujita M, Ooms M, Morse CL, et al. Discovery, radiolabeling, and evaluation of subtype-selective inhibitors for positron emission tomography imaging of brain phosphodiesterase-4D. ACS Chem Neurosci. (2020) 11:1311-23. doi: 10.1021/acschemneuro.0c00077
+- 134. Huang Z-R, Tsai C-L, Huang Y-Y, Shiue C-Y, Tzen K-Y, Yen RF, et al. A novel potential positron emission tomography imaging agent for vesicular monoamine transporter type 2. PLoS ONE. (2016) 11:e0161295. doi: 10.1371/journal.pone.0161295
+- 135. Lin K-J, Yeh C-N, Huang Y-C, Huang H-L, Yu C-s. 1 8F-Glutathione conjugate as a PET tracer for imaging tumors or neurological disorders that overexpress L-PGDS enzyme: US2016/0228584A1 (2016).
+- 136. The Regents of the University of California . US2014050663 (2014).
+- 137. Gaeta A, Bouvet DRC, Newington IM. Radiolabelled 1, 4 -dihydro-4 -oxoquinoline 3-carboxylic acid derivatives for pet and spect imaging, and in-vitro detection of the gaba-a receptor: WO2009040377A3 . (2009).
+- 138. Tang G. Positron isotope labeled dansyl acylamino diphenylethylene compound, synthetic method, and application thereof: CN106581701 . (2015).
+- 139. Karimix F, Langstrom B. 11C/18F-Labeled inhibitors of glycogen synthase kinase-3: US008226927B2 . (2015).
+- 140. Robins EG, Arstad A. Imaging 18f or 11c-Labelled Alkylthiophenyl Guanidines . US008058311 B2.
+
+- 141. Oi N, Yamamoto N. [11 C] And [18f] Labeled L,3-Diphenyl-5-(Pyrimidin-2Yl)-Pyridin-2(L H)-One Derivatives and Their Use for Pet Imaging Of The Ampa Receptor . WO 2014/163210 Al.
+- 142. Watanabe Y, Suzuki M, Doi H, Nozaki S, Kanazawa M, Mawatari A. 11Clabeled thiamine and its derivatives, 11C-labeled fursultiamine, thiamine precursors, PET probes, and their use for imaging method: JP 2013213027A . (2013).
+- 143. Chan, Bryan, K, Estrada, Anthony, et al. Fluorine-18 And Carbon-11 Labeled Radioligands For Positron Emission Tomography (PET) Imaging for LRRK2 . WO 2013/079496 Al.
+- 144. Ignacio J, Jesús M, Maria J, Avelino A, Bormans GMR, Celen SJL, et al. Radiolabeled mGluR2 Pet Ligands: WO2012/062752 Al . (2021).
+- 145. Tan H, Gu Y, Yu H, Hu P, Zhang Y, Mao W, et al. Total-body PET/CT: current applications and future perspectives. Am J Roentgenol. (2020) 215:32537. doi: 10.2214/AJR.19.22705
+- 146. Abgral R, Bourhis D, Salaun PY. Clinical perspectives for the use of total body PET/CT. Eur J Nucl Med Mol Imaging. (2021) 48:1712-8. doi: 10.1007/s00259-02105293-4
+
+Conflict of Interest: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher's Note: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Copyright © 2022 Nerella, Singh, Sanam and Digwal. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.

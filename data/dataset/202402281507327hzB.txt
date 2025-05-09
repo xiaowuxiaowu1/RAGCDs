@@ -1,0 +1,278 @@
+Check for updates
+
+## Accepted Article
+
+Title: Formamidinium Lead Iodide-Based Inverted Perovskite Solar Cells with Efficiency over 25% Enabled by An Amphiphilic Molecular Hole-Transporter
+
+Authors:
+
+Huidong Zhang, Shuo Zhang, Xiaoyu Ji, Jingwen He, Huanxin Guo, Songran Wang, Wenjun Wu, Wei-Hong Zhu, and Yongzhen Wu
+
+This manuscript has been accepted after peer review and appears as an Accepted Article online prior to editing, proofing, and formal publication of the final Version of Record (VoR). The VoR will be published online in Early View as soon as possible and may be different to this Accepted Article as a result of editing. Readers should obtain the VoR from the journal website shown below when it is published to ensure accuracy of information. The authors are responsible for the content of this Accepted Article.
+
+1
+
+WILEY VCH
+
+## RESEARCH ARTICLE
+
+## Formamidinium Lead Iodide-Based Inverted Perovskite Solar Cells with Efficiency over 25% Enabled by An Amphiphilic Molecular Hole-Transporter
+
+Huidong Zhang,$^{[a]}$ Shuo Zhang,$^{[a]}$ Xiaoyu Ji,$^{[a]}$ Jingwen He,$^{[a]}$ Huanxin Guo,$^{[a]}$ Songran Wang,$^{[a]}$ Wenjun Wu,$^{[a]}$ Wei-Hong Zhu,$^{[a]}$ and Yongzhen Wu*$^{[a]}$
+
+[a]
+
+H. Zhang, S. Zhang, X. Ji, J. He, H. Guo, S. Wang, Prof. W. Wu, Prof. W. Zhu, Prof. Y. Wu
+
+Key Laboratory for Advanced Materials and Joint International Research Laboratory of Precision Chemistry and Molecular Engineering, Shanghai Key
+
+Laboratory of Functional Materials Chemistry, Frontiers Science Center for Materiobiology and Dynamic Chemistry, Institute of Fine Chemicals, School of
+
+Chemistry and Molecular Engineering
+
+East China University of Science & Technology
+
+Shanghai 200237, P. R. China
+
+E-mail: wu.yongzhen@ecust.edu.cn
+
+Supporting information for this article is given via a link at the end of the document.
+
+Abstract: Formamidinium lead iodide (FAPbI$_{3}$) represents an optimal absorber material in perovskite solar cells (PSCs), while the application of FAPbI$_{3}$ in inverted-structured PSCs has yet to be successful, mainly owing to its inferior film-forming on hydrophobic or defective hole-transporting substrates. Herein, we report a substantial improvement of FAPbI$_{3}$-based inverted PSCs, which is realized by a multifunctional amphiphilic molecular hole-transporter, (2-(4-(10 H -phenothiazin-10-yl)phenyl)-1-cyanovinyl)phosphonic acid (PTZ-CPA). The phenothiazine (PTZ) based PTZ-CPA, carrying a cyanovinyl phosphonic acid (CPA) group, forms a superwetting hole-selective underlayer that enables facile deposition of highquality FAPbI$_{3}$ thin films. Compared to a previously established carbazole-based hole-selective material (2-(3,6-dimethoxy-9 H -carbazol-9-yl)ethyl)phosphonic acid (MeO-2PACz), the crystallinity of FAPbI$_{3}$ is enhanced and the electronic defects are passivated by the PTZ-CPA more effectively, resulting in remarkable increases in photoluminescence quantum yield (four-fold) and Shockley-ReadHall lifetime (eight-fold). Moreover, the PTZ-CPA shows a larger molecular dipole moment and improved energy level alignment with FAPbI$_{3}$, benefiting the interfacial hole-collection. Consequently, FAPbI$_{3}$-based inverted PSCs achieve an unprecedented efficiency of 25.35% under simulated air mass 1.5 (AM1.5) sunlight. The PTZCPA based device shows commendable long-term stability, maintaining over 90% of its initial efficiency after continuous operation at 40$^{o}$C for 2000 hours.
+
+## Introduction
+
+Inverted (p-i-n) perovskite solar cells (PSCs) have attracted significant attention due to their low-temperature processability, enhanced operational stability, and impressive power conversion efficiencies (PCE) exceeding 25%.$^{[1-4]}$ Generally, the perovskite composition is considered as the most critical factor influencing the PCE of PSCs.$^{[5]}$ According to the Shockley-Queisser (S-Q) limit, perovskites with a bandgap ( E$_{g}$ ) close to 1.34 eV theoretically result in higher PCE, and the formamidinium lead
+
+VCH
+
+iodide (FAPbI$_{3}$) with E$_{g}$ of 1.48 eV represents an optimal absorber material for single junction PSCs.$^{[6,7]}$ The development of FAPbI$_{3}$-based conventional (n-i-p) PSCs has achieved impressive short-circuit photocurrent densities ( J$_{SC}$ ) of over 26.5 mA cm -2 and PCE close to 26% under standard air mass 1.5 (AM1.5) sunlight. [8,9] However, the application of FAPbI$_{3}$ in inverted-structured PSCs has yet to be successful.
+
+In inverted PSCs, the perovskite absorber is typically solution deposited on a hole-transporting layer (HTL), which plays an important role in the perovskite nucleation and heterojunction formation. Commonly used hole-transporting materials (HTMs), such as polytriarylamine (PTAA), nickel oxide (NiO X ), poly (3,4-ethylenedioxythiophene):poly (styrene sulfonate) (PEDOT:PSS), or self-assembled monolayers (SAM) for inverted PSCs, are either too hydrophobic with respect to the perovskite precursor solution, or chemically unstable when in contact with the perovskite. [10,11] These factors can generate morphological, compositional, or electronic defects at the buried perovskite-substrate interface, and are even more severe for the FAPbI$_{3}$ perovskite because its formation energy is relatively high (often requires higher annealing temperatures) and its photoactive black phase is less stable (prone to form yellow phase).$^{[12,13]}$ Recently, our group has established an amphiphilic molecular design strategy to develop multifunctional HTMs for minimizing morphological and electronic defects at the buried interface of inverted PSCs.$^{[14]}$ This strategy greatly improved the photovoltaic performance of inverted PSCs using a triple-cation perovskite with nominal composition of Cs$_{0.05}$(FA$_{0.95}$MA$_{0.05}$)$_{0.95}$Pb(I$_{0.95}$Br$_{0.05}$)$_{3}$ and E$_{g}$ of 1.56 eV (where FA is formamidinium, MA is methylamine and Cs is cesium), achieving a high open-circuit voltage ( V$_{OC}$ ) of 1.21 V and fill factor (FF) of 0.84. However, the J$_{SC}$ values are lower than 25 mA cm -2 due to the relatively large E$_{g}$ (1.56 eV), restricting further improvement of the PCE.
+
+In this work, we report the application of a phenothiazine (PTZ) based amphiphilic molecular hole-transporter (PTZ-CPA) in FAPbI$_{3}$-based inverted PSCs, and compare its effectiveness
+
+## RESEARCH ARTICLE
+
+with a previously established and commercially available carbazole-based hole-selective materials MeO-2PACz (Figure 1a)$^{[15]}$. The PTZ based PTZ-CPA, carrying a cyanovinyl phosphonic acid (CPA) group, forms a superwetting holeselective underlayer that enables facile deposition of high-quality FAPbI$_{3}$ thin films. Compared to MeO-2PACz, the crystallinity of FAPbI$_{3}$ is enhanced and the electronic defects are more efficiently passivated by the PTZ-CPA, resulting in remarkable increases in photoluminescence quantum yield (PLQY, four-fold) and Shockley-Read-Hall (SRH) lifetime (eight-fold). Moreover, the PTZ-CPA shows a larger molecular dipole moment and improved energy level alignment with FAPbI$_{3}$, benefiting the interfacial hole-collection. As a result, FAPbI$_{3}$-based inverted PSCs achieve an unprecedented efficiency of 25.35% under simulated AM1.5 sunlight, representing one of the highest PCEs for FAPbI$_{3}$-based inverted PSCs to date. [16-25] The PTZ-CPA based devices show commendable long-term stability. Unencapsulated devices maintain over 90% of their initial efficiencies after storage in an air-drying cabinet at 25$^{o}$C for 4000 hours or continuous operation in nitrogen at 40$^{o}$C for 2000 hours.
+
+## Results and Discussion
+
+## Molecular Design and Energy Level Alignment
+
+Previously, we have demonstrated the superior performance of MeO-2PACz with respect to other commonly used HTMs like PEDOT:PSS, NiO X and PTAA in FAPbI$_{3}$-based inverted PSCs.$^{[22]}$ This superiority results from the significant impact of the MeO-2PACz on decreasing electronic defects in FAPbI$_{3}$ perovskite thin films. We also found that molecular holetransporters bearing a CPA as anchoring group showed enhanced amphiphilicity, and the CPA group serves as an efficient chemical passivation agent for defective lead ions (Pb$^{2+}$) in perovskite.$^{[14]}$ Therefore, to match with FAPbI$_{3}$ perovskite, we specifically designed a new CPA-based amphiphilic molecular hole-transporter (PTZ-CPA) using PTZ as the hole-selective moiety. The amphiphilic character of PTZ-CPA was verified by solubility test in different solvents with largely varied polarities (Figure S1). Density functional theory (DFT) calculations suggest that the molecular dipole moment of PTZ-CPA (~2.3 D) is much larger than that of MeO-2PACz (~0.2 D, Figure 1a), which is advantageous for hole transfer at the indium tin oxide (ITO)/HTL/perovskite interface (Figure 1a). [4,26] The usage of structurally simple and sulfur-containing PTZ in the molecular hole-transporter is expected to not only reduce the synthetic costs but also increase passivation sites.$^{[27]}$ As HTMs in inverted PSCs, their intrinsic thermal-, photo- and electrochemicalstabilities are of paramount importance. As shown in Figure S2S4, the PTZ-CPA exhibited decent thermal-, photo- and electrochemical-stabilities, which was better than that of MeO2PACz.$^{[28]}$ The stability and distribution of PTZ-CPA deposited on glass/ITO substrate was further evaluated by X-ray photoelectron spectroscopy (XPS, Figure S5 and S6) and energy dispersive spectroscopy (EDS, Figure S7), confirming that PTZCPA anchored uniformly and firmly on the substrate. These
+
+results indicate that PTZ-CPA is robust in both solution and thinfilm states, desirable for device applications.
+
+The highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) energy levels of the two molecular hole-transporters, as well as their E$_{g}$ are estimated from the experimental results of cyclic voltammetry (CV) and ultraviolet-visible (UV-vis) absorption spectra (Figure S8 and S9). The HOMO energy level of PTZ-CPA was estimated to be -5.50 eV, deeper than that of MeO-2PACz (-5.35 eV). This result was further corroborated by DFT computation (Figure S10) and ultraviolet photoelectron spectrometry (UPS) measurement (Figure S11). All these data were collected in Table S1. Figure 1b displays energy levels of the two molecular hole-transporters and FAPbI$_{3}$ perovskite from UPS measurements, in which the HOMO energy level of PTZ-CPA is more matched with the valence band maximum (VBM) of the FAPbI$_{3}$ perovskite.
+
+Figure 1. Molecular structures and energy levels. (a) Molecular structures, optimized configurations (side view) and dipole moments of MeO-2PACz and PTZ-CPA. (b) Energetic diagram comparing the alignment between perovskite valence band edge and the HOMO energy levels of two molecular holetransporters based on values from UPS measurements, referenced to the vacuum levels. The grey, dashed lines are guides to the eye that mark the conduction band minimum (CBM) and VBM levels of the FAPbI 3 perovskite absorber. The data of MeO-2PACz is from reference.$^{[15]}$
+
+## Impacts of HTLs on FAPbI 3 Thin Film Deposition
+
+The FAPbI$_{3}$ perovskite thin films were deposited on MeO-2PACz and PTZ-CPA coated ITO glass by one-step spin-coating method, and the resulting perovskite films have an E$_{g}$ of 1.54 eV (Figure S12). The wettability of perovskite precursor solution on the substrate plays an important role in determining the perovskite film quality. The PTZ-CPA based HTL shows a smaller contact angle than that of MeO-2PACz (5.5$^{o}$ versus 9.3$^{o}$, Figure S13). This can be attributed to the enhanced
+
+## RESEARCH ARTICLE
+
+amphiphilicity of the CPA-based PTZ-CPA and its bilayer stacking on the ITO substrates, i.e. a chemically anchored monolayer plus an unadsorbed overlayer as revealed in our previous work. [14] During the perovskite film-forming, the unadsorbed PTZ-CPA molecules could be dissolved into the perovskite precursor solution, and the chemically anchored monolayer will be preserved as an ultrathin hole-selective contact. The dissolved PTZ-CPA molecules (now distributed in the perovskite layer) could passivate electronic defects and stabilize the structure/phase of FAPbI$_{3}$ perovskite, which will be discussed later.
+
+In-situ photoluminescence (PL) measurements were conducted to monitor the spin-coating process of FAPbI$_{3}$ perovskite on different HTLs (Figure 2a). The films exhibit negligible PL prior to the anti-solvent dripping, and a clear PL peak with a wavelength between 640 and 800 nm is observed instantaneously when the anti-solvent was dripped, corresponding to the formation of MAPbI$_{3}$ or MAI-DMSO-PbI$_{2}$
+
+intermediate phase (at around 760 nm) owing to ion-exchange reaction between the FAI and MACl.$^{[29,30]}$ The wavelength of PL peak redshifts in the first second after the dripping of anti-solvent (Figure S14), which can be ascribed to the increase of crystal size.$^{[31,32]}$ Compared to MeO-2PACz, the crystallization rate was relatively slow and the PL intensity is relatively high for FAPbI$_{3}$ perovskite deposited on PTZ-CPA, which can be related to the presence of more functional groups (phosphonic acid, cyano group and sulfur atom) on the molecular structure of PTZ-CPA. It coordinates with lead iodide (PbI$_{2}$) more strongly (as discussed below), thereby slowing down the crystallization of FAPbI$_{3}$ perovskite, which contributed to the enhanced crystallinity and increased grain size (Figure 2b).$^{[33]}$ After the anti-solvent dripping, the PL intensity undergoes a complicated variation, first rapidly increased, followed by a slight decrease, and then rising again (Figure S15). The film deposition on PTZ-CPA showed higher PL intensity at the end of the spin-coating process, suggesting enhanced crystallinity and improved defect passivation.
+
+Figure 2. Impact of HTLs on FAPbI 3 perovskite deposition. (a) In-situ PL spectra for FAPbI 3 perovskite films deposited on MeO-2PACz and PTZ-CPA during the spin-coating process. (b) Top-view SEM images for FAPbI 3 perovskite films deposited on MeO-2PACz and PTZ-CPA (the scale bar is 1 μm). GIWAXS patterns for FAPbI 3 perovskite films deposited on (c) MeO-2PACz and (d) PTZ-CPA. (e) XRD patterns for FAPbI 3 perovskite films deposited on MeO-2PACz and PTZ-CPA. (f) Top-view SEM images of the bottom surface of FAPbI 3 perovskite films deposited on MeO-2PACz and PTZ-CPA (the scale bar is 1 μm).
+
+## RESEARCH ARTICLE
+
+Figure 2b shows top-view scanning electron microscopy (SEM) images of the FAPbI$_{3}$ perovskite thin films on different HTLs, and the PTZ-CPA resulted in much larger perovskite grain size. The crystallinity of FAPbI$_{3}$ perovskite films was evaluated by grazing-incidence wide-angle X-ray scattering (GIWAXS) and X-ray diffraction (XRD) (Figure 2c-e). The diffraction ring in GIWAXS at q values of 1 Å$^{-1}$ corresponds to (100) plane of black phase FAPbI$_{3}$ perovskite. [34] The PTZ-CPA based FAPbI$_{3}$ perovskite film exhibited brighter diffraction rings of (100) plane than that of the MeO-2PACz based film, indicating enhanced perovskite crystallinity in the former (Figure S16). Moreover, intense diffraction spots of (100) plane in the q$_{z}$ direction with negligible spread along with the Debye-Scherrer were observed in both perovskite films, suggesting that the crystal packing is highly oriented with a dominant out-of-plane orientation.$^{[35]}$ In the XRD patterns, the peak intensity at 14.0 o of the FAPbI$_{3}$ perovskite film deposited on PTZ-CPA was approximately 2.5 times higher than that on MeO-2PACz, associated with decreased full width at half maximum (0.132 for PTZ-CPA based film and 0.171 for MeO-2PACz based film, Figure 2e). These results are in good agreement with the enlarged grain size shown in the SEM images above (Figure 2b).
+
+According to our previous work, the morphology of the perovskite near the bottom interface plays an important role in affecting optoelectronic properties of perovskite and device performance.$^{[14]}$ We peeled off the perovskite films with an epoxy
+
+encapsulant and carefully characterized the morphology of the exposed bottom surface. Both of the two bottom surfaces showed compact and homogeneous morphology without observable voids or pinholes (Figure 2f). The bottom surface of PTZ-CPA based FAPbI$_{3}$ perovskite films exhibited enlarged grain size. These results suggest that the use of PTZ-CPA as HTL substantially improves the FAPbI$_{3}$ perovskite film quality, which could benefit solar cell performance through minimized interfacial non-radiative recombination.
+
+## Optoelectronic Quality of Perovskite Films
+
+Apart from affecting the crystallization of perovskite films, HTLs also play a role in regulating their optoelectronic properties. As shown in Figure 3a, the PLQY of FAPbI$_{3}$ perovskite films on MeO-2PACz was low (< 3.5%). In contrast, a much higher PLQY of 14.5% was observed for FAPbI$_{3}$ perovskite films on PTZ-CPA, surpassing even that on a quartz substrate (9.5%). Quasi-Fermi level splitting (QFLS) could be estimated from PLQY results to quantify the V$_{OC}$ potential of PSCs with different HTLs (Figure S17). The FAPbI$_{3}$ films deposited on PTZ-CPA exhibited a higher QFLS value (1.203 eV) than that on quartz substrate (1.192 eV) or MeO-2PACz (1.166 eV), indicating efficient suppression of non-radiative recombination loss by the new amphiphilic molecular hole-transporter PTZ-CPA. We further performed time-resolved photoluminescence (TRPL) measurements on
+
+Figure 3. PL properties and molecular interactions. (a) PLQY (excited at 405 nm) and (b) TRPL decay measurements (excited at 510 nm) for FAPbI 3 perovskite films deposited on quartz glass and on two HTLs. Downfield $^{1}$H NMR spectra in DMSOd 6 of (c) Cz-Et (0.01 mM) and (d) PTZ-Ph (0.01 mM) with or without PbI 2 (0.1 mM). (e) XPS spectra of Pb 4 f signal from pristine FAPbI 3 perovskite film and films coating MeO-2PACz and PTZ-CPA. (f) XPS spectra of S 2 p signal from PTZ-CPA film and FAPbI 3 perovskite film coating PTZ-CPA.
+
+## RESEARCH ARTICLE
+
+these samples (Figure 3b). The MeO-2PACz based sample exhibited a fast PL decay (0.26 μ s, Figure S18), while the PTZCPA based sample showed a clearly longer decay time (2.14 μ s), suggesting the greatly suppressed interfacial non-radiative recombination in the latter, which can be further confirmed by steady-state PL measurements (Figure S19). Three possible reasons are proposed for the suppressed non-radiative recombination by PTZ-CPA: first, the higher wetting character of PTZ-CPA improves perovskite crystallinity and interfacial contact; second, the PTZ-CPA with multiple functional groups (phosphonic acid, cyano group and sulfur atom) passivates the defects at the buried interface and the bulk of FAPbI$_{3}$ perovskite more effectively; and third, the optimized energy level alignment between PTZ-CPA and FAPbI$_{3}$ perovskite.
+
+Proton nuclear magnetic resonance ($^{1}$H NMR) and XPS measurements were performed to identify the molecular interactions. In order to eliminate the interference caused by CPA group, 10-phenyl-10 H -phenothiazin (PTZ-Ph) was used to explore the possible interaction between sulfur atom and perovskite. Similarly, a reference compound N -ethylcarbazole (Cz-Et) was used for comparison. The $^{1}$H NMR spectra of Cz-Et and PTZ-Ph with or without PbI$_{2}$ were recorded using dimethyl sulfoxided$_{6}$ (DMSOd$_{6}$ ) as solvent. The addition of PbI$_{2}$ clearly leads to a chemical shift for the protons in PTZ-Ph, while no shift is observed in $^{1}$H NMR spectra of Cz-Et, verifying the presence
+
+of interactions between sulfur atom in PTZ-Ph and Pb$^{2+}$ (Figure 3c-d and Figure S20). Such interactions decrease electron cloud of sulfur atom, resulting in a shift of π electrons of the adjacent phenyl group, thus leading to a downfield shift for protons at a , b and c sites. Regarding to the d site proton, the adjacent electron rich nitrogen atom will donate some electrons, which lead to its peak shift to the opposite direction. The XPS results further support such interaction (Figure S21). After spin-coating a thin layer of PTZ-Ph or Cz-Et on top of FAPbI$_{3}$ perovskite films (deposited on quartz glass), only PTZ-Ph will lead to a shift for the peaks corresponding to Pb$^{2+}$, associated with a significant decrease in the peak area of metallic lead (Pb$^{0}$). These results are highly related to the sulfur atom in PTZ, which enhances molecular interactions with undercoordinated Pb$^{2+}$.$^{[36]}$
+
+We further used XPS to explore the interactions between the molecular hole-transporters and FAPbI$_{3}$ perovskite (Figure 3e-f). Compared to the pristine perovskite film, both MeO-2PACz and PTZ-CPA lead to a shift of the lead (Pb) 4 f peaks to lower binding energies (Figure 3e). Notably, the peak shift caused by PTZ-CPA (0.49 eV) is higher than that of MeO-2PACz (0.20 eV), indicative of synergistic interactions of multiple functional groups (phosphonic acid, cyano group and sulfur atom) in PTZ-CPA. When contacting with perovskite, the sulfur (S) 2 p peak shifted to higher binding energy (Figure 3f), further supporting the Pb-S interaction. These results indicate that the defects at the buried
+
+Figure 4. Photovoltaic performance of FAPbI 3 -based inverted PSCs. (a) Schematic illustration of the inverted PSCs structure. (b) J -V characteristics of champion device with two HTLs. (c) Statistical PCE and V OC of the PSCs with two HTLs. (d) EQE spectra and integrated J SC of the best-performance device on FAPbI 3 perovskite with PTZ-CPA. The integrated J SC of PTZ-CPA based device is 25.23 mA cm$^{-2}$. (e) J -V curves of the best-performing device on FAPbI 3 perovskite with PTZ-CPA with different scan directions. (f) Comparison of the V OC and PCE of device in this work with those of the FAPbI 3 inverted PSCs reported in literatures. The value of this work is highlighted with a star.
+
+## RESEARCH ARTICLE
+
+interface and perovskite bulk can be more effectively passivated by PTZ-CPA with more available coordination sites, which substantially improves the optoelectronic quality of FAPbI$_{3}$ perovskite thin films.
+
+## Device Performance
+
+Based on these encouraging findings, MeO-2PACz and PTZCPA were used as HTL for fabricating FAPbI$_{3}$-based inverted PSCs with a device structure of ITO/HTL/FAPbI$_{3}$/ phenylethylammonium iodide (PEAI) /fullerene (C$_{60}$)/bathocuproine (BCP)/silver (Ag) (Figure 4a), and the thickness of perovskite film was about 700 nm (Figure S22). More details about device fabrication can be found in the Supporting Information (SI). As exhibited in Figure S23 and Table S2, unlike triple-cation perovskite, the photovoltaic performance of FAPbI$_{3}$-based inverted PSCs was highly related to the concentration of amphiphilic molecular hole-transporter of PTZ-CPA. The PCE improved from ~22% at 0.5 mg mL$^{-1}$ to over 24% at 1.0 mg mL$^{-1}$, and further increasing the solution concentrations resulted in a decline PCE (~20% for 2.0 mg mL$^{-1}$ and ~17% for 4.0 mg mL$^{-1}$). The dissolved molecules were distributed throughout the entire perovskite bulk but with higher concentration near the buried interface (Figure S24), and overmuch CPA molecules in perovskite layer may adversely affect the charge transport. When intentionally remove the unadsorbed PTZ-CPA overlayer, the PCE decreased by 1% in absolute values (Figure S25). These results suggest that the thickness or amount of overlayer (unadsorbed) PTZ-CPA was
+
+crucial to device performance. Figure 4b shows the current density-voltage ( J -V ) curves of the optimal FAPbI$_{3}$-based devices on the two HTLs with relevant photovoltaic parameters in Table 1. Because of the decreased E$_{g}$ of FAPbI$_{3}$, the J$_{SC}$ values were typically higher than 25 mA cm$^{-2}$. The optimal device based on MeO-2PACz showed a PCE of 22.46% with a V$_{OC}$ of 1.125 V, a J$_{SC}$ of 25.02 mA cm$^{-2}$, and an FF of 79.78% under 1 sun illumination (AM1.5 sunlight, 100 mW cm$^{-2}$). On the contrary, the champion device based on PTZ-CPA achieved an obviously enhanced PCE of 25.10% ( V$_{OC}$ of 1.175 V, J$_{SC}$ of 25.55 mA cm -$^{2}$, and FF of 83.61%). The higher J$_{SC}$ can be attributed to the increased crystallinity of FAPbI$_{3}$ perovskite film deposition on PTZ-CPA, and higher V$_{OC}$ and FF can be ascribed to the improved energy level alignment and effective defect passivation of the corresponding device. In addition, we confirmed the reproducibility of two kinds of HTLs based devices (Figure 4c, S26, and Table S3). The stabilized power output at the maximum power point (MPP) was also used to confirm the measured PCEs. The stabilized PCE of the device based on PTZ-CPA was
+
+Table 1. Photovoltaic performance of PSCs with different HTLs.
+
+| HTLs      |   V OC  [V] |   J SC  [mA cm$^{-2}$] |   FF [%] |   PCE [%] |
+|-----------|-------------|------------------------|----------|-----------|
+| MeO-2PACz |       1.125 |                  25.02 |    79.78 |     22.46 |
+| PTZ-CPA   |       1.175 |                  25.55 |    83.61 |     25.1  |
+
+Figure 5. Carrier dynamic and defect passivation characterization of FAPbI 3 -based devices. Light-intensity dependence of (a) open-circuit voltage and (b) shortcircuit current density of FAPbI 3 -based devices on two HTLs. (c) Dark J -V curves of FAPbI 3 -based devices on two HTLs. The SCLC analysis of hole-only devices (ITO/HTL/FAPbI 3 /PTAA/Ag) based on (d) MeO-2PACz and (e) PTZ-CPA. (f) Transient photovoltage decay of FAPbI 3 -based devices on two HTLs.
+
+## RESEARCH ARTICLE
+
+24.50%, which was in good agreement with the J -V scanning results (Figure S27). External quantum efficiency (EQE) of the device was also measured to evaluate the J$_{SC}$ performance (Figure 4d). The integrated photocurrent (25.23 mA cm$^{-2}$) of the PTZ-CPA based device matches well with the value obtained from the J -V measurement.
+
+To fully exploit the potential of the PTZ-CPA, surface passivation (4-fluorophenethylammonium iodide, F-PEAI) was applied into the anti-solvent to improve device performance.$^{[37]}$ The best-performance device on FAPbI$_{3}$ with PTZ-CPA achieved a PCE of 25.35% ( V$_{OC}$ of 1.180 V, J$_{SC}$ of 25.58 mA cm$^{-2}$, and FF of 83.98%) with negligible hysteresis (Figure 4e and Table S4), which is one of the highest PCE of FAPbI$_{3}$-based inverted PSC so far (Figure 4f and Table S5). We also employed PTZ-CPA as HTL for other perovskite compositions, including a triple-cation perovskite (1.56 eV) of Cs$_{0.05}$(FA$_{0.95}$MA$_{0.05}$)$_{0.95}$Pb(I$_{0.95}$Br$_{0.05}$)$_{3}$ and a wide-bandgap perovskite (1.68 eV) of Cs$_{0.05}$(FA$_{0.77}$MA$_{0.23}$)$_{0.95}$Pb(I$_{0.77}$Br$_{0.23}$)$_{3}$. These devices show decent photovoltaic performance (Figure S28 and Table S6), suggesting a broad application potential of this new molecular hole-transporter.
+
+To get insight into the charge carrier dynamics in the FAPbI$_{3}$-based device, V$_{OC}$ and J$_{SC}$ were measured by changing the intensity of incident light ( P ) from 10 to 100 mW cm$^{-2}$. Figure 5a shows the V$_{OC}$ vs P curves, where the PTZ-CPA based device shows a smaller slope of 1.25 k$_{B}$ T/ q (where k$_{B}$ is Boltzmann constant, T is temperature, and q is elementary charge) compared with that of MeO-2PACz (1.70 k$_{B}$ T/ q ), indicating the reduced SRH recombination in the corresponding device.$^{[38]}$ The J$_{SC}$ versus P curves can be found in Figure 5b, where the slope ( α ) approaching 1 suggests negligible bimolecular charge recombination in the device.$^{[39]}$ The higher α of 0.99 in PTZ-CPA based device indicates the more efficient suppression of bimolecular charge recombination in comparison to that of the MeO-2PACz (0.95). In addition, the dark J -V curves revealed the lowest dark saturate current density for PTZ-CPA based device (Figure 5c), indicating a low leakage current density and significantly suppressed interface non-radiative recombination, which is consistent with the higher V$_{OC}$ and FF of the corresponding device.
+
+Space charge limited current (SCLC) of the hole-only devices (ITO/HTL/FAPbI$_{3}$/PTAA/Ag) was performed under dark conditions to determine the charge trap density of the perovskite. As shown in Figure 5d and 5e, the PTZ-CPA based device showed a trap filled limit voltage ( V$_{TFL}$ ) of 0.132 V, much smaller compared to that of MeO-2PACz with 0.270 V. Therefore, the trap density ( N$_{t}$ ) of the perovskite films deposited on MeO-2PACz and PTZ-CPA can be calculated to be 1.58 ×10$^{15}$ cm$^{-3}$ and 0.77 × 10$^{15}$ cm$^{-3}$, respectively. Obviously, the decreased trap density of the PTZ-CPA based device well proved the effective passivation of the CPA group and sulfur atom to the defects.
+
+Transient photovoltage (TPV) and transient photocurrent (TPC) measurements were conducted to further investigate the
+
+interfacial carrier dynamics. It is found that the chargerecombination lifetime ( τ$_{R}$ ) of PTZ-CPA (26.60 µs) based device is substantially longer than that of the device based on MeO2PACz (14.28 µs), which verifies that the charge recombination at PTZ-CPA/perovskite interface is effectively mitigated (Figure 5f). This could be ascribed to the efficient interfacial defect passivation and improved energy level alignment between PTZCPA and FAPbI$_{3}$ perovskite. The charge-collection lifetime ( τ$_{C}$ ) of MeO-2PACz and PTZ-CPA based devices are 1.60 µs and 1.31 µs, respectively, indicating a facilitated charge collection process in the PTZ-CPA based device (Figure S29), which could be related to the enhanced crystallization of FAPbI$_{3}$ perovskite in the corresponding device.
+
+In short, all these results demonstrate that the notorious non-radiative recombination loss in FAPbI$_{3}$-based inverted PSCs was greatly inhibited by the new molecular hole-transporter PTZCPA due to well-passivated defects, enhanced crystallization, and improved energetic alignment, resulting in improved device performance.
+
+## Stability of Thin Films and Devices
+
+The long-term stability of FAPbI$_{3}$-based perovskite is an enormous challenge as it is prone to phase transition at ambient conditions. We found that the application of amphiphilic molecular hole-transporter has a positive effect on stabilizing the black phase of FAPbI$_{3}$. As mentioned above, during wetting and spin-coating process, part of the PTZ-CPA will penetrate into the perovskite layer. These molecules not only contribute to the crystallization of perovskite but also strongly interact with perovskite compositions at the grain boundaries, which have an impact on its stability. The functional group of CPA has been confirmed to chelate with Pb$^{2+}$ in perovskite, which may increase the activation energy of ion migration and phase transition. We compared the storage-, thermal-, and photo-stabilities of the FAPbI$_{3}$ perovskite films on different HTLs in ambient air with a relative humidity (RH) of 30 ± 10%. After storing at room temperature for 240 hours, the  phase FAPbI$_{3}$ can be clearly observed in aged the MeO-2PACz based sample, while the diffraction patterns of PTZ-CPA based sample was almost unchanged (Figure S30 and S31). Regarding to the thermalstability test, we placed the FAPbI$_{3}$ perovskite films on a hotplate and continuously monitored their PL spectra as an indication of optoelectronic quality of perovskite. As presented in Figure 6b, the PL spectrum of FAPbI$_{3}$ perovskite films on PTZ-CPA is almost unchanged after heating at 85$^{o}$C for 20 hours, while the PL intensity of MeO-2PACz based sample decreases by 56% (Figure 6a and 6c). The variation of PLQY values was also utilized to indicate photostability of the FAPbI$_{3}$ perovskite films (Figure 6d). After light soaking in the ambient air for 32 hours, the PLQY of FAPbI$_{3}$ perovskite film on PTZ-CPA remains nearly constant, while that of the MeO-2PACz based sample decreases by 18%.
+
+## RESEARCH ARTICLE
+
+Figure 6. Stability of thin films and devices. Time-dependent PL spectra of FAPbI 3 perovskite films on (a) MeO-2PACz and (b) PTZ-CPA under continuous heating at 85$^{o}$C in ambient air with RH 30 ± 10% for 20 hours. (c) The peak intensity of the maximum peak in FAPbI 3 perovskite films deposited on two HTLs extracted from PL spectra during heating process. (d) Variation of PLQY values of FAPbI 3 perovskite films on two HTLs irradiated for 32 hours in ambient air (~25$^{o}$C, RH 30 ±10%) with white LED of one-sun illumination. (e) MPP tracking of unencapsulated FAPbI 3 -based device on MeO-2PACz and PTZ-CPA under one-sun equivalent while LED array illumination at ~40$^{o}$C in nitrogen atmosphere. The initial PCEs of MeO-2PACz and PTZ-CPA based devices are 22.26% and 24.88%, respectively.
+
+The long-term stability of PSCs was further studied by using the International Summit on Organic Photovoltaic Stability(ISOS) protocol.$^{[40]}$ First, the storage stability of unencapsulated devices was evaluated in an air-drying cabinet according to the ISOS-D1 standard (Figure S32). The T90 (time corresponding to 90% of initial PCE retained) of MeO-2PACz based device is around 1000 hours, while the PTZ-CPA based device achieves over 4000 hours, showing a four-fold increase in shelf-life. Figure 6e shows continuous MPP tracking of unencapsulated devices under one-sun equivalent white light-emitting diodes (LED) irradiation in nitrogen atmosphere at ~40$^{o}$C (ISOS-L-1). In these devices, an interlayer of calix[4]pyrrole (C[4]P) that has the ability to immobilize the surface halide anions of perovskite, was introduced in between perovskite and C$_{60}$ layers to suppress the halide diffusion induced device degradation.$^{[41]}$ The MeO-2PACz based device maintains around 65% of the initial efficiency under MPP tracking in 800 hours, while the PTZ-CPA based devices remains 90% of their initial PCEs after continuous light-soaking for 2000 hours. A harsher condition of ISOS-L-1I (MPP tracking under white LED sunlight at ~40$^{o}$C in ambient air with RH 30 ± 10%) was employed to evaluate the operational stability (Figure S33). Again, the PTZ-CPA based device exhibits much longer lifetime than that of MeO-2PACz based device. All these results indicate a greatly improved stability contributed by the amphiphilic molecular hole-transporter PTZ-CPA.
+
+## Conclusion
+
+In summary, we have developed a new molecular holetransporter PTZ-CPA for FAPbI$_{3}$-based inverted PSCs. The amphiphilic properties of PTZ-CPA promoted favorable contact with perovskite precursor solution and high-quality perovskite thin-film deposition. The presence of multiple functional groups (phosphonic acid, cyano group and sulfur atom) in the molecule contributed to the delayed crystallization of FAPbI$_{3}$ perovskite, leading to improved crystallinity and grain size. The PTZ-CPA with improved energetic alignment could effectively passivate defects, resulting in prolonged carrier lifetime and suppressed non-radiative recombination, which translated into a champion PCE of 25.35% in the corresponding device, among one of the highest reported PCEs for FAPbI$_{3}$-based inverted PSCs to date. Besides, PTZ-CPA contributed to the enhanced long-term stability of FAPbI$_{3}$ perovskite films and devices, maintaining 90% of its initial PCE under ISOS-L-1 aging condition. This work presents the significance of HTL to FAPbI$_{3}$ perovskite by modulating its crystallization process and achieving optimal photovoltaic performance as well as long-term operational stability.
+
+## Supporting Information
+
+Supporting Information is available from the Wiley Online Library or from the author.
+
+## RESEARCH ARTICLE
+
+## Acknowledgements
+
+The work was supported by the National Natural Science Foundation of China (22179037), Shanghai pilotProgram for Basic Research (22TQ1400100-1), Shanghai Municipal Science and Technology Major Project (2018SHZDZX03, 21JC1401700), Program of Introducing Talents of Discipline to Universities (B16017), Fundamental Research Funds for the Central Universities. The authors thank the Research Center of Analysis and Test of East China University of Science and Technology (ECUST) and the Instrumental Analysis Center of Shanghai Jiao Tong University for performing various characterizations; Prof. Shuang Yang and Mr. Can Zou from ECUST for TPV and TPC measurements, Mrs. Mengjing Li from Shiyanjia Lab (www.shiyanjia.com) for the XPS and UPS measurement. The authors also appreciate Prof. Xingyu Gao, Mr. Meirong Fu and Mr. Liujiang Zhang from the Shanghai Synchrotron Radiation Facility (SSRF) for GIWAXS characterization (BL14B1), Mr. Xianyuan Jiang from ShanghaiTech University for data analysis of GIWAXS raw patterns, and Mr. Yanbo Wang, Mr. Mengjiong Chen and Ms. Limin Sun from Shanghai Jiao Tong University for TOF-SIMS measurement.
+
+Keywords: Formamidinium lead iodide · Inverted perovskite solar cells · Hole-selective contact · Phenothiazine · Cyanovinyl phosphonic acid
+
+[1] Z. Liang, Y. Zhang, H. Xu, W. Chen, B. Liu, J. Zhang, H. Zhang, Z. Wang, D.-H. Kang, J. Zeng, X. Gao, Q. Wang, H. Hu, H. Zhou, X. Cai, X. Tian, P. Reiss, B. Xu, T. Kirchartz, Z. Xiao, S. Dai, N.-G. Park, J. Ye, X. Pan, Nature 2023 , 624 , 557-563.
+
+[2] Q. Tan, Z. Li, G. Luo, X. Zhang, B. Che, G. Chen, H. Gao, D. He, G. Ma, J. Wang, J. Xiu, H. Yi, T. Chen, Z. He, Nature 2023 , 620 , 545-551.
+
+[3] W. Jiang, F. Li, M. Li, F. Qi, F. R. Lin, A. K.-Y. Jen, Angew. Chem. Int. Ed. 2022 , 61 , e202213560; Angew. Chem. 2022 , 134 , e202213560.
+
+[4] Z. Li, X. Sun, X. Zheng, B. Li, D. Gao, S. Zhang, X. Wu, S. Li, J. Gong, J. M. Luther, Z. Li, Z. Zhu, Science 2023 , 382 , 284-289.
+
+[5] J. Y. Kim, J.-W. Lee, H. S. Jung, H. Shin, N.-G. Park, Chem. Rev. 2020 , 120 , 7867-7918.
+
+[6] G. E. Eperon, S. D. Stranks, C. Menelaou, M. B. Johnston, L. M. Herz, H. J. Snaith, Energy Environ. Sci. 2014 , 7 , 982-988.
+
+[7] F. Meillaud, A. Shah, C. Droz, E. Vallat-Sauvain, C. Miazza, Sol. Energ. Mat. Sol. C. 2006 , 90 , 2952-2959.
+
+[8] H. Min, M. Kim, S.-U. Lee, H. Kim, G. Kim, K. Choi, J. H. Lee, S. I. Seok, Science 2019 , 336 , 749-753.
+
+[9] J. Park, J. Kim, H.-S. Yun, M. J. Paik, E. Noh, H. J. Mun, M. G. Kim, T. J. Shin, S. I. Seok, Nature 2023 , 616 , 724-730.
+
+[10] Y. Yao, C. Cheng, C. Zhang, H. Hu, K. Wang, S. De Wolf, Adv. Mater. 2022 , 34 , 2203794.
+
+[11] F. H. Isikgor, S. Zhumagali, L. V. T. Merino, M. De Bastiani, I. McCulloch, S. De Wolf, Nat. Rev. Mater. 2023 , 8 , 89-108.
+
+[12] M. Kim, G.-H. Kim, T. K. Lee, I. W. Choi, H. W. Choi, Y. Jo, Y. J. Yoon, J. W. Kim, J. Lee, D. Huh, H. Lee, S. K. Kwak, J. Y. Kim, D. S. Kim, Joule 2019 , 3 , 2179-2192.
+
+[13] X. Ling, H. Zhu, W. Xu, C. Liu, L. Pan, D. Ren, J. Yuan, B. W. Larson, C. Grätzel, A. R. Kirmani, O. Ouellette, A. Krishna, J. Sun, C. Zhang, Y. Li, S. M. Zakeeruddin, J. Gao, Y. Liu, J. R. Durrant, J. M. Luther, W. Ma,
+
+M. Grätzel, Angew. Chem. Int. Ed. 2021 , 60 , 27299-27306; Angew. Chem. 2021 , 133 , 27505-27512.
+
+[14] S. Zhang, F. Ye, X. Wang, R. Chen, H. Zhang, L. Zhan, X. Jiang, Y. Li, X. Ji, S. Liu, M. Yu, F. Yu, Y. Zhang, R. Wu, Z. Liu, Z. Ning, D. Neher, L. Han, Y. Lin, H. Tian, W. Chen, M. Stolterfoht, L. Zhang, W.-H. Zhu, Y. Wu, Science 2023 , 380 , 404-409.
+
+[15] A. AlAshouri, A. Magomedov, M. Roß, M. Jošt, M. Talaikis, G. Chistiakova, T. Bertram, J. A. Márquez, E. Köhnen, E. Kasparavičius, S. Levcenco, L. Gil-Escrig, C. J. Hages, R. Schlatmann, B. Rech, T. Malinauskas, T. Unold, C. A. Kaufmann, L. Korte, G. Niaura, V. Getautis, S. Albrecht, Energy Environ. Sci. 2019 , 12 , 3356-3369.
+
+[16] D.-X. Yuan, A. Gorka, M.-F. Xu, Z.-K. Wang, L.-S. Liao, Phys. Chem. Chem. Phys. 2015 , 17 , 19745-19750.
+
+[17] Y. Zhang, J. Wang, J. Xu, W. Chen, D. Zhu, W. Zheng, X. Bao, RSC Adv. 2016 , 6 , 79952-79957.
+
+[18] J. Xi, Z. Wu, K. Xi, H. Dong, B. Xia, T. Lei, F. Yuan, W. Wu, B. Jiao, X. Hou, Nano Energy 2016 , 26 , 438-445.
+
+[19] F. Xie, C.-C. Chen, Y. Wu, X. Li, M. Cai, X. Liu, X. Yang, L. Han, Energy Environ. Sci. 2017 , 10, 1942-1949.
+
+[20] Q.-B. Wei, W. Zi, D. Yang, J. Nanosci. Nanotechnol. 2019 , 19 , 59375941.
+
+[21] T. Du, T. J. Macdonald, R. X. Yang, M. Li, Z. Jiang, L. Mohan, W. Xu, Z. Su, X. Gao, R. Whiteley, C. Lin, G. Min, S. A. Haque, J. R. Durrant, K. A. Persson, M. A. McLachlan, J. Briscoe, Adv. Mater. 2022 , 34 , 2107850.
+
+[22] D. Zhang, H. Zhang, H. Guo, F. Ye, S. Liu, Y. Wu, Adv. Funct. Mater. 2022 , 32 , 2200174.
+
+[23] L. Bi, Q. Fu, Z. Zeng, Y. Wang, F. R. Lin, Y. Cheng, H.-L. Yip, S. W. Tsang, A. K.-Y. Jen, J. Am. Chem. Soc. 2023 , 145 , 5920-5929.
+
+[24] X. Jiang, X. Wang, X. Wu, S. Zhang, B. Liu, D. Zhang, B. Li, P. Xiao, F. Xu, H. Lu, T. Chen, A. K.-Y. Jen, S. Yang, Z. Zhu, Adv. Energy Mater. 2023 , 13 , 2300700.
+
+[25] S. Yu, Z. Xiong, H. Zhou, Q. Zhang, Z. Wang, F. Ma, Z. Qu, Y. Zhao, X. Chu, X. Zhang, J. You, Science 2023 , 382 , 1399-1404.
+
+[26] S. A. Ok, B. Jo, S. Somasundaram, H. J. Woo, D. W. Lee, Z. Li, B.-G. Kim, J. H. Kim, Y. J. Song, T. K. Ahn, S. Park, H. J. Park, Nat. Commun. 2018 , 9 , 4537.
+
+[27] A. Ullah, K. H. Park, H. D. Nguyen, Y. Siddique, S. F. A. Shah, H. Tran, S. Park, S. I. Lee, K. Lee, C. Han, K. Kim, S. Ahn, I. Jeong, Y. S. Park, S. Hong, Adv. Energy Mater. 2022 , 12 , 2103175.
+
+[28] S. Zhang, R. Wu, C. Mu, Y. Wang, L. Han, Y. Wu, W.-H. Zhu, ACS Materials Lett. 2022 , 4 , 1976-1983.
+
+[29] Z. Wang, Y. Zhou, S. Pang, Z. Xiao, J. Zhang, W. Chai, H. Xu, Z. Liu, N. P. Padture, G. Cui, Chem. Mater. 2015 , 27 , 7149-7155.
+
+[30] Y. Wang, Z. Zeng, Y. Zhang, Z. Zhang, L. Bi, A. He, Y. Cheng, A. K.-Y. Jen, J. C. Ho, S. Tsang, Adv. Mater. 2023 , 2307635.
+
+[31] X. Zhang, X. Bai, H. Wu, X. Zhang, C. Sun, Y. Zhang, W. Zhang, W. Zheng, W. W. Yu, A. L. Rogach, Angew. Chem. Int. Ed. 2018, 57 , 33373342; Angew. Chem. 2018 , 130 , 3395-3400.
+
+[32] J. Butkus, P. Vashishtha, K. Chen, J. K. Gallaher, S. K. K. Prasad, D. Z. Metin, G. Laufersky, N. Gaston, J. E. Halpert, J. M. Hodgkiss, Chem. Mater. 2017 , 29 , 3644-3652.
+
+[33] M. Wu, H. Wang, Y. Li, R. Chen, H. Zhou, S. Yang, D. Xu, K. Li, Z. An, S. (Frank) Liu, Z. Liu, Angew. Chem. Int. Ed. 2023 , 62 , e202313472; Angew. Chem. 2023 , 135 , e202313472.
+
+[34] T. Pan, W. Zhou, Q. Wei, Z. Peng, H. Wang, X. Jiang, Z. Zang, H. Li, D. Yu, Q. Zhou, M. Pan, W. Zhou, Z. Ning, Adv. Mater. 2023 , 35 , 2208522.
+
+## RESEARCH ARTICLE
+
+[35] J. Rivnay, S. C. B. Mannsfeld, C. E. Miller, A. Salleo, M. F. Toney, Chem. Rev. 2012 , 112 , 5488-5519.
+
+[36] K. Yang, Q. Liao, J. Huang, Z. Zhang, M. Su, Z. Chen, Z. Wu, D. Wang, Z. Lai, H. Y. Woo, Y. Cao, P. Gao, X. Guo, Angew. Chem. Int. Ed. 2022 , 61 , e202113749; Angew. Chem. 2022 , 134 , e202113749.
+
+[37] M. Degani, Q. An, M. Albaladejo-Siguan, Y. J. Hofstetter, C. Cho, F. Paulus, G. Grancini, Y. Vaynzof, Sci. Adv. 2021 , 7 , eabj7930.
+
+[38] P. Caprioglio, M. Stolterfoht, C. M. Wolff, T. Unold, B. Rech, S. Albrecht, D. Neher, Adv. Energy Mater. 2019 , 9 , 1901631.
+
+[39] P. Schilinsky, C. Waldauf, C. J. Brabec, Appl. Phys. Lett. 2002 , 81 , 38853887.
+
+[40] M. V. Khenkin, E. A. Katz, A. Abate, G. Bardizza, J. J. Berry, C. Brabec, F. Brunetti, V. Bulović, Q. Burlingame, A. Di Carlo, R. Cheacharoen, Y. -B. Cheng, A. Colsmann, S. Cros, K. Domanski, M. Dusza, C. J. Fell, S. R. Forrest, Y. Galagan, D. Di Girolamo, M. Grätzel, A. Hagfeldt, E. Von Hauff, H. Hoppe, J. Kettle, H. Köbler, M. S. Leite, S. Liu, Y.-L. Loo, J. M. Luther, C.-Q. Ma, M. Madsen, M. Manceau, M. Matheron, M. McGehee, R. Meitzner, M. K. Nazeeruddin, A. F. Nogueira, Ç. Odabaşı, A. Osherov, N.-G. Park, M. O. Reese, F. De Rossi, M. Saliba, U. S. Schubert, H. J. Snaith, S. D. Stranks, W. Tress, P. A. Troshin, V. Turkovic, S. Veenstra, I. Visoly-Fisher, A. Walsh, T. Watson, H. Xie, R. Yıldırım, S. M. Zakeeruddin, K. Zhu, M. Lira -Cantu, Nat Energy 2020 , 5 , 35-49.
+
+[41] H. Guo, X. Wang, C. Li, H. Hu, H. Zhang, L. Zhang, W. Zhu, Y. Wu, Adv. Mater. 2023 , 35 , 2301871.
+
+NILEY
+
+VCH
+
+## RESEARCH ARTICLE
+
+## Entry for the Table of Contents
+
+Amphiphilic molecular hole-transporter
+
+0-p-0H PTZ-CPA
+
+A phenothiazine-based molecular hole-transporter (PTZ-CPA) carrying a cyanovinyl phosphonic acid group is developed for the formamidinium lead iodide (FAPbI$_{3}$)-based inverted perovskite solar cells, resulting in the highest solar-to-electricity conversion efficiencies of 25.35% under standard air mass 1.5 (AM1.5) sunlight.
+
+VCH
+
+NILEY
+
+WILEY
+
+VCH

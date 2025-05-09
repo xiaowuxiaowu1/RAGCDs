@@ -1,0 +1,117 @@
+<!-- image -->
+
+.
+
+## Recto-Verso
+
+## Inequities in Cancer Drug Development in Terms of Unmet Medical Need
+
+Barrenho, E., Halmai, R., Miraldo, M., Tzintzun, I., Rais, S., Toulemon, L., Dupont, JC. & Rochaix, L. Social science & medicine , 302 114953.
+
+## Abstract
+
+This study measures inequality and inequity in the distribution of clinical trials on cancer drug development between 1996 and 2016, comparing the number of clinical trials with cancer need (proxied by prevalence, incidence, or 1-year and 5-year survival rates). The article leverages a unique global database of clinical trials activity and costs between 1996 and 2016, constructed for 227 different cancer types to measure, for both rare and non-rare cancers. It allows to measure i) inequalities and inequity of clinical trial activity, considering all trials as well as split by R&D stage; ii) inequalities and inequity in R&D investment proxied by trial enrolment and duration; iii) evolution of inequity over time. Inequalities are measured with concentration curves and inequities are measured with the health inequity index. There are two main results. First, the inequality analysis suggests a concentration of R&D resources in high-need cancers; however, once relative need is taken into account, inequity results suggest a pro-low need bias. Second, a historical analysis show that pro-low need inequity has persisted between 1996 and 2016 for non-rare cancers; for rare cancers, the article also find pro-low need inequality pre-OD legislation, however the trend fades after 2000.
+
+## Introduction
+
+There are two reasons why rare cancers are important for pharmaceutical R&D: 1) they account for 22% of all cancers diagnosed worldwide, with an occurrence of 6 per 100,000 individuals approximately; and 2) a disproportionately large amount of understanding of cancer biology comes from the study of rare cancers (Boyd et al., 2016). Despite the importance of rare cancers, incentives for pharmaceutical innovation vary across the different disease areas. With larger market sizes, non-rare cancers exhibit higher prospects of profitability and a higher probability of success (POS) in clinical trials than rare cancers (Wong et al., 2019).
+
+This motivated several jurisdictions to design Orphan Drug (OD) legislations and policies to foster innovation for rare cancers. Notably, the US and EU enacted, respectively, the Orphan Drug Act in 1983 and the Orphan Drug legislation of the European Parliament in 2000. These innovation policies provided incentives to encourage R&D for drugs aimed at treating, preventing, or diagnosing rare diseases.
+
+Therefore, the main purpose of this study is to assess the extent to which R&D for oncological medicines is equitable. The term health inequality generically refers to differences in the health of individuals or groups. Absent from the definition of health inequality is any moral judgment on whether observed differences are fair. In contrast, a health inequity is a specific type of health inequality that denotes an unfair difference in health. This normative distinction becomes practical when the notion of need is introduced. For instance, equity of health care is normally expressed as "equal access [to healthcare] for equal need " (Olsen, 2011).
+
+In this paper, need is proxied by either prevalence, incidence, or 1year and 5-year survival rates. Therefore, inequity in R&D investment is interpreted as the gap in resources allocated to develop treatments across different types of cancer and the relative need of each cancer type.
+
+This article leverages a unique global database of clinical trial activity and costs between 1996 and 2016, constructed for 227 different cancer types. Using the different need proxies, it measures for rare
+
+and non-rare cancers : i) inequalities and inequity of clinical trial activity, considering all trials as well as split by R&D stage; ii) inequalities and inequity in R&D investment proxied by trial enrolment and duration; iii) evolution of inequity over time.
+
+## Contribution to the literature
+
+There is a small growing set of contributions that addresses inequalities in pharmaceutical innovation and attempts to assess whether observed inequalities are warranted by differences in unmet need across diseases.
+
+However, such studies are limited for two main reasons: i) the methods used in the literature are mostly descriptive and therefore do not allow assessing the distributional impacts of innovation, nor the magnitude and direction of inequity;
+
+ii) While some of these studies attempt to infer the existence of inequity in the distribution of innovation, based on observed inequalities in innovation across disease areas, they fail to systematically benchmark these inequalities with the distribution of need across disease areas; iii) An unequal distribution of R&D activity across disease areas may be warranted by differences in the
+
+<!-- image -->
+
+.
+
+magnitude of unmet need across disease areas. Therefore, the assessment of equity requires the explicit comparison between the distribution of R&D activity and the distribution of cancer; and iv) by selectively focusing on single stages of the R&D process, they fail to capture the innovation process in its entirety. Risk, complexity and returns on investment differ substantially across the different R&D phases, and it is likely to affect rare and non-rare cancers differently.
+
+This article contributes to the literature in three different ways: i) by measuring inequity in R&D activity, and R&D investment (proxied by trial enrolment and duration) for different types of cancer, including rare and non-rare cancers, using different need proxies; ii) by assessing how inequity has evolved over time; and iii) by making use of original data on the different R&D stages to assess inequity both within and between early and later stages of clinical trials.
+
+## Data
+
+This article builds a unique dataset that links clinical trials targeting rare and non-rare cancers with epidemiological data per type of cancer and over time. This is accomplished by merging data from three different sources: i) Clinicaltrial.gov database that provides registry data on the number of clinical trials targeting each type of rare and non-rare cancer between 1996 and 2016; ii) Orpha.net that provides data on clinical trials targeting rare cancers between 1996 and 2016$^{1}$; iii) Rarecarenet.eu that provides epidemiological data on prevalence, incidence, 1- and 5-year survival rates for the year 2007, per cancer type.
+
+The final dataset includes 227 different cancers matched with two sets of variables: 1) R&D
+
+investments proxied by the number of clinical trials per year, number of enrolled patients, and duration of clinical trials; and 2) Need-related variables: estimates of European 15year prevalence, age-specific incidence, as well as 1-year and 5year age-adjusted relative survival rates for cancers. The final dataset consists of 32,535 observations, with 31,081 observations for nonrare cancers and 1454 for rare cancers. One trial may target several cancers and thus count as several observations. Considering a trial only once, the article gathers 26,948 clinical trial observations: 801 trials targeting rare cancers and 26,147 targeting non-rare cancers.
+
+## Methods
+
+Inequality measurement is provided through concentration curves (CCs). If the concentration curve lies below the line of equality, there is an inequality favoring high-need (defined either by prevalence, incidence, or survival) cancer (hereinafter pro-high need inequality), whereas if the concentration curves lie above the line of equality, R&D is concentrated on low-need cancers (hereinafter pro-low need inequality).
+
+Although the concentration curves offer a visual representation of the direction of the inequality, they do not allow to assess its magnitude. To do so, the concentration index is a better measure. The CI ranges between -1 (i.e. maximum pro-low need inequality with all research concentrated on cancer with the least need) to 1 (i.e. maximum prohigh need inequality with all research concentrated on cancer with the highest need). Inequality is therefore represented as the area that lies between the concentration curve and the equality line. The CI is formally defined as:
+
+<!-- image -->
+
+Inequity is measured by using the horizontal inequity index (HII), which captures the extent an R&D activity is distributed in proportion to need (O'Donnell et al., 2008; Wagstaff and Van Doorslaer, 2000). It is the difference between the two CIs, calculated as:
+
+HII= 𝐶 𝐼$\_{𝑅&𝐷 𝑜𝑢𝑡𝑐𝑜𝑚𝑒𝑠}$ - 𝐶𝐼$\_{𝑛𝑒𝑒𝑑}$
+
+The HII ranges between -2 and 1 . In the case where R&D is distributed in proportion to need, the index is zero. A negative (positive) index represents a concentration of R&D activity in low-need (highneed) diseases, that are targeted with more activity than the fair share their relative need would warrant when compared to other cancer types.
+
+## Results
+
+Inequalities and inequity in trial activity
+
+Inequalities : Results show pro-high need inequality for both rare and non-rare cancers, with trials concentrated on higher prevalence cancers, and this inequality being greater for rare cancers than for non-rare cancers. The results are qualitatively similar when using incidence as a proxy for cancer need. They differ when using survival rates where no evidence of such concentration is found. Inequities : The extent to which the concentration of trials in high-need cancers is inequitable depends on the relative need across cancers. Results show that total trials are disproportionately concentrated among low-prevalence cancers (inequity pro-low need ) for both rare and non-rare cancers. Results are qualitatively similar when using incidence as a proxy for cancer need. Here also, results differ when using survival rates where no evidence of such concentration is found. Results from the inequity analysis for total clinical trials
+
+<!-- image -->
+
+.
+
+show pro-low need inequity and results hold for prevalence, incidence and 5-year survival rates, while for 1-year survival rates, inequity only remains significant for rare cancers.
+
+## Inequities over time
+
+The research design and the data are not appropriate to derive causal claims and further evidence is required to assess the impact of the OD legislation. Our analysis thus is limited to show the evolution of inequity over time after the introduction of the OD legislation. Results show that in the period prelegislation, clinical trials were disproportionately concentrated among low-prevalence ( pro-low need ) cancers for both rare and nonrare cancers. After the introduction of the legislation, pro-low need inequity only persists for non-rare cancers.
+
+## Inequalities and inequities by R&D phase
+
+Inequalities : Results show pro-high need inequalities in all phases for rare cancers, while for non-rare cancers, we observe these results only for phases 2 and 3. Inequities : Although results show evidence of inequity pro-low need , there is heterogeneity across the different R&D stages: inequity prolow need is observed in Phase 2 trials for rare and non-rare cancers and only for non-rare cancers in Phase I. No inequity is observed in Phase 3 trials for rare cancers while for non-rare cancers, the HII is negative but only marginally significant. Results are qualitatively similar when using incidence as a proxy for need, except for the results for Phase 3 trials for non-rare cancers that become statistically non-significant.
+
+## Inequalities and inequities in R&D costs
+
+The distribution of the number of clinical trials does not necessarily accurately capture the R&D cost, nor the magnitude of investment dedicated to the various cancer types. Thus, we assess inequality
+
+and inequity in the distribution of R&D costs using two proxies, namely, trial enrolment and trial duration.
+
+Inequalities : Results suggest a prohigh need inequality for both trial enrolment and trial duration for rare cancers and non-rare cancers. Inequities : Results show inequities in trial enrolment for rare cancers and inequities in trial duration for non-rare cancers. In both cases we observe a disproportionate concentration among low-need cancers, showing pro-low need inequity.
+
+## Conclusions
+
+This article assesses equity on the grounds of a principle of justice that assumes that proportionality is equitable, i.e., disease areas should receive innovation in proportion to need. While these principles guide policy-making in most healthcare systems and therefore should guide incentive schemes' design and allocation of R&D efforts across disease areas, other principles of justice could also be considered in future research.
+
+This study provides two main important results. First, the inequality analysis suggests a concentration of clinical trials prohigh need cancer types. However, the inequity analysis offers a different insight: results suggest a pro-low need inequity when considering the relative need across cancer types for both rare and nonrare cancers. In other words, although there are more trials targeting diseases with higher associated need, that extra activity is not sufficient in light of their relative need when compared to other disease areas. These results hold when measuring cancer need in terms of prevalence, incidence, or 1year and 5-year survival rates. Second, we find inequity changes in the distribution of clinical trials for rare cancers after the introduction of the OD legislation. While pro-low need inequity has persisted between 1996 and 2016 for non-rare cancers, the pro-low need inequity also
+
+shown for rare cancers pre-OD legislation fades after 2000. However, this descriptive analysis cannot accurately attribute this effect to the introduction of the OD legislation.
+
+There are some caveats to this study. First, the use of clinical trials as a proxy for innovation has limitations as it captures R&D expenditure imperfectly across all trial phases and therefore imperfectly measures trial costs. Second, the data sources do not offer a complete mapping of all R&D activity. For rare diseases, Orphanet data may provide a more comprehensive account of clinical trial activity for rare diseases. Third, while the study considers prevalence, incidence, and survival rates as proxies for need, these are still imperfect measures of unmet cancer need since they do not capture the overall burden associated with disease, nor the fact that some diseases may be treated with non-drug treatments. Fourth, the analysis does not factor in efficiency nor unpack the reasons behind inequality and inequity in the distribution of clinical trials' activity and investment.
+
+Furthermore, even if such biases were to be absent, multiple reasons may warrant differences in innovation across cancer types, such as differences in technical complexity and understanding of disease pathogenesis that may imply that innovation in one disease area is more challenging than in another. Inequities in drug development may also reflect a technical failure of the projects rather than purely industry strategic behavior. Therefore, while the measurement of inequity in the distribution of innovation is an essential first step in identifying the need for better incentive policies, the identification of the type and extent of incentives required would need further research into the determinants of inequity. To that end, better and more granular data is required to deepen our understanding of inequity drivers.
+
+<!-- image -->
+
+.
+
+## Bibliography
+
+Barrenho, E., Halmai, R., Miraldo, M., Tzintzun, I., Ali, S. R., Toulemon, L., ... & Rochaix, L. (2022). Inequities in cancer drug development in terms of unmet medical need. Social science & medicine , 302 , 114953. Olsen, J. A. (2011). Concepts of equity and fairness in health and health care.
+
+Wagstaff, A., O'Donnell, O., Van Doorslaer, E., & Lindelow, M. (2007). Analyzing health equity using household survey data: a guide to techniques and their implementation . World Bank Publications.
+
+Wagstaff, A., & Van Doorslaer, E. (2000). Equity in health care finance and delivery. Handbook of health economics , 1 , 1803-1862.

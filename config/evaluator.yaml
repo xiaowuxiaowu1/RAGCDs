@@ -1,0 +1,27 @@
+# QA files that need to be evaluated
+QA_input_file: './data/queries.json'
+
+# Original text used for retrieval
+text_input_folder: './data/dataset'
+
+# Output file of evaluation results
+output_folder: './data'
+
+# Deciding one or more retrievers
+retrievers:
+  - hybrid_retriever
+  - vector_retriever
+  - bm25_retriever
+
+# The top_k of the retriever
+top_k: 5
+
+# The cutting method of nodes for retriever
+chunk_size: 300
+chunk_overlap: 20
+
+# Deciding one or more models
+models:
+  - gpt-4o
+  - yi-large
+  - deepseek

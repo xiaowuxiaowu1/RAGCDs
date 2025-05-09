@@ -1,0 +1,217 @@
+## 1. Introduction
+
+Hydrogen evolution reaction (HER) in water splitting is a highly promising means of obtaining pure hydrogen, which can be powered by the green electricity such as renewable and intermittent wind and solar energy, and high activity electrocatalysts as well, demonstrating huge potential in future clean energy infrastructure. [1] However, HER electrocatalysts applied for industrial water splitting have to sustain harsh conditions, such as large enough current density, ultra-long working period, elevated ambient pressure, and temperature, [2] which bring about great challenges to the durability of electrodes. The performance degradation of the catalyst at industrial current density is mainly caused by the decrease of active site density and the deactivation of active sites. During HER, the catalysts will inevitably loss their active sites due to the site falling off from the catalyst surface due
+
+to the bubbling effect of hydrogen generated on the catalyst surface, especially at elevated current densities. Meanwhile, the active site can be easily deactivated due to factors such as site coverage, Ostwald Ripening, and local corrosion. [3]
+
+Recently, most studies on enhancing the stability of HER catalysts have focused on weakening or preventing the adhesion of bubbles into the catalyst surface and improving the mechanical stability of the catalyst. Liu et al. developed a mechanically stable CuMo$_{6}$S$_{8}$/Cu electrode, [4] successfully achieving stable hydrogen evolution at 2.5 A cm - 2 for over 100 h in alkaline electrolyte. It is also reported that the deactivation of active sites can be prevented by using strong metal support interactions and even metal alloying strategies in HER. Wang et al. successfully loaded Rh single atom onto the nanometer TiC carrier, [5] which can stably evolve hydrogen for 72 h at 500 mA cm - 2 in 1 m KOH. Unfortunately, improved stabilities of the catalysts to certain degrees by the above strategies are usually accompanied by the decreases in HER activity, especially the HER current density, and additionally, the precious metals and the complicated catalyst preparations are involved wherein. As a result, most catalysts designed according to the above strategies are still far from meeting the
+
+Q. Li, Z. Chang School of Physical Science and Technology Shanghai Tech University Shanghai 201210, PR China
+
+Q. Li, C. Chen, W. Luo, X. Yu, F. Kong, L. Zhu, Y. Huang, H. Tian, X. Cui, J. Shi
+
+Shanghai Institute of Ceramics
+
+Chinese Academy of Sciences
+
+Shanghai 200050, P.R. China
+
+E-mail: cuixz@mail.sic.ac.cn; jlshi@mail.sic.ac.cn
+
+X. Cui
+
+School of Chemistry and Materials Science Hangzhou Institute for Advanced Study University of Chinese Academy of Sciences Hangzhou 310024, P.R. China
+
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/aenm.202304099
+
+DOI: 10.1002/aenm.202304099
+
+www.advenergymat.de
+
+Scheme 1. Refreshing of active sites to maintain hydrogen evolution activity. Dissolution-deposition equilibrium promote the exposing of embedded active sites.
+
+requirements for industrialization. It is therefore of great significance to develop novel approaches to design high-performance HER catalysts featuring both high activity and excellent durability at elevated current densities.
+
+Molybdenum oxides (MoO$_{x}$) have been reported to easily dissolve into MoO$_{4}$ 2 - in aqueous solutions at reduced potentials, [6] which can also reversibly decompose into MoO$_{x}$, [7] offering the possibility of exposing active sites. On the other hand, nickel phosphide is recognized as one of the most promising nonprecious metal catalysts toward alkaline HER according to the appropriate hydrogen Gibbs free energy. [8] Based on the above knowledge, we herein propose a novel in situ refreshing strategy to guarantee high HER performance, especially the excellent durability of catalysts at elevated current density, in which multilevel active sites built inside the catalyst could be gradually and continuously exposed during HER along with the falling-off of degraded ones by generated hydrogen bubbles. This in situ refreshing strategy ensures the activity and density of active sites of the electrocatalyst, thus leading to the ultra-stable catalytic activity toward HER at enhanced current densities.
+
+Specifically, we first fabricated a HER electrocatalytic precatalyst, a composite of the nickel phosphate embedded in an amorphous molybdenum oxide matrix named as NiMoOP( Scheme 1-I ), which was activated under a certain reduction potential to dissolve the amorphous molybdenum compound matrix and expose the active sites of nickel species embedded in the interior of the catalyst, obtaining a robust HER catalyst (A-NiMoO-P) (Scheme 1-II). The obtained A-NiMoO-P catalyst displays significantly enhanced HER performance than NiMoO-P owing to the continued exposures of Ni(PO$_{3}$)$_{2}$ and Ni$_{2}$P active sites resulting from the in situ conversion of partial Ni(PO$_{3}$)$_{2}$ during the activation, which is ensured by the first amorphous matrix dissolution into the electrolyte and the following dissolution-deposition dynamic equilibrium of the amorphous matrix (Scheme 1-III). Notably, the performance degradation of the constructed A-NiMoO-P catalyst resulting from the coverage and deactivation of active sites at enhanced current density can be effectively circumvented, leading to greatly elevated stability by the continuous active site exposure. As a result, the constructed A-NiMoO-P shows excellent HER performance featuring an ultra-low overpotential of 340 mV to reach 1500 mA cm - 2 and outstanding durability for at least 1000 h at an industrial-applicable current density of ≈ 900 mA cm - $^{2}$.The result of quasi in situ Raman spectroscopy confirms the changes of MoO$_{x}$ phase structure on the catalyst surface and the appearance of Ni(PO$_{3}$)$_{2}$, consolidating the surface reconstruction of the
+
+catalyst leading to the excellent stability of A-NiMoO-P at the current density. The HER performance of formed active sites is also verified by density functional theory (DFT) calculation. This work provides a novel strategy for constructing HER catalysts featuring both high performance and extra-high durability at elevated current densities by refreshing the active sites during electrochemical reactions, which is believed to be of great prospective in the practical hydrogen production industry.
+
+## 2. Results and Discussion
+
+The pre-catalyst NiMoO-P was synthesized by hydrothermal treatment and subsequent thermal phosphorylation ( Figure 1 a). Nickel foam (NF) was selected as the substrate owing to its high porosity and conductivity. Briefly, Ni(NO$_{3}$)$_{2}$ and (NH$_{4}$)$_{6}$Mo$_{7}$O$_{24}$ were used as raw chemicals to in situ grow NiMoO$_{4}$ nanorods on NF. [9] Then, NiMoO-P pre-catalyst was prepared by phosphating the NiMoO$_{4}$ precursor via low-temperature treatment, leading to a composite composed of Ni(PO$_{3}$)$_{2}$ with radial multi-level distribution and amorphous molybdenum oxide matrix. During the electrochemical activation under alkaline HER conditions, molybdenum oxide gradually dissolved into the electrolyte to expose Ni(PO$_{3}$)$_{2}$ components. Meanwhile, a fraction of Ni(PO$_{3}$)$_{2}$ in situ converted into Ni$_{2}$P during HER (9 e - + 2 Ni(PO$_{3}$)$_{2}$ → Ni$_{2}$P + 3PO 4 3 $^{-}$). Then, the A-NiMoO-P catalyst was formed accompanying the in situ electrochemical reconstruction of NiMoO-P.
+
+Scanning electron microscopy (SEM) image of NiMoO$_{4}$ precursor demonstrates the nanoarray morphology (Figure S1a, Supporting Information), and the surface of the nanorod is smooth according to the transmission electron microscopic (TEM) images (Figure S1b,c, Supporting Information). Highresolution TEM (HRTEM) and the X-ray diffraction (XRD) results indicate that the nanoarrays are well-crystallized NiMoO$_{4}$ (Figures S2a and S3, Supporting Information) which shows the typical single-crystalline nature of the nanorod (Figure S2b, Supporting Information) . [10] The energy-dispersive X-ray spectroscopy (EDS) mappings show a uniform distribution of nickel and molybdenum elements (Figure S1d, Supporting Information). After phosphating, the nanoarray morphology was maintained into the NiMoO-P (Figure 1b), while interestingly, the homogeneously dispersed nanoparticles can be observed within the nanorod (Figure 1c; Figure S4a-c, Supporting Information), indicating the formation of a composite material from the crystalline NiMoO$_{4}$ precursor compound. The HRTEM image of NiMoO-P reveals a composite structure composed of very weakly crystallized nanoparticles and amorphous matrix, and the clear
+
+Figure 2 a gives the i -t curve at a constant voltage of - 473 mV (vs RHE) to activate NiMoO-P forming A-NiMoO-P, and the cur-
+
+Figure 1. a) Schematic illustration of the fabrication of NiMoO-P and A-NiMoO-P catalysts. b) SEM, c) TEM, and d) HRTEM images of NiMoO-P. e)HAADF-STEM image and the corresponding EDS mappings of NiMoO-P.
+
+interfaces between them (Figure 1d; Figures S5-S6, Supporting Information), which were determined to be Ni(PO$_{3}$)$_{2}$ and amorphous molybdenum-based compound(s), respectively (Figure 1d). The selected area electron diffraction (SAED) pattern of NiMoO-P shows no well-defined diffraction patterns, with several scattered spots wherein, in agreement with the HRTEM imaging (Figure S4d, Supporting Information) . [11] EDS element mappings show that Ni is distributed in a particulate form within the nanorods, while Mo, P, and O are evenly distributed throughout the nanorod (Figure 1e), validating the formation of a composite featuring Ni-enriched compound embedding in Mo-based matrix. To further confirm the existing forms of Ni and Mo, NiMoO-P was annealed at 800 ° C for 2 h to promote the crystallization, which shows clearly the characteristic diffraction peaks of Ni(PO$_{3}$)$_{2}$,MoP$_{2}$O$_{7}$, and MoOx, indicating the composite structure (Figure S7, Supporting Information).
+
+rent density gradually increases from 340 to 670 mA cm - $^{2}$,and then keeps at 670 mA cm - 2 at the end of 24 h test. The obtained A-NiMoO-P shows a significantly enhanced HER performance in terms of the overpotential and current density which only needs an overpotentials of 170 and 340 mV to reach 500 and 1500 mA cm - $^{2}$, respectively, compared to those of NiMoO-P (Figure 2b). The increased HER performance of A-NiMoO-P could be attributed to the dissolution of the amorphous molybdenum compound and the in situ exposure of Ni-based active sites in the interior of the catalyst during HER. To verify the hypothesis, ICP-OES was adopted to detect Mo concentrations in the electrolytes after varied i -t tests, which were found to increase continuously and gradually reach equilibrium during the 48 h HER experiment (Figure 2c), while Ni has not been detected (Table S1, Supporting Information), verifying the dissolution of amorphous molybdenum/phosphor-based compound but the excellent stability of Ni-containing compound. It is worthy to note that the dissolution of an amorphous molybdenum/phosphor-based
+
+www.advenergymat.de
+
+Figure 2. a) Chronopotentiometry curve of NiMoO-P at - 473 mV. b) The HER polarization curves of A-NiMoO-P and NiMoO-P. c) Concentrations and dissolution rate ̄ v of Mo elements in electrolytes by ICP-OES tests at varied time intervals during the chronopotentiometry test. d) Chronopotentiometry curve of NiMoO-P under different kinds of electrolytes.
+
+compound will reach a dynamic equilibrium between dissolution and deposition of the amorphous matrix once the MoO$_{4}$ 2 - concentration in the electrolyte is saturated, which ensures the continued refreshing and exposure of the Ni-based active sites and sustained HER activity during the prolonged electrolysis for hydrogen production. It is also noted that no Ni-based active sites were lost during HER due to the non-dissoluble feature of the Ni-based compound in the electrolyte. To confirm the exposure of Ni-based active site, different kinds of electrolytes were introduced at the same and constant reduction potential as shown in Figure 2d. It is clear that the HER current density of NiMoO-P slowly increases in 1 m KOH electrolyte in the first 1 h, and then decreases upon adding 1 m MoO$_{4}$ 2 - into the above solution in 1 h of the test. Afterward the mixed solution of 1 m KOH + 1m MoO$_{4}$ 2 - was changed back to pure 1 m KOH solution in 2 h, the current density of NiMoO-P increases again (Figure 2d; Figure S8, Supporting Information). While the current density of the activated NiMoO-P in the renewed 1 m KOH is difficult to reach
+
+650 mA cm - 2 as shown in Figure 2a in the same activation time period. This phenomenon suggests the gradual exposure of the active sites due to the dissolution of amorphous molybdenum compound from NiMoO-P into the solution, and once the dissolution was inhibited by adding 1 m MoO$_{4}$ 2 $^{-}$, the active site exposure was synchronously prevented, which, as-expected, could be restarted after introducing a new 1 m KOH solution replacing the MoO$_{4}$ 2 $^{-}$-containing electrolyte, leading to the in situ re-exposure of the internal Ni(PO$_{3}$)$_{2}$ sites and resultantly re-increased current density. However, the activity of the activated catalyst will decrease when replacing with a new 1 m KOH due to the fact that the dissolution equilibrium of amorphous Mo matrix has been destroyed to a certain extent.
+
+Compared to NiMoO-P, the XRD pattern of A-NiMoO-P shows the same characteristic diffraction peaks of Ni(PO$_{3}$)$_{2}$ (PDF#280708) at ≈ 29.97 ° , 14.55 ° , 21.09 ° , and Ni (PDF#04-0850) at ≈ 44.51 ° , 51.85 ° , 76.37 ° ( Figure 3 a). Meanwhile, the nanoarray morphology was inherited into A-NiMoO-P (Figure 3b)
+
+Figure 3. a) XRD patterns of NiMoO-P and A-NiMoO-P. b) SEM, c) TEM, d) SAED, e,f) HRTEM images of A-NiMoO-P, g)HAADF-STEM image and the corresponding EDS mappings of A-NiMoO-P.
+
+exhibiting a rather rough surface compared to the smooth one of NiMoO-P (Figure S9, Supporting Information), which is due to the exposure of a large number of nanoparticles on the surface of A-NiMoO-P after the HER activation (Figure 3c; Figure S10, Supporting Information). To determine the chemical property of these nanoparticles, SAED analysis was adopted which suggests the newly formed Ni$_{2}$P compound in A-NiMoO-P (Figure 3d). Moreover, the HRTEM images in Figure 3e,f; Figure S11 (Supporting Information) obtained from the nanoparticles on the surface of A-NiMoO-P nanorod present two main (111) and (201) planes of the Ni$_{2}$P lattice, while those inside the nanorod show additional (013) and ( - 323) planes of the Ni(PO$_{3}$)$_{2}$ lattice, indicating that a fraction of Ni(PO$_{3}$)$_{2}$ nanoparticles, most probably those on the outer surface of the nanorods, has in situ converted into Ni$_{2}$P during the activation process. Notably, the dark-field TEM image and corresponding EDS elemental mappings show that Ni species distribute on both the surface and inside the A-NiMoOP nanorods, while Mo are mostly present inside the nanorods, and the P and O elements distribute homogenously throughout
+
+the A-NiMoO-P nanorods. These results evidence the efficient Ni-based active site exposure during the electrochemical activation of NiMoO-P through the dissolution of the surface amorphous molybdenum compound matrix under the constant reduction potential, which are Ni(PO$_{3}$)$_{2}$ and Ni$_{2}$P nanoparticles in the interior and on the surface of the nanorods, respectively.
+
+X-ray photoelectron spectroscopy (XPS) was adopted to analyze the detailed chemical properties. The XPS survey spectrum shows the co-existence of Ni, P, O, and Mo in NiMoO-P and ANiMoO-P (Figures S12-S13, Supporting Information), and the high-resolution of Ni 2p XPS can be fitted by spin-orbit doublets accompanied by satellite peaks ( Figure 4 a). Bands at binding energies of 857.7 and 875.0 eV can be ascribed to Ni 2p$_{3/2}$ and Ni 2p$_{1/2}$ of Ni 3 + of NiMoO-P, [12] respectively. While, the bands shift negatively to 855.9 and 873.2 eV for A-NiMoO-P, respectively belonging to Ni 2p$_{3/2}$ and Ni 2p$_{1/2}$ of Ni, 2 + $^{[13]}$indicating the presence of low valence state Ni species on the catalyst surface. According to the TEM image of NiMoO-P (Figure 1d), Ni(PO$_{3}$)$_{2}$ in NiMoOP is located inside the nanorod and Ni 3 + is dominant suggested
+
+www.advenergymat.de
+
+Figure 4. a) High-resolution Ni 2p and b) Mo 3d XPS spectra of the catalysts. c) Mo K-edge XANES spectra. Ni d) and Mo e) K-edge FT-EXAFS profiles. f) Quasi in situ Raman spectra during the activation process of NiMoO-P. g) Wavelet transforms (WT) for the Ni k $^{3}$-weighted EXAFS signals of NiMoO-P, A-NiMoO-P, NiO, and Ni$_{2}$P.
+
+by the XPS of Ni 2p, while after the dissolution of a surface layer of amorphous Mo compound, Ni(PO$_{3}$)$_{2}$ as well as Ni$_{2}$P featuring lowered valence of nickel, Ni 2 $^{+}$, is generated on the A-NiMoOP nanorods, in accordance with the negative shift by 1.05 eV in Ni 2p. Figure 4b gives the Mo 3d XPS spectra, which are mostly the same between NiMoO-P and A-NiMoO-P, and the bands at binding energies of 234.2 and 231.1 eV [14] correspond to Mo 4 + and others belong to Mo 6 $^{+}$, indicating no significant change in the proportions of Mo valence states during the activation. [6b] As for O 1s XPS spectra (Figure S14a, Supporting Information), the bands at 533.6, 532.3, 531.6 and 530.0 eV of A-NiMoO-P can be respectively assigned to the adsorbed water, Ni-P-O species, oxygen vacancies (O$_{v}$) and lattice oxygen.$^{[15]}$The much higher O$_{v}$ amount in A-NiMoO-P than that in NiMoO-P means its stronger exposure to electrochemically active surface than NiMoO-P. No Ni - Pbond was found in the XPS spectrum of P 2p (Figure S14b, Supporting Information), indicating the over-low amount of in situ formed Ni$_{2}$P species beyond the detection by XPS during electrochemical activation. [16]
+
+To gain more structural information on NiMoO-P and ANiMoO-P, X-ray absorption spectroscopy (XAS) detection was performed to investigate the surface chemical environment of the elements. The Ni K-edge X-ray absorption near-edge structure (XANES) spectrum of A-NiMoO-P catalyst presents a significantly different pre-edge feature centered at ≈ 8334 eV from others (Figure 4c), which is higher than that of Ni ( ≈ 8332 eV) but lower than that of NiO ( ≈ 8340 eV) and NiMoO-P ( ≈ 8336 eV), indicating the in situ refreshing of the active site. The Fourier transform (FT) extended X-ray absorption fine structure (EXAFS) spectrum of NiMoO-P exhibits a major peak of Ni - O at 1.60 Å and a second major peak of Ni - P at 2.70 Å$^{[17]}$; while A-NiMoO-P shows a major peak of Ni - O at 1.65 Å and a second major peak of Ni - P-Ni at 2.15 Å (Figure 4d). The best-fitting results show that A-NiMoO-P exhibits a Ni - P - Ni coordination with the corresponding intensities of Ni - O peaks (first coordination sphere) and Ni - P peaks (second coordination sphere) being considerably lower than those in NiMoO-P, suggesting the conversion of Ni(PO$_{3}$)$_{2}$ to Ni$_{2}$P in A-NiMoO-P (Figure S15 and Table S2,
+
+16146840, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aenm.202304099 by SHANGHAI INST OF CERAMICS, Wiley Online Library on [24/01/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+www.advancedsciencenews.com
+
+www.advenergymat.de
+
+Supporting Information). EXAFS wavelet transform (WT) analysis of Ni - P shows that the main signal in the k -space shifts from 6.3 Å - 1 in NiMoO-P to 7.5 Å - 1 in A-NiMoO-P (Figure 4g), verifying the existence of Ni - P - Ni coordination. Figure S16 (Supporting Information) shows the Mo K-edge XANES spectra of MoO$_{2}$, MoO$_{3}$, NiMoO-P, and A-NiMoO-P, and no significant differences between NiMoO-P and A-NiMoO-P could be found. In the Fourier transformed extended EXAFS spectra of Mo (Figure 4e), the main peak is assigned to a single scattering path of the nearest Mo - O shell, followed by a specific Mo - Mo shell. [18] Compared with NiMoO-P, the Mo - O coordination number in A-NiMoO-P decreases significantly according to the decreased intensity, [19] resulting from the dissolution of surface molybdenum compound into the electrolyte in the form of MoO$_{4}$ 2 $^{-}$. The peak at > 3Å comes from Mo - OorMo - Mo in different lattice cells, [18a] while in NiMoO-P and A-NiMoO-P, only the peak at < 3 Å is from the Mo - OandMo - Mo contributions, suggesting a short-range ordered (amorphous) structure of NiMoO-P and A-NiMoO-P.
+
+To reveal the surface evolution from NiMoO-P to A-NiMoOP more evidently, quasi in situ Raman measurements were performed every 30 min (Figure 4f). In 90 minutes of hydrogen evolution, the peaks at 1100, 720 and 190 cm - 1 are assigned to 𝜈$_{s}$ (PO$_{2}$) 2-, 𝜈$_{s}$ P - O - Pand 𝛿 (PO$_{4}$), respectively, [20] and that at 530 cm - 1 is assigned to 𝜈$_{s}$ Ni - O, [11] which are caused by the dissolution of the amorphous molybdenum compound layer on the surface of nanorods and the resultant exposure of the internal Ni(PO$_{3}$)$_{2}$ as the active site for HER. The Raman vibration peaks at 950, 880, 380 and 335 cm - 1 belonging to the MoO$_{x}$ species [11,21] appear and gradually become stronger over time, which is thought to be associated with the gradient phosphating from the outer surface to the interior during the synthesis, resulting in a gradually higher amount of MoO$_{x}$ in the amorphous matrix during dissolutions by the HER activation.
+
+The HER performance of the obtained A-NiMoO-P catalysts was further evaluated in an N$_{2}$-saturated 1 m KOH solution at room temperature. From the LSV curves ( Figure 5 a) and corresponding Tafel slope plots (Figure 5b), A-NiMoO-P exhibits substantially lower overpotentials and Tafel slopes ( 𝜂$_{100}$ = 65 mV, 𝜂$_{500}$ = 170 mV, 𝜂$_{1500}$ = 340 mV, Tafel slope = 87 mV dec - $^{1}$) than NiMoO-P ( 𝜂$_{100}$ = 208 mV, 𝜂$_{500}$ = 370 mV, Tafel slope = 295 mV dec - $^{1}$) and 20% PtC/NF ( 𝜂$_{100}$ = 155 mV, 𝜂$_{500}$ = 300 mV, Tafel slope = 123 mV dec - $^{1}$) at the current densities of 100, 500 and 1500 mA cm - $^{2}$, revealing its excellent HER catalytic activity. Moreover, A-NiMoO-P displays a slight potential increase by as low as 10 mV at 500 mA cm - 2 after 5000 cycles (Figure 5c;FiguresS17,S18, Supporting Information), demonstrating the outstanding cycling stability of A-NiMoO-P. In addition, the electrochemical double-layer capacitance ( C$_{dl}$ )ofANiMoO-P (131.5 mF cm - $^{2}$) has been calculated to be much higher than that of NiMoO-P (48.3 mF cm - $^{2}$)(Figure5d; Figure S19, Supporting Information), indicating the much higher electrochemical surface active area (ECSA) of A-NiMoO-P because of its much higher surface roughness and more exposed active sites than NiMoO-P for catalyzing HER. [22]
+
+To investigate the stability of the catalyst A-NiMoO-P, the longterm stability tests at - 473 mV were conducted. As shown in Figure 5e, HER activity of A-NiMoO-P increases rapidly at the beginning of the test, followed by slower but sustained increments over a period up to 400 h, then reaches a plateau afterward.
+
+Notably, A-NiMoO-P remains highly stable for at least 1000 h at an industrial level high current density of ≈ 900 mA cm - 2 of HER. Moreover, the morphology of A-NiMoO-P remained unchanged in the test period of 1000 h (Figure S20a, Supporting Information), including these numerous small and crystalline Ni$_{2}$P nanoparticles on the surface of the nanorods (Figure S20b,c,Supporting Information). EDS mappings also show the unchanged distributions of Ni, Mo, P, and O elements in the catalyst (Figure S20d, Supporting Information), indicating the excellent chemical and structure stability of A-NiMoO-P at elevated current density ensuring its extra-high electrocatalytic durability for HER.
+
+The produced H$_{2}$ gas amount on such A-NiMoO-P catalyst matches well with the theoretical value, indicating the high hydrogen production Faraday efficiency (FE) of A-NiMoO-P (Figure 5f). To standardize the catalyst stability comparison, the accumulative amount of charge consumed per unit area during the HER is used as an indicator of HER stability. Thus calculated HER durability of A-NiMoO-P is 800 A h cm - $^{2}$, which surpasses most of the recently reported catalysts, as far as we can found, as shown in Figure 5g and Table S3 (Supporting Information). The results indicate the great potential for the application of the A-NiMoO-P catalyst in practical large-scale hydrogen production. Electrochemical Impedance Spectroscopy (EIS) analysis was carried out at the overpotential of 70 mV (Figure S21, Supporting Information), and the inset equivalent circuit includes a charge transfer resistance ( R$_{ct}$ )inserieswithanohmicresistance( R$_{s}$ ) and constant phase element ( CPE ) in parallel. The smallest R$_{ct}$ value according to the smallest radius of the A-NiMoO-P catalyst indicates its fastest charge transfer property among the samples tested, leading to the much enhanced HER performance. [23]
+
+The above results have proved that Mo species is dissolved from the catalyst during HER, leading to the Ni-based active site exposure in the forms of Ni(PO$_{3}$)$_{2}$ and Ni$_{2}$P resulting from the in situ partial conversion from Ni(PO$_{3}$)$_{2}$. To further investigate the catalytic mechanism of the activated catalyst toward HER, the catalytic sites of A-NiMoO-P can be roughly divided into three types: the nanorod body (named as NiMoPO), Ni(PO$_{3}$)$_{2}$ exposed on the nanorod surface (Ni(PO$_{3}$)$_{2}$@NiMoPO) after the surface Mo species dissolution, and Ni$_{2}$P loaded on the amorphous surface (Ni$_{2}$P@NiMoPO) converted from the exposed Ni(PO$_{3}$)$_{2}$.DFTcalculation was performed to determine if the active sites creation by the in situ refreshing strategy on A-NiMoO-P is successful.
+
+According to the above structure analysis of the A-NiMoO-P catalyst, three structural models have been proposed (Figure S22, Supporting Information). As shown in Figures S23,S24 (Supporting Information), a higher amount of charge transfer takes place in Ni(PO$_{3}$)$_{2}$@NiMoPO than in the others. Bader charge distribution analysis shows that there are significant differences in the chemical states of Ni-based active centers among the three materials: Ni in Ni$_{2}$P, NiMoPO, and Ni(PO$_{3}$)$_{2}$ losses its charges by 0.23 e $^{-}$, 0.63 e$^{-}$, and 1.39 e- (Table S4, Supporting Information), respectively, due to the different chemical environments. In NiMoPO, the irregular and unsaturated Ni - O coordination number, as well as the existence of Ni - P coordinated covalent bond, prevent the electron loss of Ni. While in Ni(PO$_{3}$)$_{2}$@NiMoPO, more Ni is coordinated with oxygen forming a large number of ionic Ni - O bonds, resulting in more electron loss from Ni to O atom than in NiMoPO. On the contrary, Ni - P bond is dominant in Ni$_{2}$P, which is much more covalent than Ni - Obondand
+
+www.advenergymat.de
+
+Figure 5. a) LSV curves of different catalysts. b) Tafel plots derived from the corresponding polarization curves. c) LSV curves of A-NiMoO-P before and after 5000 cycles of test. (d) Linear dependence of capacitive current density versus scan rates. e) Chronopotentiometric i-t curve of A-NiMoO-P at the constant potential of - 473 mV. f) Experimental and theoretically calculated H$_{2}$ production volumes at the overpotential of - 473 mV and the Faradic efficiency. g) Comparison of HER durability between A-NiMoO-P and the reported ones using an accumulative amount of charge consumed per unit area as an indicator of HER durability.
+
+therefore demonstrates much-reduced transfer of d electrons from Ni to P atom. The electrocatalytic activity can be judged according to varied valence electron losses from the Ni atoms, i.e., the Ni valence state. Ni in Ni$_{2}$P retains more valence electrons than those in the others, which ensures its higher d-band center, and the resultantly higher catalytic activity. [24]
+
+The calculated total density of states (TDOS) shows that Ni$_{2}$P@NiMoPO has much higher electron density than Ni(PO$_{3}$)$_{2}$@NiMoPO near the Fermi level (Figures S25-S26, Supporting Information), making Ni$_{2}$P@NiMoPO more conductive. [25] Herein, the HER mechanism of exposed Ni$_{2}$P@NiMoPO in A-NiMoO-P is proposed as shown in Figure 6 a. The increase in TDOS results in strengthened interaction between the loaded Ni$_{2}$P@NiMoPO and the substrate. Additionally, from Figure 6b,N i ( P O $_{3}$)$_{2}$@NiMoPO ( - 2.66 eV) and Ni$_{2}$P@NiMoPO ( - 2.56 eV) show more negative values of d-band center than NiMoPO ( - 2.46 eV), which facilitate the dissociation of adsorbed water molecule to form larger amounts
+
+of H* intermediates and thereby accelerate the hydrogen desorption and adsorption. [26] The Δ G$_{H*}$ of Ni$_{2}$P@NiMoPO is 0.40 eV, which is closer to the thermoneutral value than those of Ni(PO$_{3}$)$_{2}$@NiMoPO ( - 0.45 eV) and NiMoPO ( - 0.47 eV) (Figure 6c), indicating a feasible reaction energy barrier for H adsorption and H$_{2}$ desorption on Ni$_{2}$P@NiMoPO. [27] Considering that H$_{2}$O activation is a rate-determining step (RDS) in alkaline elementary steps, the lower activation energy barrier of H$_{2}$O will lead to accelerated HER. The adsorption/desorption properties of H$_{2}$O molecules and intermediates in elementary steps were also calculated as shown in Figure 6d, and the H$_{2}$O activation energies of both Ni(PO$_{3}$)$_{2}$@NiMoPO (0.69 eV) and Ni$_{2}$P@NiMoPO (0.63 eV) are lower than that on NiMoPO (0.89 eV), suggesting a favorable H$_{2}$O dissociation process on Ni(PO$_{3}$)$_{2}$@NiMoPO and Ni$_{2}$P@NiMoPO. [24b] Compared to Ni(PO$_{3}$)$_{2}$@NiMoPO with the *H desorption energy barrier of 0.276 eV, Ni$_{2}$P@NiMoPO shows the optimized value of as low as - 0.034 eV close to zero, indicating the thermodynamically
+
+Figure 6. a) Schematic illustration of the catalytic mechanism for alkaline HER on the Ni$_{2}$P@NiMoPO. PDOS analysis b), free energy of adsorbed H* intermediates, c) and free energy diagrams of the elementary steps in alkaline HER d) respectively for NiMoPO, Ni(PO$_{3}$)$_{2}$@NiMoPO and Ni$_{2}$P@NiMoPO. e) Schematic illustration of active site constructions by in situ refreshing strategy on the A-NiMoO-P for accelerating HER by water splitting.
+
+www.advancedsciencenews.com
+
+www.advenergymat.de
+
+favorable desorption of H* on Ni$_{2}$P@NiMoPO. Thus, the active site constructions of both Ni(PO$_{3}$)$_{2}$ and Ni(PO$_{3}$)$_{2}$ on A-NiMoO-P by the in situ refreshing strategy are successful for accelerating HER. Figure 6e schematically shows the dissolution of Mo species for the creation of the Ni-based active sites by the in situ refreshing strategy and their roles in accelerating HER by water splitting.
+
+## 3. Conclusion
+
+This work proposes a novel active site in situ refreshing strategy of electro-catalytic materials to greatly enhance the durability of electrocatalytic hydrogen evolution by water splitting. Briefly, a composite catalyst of Ni(PO$_{3}$)$_{2}$ being embedded in an amorphous molybdenum compound matrix was fabricated, which will expose the inside Ni(PO$_{3}$)$_{2}$ andinsituformedNi$_{2}$P active sites by the matrix dissolution into the electrolyte without the losses of these active sites. Importantly, the following dissolutiondeposition dynamic equilibrium of the amorphous matrix during the electrochemical HER ensures the effective and long-lasting activation of the catalyst without noticeable activity degradation. The continuous active site refreshing endows the composite catalyst with excellent HER performance featuring an ultra-high current density of 1500 mA cm - 2 at an overpotential of 340 mV, and an extra-long durability for at least 1000 h at an industrialapplicable current density of ≈ 900 mA cm - $^{2}$. This study offers a novel strategy for active site refreshing to create highly active and extra-long lasting HER catalysts for industrial-applicable hydrogen production.
+
+## 4. Experimental Section
+
+Materials : Hexaammonium heptamolybdate tetrahydrate ((NH$_{4}$)$_{6}$Mo$_{7}$O$_{24}$ · 4H$_{2}$O, 99.0%), urea CO(NH$_{2}$)$_{2}$ (99%)$_{,}$ Nickel nitrate hexahydrate (Ni(NO$_{3}$)$_{2}$ · 6H$_{2}$O, 98.5%) and Hydrochloric acid (HCl, AR, ≈ 40%) were purchased from Sinopharm Group Chemical Reagent Co., Ltd., China. Nickel foam (NF, thickness: 1.5 mm) was purchased from Cyber Electric Co., Ltd., China., Ltd. Nafion D-520 dispersion (5 wt.%) was purchased from Dupont China Holding Co., Ltd. Commercial 20 wt.% Pt/C was obtained from Shanghai HEPHAS Energy Equipment Co., Ltd. All reagents were used as received without further purification.
+
+Synthesis of NiMoO$_{4}$ · xH$_{2}$O Precursor on NF : A self-supported NiMoO$_{4}$ · xH$_{2}$O precursor was grown on an NF substrate via a scalable water bath reaction. Briefly, a piece of NF (1.5 cm × 2.5 cm) was first cleaned by HCl solution, ethanol, and deionized (DI) water in sequence. Separately, 2 mmol Ni(NO$_{3}$)$_{2}$ · 6H$_{2}$O, 0.25 mmol (NH$_{4}$)$_{6}$Mo$_{7}$O$_{24}$ · 4H$_{2}$O (the Ni:Mo ratio is 8:7 here), and 3 mmol urea were dissolved homogeneously in 20 mL DI water in a glass bottle. The washed NF was then immersed into the solution, and the glass bottle was transferred to a water bath oven maintained at 90 ° C for 8 h. After rinsing several times with DI water and drying in air, the light green NiMoO$_{4}$ · xH$_{2}$O precursor was obtained.
+
+Synthesis of NiMoO-P :N a H $_{2}$PO$_{2}$ (1 g) was used as a P source and placed at the upstream of a tube furnace, and the NiMoO$_{4}$ · xH$_{2}$O precursor on NF was placed in the middle of the tube furnace. Then, they were heated up to 400 ° C and kept for
+
+2 h in Ar gas flow with a rate of 5 ° Cmin - $^{1}$. After cooling to room temperature, the NiMoO-P catalyst was obtained.
+
+Synthesis of A-NiMoO-P : To further expose the active site, a constant voltage of - 473 mV (vs RHE) was applied at NiMoO-P for 24 h. 1.0 m KOH in 100 mL DI water was used as the supporting electrolyte in a standard three-electrode system (Ag/AgCl electrode was used as the reference electrode and graphite electrode was used as the counter electrode, respectively).
+
+Materials Characterization : The Rigaku D/Max-2550 V X-ray diffractometer equipped with a 1.6 kW Cu K$_{𝛼}$ source at a sweep rate of 2 ° Cmin - 1 was applied to obtain the XRD patterns. Raman spectrum was recorded on a LABRAM HR Evolution with an excitation wavelength of 532 nm. X-ray photoelectron spectroscopy (XPS) tests were performed with Thermo Fisher Scientific ESCAlab250 and Thermo Scientific K-Alpha + equipped with monochromatic Al K$_{𝛼}$ radiation. The Hitachi S-4800 and Magellan 400 field emission scanning electron microscopies were applied to collect scanning electron microscope (SEM) images from synthesized samples. Transmission electron microscopy (TEM) patterns were carried out by Tecnai G2 F20 and JEM-2100F field emission transmission electron microscopies at an acceleration voltage of 120 and 200 kV, respectively. The composition and concentration of the catalyst were determined by an inductively coupled plasma Optical emission spectroscopy (ICP-OES, Agilent 725).
+
+The electrochemical measurements, the details of DFT calculation and quasi in situ Raman can be seen in the Supporting Information.
+
+## Supporting Information
+
+Supporting Information is available from the Wiley Online Library or from the author.
+
+## Acknowledgements
+
+The authors gratefully acknowledge the support of this research by National Natural Science Foundation of China (21835007, 52172110), Key Research Program of Frontier Sciences, Chinese Academy of Sciences (ZDBS-LY-SLH029), the "Scientific and Technical Innovation Action Plan" Hong Kong, Macao and Taiwan Science & Technology Cooperation Project of Shanghai Science and Technology Committee (21520760500), Shanghai "Science and Technology Innovation Action Plan" intergovernmental international science and technology cooperation project (23520710600) and BL14W beamline of Shanghai Synchrotron Radiation Facility (SSRF). The authors would like to thank the Shiyanjia Lab (www.shiyanjia.com)for the XPS.
+
+## Conflict of Interest
+
+The authors declare no conflict of interest.
+
+## Data Availability Statement
+
+Research data are not shared.
+
+## Keywords
+
+durability, HER, in situ refreshing, industrial current density
+
+www.advancedsciencenews.com
+
+Received: November 29, 2023 Revised: January 4, 2024 Published online:
+
+[1] a) M. Carmo, D. L. Fritz, J. Merge, D. Stolten, Int. J. Hydrog. Energy 2013 , 38 , 4901; b) K. Ayers, N. Danilovic, R. Ouimet, M. Carmo, B. Pivovar, M. Bornstein, Annu. Rev. Chem. Biomol. Eng. 2019 , 10 , 219; c) L. Chong, G. Gao, J. Wen, H. Li, H. Xu, Z. Green, J. D. Sugar, A. J.Kropf,W.Xu,X.M.Lin,H.Xu,L.W.Wang,D.J.Liu, Science 2023 , 380 , 609.
+
+[2] a) L. A. King, M. A. Hubert, C. Capuano, J. Manco, N. Danilovic, E. Valle, T. R. Hellstern, K. Ayers, T. F. Jaramillo, Nat. Nanotechnol. 2019 , 14 , 1071; b) X. Liu, R. T. Guo, K. Ni, F. J. Xia, C. J. Niu, B. Wen, J. S. Meng,P.J.Wu,J.S.Wu,X.J.Wu,L.Q.Mai, Adv. Mater. 2020 , 32 , 2003414. c) F. Yu, H. Q. Zhou, Y. F. Huang, J. Y. Sun, F. Qin, J. M. Bao, W. A. Goddardiii, S. Chen, Z. F. Ren, Nat. Commun. 2018 , 9, 2551; d) J. C. Ganley, Int. J. Hydrog. Energy 2009 , 34 , 3604.
+
+[3] W. F. Zhai, Y. Y. Ma, D. Chen, J. C. Ho, Z. F. Dai, Y. Q. Qu, Infomat 2022 , 4 , e12357.
+
+[4] H.M.Liu,R.K.Xie,Y.T.Luo,Z.C.Cui,Q.M.Yu,Z.Q.Gao,Z.Y. Zhang, F. N. Yang, X. Kang, S. Y. Ge, S. H. Li, X. F. Gao, G. L. Chai, L. Liu, B. L. Liu, Nat. Commun. 2022 , 50 , e13.
+
+[5] J.R.Yang,W.H.Li,S.D.Tan,K.N.Xu,Y.Wang,D.S.Wang,Y.D.Li, Angew. Chem., Int. Ed. 2021 , 60 , 19085.
+
+[6] a)L.H.Zhou,C.M.Yang,W.C.Zhu,R.Li,X.X.Pang,Y.Z.Zhen, C. T. Wang, L. J. Gao, F. Fu, Z. W. Gao, Y. C. Liang, Adv. Energy Mater. 2022 , 12 , 2202367. b) W. Du, Y. M. Shi, W. Zhou, Y. F. Yu, B. Zhang, Angew. Chem., Int. Ed. 2021 , 60 , 7051.
+
+[7] a)B.B.Lin,J.D.Chen,R.Yang,S.J.Mao,M.K.Qin,Y.Wang, Appl. Catal. B 2022 , 316 , 121666; b) L. B. Wu, F. H. Zhang, S. W. Song, M. H. Ning, Q. Zhu, J. Q. Zhou, G. H. Gao, Z. Y. Chen, Q. C. Zhou, X. X. Xing, T. Tong, Y. Yao, J. M. Bao, L. Yu, S. Chen, Z. F. Ren, Adv. Mater. 2022 , 34 , 2201774.
+
+[8] a)F.Liu,C.X.Shi,X.L.Guo,Z.X.He,L.Pan,Z.F.Huang,X.W. Zhang, J. J. Zou, Adv. Sci. 2022 , 9 , 2200307; b) S. Chandrasekaran, M. Khandelwal, F. Dayong, L. J. Sui, J. S. Chung, R. D. K. Misra, P. Yin, E. J. Kim, W. Kim, A. Vanchiappan, Y. P. Liu, S. H. Hur, H. Zhang, C. Bowen, Adv. Energy Mater. 2022 , 12 , 2200409; c) J. T. Ren, L. Chen, H. Y.Wang,W.W.Tian,X.L.Song,Q.H.Kong,Z.Y.Yuan, ACS Catal. 2023 , 13 , 9792.
+
+[9] Y. Y. Chen, Y. Zhang, X. Zhang, T. Tang, H. Luo, S. Niu, Z. H. Dai, L. J. Wan, J. S. Hu, Adv. Mater. 2017 , 29 , 1703311.
+
+[10] Z. H. Xiao, M. Yang, C. H. Liu, B. W. Wang, S. L. Zhang, J. Y. Liu, Z. L.Xu,R.J.Gao,J.J.Zou,A.D.Tang,H.M.Yang, Nano Energy 2022 , 98 , 107233.
+
+[11] J. Wang, J. Hu, S. Q. Niu, S. W. Li, Y. C. Du, P. Xu, Small 2022 , 18 , 2105972.
+
+[12] L. Zhu, J. Huang, G. Meng, T. Wu, C. Chen, H. Tian, Y. Chen, F. Kong, Z. Chang, X. Cui, J. Shi, Nat. Commun. 2023 , 14 , 1997.
+
+[13] a) J. Huang, Y. Sun, Y. Zhang, G. Zou, C. Yan, S. Cong, T. Lei, X. Dai, J. Guo, R. Lu, Y. Li, J. Xiong, Adv. Mater. 2018 , 30 , 1705045; b) J. Wang, J. Hu, S. Niu, S. Li, Y. Du, P. Xu, Small 2022 , 18 , e2105972; c) S. X. She, Y. L. Zhu, H. A. Tahini, X. H. Wu, D. Q. Guan, Y. Chen, J. Dai, Y. B. Chen, W. Q. Tang, S. C. Smith, H. T. Wang, W. Zhou, Z. P. Shao, Small 2020 , 16 , e2006800.
+
+[14] a) B. C. Liu, H. Li, B. Cao, J. N. Jiang, R. Gao, J. Zhang, Adv. Funct. Mater. 2018 , 28 , 1801527; b) F. C. Lyu, S. S. Zeng, Z. Jia, F. X. Ma, L. G. Sun, L. Z. Cheng, J. Pan, Y. Bao, Z. Y. Mao, Y. Bu, Y. Y. Li, J. Lu, Nat. Commun. 2022 , 50 , e13; c) Y. Gu, A. P. Wu, Y. Q. Jiao, H. R. Zheng, X. Q. Wang, Y. Xie, L. Wang, C. G. Tian, H. G. Fu, Angew. Chem., Int. Ed. 2021 , 60 , 6673.
+
+[15] a) J. Hu, S. W. Li, Y. Z. Li, J. Wang, Y. C. Du, Z. H. Li, X. J. Han, J. M. Sun, P. Xu, J. Mater. Chem. A 2020 , 8 , 23323; b) J. W. Huang, Y. H. Sun, Y. D. Zhang, G. F. Zou, C. Y. Yan, S. Cong, T. Y. Lei, X. Dai, J. Guo, R.F.Lu,Y.R.Li,J.Xiong, Adv. Mater. 2018 , 30 , 1705045.
+
+[16] X.D.Lv,S.T.Wan,T.Y.Mou,X.Han,Y.F.Zhang,Z.L.Wang,X.Tao, Adv. Funct. Mater. 2023 , 33 , 2205161.
+
+[17] H.F.Yu,H.W.Zhu,H.L.Jiang,X.Z.Su,Y.J.Hu,H.Jiang,C.Z.Li, Natl Sci Rev 2023 , 10 , nwac166.
+
+[18] a) X. Y. Li, L. P. Xiao, L. Zhou, Q. C. Xu, J. Weng, J. Xu, B. Liu, Angew. Chem., Int. Ed. 2020 , 59 , 21106; b) J. Y. Zhang, J. Y. Liang, B. B. Mei, K. Lan, L. H. Zu, T. C. Zhao, Y. Z. Ma, Y. Chen, Z. R. Lv, Y. Yang, C. H. Yu, Z. Xu, B. Y. Xia, W. Li, Q. H. Yuan, D. Y. Zhao, Adv. Energy Mater. 2022 , 12 , 2200001.
+
+[19] C. Wan, Z. Zhang, J. Dong, M. Xu, H. Pu, D. Baumann, Z. Lin, S. Wang, J. Huang, A. H. Shah, X. Pan, T. Hu, A. N. Alexandrova, Y. Huang, X. Duan, Nat. Mater. 2023 , 22 , 1022,.
+
+[20] D. Boudlich, L. Bih, M. E. Archidi, M. Haddad, A. Yacoubi, A. Nadiri, B. Elouadi, J. Am. Ceram. Soc. 2002 , 85 , 623.
+
+[21] F. Dury, M. A. Centeno, E. M. Gaigneaux, P. Ruiz, Appl. Catal., A 2003 , 247 , 231.
+
+[22] J. Y. Wang, J. H. Zhang, Y. J. Hu, H. Jiang, C. Z. Li, Sci. Bull. 2022 , 67 , 1890.
+
+[23] X. P. Li, Y. Wang, J. J. Wang, Y. M. Da, J. F. Zhang, L. L. Li, C. Zhong, Y. D. Deng, X. P. Han, W. B. Hu, Adv. Mater. 2020 , 32 , 2003414.
+
+[24] a) J. D. Chen, C. H. Chen, M. K. Qin, B. Li, B. B. Lin, Q. Mao, H. B. Yang,B.Liu,Y.Wang, Nat. Commun. 2022 , 13 , 5382; b) Q. Yang, H. Liu, P. Yuan, Y. Jia, L. Zhuang, H. Zhang, X. Yan, G. Liu, Y. Zhao, J. Liu, S. Wei, L. Song, Q. Wu, B. Ge, L. Zhang, K. Wang, X. Wang, C. R. Chang, X. Yao, J. Am. Chem. Soc. 2022 , 144 , 2171.
+
+[25] C.Chen,H.Tian,Z.Q.Fu,X.Z.Cui,F.T.Kong,G.Meng,Y.F.Chen, F. G. Qi, Z. W. Chang, L. B. Zhu, H. T. Huang, J. L. Shi, B. Y. Xia, Appl. Catal. B 2022 , 304 , 121008.
+
+[26] S. J. Shen, Z. P. Wang, Z. P. Lin, K. Song, Q. H. Zhang, F. Q. Meng, L. Gu, W. W. Zhong, Adv. Mater. 2022 , 34 , 2110631.
+
+[27] a) G. Meng, Y. F. Chen, R. Y. Wang, L. B. Zhu, H. L. Yao, C. Chen, Z. W. Chang, H. Tian, F. T. Kong, X. Z. Cui, J. L. Shi, Small 2022 , 18 , 2204443. b) Y. P. Zhu, K. Fan, C. S. Hsu, G. Chen, C. S. Chen, T. C. Liu, Z. Z. Lin, S. X. She, L. Q. Li, H. M. Zhou, Y. Zhu, H. M. Chen, H. T. Huang, Adv. Mater. 2023 , 35 , 2301133.

@@ -1,0 +1,146 @@
+## 1. Introduction
+
+Solid oxide fuel cells (SOFCs) are the cleanest and most efficient systems for converting various fuels into electricity [1 -4]. However, the limited lifetime and high cost hinder the commercialization of SOFC technology [5 -7]. Many factors affect the operational stability of SOFC, such as the composition of the material, the microstructure of the component, the conditions of operation. Among them, cathodic degradation is still the main factor for performance and efficiency loss of SOFCs [8]. The cathodes at high temperature are usually sensitive to gaseous pollutants (such as CrO$_{3 }$ and SO$_{2}$), leading to irreversible poisoning of the cathodes and thereby damaging the electrode performance [9 -11]. Therefore, it is necessary to develop cathodes with high performance and robust stability [12,13].
+
+Double perovskites with A-site ordering such as LnBaCo$_{2}$O$_{5}$ + δ (Ln = La, Pr, Nd, Sm, Y, and Gd) are excellent potential cathodes, due to their higher oxygen ion diffusion and rapid oxygen exchange kinetics at lower temperatures [14 -17]. Enhanced oxygen ion mobility is facilitated by the channels for oxygen vacancies in double perovskite due to cation
+
+E-mail addresses: liulimin_ly@126.com (L. Liu), xulingling_hit@163.com (L. Xu), bowei@hit.edu.cn (B. Wei).
+
+https://doi.org/10.1016/j.ceramint.2024.01.426
+
+Available online 1 February 2024
+
+Received 19 December 2023; Received in revised form 24 January 2024; Accepted 30 January 2024
+
+0272-8842/© 2024 Elsevier Ltd and Techna Group S.r.l. All rights reserved.
+
+Please cite this article as: Mengke Yuan et al., Ceramics International , https://doi.org/10.1016/j.ceramint.2024.01.426
+
+## ABSTRACT
+
+The stability of solid oxide fuel cells (SOFCs) cathodes is often severely damaged by impurity poisonings from Cr vapors. Here we report a medium entropy GdBa(Mn$_{0.2}$Fe$_{0.2}$Co$_{1.2}$Ni$_{0.2}$Cu$_{0.2}$)O$_{5}$ + δ (ME-GBCO) double perovskite cathode, which exhibits remarkably improved Cr-tolerant ability. The polarization resistance (R$_{p}$) of GBCO increases from ~0.44 to ~0.70 Ω cm$^{2 }$after 20 h exposure to Cr in air at 700 · C. In contrast, R$_{p }$value of ME-GBCO cathode increases from ~0.16 to ~0.24 Ω cm$^{2 }$under the same condition. The enhanced operational stability is attributed to the in situ formed BaCoO$_{3-}$ δ (BCO) nanoparticles on ME-GBCO surface, which is very inactive to Cr vapors. This work highlights that the configuration entropy modulation is an effective avenue for surface engineering and for the development of robust cathode materials for SOFCs.
+
+ordering [18,19]. However, metal alloys are widely used as interconnectors for intermediate temperature SOFC (IT-SOFC). Gaseous Cr-containing vapors such as CrO$_{3 }$ and CrO$_{2}$(OH)$_{2 }$ generated from in Fe -Cr alloys will react with surface cation segregations, leading to the Cr deposition and poisoning, which significantly reduce the catalytic activity of SOFC cathodes for oxygen reduction reactions (ORRs) [20 -23]. According to the nucleation theory, segregated cations, such as Mn, Sr and Ba species, can act as nucleating agents. Reactions between nucleating agents and gaseous Cr species lead to the Cr deposition and formation solid compounds such as (Cr, Mn)$_{3}$O$_{4}$, SrCrO$_{4}$, and BaCrO$_{4 }$[24, 25]. Wei et al. reported the chromium tolerance of double perovskite PrBaCo$_{2}$O$_{5-}$ δ (PBCO) and SmBaCo$_{2}$O$_{5-}$ δ (SBCO) cathodes. Obvious chromium deposition and poisoning occurred, gaseous Cr was preferentially deposited on isolated barium oxide instead of Co$_{3}$O$_{4}$, and the formation of BaCrO$_{4 }$ led to significant loss of electrochemical performance [26,27]. Gu et al. investigated the effect of chromium poisoning of NdBaCo$_{2}$O$_{5}$ + δ (NBCO) cathode, the ASRs increased at 500 -600 · C with the Cr poisoning, the ORR activity of NBCO decreased as a result of the deterioration in the charge transfer process caused by Cr poisoning
+
+Ceramics International xxx (xxxx) xxx Yuan et al.
+
+Fig. 1. (a) Schematic view of medium-entropy double perovskite structure, (b) XRD patterns of as-prepared GBCO and ME-GBCO powders, (c) Rietveld Refinement of ME-GBCO , (d) the SEM image and the EDS mapping of Gd, Ba Mn, Fe, Co, Ni, and Cu from the ME-GBCO powder. (e -g) TEM, HR-TEM images, the simulated plots of crystal lattice and the electron diffraction patterns. (h) SAED patterns.
+
+## [28].
+
+Inspired by the above mentioned development, we developed a medium entropy double perovskite GdBa(Mn$_{0.2}$Fe$_{0.2}$Co$_{1.2}$Ni$_{0.2}$Cu$_{0.2}$)
+
+Clearly, Cr deposition and poisoning can seriously affect the electrocatalytic activity and the operating stability of cathodes. Therefore, the development of Cr-resistant cathodes is particularly important for SOFC development [29,30]. By properly designing the cathode composition, it is possible to develop the cathodes with high resistance to Cr deposition. One method is surface modification by a rational designed material that functions as the protection coating [31 -33]. Pei et al. impregnated BaCoO$_{3-}$ δ (BCO) nanoparticles on the surface of the La$_{0.6}$Sr$_{0.4}$Co$_{0.2}$Fe$_{0.8}$O$_{3-x}$, its ORR activity and stability were significantly higher under Cr-containing condition [34]. Another effective approach is to increase the structural stability by reduce the surface segregation. Zhang et al. reduced the Sr content in Sr$_{0.9}$Ti$_{0.3}$Fe$_{0.7}$O$_{3-}$ δ cathode, which reduced the segregation concentration of Sr element, which providing the improved catalytic performance and long-term stability [35]. In recent years, medium/high entropy perovskites have been proposed as cathodes of SOFC [36 -38]. For example, the high-entropy cathode (La$_{0.2}$Sr$_{0.2}$Pr$_{0.2}$Y$_{0.2}$Ba$_{0.2}$)Co$_{0.2}$Fe$_{0.8}$O$_{3-}$ δ designed by Li et al. showed excellent Cr tolerance, and only showed 0.25 %/kh degradation in 41 days of operation in the presence of Cr [39]. Gao et al. synthesized and investigated the Cr tolerance of the SrCo$_{0.5}$Fe$_{0.2}$Ti$_{0.1}$Ta$_{0.1}$Nb$_{0.1}$O$_{3-}$ δ medium entropy cathode. Compared with the traditional perovskite electrode, the higher configuration entropy effectively improves the stability of structural and inhibits the segregation of Sr species significantly [40]. The above results show that increasing the configuration entropy can effectively improve the Cr tolerance of the cathode.
+
+O$_{5}$ + δ (ME-GBCO) cathode in this study, which exhibits significantly enhanced Cr-tolerance ability. Impressively, no BaCrO$_{4 }$is found on MEGBCO surface after Cr exposure. The increase of configuration entropy can tailor the cation segregations, leading to the formation of BaCoO$_{3-}$ δ (BCO) nanoparticles. The enhancing mechanism and the key role of BCO second phase are addressed.
+
+## 2. Experimental section
+
+## 2.1. Powder synthesis
+
+The medium-entropy GdBa(Mn$_{0.2}$Fe$_{0.2}$Co$_{1.2}$Ni$_{0.2}$Cu$_{0.2}$)O$_{5}$ + δ (MEGBCO) powder was synthesized by a sol-gel complexing method. Stoichiometric amount of Gd(NO$_{3}$)$_{3}$ · 6H$_{2}$O, Ba(NO$_{3}$)$_{2}$, Mn(NO$_{3}$)$_{2}$, Fe (NO$_{3}$)$_{3}$ · 9H$_{2}$O, Co(NO$_{3}$)$_{2}$ · 6H$_{2}$O, Ni(NO$_{3}$)$_{3}$ · 6H$_{2}$O and Cu(NO$_{3}$)$_{2}$ · 3H$_{2}$O were mixed with complexing agents of eathylenediaminetetraacetic acid (EDTA) and citric acid in deionized water. NH$_{3}$ · H$_{2}$O was then added to adjust the pH of the solution to 7. Sticky gel was formed with continuous stirring and heating at 80 · C. Subsequently, the obtained precursor was dried at 200 · C for 12 h followed by calcination at 1100 · C for 5 h to obtain ME-GBCO powders. GdBaCo$_{2}$O$_{5}$ + δ (GBCO) and Sm$_{0.2}$Ce$_{0.8}$O$_{1.9 }$ (SDC) electrolyte powders were prepared by the same method, which were calcined at 1000 · C for 5 h and 800 · C for 4 h, respectively.
+
+## 2.2. Basic characterizations
+
+The X-ray diffraction (XRD) patterns were conducted by a X ' Pert PRO (Netherlands PANalytical) instrument in a range of 10-90 · using a
+
+Ceramics International xxx (xxxx) xxx Yuan et al.
+
+Fig. 2. (a, b) Electrochemical impedance spectra of GBCO and ME-GBCO electrodes at 700 · C -500 · C with Cr in dry air and (c, d) Electrochemical impedance spectra of ME-GBCO and GBCO electrodes at 700 · C -500 · C with Cr in 3 % H$_{2}$O humidified air.
+
+Cu K α radiation ( λ = 0.15406 nm). The microstructure and morphology of samples were observed by scanning electron microscope (SEM, Hitachi SU8010, Japan) equipped with energy-dispersive spectrum analysis (EDS, Bruker, Germany) and a transmission electron microscope (TEM, JEM 2100F). Their surface products were also determined via Raman spectra that were performed by an XperRam Compact Raman spectrometer with 532 nm excitation.
+
+## 2.3. Half-cell fabrication and electrochemical characterization
+
+Cathode slurries consists of a mixture of cathode powder and an organic binder (94.5 %wt terpineol and 5.5 %wt ethyecellulose) with a mass ratio of 7:3. Then, the slurries were painted on the surface of SDC electrolyte pellets with an active area of 0.12 cm$^{2}$, followed by sintering at 1000 · C for 2 h in air. Half-cells were measured in a traditional three electrode configuration using the Ag paste as current collector. Electrochemcial performance was evaluated by using an electrochemical workstation (Admiral Squidstat Plus 1529). Impedance spectra were acquired with an AC amplitude of 10 mV in the frequency range of 200 kHz -0.1 Hz. Moreover, the polarization stability were tested with a cathodic current density of GLYPH<0> 200 mA cm$^{-2 }$at 700 · C. The effect of Cr vapors on electrode stability was investigated on GBCO and ME-GBCO cathodes in a flowing air with or without ~3 % water vapor. Cr$_{2}$O$_{3 }$ powder was loacated near cathodes to generate Cr vapors.
+
+## 3. Results and discussion
+
+Fig. 1a presents a schematic view of the medium entropy perovskite with disordered distribution of transition metal elements at B-site. Fig. 1b shows the XRD patterns of the pristine GBCO and ME-GBCO
+
+powders. The XRD patterns of both oxides exhibit phase pure double perovskite structure with no impurities detected. ME-GBCO is tetragonal symmetry, while GBCO is orthogonal structure (space group: Pmmm). XRD Rietveld refinement results are exhibited in Fig. 1c. The ME-GBCO sample shows a structure with P4/mmm space group, which is further confirmed by Rietveld refinement with low convergence reliability factors (R$_{wp}$ = 8.48 %, R$_{p}$ = 6.52 %, $^{$_{χ}$2$_{=}$}$1.47). The unit cell parameters for ME-GBCO are a = b = 3.896 Å and c = 7.608 Å with a cell volume of 115.480 Å$^{3}$. The XRD pattern of GBCO was refined according to the Pmmm space group, and the unit cell parameters are a = 3.917 Å, b = 3.880 Å and c = 7.540 Å with a cell volume of 114.593 Å$^{3 }$(Fig. S1).
+
+The electrochemical performances of ME-GBCO and parent GBCO cathodes are evaluated in the presence of Cr vapors at 700-500 · C. Typical electrochemical impedance spectra (EIS) of two electrodes collected with Cr in dry and wet air conditions are shown in Fig. 2a -b and Fig. 2c -d, respectively. These impedance spectra are fitted using a Zview software, and the equivalent circuit is shown in Fig. S2. In both cases, it is clear that the polarization resistances (R$_{p}$) of medium-entropy
+
+The SEM image-EDS mappings of ME-GBCO powder in Fig. 1d confirm the Mn, Fe, Co, Ni, and Cu elements are uniformly distributed in the medium-entropy powder. Fig. 1e -f give typical TEM and highresolution TEM (HR-TEM) images of ME-GBCO sample. A lattice fringe spacing is determined as 0.227 nm, which can be assigned to the (112) plane of ME-GBCO, as can be seen in the periodically alternate intensity distribution patterns (Fig. 1g). The corresponding selected area electron diffraction (SAED) result in Fig. 1h reveals the spot patterns corresponding to tetragonal structure of ME-GBCO phase. The above analyses strongly indicate that Mn, Fe, Co, Ni, Cu elements are introduced to the lattice and B-site medium-entropy electrode has been successfully synthesized.
+
+Ceramics International xxx (xxxx) xxx Yuan et al.
+
+Fig. 3. The time dependence of impedance spectra for ME-GBCO and GBCO electrodes with Cr in air (a -c). The time dependence of impedance spectra for ME-GBCO and GBCO electrodes with Cr 3 % H$_{2}$O humidified air (d -f) . (g -h) The DRT profiles of ME-GBCO with Cr in dry and wet air conditions. (i) The time dependence of the cathodic potentials under different conditions.
+
+electrode are smaller in the measured temperature range, indicating a more active ORR kinetics. For example, as given in Fig. S3a, the R$_{p }$ values of ME-GBCO with Cr in dry/wet air at 700 · C are ~0.135 and 0.258 Ω cm$^{2}$, respectively, much smaller than those of GBCO cathode (0.515, 0.612 Ω cm$^{2}$) under the same conditions. Moreover, the electrochemical activity of two electrodes in wet atmosphere is worse than
+
+that in dry condition, probably due to the increased concentration of Cr species in the presence of H$_{2}$O [41]. Similar behaviors have been observed in (La$_{0.8}$Sr$_{0.2}$)$_{0.9}$MnO$_{3}$ + δ (LSM) electrode [42]. The calculated activation energies are in the range of 103.6-113.7 kJ mol$^{-1 }$(Fig. S3b). The data obtained in wet air are slightly higher. The above results suggest that activity of ME-GBCO is less affected by Cr species in both
+
+Fig. 4. The SEM images of ( a-c ) GBCO and ( d-f ) ME-GBCO cathode at different time at 700 · C with Cr$_{2}$O$_{3 }$in ambient and wet air conditions.
+
+Ceramics International xxx (xxxx) xxx Yuan et al.
+
+Fig. 5. Typical SEM and EDS mapping of (a) GBCO cathode and (b) ME-GBCO cathode tested in the presence of Cr vapors in dry air. (c -e) EDS profiles from marked areas.
+
+## atmospheres.
+
+It is well-known that the ORR process consists of several sub-steps [43]. To distinguish the Cr deposition on different cathode reaction processes, the evolution of these impedance spectra are analyzed by using distribution relaxation times (DRT) method. The results are presented in Fig. 3g -h and Fig. S4, which exhibit three peaks located at high frequency (HF), medium-frequency (MF) and low-frequency (LF) regions. Generally, HF peak is associated with charge transfer process at cathode-electrolyte interface, MF peak is related to oxygen ions diffusion within the cathode and the LF one can be ascribed to gas diffusion and mass transfer processes in porous cathode (including oxygen adsorption, dissociation and diffusion) [44,45]. As for GBCO electrode, both the ME and LF peaks increased greatly in dry and wet air. On the other hand, the degradation of medium-entropy electrode mainly due to the increased LF peak. the increase of MF peak is not obvious, especially in ambient air. The DRT analysis indicates that the deposition of Cr vapors can seriously deteriorated surface reaction activity.
+
+The time dependence of impedance spectra of two electrodes are further tested in two conditions. With the prolonging of testing time, the polarization resistances increase in dry and wet air with gaseous Cr species (Fig. 3a -c, Fig. 3d -f). As shown in Fig. 3a, the smaller degradation rate of the ME-GBCO electrode (1.72 × 10$^{-2 $_{Ω }$}$cm$^{2 }$h$^{-1}$) after 20 h test with Cr in ambient air when compared with that of the GBCO electrode (2.17 × 10$^{-2 $_{Ω }$}$cm$^{2 }$h$^{-1}$) (Fig. 3b). The enhanced stability of the ME-GBCO cathode was also observed with Cr in humidified air. The degradation rate of ME-GBCO electrodes with the steam of Cr$_{2}$O$_{3 }$in 3 % H$_{2}$O (2.18 × 10$^{-2 $_{Ω }$}$cm$^{2 }$h$^{-1}$) is lower than that of the GBCO air electrodes (2.67 × 10$^{-2 $_{Ω }$}$cm$^{2 }$h$^{-1}$) (Fig. 3d -e). Compared with GBCO cathode, it is apparent that ME-GBCO cathode with higher configurational entropy exhibits effectively enhanced operational stability in both air and humidified air with Cr vapors.
+
+Fig. 3i shows polarization curves collected at cathodic current density of 200 mA cm$^{-2 }$for 20 h. The comparison clearly confirms that the ME-GBCO is more stable than GBCO electrode in both ambient air and humidified air, which further shows the better activity and enhanced stability of ME-GBCO electrode in Cr-containing atmospheres. These electrochemical results indicating that the higher entropy had effectively enhanced the contaminate tolerance.
+
+The microstructure of GBCO and ME-GBCO electrodes before and after test are revealed by SEM. The SEM images of two electrode powders are given in Fig. S5, which show smooth and clean surfaces. After sintering at 1000 · C for 2 h, the surfaces of two electrodes turns to be rough with the formation of many nano particles (Fig. 4a and d), which are probably due to Ba or Co containing segregations [46,47]. The size of segregations on freshly prepared GBCO electrode is in the range of 10-150 nm (Fig. S6a). While for ME-GBCO electrode, the nanoparticles are in the size range of 10-50 nm (Fig. S6b). Clearly, the size of segregation on GBCO is larger than that on ME-GBCO surface. The average values of particle size distribution of ME-GBCO cathode after test at different conditions shown in Figs. S6c -d. There are slight increases in the size of the particles on the electrode, which in combination with Raman analysis indicates that these nanoparticles are BCO (Fig. 6b).
+
+The excellent Cr tolerance of ME-GBCO can be further confirmed by a careful Raman spectroscopy study, which is very sensitive for surface analysis. Shown in Fig. 6a are the typical Raman spectra collected from the GBCO cathode before and after exposure to Cr$_{2}$O$_{3 }$at different time under cathodic conditions with Cr$_{2}$O$_{3 }$in ambient air. Before test, a peak at ~694 cm$^{-1 }$can be observed which can be assigned to Co$_{3}$O$_{4 }$[48]. At
+
+After test under cathodic polarization GLYPH<0> 200 mA cm$^{-2 }$at 700 · C in the presence of the Cr$_{2}$O$_{3}$, the morphology of GBCO electrode has changed significantly. Several large irregular particles can be found when tested in dry condition (Fig. 4b), which is more profound after evaluation in humidified atmosphere (Fig. 4c). The surface is almost covered by newly formed depositions. Typical SEM and EDS mappings in Fig. 5a reveal a substantial amount Cr deposition on GBCO surface. The formation of Cr containing deposits in marked area 1 is more serious than that in area 2 (Fig. 5c -d). As for tested ME-GBCO electrode, the morphology of MEGBCO is less changed. No large irregular particles are detected on dry and wet air treated conditions (Fig. 4e -f). For ME-GBCO electrode, more nanoparticles with the size in the range of 30-100 nm appear on the surface can be observed (Fig. S6cd ). The SEM-EDS results in Fig. 5b and e, indicate that no apparent Cr deposition can be detected. Although tested under Cr-containing atmosphere for a long time, no obvious chromium deposition occurs on the surface of the ME-GBCO electrode, which proves the superior stability of ME-GBCO material as a SOFC cathode with excellent chromium tolerance.
+
+Ceramics International xxx (xxxx) xxx Yuan et al.
+
+Fig. 6. Raman spectra of (a) GBCO and (b) ME-GBCO cathodes at different time under cathodic conditions with Cr$_{2}$O$_{3 }$in ambient air. Raman mapping of CrO$_{4}$ 2 GLYPH<0> (~864 cm$^{-1}$), BaCoO$_{2.9 }$(~610 cm$^{-1}$) and Co$_{3}$O$_{4 }$(~694 cm$^{-1}$) for (c) GBCO and (d) ME-GBCO samples after cathodic polarization under condition of 700 · C for 20 h with Cr$_{2}$O$_{3 }$in ambient air.
+
+1
+
+high temperature, Ba cations also easily diffuse to electrode surface and exists in the form of BaO$_{x }$precipitates, which are however not Raman active. Thus, the nano-particles on fresh GBCO surface are reasonably considered as BaO$_{x }$and Co$_{3}$O$_{4 }$segregations. After exposure to Cr vapors, a strong peak at ~864 cm$^{-1 }$and a weak one at ~901 cm$^{-1 }$appear, which can be assigned to BaCrO$_{4 }$[49]. It can be clearly seen that the intensity of CrO$_{4}$ 2 GLYPH<0> peak in GBCO increases with the increase of test time, suggesting the growth of BaCrO$_{4 }$phase is fast. This can be confirmed from the surface microstructure comparison in Fig. 4a -b. After 20 h of Cr deposition, the electrode is essentially completely covered with BaCrO$_{4 }$ and Co$_{3}$O$_{4 }$particles. The formation of a poorly conductive phases will seriously damage the activity and stability of the electrode by blocking the electrical conduction path and surface reactive sites.
+
+-
+
+Raman mappings are obtained by integrating Raman peak of 864 cm
+
+$^{1 }$for BaCrO$_{4}$, 694 cm$^{-1 }$for Co$_{3}$O$_{4 }$ and 610 cm$^{-1 }$for BaCoO$_{2.9}$, respectively. It can be vividly seen that large amount BaCrO$_{4 }$and Co$_{3}$O$_{4 }$phases have accumulated on GBCO cathode (Fig. 6c), confirming the GBCO surface is heavily polluted. At the same time, although being treated in a Cr-containing atmosphere, only BCO phase can be observed on MEGBCO surface (Fig. 6d). This demonstrates that the formation of BCO nanoparticles is beneficial for Cr tolerance of electrode [34].
+
+The enlarged SEM micrograph in Fig. 7a shows the generation of many nanoparticles (10 -50 nm) that are uniformly distributed on the surface of initial ME-GBCO electrode. Raman analysis indicates these nanoparticles exist as BCO phase, which is further supported by TEM technique. Fig. 7b gives a TEM image of ME-GBCO electrode after sintering at 1000 · C, which validates the appearance of nanophase. A highresolution TEM (HR-TEM) image in Fig. 7c shows two distinct diffraction planes with distances of 0.286 and 0.374 nm, which correspond to
+
+Therefore, the segregation of cations is also effectively inhibited, the resistance of the electrode to Cr deposition is greatly improved. And BCO nanoparticles generated in situ on the electrode surface can enhance the stability. These nanoparticles avoid the deposition of Cr species and reactions with segregated cations, thereby improving electrode stability.
+
+As for ME-GBCO electrode, the Raman profile of initial surface represents a peak at ~610 cm$^{-1}$, which can be assigned to BCO species (BaCoO$_{2.9}$). (Fig. 6b). The BCO phase is in situ formed during the preparation of half-cells. After testing in the presence of Cr vapors, it is interesting to find that, in addition to BCO signal, no typical bands from BaCrO$_{4 }$and Co$_{3}$O$_{4 }$can be determined.
+
+Ceramics International xxx (xxxx) xxx Yuan et al.
+
+Fig. 7. (a) The SEM image of ME-GBCO electrode after sintering at 1000 · C for 2 h. (b -c) TEM and HR-TEM images for as-prepared ME-GBCO electrode. (d -e) Typical XRD and Raman spectra from BCO powders before and after Cr poisoning. (f) Schematic of morphology evolution of ME-GBCO electrode with enhanced Cr tolerance.
+
+(310) plane of BCO and (002) plane of ME-GBCO host. This result clearly supports the formation of BCO nano-particles on the surface of MEGBCO electrode, which is consistent with the Raman profiles.
+
+The above study clear demonstrates that greatly enhanced robustness of ME-GBCO cathode towards Cr impurity in comparison to GBCO,
+
+In order to evaluate the effect of BCO nanoparticles on electrode in a Cr-containing atmosphere, the stability of BCO powder under Cr poisoning is investigated. Fig. 7d and e give XRD pattern and Raman spectra of as-prepared and heat-treated in Cr-containing atmosphere, respectively. As-prepared BCO powder is a mixture of BaCoO$_{2.7 }$ and BaCoO$_{2.9 }$phases [50]. After Cr exposure treatment at 700 · C for 20 h, the mixture transforms to a single phase of BaCoO$_{2.9 }$due to the change of oxygen content at high temperature. No signals from BaCrO$_{4 }$or Co$_{3}$O$_{4 }$ are observed. Moreover, a comparison of surface morphology of BCO powders is given in Fig. S7. It is shown that the surface is still smooth even after calcination with the Cr containing atmosphere, further confirming that Cr deposits are not formed. Therefore, the above results the excellent phase stability of BCO in Cr-containing atmosphere, indicating that the segregated BCO nanophase can effectively protect the ME-GBCO electrode when exposed to gaseous Cr species (Fig. 7f).
+
+which highlights the important role of surface chemistry. It is hypothesized that that the preferential generation of BCO on ME-GBCO is closely associated with its increased configurational entropy feature. Different cation sizes of multiple transition elements at B-site of double perovskite lattice can contribute to severe local lattice distortion, which thereby can mitigate the diffusion large Ba ions in the lattice [51]. The reduced Ba segregation can react with segregated Co species, leading to the formation of BCO nanophase. BCO is very stable and inert to gaseous Cr vapors at high temperature. Therefore, beneficial reconstruction induced many BCO nanoparticles on ME-GBCO surface, rather than BaO$_{x }$and Co$_{3}$O$_{4 }$species, significantly mitigates the reaction with chromium, enabling ME-GBCO cathode high chromium tolerance ability under Cr-containing atmosphere.
+
+## 4. Conclusion
+
+In summary, the ME-GBCO electrode is successfully synthesized and evaluated as a Cr-tolerant cathode for IT-SOFC. ME-GBCO cathode demonstrates much higher ORR activity and significantly enhanced durability against gaseous Cr contaminants in comparison to GBCO
+
+Ceramics International xxx (xxxx) xxx Yuan et al.
+
+cathode. After testing in the presence of Cr vapor, GBCO degrades significantly with obvious surface change, due to the formation of massive BaCrO$_{4 }$and Co$_{3}$O$_{4 }$phases. As for ME-GBCO cathode, only many BCO nanoparticles can be found, which is proved to be very inactive towards Cr vapors. Accordingly, segregated ME-GBCO cathode shows greatly improved stability. It is considered that the formation of robust BCO nanoparticles is most likely due to configurational entropy engineered cation diffusion and segregation behaviors in ME-GBCO. Overall, the significantly improved Cr tolerance makes ME-GBCO a promising cathode material for IT-SOFC. Our work confirms that configuration entropy engineering is an effective approach for rational design of Crtolerant cathodes for SOFC.
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Acknowledgments
+
+This work was supported by the National Natural Science Foundation of China (22279025,52302119, 21773048), Sichuan Science and Technology Program (2021YFSY0022), and the Fundamental Research Funds for the Central Universities (2023FRFK06005, HIT. NSRIF202204). The authors would like to thank Shiyanjia Lab (www. shiyanjia.com) for the support of XPS test.
+
+## Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.ceramint.2024.01.426.
+

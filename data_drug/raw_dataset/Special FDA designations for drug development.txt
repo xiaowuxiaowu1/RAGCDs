@@ -1,0 +1,485 @@
+ORIGINAL PAPER
+
+## Special FDA designations for drug development: orphan, fast track, accelerated approval, priority review, and breakthrough therapy
+
+Daniel Tobias Michaeli$^{1,2}$ Julia Caroline Michaeli$^{7}$
+
+· Thomas Michaeli$^{3,4,5}$
+
+· Sebastian Albers$^{6}$
+
+· Tobias Boch$^{3,4,5}$
+
+·
+
+Received: 19 May 2023 / Accepted: 2 October 2023 / Published online: 14 November 2023 © The Author(s) 2023
+
+## Abstract
+
+Background Over the past decades, US Congress enabled the US Food and Drug Administration (FDA) to facilitate and expedite drug development for serious conditions filling unmet medical needs with five special designations and review pathways: orphan, fast track, accelerated approval, priority review, and breakthrough therapy.
+
+Methods We conducted a keyword search to identify studies analyzing the impact of the FDA's special designations (orphan, fast track, accelerated approval, priority review, and breakthrough therapy) on the safety, efficacy/clinical benefit, trials, innovativeness, economic incentives, development times, and pricing of new drugs. Results were summarized in a narrative overview.
+
+Objectives This study reviews the FDA's five special designations for drug development regarding their safety, efficacy/ clinical benefit, clinical trials, innovation, economic incentives, development timelines, and price.
+
+Results Expedited approval reduces new drugs' time to market. However, faster drug development and regulatory review are associated with more unrecognized adverse events and post-marketing safety revisions. Clinical trials supporting special FDA approvals frequently use small, non-randomized, open-label designs. Required post-approval trials to monitor unknown adverse events are often delayed or not even initiated. Evidence suggests that drugs approved under special review pathways, marketed as " breakthroughs ", are more innovative and deliver a higher clinical benefit than those receiving standard FDA approval. Special designations are an economically viable strategy for investors and pharmaceutical companies to develop drugs for rare diseases with unmet medical needs, due to financial incentives, expedited development timelines, higher clinical trial success rates, alongside greater prices. Nonetheless, patients, physicians, and insurers are concerned about spending money on drugs without a proven benefit or even on drugs that turn out to be ineffective. While European countries established performance- and financial-based managed entry agreements to account for this uncertainty in clinical trial evidence and cost-effectiveness, the pricing and reimbursement of these drugs remain largely unregulated in the US.
+
+Conclusion Special FDA designations shorten clinical development and FDA approval times for new drugs treating rare and severe diseases with unmet medical needs. Special-designated drugs offer a greater clinical benefit to patients. However, physicians, patients, and insurers must be aware that special-designated drugs are often approved based on non-robust trials, associated with more unrecognized side effects, and sold for higher prices.
+
+Keywords Orphan designation · Fast track · Accelerated approval · Priority review · Breakthrough therapy · Clinical trial · Innovation · US food and drug administration · European medicines agency · Drug development · Special designation · Safety · Efficacy · Healthcare policy · Pharmaceutical policy · Drug price
+
+JEL Classification I00 · I1 · I18 · I13
+
+<!-- image -->
+
+## Introduction
+
+In the US, drug development is regulated by the US Food and Drug Administration (FDA). The FDA grants special designations$^{1}$ to expedite drug development and regulatory review for promising drugs treating diseases with unmet medical needs$^{2}$ [2, 3]. To date, five special FDA review programs exist for cancer drugs$^{3}$: orphan, fast track, accelerated approval, priority review, and breakthrough therapy designation (Fig. 1) [2, 3]. Even though the standards of the drug approval process-"safety and efficacy"-remained untouched since its inception in 1962, these special procedures offer more flexibility for companies to investigate drugs in disease-and therapy-tailored clinical trials and for the FDA to approve drugs based on a wider variety of efficacy measures [9].
+
+The use and potential misuse of special FDA programs are widely debated in science, healthcare policy, and the general public [8-11]. While most scholars agree with the concept of directing research and development (R&D) efforts toward diseases with few treatment options and granting early access to innovative drugs (Box 1), there is an ongoing discourse about thereby created economic incentives and potentially adverse implications for patients [9, 10]. Expediting drug development naturally reduced the time to market; yet, faster drug development and regulatory review were identified to be associated with unrecognized adverse events and post-marketing safety revisions, e.g., withdrawals or warnings [12-15]. Consequently, the FDA often requires companies to monitor a drug's adverse events after approval in post-marketing trials (phase 4) if its safety is uncertain [16, 17]; yet post-approval trials are frequently delayed or not even initiated [18, 19]. Meanwhile, no conclusive evidence exists that drugs approved under special review pathways are more effective than those approved under the standard FDA process [20-23]. All this may suggest that special review programs do not "coincide with patients' interests"-scholars even accuse the pharmaceutical industry and US Congress of driving reforms in their interest under the preamble to benefit patients [24]. In addition, drugs approved under
+
+1
+
+expedited review are quickly adapted to clinical routine [25], priced for a premium [20], and thereby consume significant financial resources which induces a great burden on the healthcare system [26, 27].
+
+Figure 2 illustrates the share of FDA-approved drugs receiving each of the five special designations and review programs over the past 20 years. Two-thirds of new drugs received at least one special designation. Out of 666 new drug approvals, 367 (55%) received priority review, 279 (42%) orphan designation, 215 (32%) fast track, 124 (29%$^{4}$) breakthrough therapy, and 103 (15%) accelerated approval. The share of drugs receiving the orphan designation increased from 20% in 2003 to 54% in 2022. Similarly, the breakthrough therapy designation gained in popularity after its introduction in 2012, with 12% of drugs receiving the designation in 2013 and 35% in 2022.
+
+The purpose of this article is to review the FDA's special approval pathways and designations regarding their safety, efficacy/clinical benefit, clinical trials, innovation, economic incentives, development timelines, and price. To identify relevant scientific literature on the FDA's special designations and programs, we conducted a keyword search of the respective program names and "FDA" in PubMed. Results were summarized in a narrative overview. A brief summary of the FDA review and approval process can be found in Box 2.
+
+## Box 1. Push and pull policies to incentivize research and development of new drugs
+
+The recent coronavirus pandemic demonstrated that governments can incentivize drug development in areas of high unmet medical needs [133, 134]. R&D of new drugs can be stimulated through push and pull incentives [135-138].
+
+Push incentives Push policies provide companies with a favorable environment to conduct research in basic technologies. These incentives may include public research funding through universities or governmental institutes, tax credits, research grants, and government-sponsored venture incubators and accelerators. For example, the bipartisan 21st Century Cures Act (2016) not only laid the foundation to facilitate data sharing with less bureaucracy in biomedical research [139], but also provided funding for specific therapeutic areas with unmet needs and for promising new technologies [140]. Oncology received $1.8 billion in funding with the Cancer Moonshot Initiative, neurology $1.5 billion with the Brain
+
+Fig. 1 An overview of the FDA's special review pathways and designations. FDA US food and drug administration, R&D research and development. Own illustration
+
+<!-- image -->
+
+Research through Advancing Innovative Neurotechnologies Initiative, $1.5 billion with the Precision Medicine Initiative, and regenerative medicine $30 million [140].
+
+Pull incentives On the other hand, policymakers can introduce legislature to pull companies' R&D projects into a certain market [135-138]. These comprise awards, prolonged exclusivity periods, advanced purchasing agreements, higher drug prices, and expedited regulatory approval. Expedited regulatory approval takes a special role in these programs. Not only does it aim to incentivize the development of drugs for life-threatening diseases, but also hopes to bridge the "valley of death" between pre-clinical drug discovery and regulatory approval by increasing clinical trials' probability of success through closer collaboration between pharmaceutical companies and regulators [2, 3].
+
+## Box 2. The FDA review and approval process
+
+The FDA evaluates a drug's safety and efficacy based on the submitted New Drug Application (NDA) or Biologic
+
+License Application (BLA).$^{5,6}$ The review process is structured into three broad steps, starting with an analysis of the underlying disease and currently available therapeutic options, a benefit and risk assessment based on the clinical evidence, and finally risk management considerations [141]. It is first necessary to review a disease's incidence, prevalence, burden for society, mortality rates, pathology, and therapeutic options to provide a context for the benefits and risk assessment. This assessment considers the quality and quantity of all evidence in its totality. As such, the study design, outcome, side effects, inclusion and exclusion criteria, alongside its pharmacological properties are reviewed. Overall, the benefits of approving a drug should outweigh its risks and uncertainties arising from inconclusive evidence, missing data,
+
+Fig. 2 Drugs with special FDA approval from 2003 and 2022. FDA US food and drug administration. Own illustration
+
+<!-- image -->
+
+adverse events, and not studied patient populations. In case of uncertain patient safety, the FDA may institute a risk evaluation and mitigation strategy (REMS) to monitor a drug's side effects. Moreover, an expert advisory committee, which reviews the evidence on the considered drug and then provides a supportive recommendation to the FDA to guide decision-making, can be assembled. However, the recent approval of aducanumab in 2021, which was not recommended by the committee, shows that the FDA is not bound by its judgment [142]. The FDA currently has a 10-month time period to conduct this review and make a final approval decision. US Congress innovated the FDA's review methods since its inception in 1962 to account for advances in medicine, biotechnological discovery, and drug development.
+
+## Orphan designation
+
+US Congress recognized that there is little economic incentive for companies to develop drugs for rare diseases.$^{7}$ The patient population of diseases with a low incidence rate is too small for companies to offset the high R&D costs associated with bringing a new drug to market. An unaffordable price premium would otherwise be required for orphan drugs to be financially viable to develop. Moreover, pharmaceutical companies struggled to recruit skilled investigators, enroll the right patients, and fund large-scale phase 2 and 3 trials [28]. As a consequence, companies neglected rare diseases in their R&D efforts, resulting in large unmet medical needs-20-25 million citizens suffered from 5,000 rare
+
+<!-- image -->
+
+diseases in the US by the 1980s [29]. US Congress sought to address these unmet medical needs by introducing the Orphan Drug Act (ODA) in 1983. 8
+
+The success of the ODA was observed in the following decades (Fig. 3). From 1983 until the end of 2021, the FDA granted the orphan designation to 6,143 drugs. Of these, 1,033 received FDA approval. Until 2002, these new drugs collectively provided new treatments for around 11 million patients [29]. Nonetheless, orphan drugs were only developed for 15% of rare diseases and only 5% have an FDAapproved treatment [34]. The new approval route for orphan drugs comes with its challenges. A longitudinal study from 1999 to 2008 identified that out of 214 orphan drugs, 69% had changes in the FDA label's safety section after approval,
+
+The ODA comprised a bundle of push and pull policies to increase the number of drugs developed for rare diseases. Push policies offer tax credit (25% of clinical R&D costs),$^{9}$ research grants for orphan R&D projects, and no NDA/BLA submission fee (which may amount to over $3 million), while a prolonged market exclusivity of 7 years pulls drug developments toward indications with a low prevalence. The ODA also bridges the period between IND and NDA approval by instituting that orphan drugs are eligible for closer collaboration with the FDA and permitting diseasetailored clinical trial designs. The FDA even encourages the use of "innovative clinical trial methods such as adaptive and seamless trial designs, modeling and simulations, and basket and umbrella trials" [33].
+
+Fig. 3 Orphan FDA designations and approvals from 1983 until 2021. FDA US food and drug administration. Own illustration
+
+<!-- image -->
+
+15% being severe safety events, e.g., withdrawals, warnings, or suspensions [35]. Another study even observed that 87% of orphan drugs had serious safety events following approval by the European Medicines Agency (EMA) [31]. Part of the safety concerns surrounding orphan-designated drugs can be attributed to trial design. Orphan drug approvals were found to more frequently rely on non-randomized open-label single-arm trials, studying only half of the patient population enrolled in non-orphan trials [31, 36-38]. This is particularly concerning given that small, non-robust trials have a higher risk of bias and could thereby overstate treatment outcomes [39-41].
+
+cost-effectiveness ratios (ICER)$^{10}$ for orphan drugs (276,288 vs. 100,360 $/QALY, p = 0.007) [42]. Similar to Chambers et al., higher mean monthly prices were reported for orphan than non-orphan cancer drugs in the US ($33,070 vs. $14,508, p = 0.020) [38]. Consequently, the availability of and access to orphan drugs is challenged by high prices [31, 32, 44]. Although there is heterogeneity in orphan drug pricing policies around the globe [32], prices are generally inversely correlated to disease prevalence [31, 45-48].
+
+Several scholars estimated higher clinical trial success rates for orphan drugs. Based on a sample of 5820 indications under development from 2003 to 2011, Hay et al. estimated orphan indications have a higher than average chance to proceed from phase 1 to FDA approval (32.9% vs. 10.4%) [49]. Accordingly, Thomas et al., who assessed 7455 development programs between 2006 and 2015, observed an overall success rate of 25.3% for rare diseases compared to an average success rate of 9.6% for all development projects [50].$^{11}$ In contrast, a more recent study of 21,143 development projects across 406,038 clinical trials from 2000 to 2015 found a lower probability of success for all orphan indications (6.2% vs. 13.8%), yet after excluding oncologic
+
+The efficacy and costs of orphan drugs are widely discussed. A review conducted by Onakpoya et al. suggests that orphan drugs provide significant treatment benefits to patients, especially considering that few other therapeutic options are available [31]. Building on Onakpoya et al., Chambers et al. reported a higher health gain, as measured by median incremental quality-adjusted life years (QALYs) gained, for orphan relative to non-orphan drugs (0.25 vs. 0.05 QALYs, p = 0.009) [42]. Accordingly, in a sample of 455 FDA-approved cancer indications, orphan relative to non-orphan indications extend progression-free survival (PFS) by 3.3 months and 2.8 months ( p = 0.011), respectively [38]. Orphan indications were associated with greater improvements in PFS hazard ratios (0.51 vs. 0.64, p < 0.001) and tumor response rates in single-arm trials (51% vs. 33%, p < 0.001) [38]. Hwang et al. showed that orphan relative to non-orphan drugs have a 2.3 times higher likelihood to have a high therapeutic value for EMA, yet not FDA, approvals [43]. Nevertheless, Chambers et al.'s study of 218 indications also revealed greater costs ($47,652 vs. 2870, p < 0.001) which resulted in higher incremental
+
+indications, the probability rises to 13.6% [51]. In a sample of 640 novel drugs that were developed between 1998 and 2008, Hwang et al. found a significantly higher probability for orphan than non-orphan drugs to be successful in clinical trials and receive FDA approval (adjusted odds ratio [AOR]: 2.26, 95% CI: 1.37 to 3.71) [52]. As a result of these higher success rates and fewer enrolled patients, Jayasundara et al. reported that the clinical development cost to bring a new drug to market is 29% lower for orphan relative to non-orphan drugs [53]. However, as a result of difficult and slow patient accrual in rare disease trials [54, 55], there is no significant difference in the clinical development time of orphan and non-orphan drugs [38].
+
+Previous studies highlighted that there are three distinct orphan subgroups of indications receiving the orphan designation [38, 62-65]. The orphan designation is granted to common diseases with orphan subgroups, e.g., "common orphans", (prevalence > 200,000 US inhabitants), rare diseases (prevalence 6600-200,000 US inhabitants), and ultrarare diseases (prevalence < 6,600 US inhabitants). Conducting clinical trials for ultra-rare is substantially more complex than conducting trials for rare or common diseases [38, 55]. Ultra-orphan drug development remains challenging as sponsors have trouble finding a sufficient number of patients, competent investigators, and specialized medical centers with adequate biotechnological infrastructure to administer their treatment. Guided by examples from the UK [66, 67], recent articles have, henceforth, proposed to introduce a distinct ultra-orphan designation [38, 68]. This ultra-orphan designation could entail greater tax credits (50%), a longer period of market exclusivity (10 years), more R&D grants, and greater collaboration between government institutes
+
+The favorable economic incentives of orphan drugs are also recognized by pharmaceutical companies and investors [56]. Although Rooswinkel et al. found no significant difference between the valuation of 98 orphan and non-orphan mergers and acquisitions (M&As) between 2008 and 2012 [57], Michaeli et al. reported significantly higher late-stage company valuations based on a sample of 311 M&As between 2005 and 2020 [58, 59]. Combined with higher clinical trial success rates for orphan drugs, they calculated excess annual returns for investments in companies developing orphan drugs (46% vs. 12%, p < 0.001) [59]. Accordingly, an event study reported a 3.36% stock price increase following the announcement of the orphan designation [60]. A retrospective study of 86 orphan drug companies propensity matched to 258 controls, reported a significantly higher Tobin's Q and market-to-book value [61]. This might be explained by the fact that orphan drug companies are simply more profitable than their peers, as measured by a 9.6% (95% CI: 0.6 to 18.7) higher return on assets and a 516% (95% CI: 19.8 to 1011) higher operating profit [61].
+
+1
+
+and industry to encourage drug development for ultra-rare diseases.
+
+Moreover, scholars raised concerns about orphan drugs that are used to treat rare and common diseases-"partial orphans" [69]. These partial orphan drugs were found to be more frequently commercialized for the non-orphan than the orphan indication [69-71]. Partial orphans, thereby, frequently turn into top-selling blockbusters. In 2019, seven of the top ten grossing drugs were commercialized for an orphan and a non-orphan indication. Particularly drugs that are first approved for their orphan indications and then extend their marketing authorization to non-orphan indications ("orphan-first strategy") are criticized for benefiting from high orphan price premiums [72-74]. Scholars proposed patient (e.g., < 200,000 US inhabitants) or revenue thresholds (e.g., < $200 million), indication-specific pricing, and indication-specific formularies to control the usage and expenditure on partial orphan drugs [68-71].
+
+## Fast track
+
+In the 1980s, the acquired immunodeficiency syndrome (AIDS) was recognized as a pandemic around the globe [75]. New antiretroviral treatments were needed to quickly combat the emerging virus. In light of this emerging threat, the US, therefore, introduced the fast track program in 1988 to "facilitate the development, and expedite the review of drugs to treat serious conditions and fill an unmet medical need" [2, 10]. While the FDA recognizes that the classification of a condition as serious is a question of subjective judgment, it defines serious conditions by their survival, quality-of-life, or disease progression characteristics [2]. Under this definition, serious conditions include AIDS, dementia, cancer, heart failure, but also epilepsy, depression, and diabetes. In this context, the FDA interprets drugs treating a disease without other alternative treatments to fill an unmet medical need. In the case of available treatment alternatives, the unmet medical need could be filled with a new drug that is better than the existing therapy. This advantage can be demonstrated by superior efficacy, fewer side effects, earlier diagnosis resulting in better clinical outcomes, better and longer treatment adherence, or addressing future public health needs [2]. Under the new fast track process, the pharmaceutical company meets and closely collaborates with the FDA after a successful phase 1 trial to design a phase 2 trial which can build the basis for approval [76]. If successful, this phase 2, instead of phase 3, trial would, therefore, be sufficient to prove a drug's safety and efficacy. It was argued that patients suffering from deliberating diseases require quicker access to promising drugs and are "willing to accept greater risks and uncertainty" [8]. Under this program, the FDA can continually review evidence generated from clinical trials (rolling review). However, the
+
+Fig. 4 Drugs with standard and fast track FDA approval from 2003 until 2022. FDA US food and drug administration. Own illustration
+
+<!-- image -->
+
+program also permits the FDA to demand a post-marketing trial in case of uncertain side effects, toxicity, or treatment outcomes. The clinical effects of the fast track program are more broadly discussed with the other special designations-here evidence on its economic implications is briefly reviewed. From 2003 until 2022, an average of 33% of new drugs were reviewed under the fast track program (Fig. 4).
+
+The fast track designation sends a positive signal not only to patients, physicians, and insurers but also to investors. Chambers et al. reported that across 135 indications approved between 1999 and 2012, those with the fast track designation offered a median benefit of 0.254 incremental QALYs compared to 0.014 QALYs for those without the designation ( p < 0.001) [77]. Coherently, Hwang et al. found fast track drugs have a threefold higher likelihood of being associated with a high therapeutic value [43]. As a result, drugs with a fast track designation may be able to demand higher prices before surpassing a country's WTP threshold. The expedited development timelines alongside higher health benefits are valued by investors, as several event studies find companies with fast track designated treatments yield excess returns [78-81]. Yet, these excess returns seem to have diminished over time [80].
+
+## Accelerated approval
+
+Four years after the fast track program's inception, in 1992, the US further expedited drug development by introducing the accelerated approval program.$^{12}$ Similar to the fast track program, accelerated approval can be obtained for drugs treating a serious condition and hence fill an unmet
+
+clinical need [86]. Accelerated approval enables the FDA to judge a drug's efficacy based on surrogate rather than clinical endpoints. Measuring a drug's effect on patient survival may require a long trial duration and follow-up with many enrolled patients, especially for cancer types with high 5and 10-year survival rates, e.g., prostate or breast cancer. In contrast, surrogate endpoints, such as tumor shrinkage or progression, can be more quickly observed and occur in most patients [87]. Therefore, the accelerated approval program expedited drug development by shortening clinical trial durations and enabling trial designs with fewer enrolled patients to measure surrogate endpoints. For example, Johnson et al. observed cancer drugs with accelerated approval reach the market 3.9 years faster than those with standard FDA approval [88]. Using data from 188 cancer indications with FDA approval, Chen et al. estimated that the use of the surrogate endpoints PFS and tumor response rate reduces clinical trial duration by 11 and 19 months, respectively [87].
+
+However, shorter and smaller trials pose a challenge to correctly evaluate a drug's risks and benefits. Drugs with fast track or accelerated approval are associated with more unrecognized adverse events and post-marketing safety revisions, e.g., withdrawals or warnings [12-15]. Large trials with a long follow-up are necessary to capture a drug's most common side effects and observe all risks associated with administering the drug to humans. Similar to drugs approved under the fast track program, the FDA may require post-marketing trials for drugs approved under the accelerated approval program. However, several studies find phase 4 trials to be delayed or not event initiated [18, 19, 89]. In some cases, phase 4 trials even found drugs to be ineffective or harmful, resulting in their market withdrawal [90]. Nevertheless, clinical guidelines are insufficiently updated after post-marketing trial result announcements [90]. The postmarketing trials themselves are subject to debate. Only a few phase 4 trials report clinical endpoint measures [91, 92] and their duration is no longer than those of the pivotal trial [93].
+
+Fig. 5 Drugs with standard and accelerated FDA approval from 2003 until 2022. FDA, US food and drug administration. Own illustration
+
+<!-- image -->
+
+Some authors, therefore, propose reforms to the accelerated approval pathway to strengthen the requirements for and clinical validity of post-marketing trials [94-97] and explore the feasibility of alternative ways to measure a drug's efficacy and safety post-approval, e.g., real-world evidence$^{13}$ (RWE) [98]. Nonetheless, Chambers et al. reported higher median incremental QALY gains for drugs with accelerated approval (0.370 vs. 0.031, p = 0.019) based on a study of 135 indications approved between 1999 and 2012 [77]. In contrast, Hwang et al. could not confirm that drugs with accelerated approval have a greater therapeutic value [43]. From 2003 until 2022, an average of 15% of drugs received accelerated approval (Fig. 5).
+
+Furthermore, the accelerated approval of drugs poses a challenge to insurers and payers [99, 100]. Although there is no difference in the magnitude of prices for drugs with accelerated relative to standard approval, their uncertain evidence bases pose a major challenge for insurers and payers [48]. Without clinical outcome data, insurers and payers cannot adequately measure a drug's incremental value compared to the treatment alternatives and thereby struggle to decide on the drug's price, reimbursement, and coverage [101, 102]. "For public insurers, accelerated approval thus becomes not only a pathway for a new product to enter the market but also a mandate to pay high prices for an unproven therapy" [100]. Consequently, European countries established a variety of tools, e.g., performance- and financial-based managed entry agreements (MEAs) with clinical and economic restrictions, to account for this uncertainty in clinical benefits and costeffectiveness [103-106]. In contrast, the pricing and reimbursement of drugs with an uncertain safety and efficacy profile remain largely unregulated in the US. The free US
+
+<!-- image -->
+
+market seems to only account for the withdrawal of indications with accelerated approval with a price discount of -24% [48]. Although accelerated approval drugs only consume a fraction of Medicare resources, expenditure on them continues to grow [26, 107]. Scholars are especially concerned about spending money on drugs without a proven benefit or on drugs that turn out to be ineffective [27, 108]. Consequently, authors proposed to raise Medicare rebates for drugs with accelerated approval to contain pharmaceutical spending in the US [99, 100].
+
+## Priority review
+
+In the same year as the accelerated approval pathway was passed, in 1992, the US also introduced priority review.$^{14}$ Priority review substituted a more complex system under which the FDA prioritized and allocated more resources to NDA according to their therapeutic gain-classified into three groups (A, B, or C) [8]. Under the new Prescription Drug User Fee Act (PDUFA), these three categories were simplified into two categories: priority or standard review. Thereby, the FDA intended to expedite the regulatory review period, not the drug development process, of drugs that offer a significant therapeutic improvement [2]. The FDA states that a significant therapeutic improvement constitutes "evidence of increased effectiveness", "elimination or substantial reduction of a treatment-limiting drug reaction", improved patient compliance leading to better outcomes, or "evidence of safety and effectiveness in a new subpopulation" [2]. Standard NDAs are reviewed in 10 months (reduced from 12 months in 2002), while priority NDAs ought to be reviewed in 6 months by the FDA. Unlike all other special
+
+designations, the FDA decides on the review pathway for every NDA and supplementary indication it receives. For all other designations, the pharmaceutical company must submit an additional application for each special designation (Table 1).
+
+Priority review is the most common special designation, with 34 out of 50 (68%) new drugs benefitting from it in 2021[109]. On average, 55% of new drugs benefit from priority review (Fig. 6). As expected, several studies consequently found a significant reduction in FDA review times over the past decades [3, 110]. However, as previously mentioned, shorter review times were found to be associated with more post-approval safety revisions. Berlin found that drugs approved under the priority review were twice as likely to have labeling revisions after FDA approval than those approved under standard review [111]. Indications with priority review were shown to offer a greater median health gain to patients than those approved under standard review (0.175 QALYs vs. 0.007, p < 0.001), referring to the aforementioned study from Chambers et al. [77]. Accordingly, the aforementioned study by Hwang et al. reported a fourfold greater likelihood for drugs with priority review to have a high therapeutic value [43].
+
+## Breakthrough therapy designation
+
+In 2012, the US Congress introduced a new FDA review pathway as part of the Food and Drug Administration Safety and Innovation Act: The Breakthrough Therapy program.$^{15}$ This program was signed into law to expedite the development and regulatory approval of drugs with a preliminary large benefit in treating a serious or life-threatening disease [2]. Although previous special review pathways have a similar aim, the intentions, benefits, and conditions for the breakthrough designation differ. Congress argued that recent biotechnological discoveries, e.g., next-generation sequencing, gene therapies, or cellular therapies, and advancements in the way drugs are developed, e.g., leveraging precision medicine or RWE, need to be reflected in the regulatory approval process. According to this argument, precisely the efficacy of innovative drugs, such as targeted or gene therapies, can already be observed in phase 2 trials, and therefore large-scale Randomized controlled trials (RCTs) are unethical and unnecessary for regulatory approval [11]. In this context, the 21$^{st}$ Century Cure Act (2016) even encouraged the FDA to use nontraditional clinical trials, new data analysis methods, RWE, observational studies, biomarkers, and surrogate endpoints for the basis of drug approval, sparking further controversy about the evidence supporting new
+
+drugs' safety and efficacy [114, 115]. The program offers earlier (already during phase 1) and more frequent meetings with senior FDA personnel to guide an efficient drug development and regulatory review process. In addition, drugs designated under the breakthrough program receive all of the fast track program's benefits [2]. As previously stated, the condition for receiving the designation is a large preliminary benefit. In contrast to other programs, this benefit may be observed based on an established surrogate endpoint, a surrogated endpoint that is likely to predict the clinical outcome, reasonable biomarkers, or an improved safety profile with efficacy similar to the standard of care [2]. Therefore, the breakthrough process offers more flexibility to pharmaceutical companies and the FDA in designing clinical trials and measuring clinical benefits. Following its introduction in 2012, the program quickly gained in popularity. Until the end of 2022, the FDA received a total of 1,289 breakthrough therapy requests of which 506 (39%) were granted (Fig. 7a). This led to the approval of 125 new breakthrough-designated drugs (Fig. 7b).
+
+Consequently, the clinical development time, defined as the period between IND and FDA approval, was observed to be 2-3 years faster for breakthrough compared to non-breakthrough cancer drugs [21, 117, 120]. Breakthrough drugs and indications were more likely to be first-in-class agents, treat novel diseases, act via an innovative mechanism of action, and displayed a tendency to be of novel drug types, e.g., antibody-drug conjugates, gene therapies, cell therapies, and radionuclides [117]. No difference in the number of adverse events or deaths could be observed between breakthrough- and nonbreakthrough-designated cancer drugs [21, 120].
+
+A variety of studies compared the clinical trial characteristics, endpoints, timelines, efficacy, and safety of breakthrough and non-breakthrough therapy-designated drugs. Most studies observed that breakthrough drugs are more frequently approved based on non-randomized single-arm studies of open-label blinding [20, 21, 110, 116, 117]. This is especially concerning given that non-RCTs are associated with a higher frequency of unrecognized serious adverse events, and therefore these drugs' label often needs to be revised after FDA approval [118] However, Pregelj et al. doubt that this difference in clinical trial characteristics is attributable to the breakthrough designation [119]. They found no significant difference between trials that were already started before the introduction and receipt of the breakthrough status compared to those that commenced after the new legislature. Nonetheless, they observed that the study duration was reduced by 8 months for trials conducted after the new designation. This result indicates that "designations granted early in clinical development may reduce trial time by influencing aspects of clinical programs other than design characteristics, such as timelines for FDA responses"[119].
+
+There remains an ongoing debate surrounding breakthrough drugs' efficacy. In a sample of nine cancer drugs, Kern found a high clinical benefit, in terms of PFS and
+
+Table1 An overview of the FDA's special review pathways and designations
+
+1
+
+3
+
+Adapted from [3, 8, 143]$\_{FDA}$ US food and drug administration, NDA new drug application, R&D research and development a The tax credit was reduced from 50 to 25% in 2017$\_{b}$ Extended from a market exclusivity period of 5 years c In 2012, congress amended that the FDA may also use the accelerated approval pathway for drugs with an intermediate clinical endpoint$\_{d}$ The standard review timelines were reduced from 12 to 10 months in 2002
+
+Breakthrough therapy
+
+Priority review
+
+Accelerated approval
+
+Fast track
+
+Orphan
+
+2012 Designation Section 506(a) of the FD&C Act, as added by Section 902 of FDASIA
+
+1992 Designation Prescription drug user f ee act of 1992
+
+1992 Approval pathway 21 CFR part 314, subpart H 21 CFR part 601, subpart E Section 506(c) of the FD&C act, as amended by Section 901 of FDASIA
+
+A drug that is intended to treat a serious condition AND preliminary clinical evidence indicates that the drug may demonstrate substantial improvement on a clinically significant endpoint(s) over available therapies
+
+An application (or iginal or efficacy supplement) for a drug that treats a ser ious condition AND, if approved, would pro vide a significant improv ement in saf ety or effectiveness OR Any supplement that pr oposes a labeling change pursuant t o a report on a pediatric s tudy under 505A OR An application for a drug t hat has been designated as a q ualified infectious disease pr oduct OR An y application or supplement f or a drug submitted with a pr ior ity review voucher
+
+A drug that treats a serious condition AND generally provides a meaningful advantage over available therapies AND demonstrates an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality (IMM) that is reasonably likely to predict an effect on IMM or other clinical benefit (i.e., an intermediate clinical endpoint)
+
+1988 Designation Section 506(b) of the FD&C act, as added by Section 112 of the food and drug administration modernization act of 1997 (FDAMA) and amended by Section 901 of the food and drug administration safety and innovation act of 2012 (FDASIA) A drug that is intended to treat a serious condition AND nonclinical or clinical data demonstrate the potential to address unmet medical need OR A drug that has been designated as a qualified infectious disease product
+
+1983 Designation Orphan drug act of 1983
+
+Year Nature of the program Referencse
+
+All fast track benefits Communication with the FDA as soon as phase 1 Meetings with senior FDA staff Cross-disciplinary project lead Adaptive and efficient trial design
+
+The FDA must review the ND A within 6 instead of 10 mont hs d
+
+Approval based on surrogate or intermediate clinical c endpoint
+
+More frequent communication with the FDA Approval based on phase 2 trial Potential for rolling review
+
+FDA may request a phase 4 trial Trial design and FDA review
+
+-FDA review
+
+FDA may request a phase 4 trial Trial design and FDA review
+
+FDA may request a phase 4 trial Trial design and FDA review
+
+A drug that treats a disease that (A) Affects less than 200,000 persons in the US, OR (B) Affects more than 200,000 in the US and for which there is no reasonable expectation that the cost of developing and making available in the US a drug for such disease or condition will recover from sales in the US of such drug. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under this subsection is made Tax credit (25%) a R&D grants User fee waiver More collaboration with and guidance by the FDA Extended period of market exclusivity (7 years) b -Drug development and market exclusivity
+
+Eligibility
+
+Features
+
+Conditions Effect on
+
+Fig. 6 FDA-approved drugs with standard and priority review from 2003 until 2022. FDA US food and drug administration. Own illustration
+
+<!-- image -->
+
+objective response for drugs, for drugs with the breakthrough designation and accelerated approval [22]. In contrast, Hwang et al. found no significant difference in PFS and response rates between breakthrough- and non-breakthrough-designated drugs based on a sample of 58 new FDAapproved drugs between 2012 and 2017 [21]. Similarly, Molto et al.'s analysis of 52 cancer drugs approved across 96 indications between 2012 and 2017 offers inconclusive evidence about breakthrough drug's efficacy [20]. Only two out of four clinical benefit frameworks$^{16}$ showed a significantly higher efficacy for breakthrough drugs. In 2018, Herink et al., therefore, concluded that breakthrough drugs' quality of evidence is heterogeneous; therefore, healthcare professionals must be aware that "much remains unknown about the safety and efficacy of many agents approved through the breakthrough therapy designation" [23]. However, all of the above-referenced studies are not only limited in sample size but also focus on the first 5 years of the breakthrough therapy designation (2012-2017). Possibly the breakthrough therapy's effect may only be apparent several years after it has been passed. In the largest study of breakthrough drugs to date, 355 breakthrough and non-breakthrough cancer indications with FDA approval were compared from 2012 until 2022 [117]. In this study, breakthrough indications were associated with a lower likelihood of death than non-breakthrough indications (hazard ratio: 0.69 vs. 0.74, p = 0.031) and offered significantly greater improvements in median overall survival (4.8 vs. 3.2 months, p = 0.004). Accordingly, Hwang et al. showed that breakthrough drugs are four times more likely to be of high therapeutic value [43].
+
+Although there is no conclusive evidence that breakthrough-designated drugs are more innovative, safer, or more effective, consumers and physicians hold very positive connotations associated with the term " breakthrough" [121-123]. The term " breakthrough " implies that these drugs are a major scientific disruption, ultimately inducing misleading unwarranted optimism. Compared to a factsonly description, the term breakthrough convinces a higher percentage of consumers to believe that the drug is very or completely effective (11% vs. 25%, p = 0.001) and supported by strong or very strong evidence (43% vs. 63%, p = 0.003) [121]. When given the choice between two drugs with the same safety, efficacy, evidence, and cost, 94% of physicians opted to prescribe the drug with the breakthrough designation [122]. Consequently, there is a debate about the "laudatory labels that promote the use of new drugs that frequently offer limited additional benefits" [11].
+
+Even though breakthrough drugs are approved based on weaker clinical trial evidence and their efficacy is not superior, monthly treatment costs were approximately $16,000 higher for breakthrough compared to non-breakthrough cancer drugs ($38,971 vs. $22,591, p = 0.0592) [20, 117]. Consequently, the price premium associated with the designation could be perceived as a positive signal to investors. However, Hoffmann et al. found no long-term excess returns of publicly listed companies developing a drug that recently received a breakthrough designation [124]. Figure 8 summarizes the impact of the FDA's special designations on the safety, efficacy/clinical benefit, trials, innovativeness, economic incentives, development times, and pricing of new drugs.
+
+Fig. 7 Breakthrough therapy designation requests ( a ) and FDA approvals ( b ) from 2012 until 2022. FDA, US Food and Drug Administration. Own illustration
+
+<!-- image -->
+
+## Special designation in the EU (EMA) and the US (FDA)
+
+Analog the Orphan Drug Act of 1983, the EU passed the Regulation on Orphan Medicinal Products in 1999 (Fig. 9) [125]. Drugs that treat rare diseases with a prevalence below 5 in 10,000 EU inhabitants or drugs with limited sales potential in relation to their R&D spending are eligible to receive the designation. The EMA orphan designation provides a marketing exclusivity period of 10 years (FDA: 7 years), a user fee reduction that is higher for micro-, small-, and medium-sized enterprises (FDA: user fee waiver), and scientific advice. Tax credits and additional research grants are not provided by the EMA but are funded by national drug development programs of the EU member states. A recent study highlighted that although the eligibility criteria for the FDA and EMA orphan designation are fairly similar, the implementation between both agencies differs [63]. Less than half of drugs with FDA orphan designation also received the EMA orphan designation. This is particularly interesting because the FDA regards biomarker-based subgroups of common diseases as distinct orphan indications,
+
+1
+
+3
+
+whereas the EMA only rarely agrees with this logic. Supporting the EMA's interpretation of rare disease policy, recent studies showed that biomarker-based subgroups of common diseases are more similar to common than truly rare diseases, and henceforth "ill-suited" for the orphan designation [38, 62]. Furthermore, the EMA's Orphan Medicinal Products law has a " clawback " clause (that has never been used) which permits the EMA to limit the period of market exclusivity from 10 to 6 years for high-grossing drugs [126]. This " clawback " clause could be especially useful to limit expenditure on top-selling partial orphan drugs, e.g., drugs that are commercialized for orphan and non-orphan indications [69, 71].
+
+Similar to the FDA's priority review program, the EMA's accelerated assessment program reduces the regulatory review time by 210 to 150 days (Fig. 9) [127, 128]. Indications that represent a "major public health interest" are eligible for accelerated assessment. However, there is no clear definition of "major public health interest" [129]. The pharmaceutical company itself must submit a justification that entails a description of the treated disease's unmet medical need, current methods to prevent, diagnose, and treat
+
+Fig. 8 Impact of the FDA's special designations on the safety, efficacy/clinical benefit, trials, innovativeness, economic incentives, development times, and pricing of new drugs. FDA , US Food and Drug Administration; NR , not reported. The figure illustrates each
+
+of the five special designation's implications on the seven examined dimensions: safety, efficacy/clinical benefit, clinical trial evidence, innovation, economic incentives, development time, and price. Own illustration
+
+the disease, and the drug's efficacy and evidentiary basis in filling these unmet medical needs. In contrast to the FDA's priority review program, pharmaceutical sponsors must actively request accelerated assessment 2-3 months before submitting the marketing authorization application.
+
+Similar to the FDA's breakthrough therapy program, the EMA introduced the priority medicines (PRIME) program in 2016 (Fig. 9) [132]. The program was initiated to support the development of drugs that have the potential to treat conditions with unmet medical needs by demonstrating a "meaningful improvement of clinical outcomes." The benefits of this program include an early appointment of a rapporteur/
+
+Comparable to the FDA's accelerated approval program, the EMA introduced the conditional approval program in 2004 (Fig. 9) [82, 130]. However, there are succinct differences between these programs [85]. Drugs with (1) a positive benefit-risk ratio, (2) a great likelihood that the applicant will be able to provide comprehensive data postauthorization, (3) fulfillment of an unmet medical need, and (4) a benefit of immediate availability to patients that is greater than the risk inherent to additional data requirements are eligible for conditional approval. For these drugs, the EMA may grant conditional approval based on less clinical data than standard approvals. In contrast to the FDA's accelerated approval, the EMA's conditional approval is, therefore, not subject to a surrogate endpoint. Drug sponsors must fulfill special obligations to renew the conditional approval every year and/or convert to full approval. These special obligations are defined by the EMA and may, for example, include additional safety and efficacy data, longer follow-up data, and/or the assessment of additional endpoints. On average, conditional approvals are converted to full approvals after 4 years [130]. As a result of these narrow eligibility criteria and strict post-approval requirements, fewer conditional/accelerated approvals are granted to fewer drugs by the EMA and FDA [43, 131]. However, these strict postapproval requirements also resulted in fewer post-approval withdrawals for the conditional relative to the accelerated approval program [129].
+
+lead reviewer, iterative and early meetings with the rapporteur and disease experts to discuss the clinical development plan and seek scientific advice, and overall intensive guidance by the EMA and key stakeholders. PRIME drugs are potentially eligible to receive an accelerated assessment. In contrast to the FDA's breakthrough therapy designation, the PRIME program can only be granted to original, yet not supplemental, indications. Furthermore, micro-, small-, and medium-sized enterprises, and academic research institutes may receive earlier PRIME guidance based on promising pre-clinical data. Although there is no separate fast track designation in the EU, the PRIME program has certain features that resemble the FDA's breakthrough therapy and fast track programs. [129].
+
+## Limitations
+
+There are several limitations inherent to our article. First, we focused on the FDA's special designations and review pathways given that the US represents the largest pharmaceutical market, is the most important country for drug development, and the FDA is generally the first agency that approves new drugs. However, review programs from other regulatory agencies, e.g., EMA, TGA, or HC, may influence the global drug development process. Second, there are other special FDA programs such as the Tropical Disease Priority Review Voucher Program, Rare Pediatric Disease (RPD) Designation and Voucher Programs, Emergency Use Authorization, and Expanded Access (also called "compassionate use"). Third, this is the first narrative review to assess the FDA's special approval pathways and designations regarding their safety, efficacy/clinical benefit, clinical trials, innovation, economic incentives, development timelines, and price. Building on our findings, future researchers should conduct a systematic review on this topic. Fourth, many studies referenced in this article examined cancer drugs. Although oncology is the largest therapeutic area in drug development, the implications of special FDA designations and approval pathways on the examined dimensions may differ.
+
+Fig. 9 Comparison of special designations and review programs in the US (FDA) and the EU (EMA). EMA European medicines agency; FDA US food and drug administration; PRIME priority medicines, R&D research and development. Own illustration
+
+Fourth, referenced articles typically focus on a single special FDA designation. However, each drug and indication may receive multiple special designations. The influence of multiple, "stacked", special FDA designations is only scarcely reported and discussed in scientific literature [144]. Future studies should evaluate the impact of the cumulative number and types of special designations on drug development.
+
+## Conclusion
+
+The FDA's special designations incentivize and facilitate the expedited development of drugs for rare and severe medical conditions. Over the past decades, these designations provided pharmaceutical companies with more flexibility in conducting clinical trials to provide patients with timely
+
+access to promising new drugs. Although these programs progressively lowered the FDA's evidentiary standard for a drug's safety and efficacy requirements, patients pay a premium for drugs whose "laudatory labels" provide high profits for pharmaceutical corporations and investors. Nonetheless, the majority of reviewed studies found that drugs with special designations provide a higher clinical benefit to patients than those without special designations. Yet, this greater benefit is not proportional to the substantially higher prices that are demanded for special-designated drugs. Instead of creating more special review programs for potentially unsafe, yet expensive drugs, politicians should reshape existing pharmaceutical policies to truly incentivize the development and approval of safe, effective, innovative, and affordable drugs that are tested in robust RCTs.
+
+Acknowledgements The authors are grateful to comments and suggestions received by the editor of the journal and the anonymous referees. None of the additional contributors received any compensation.
+
+Authors contribution Concept and design: DTM. Acquisition, analysis, or interpretation of data: DTM. Drafting of the manuscript: DTM. Critical revision of the manuscript for important intellectual content: all authors. Administrative, technical, or material support: DTM. Study supervision: DTM.
+
+Funding Open Access funding enabled and organized by Projekt DEAL. No funding was received for conducting this study.
+
+Data availability Not applicable.
+
+## Declarations
+
+Conflict of interest The authors declare that they have no conflicts of interest.
+
+Ethical approval None needed.
+
+Patient consent for publication Not applicable.
+
+Provenance and peer review Not commissioned; externally peerreviewed.
+
+Patient and public involvement No patients were involved in the conduct of this study.
+
+Transparency statement D.T.M. (the manuscript's guarantor) affirms that the manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as originally planned have been explained.
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not
+
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+## References
+
+- 1. Vreman, R.A., Heikkinen, I., Schuurman, A., Sapede, C., Garcia, J.L., Hedberg, N., Athanasiou, D., Grueger, J., Leufkens, H.G.M., Goettsch, W.G.: Unmet medical need: an introduction to definitions and stakeholder perceptions. Value Health 22 , 1275-1282 (2019)
+- 3. Darrow, J.J., Avorn, J., Kesselheim, A.S.: FDA approval and regulation of pharmaceuticals, 1983-2018. JAMA 323 , 164176 (2020)
+- 2. FDA.: Fast Track, Breakthrough Therapy, Accelerated Approval, Priority Review. In: US Food Drug Adm. https:// www.fda.gov/patients/learn-about-drug-and-device-approvals/ fast-track-breakthrough-therapy-accelerated-approval-priorityreview (2018). Accessed 28 Dec 2020
+- 4. Kesselheim, A.S., Maggs, L.R., Sarpatwari, A.: Experience with the priority review voucher program for drug development. JAMA 314 , 1687-1688 (2015)
+- 6. Jarow, J.P., Lurie, P., Ikenberry, S.C., Lemery, S.: Overview of FDA's expanded access program for investigational drugs. Ther Innov Regul Sci 51 , 177-179 (2017)
+- 5. Krause, P.R., Gruber, M.F.: Emergency use authorization of covid vaccines - safety and efficacy follow-up considerations. N. Engl. J. Med. 383 , e107 (2020)
+- 7. Grein, J., Ohmagari, N., Shin, D., et al.: Compassionate use of remdesivir for patients with severe covid-19. N. Engl. J. Med. 382 , 2327-2336 (2020)
+- 9. Darrow, J.J., Avorn, J., Kesselheim, A.S.: New FDA Breakthrough-Drug Category - Implications for Patients. N. Engl. J. Med. 370 , 1252-1258 (2014)
+- 8. Kesselheim, A., Darrow, J.: FDA designations for therapeutics and their impact on drug development and regulatory review outcomes. Clin. Pharmacol. Ther. 97 , 29-36 (2015)
+- 10. Darrow, J.J.: Few new drugs deserve expedited regulatory treatment. J. Manag. Care Spec. Pharm. 27 , 685-688 (2021)
+- 12. Grabowski, H., Wang, Y.R.: Do faster food and drug administration drug reviews adversely affect patient safety? An analysis of the 1992 prescription drug user fee act. J. Law Econ. 51 , 377-406 (2008)
+- 11. Darrow, J.J., Avorn, J., Kesselheim, A.S.: The FDA breakthrough-drug designation - four years of experience. N. Engl. J. Med. 378 , 1444-1453 (2018)
+- 13. Olson, M.K.: The risk we bear: the effects of review speed and industry user fees on new drug safety. J. Health Econ. 27 , 175-200 (2008)
+- 15. Carpenter, D., Zucker, E.J., Avorn, J.: Drug-review deadlines and safety problems. N. Engl. J. Med. 358 , 1354-1361 (2008)
+- 14. Carpenter, D., Chattopadhyay, J., Moffitt, S., Nall, C.: The complications of controlling agency time discretion: FDA review deadlines and postmarket drug safety. Am J Polit Sci 56 , 98-114 (2012)
+- 16. Avorn, J.: Paying for drug approvals-who's using whom? N. Engl. J. Med. 356 , 1697-1700 (2007)
+- 18. Moore, T.J., Furberg, C.D.: Development times, clinical testing, postmarket follow-up, and safety risks for the new drugs approved by the US food and drug administration: the class of 2008. JAMA Intern. Med. 174 , 90-95 (2014)
+- 17. Steenburg, C.: The food and drug administration's use of postmarketing (Phase IV) study requirements: exception to the rule? Food Drug Law J. 61 , 295-383 (2006)
+
+- 19. Fain, K., Daubresse, M., Alexander, G.C.: The food and drug administration amendments act and postmarketing commitments. JAMA 310 , 202-204 (2013)
+- 21. Hwang, T.J., Franklin, J.M., Chen, C.T., Lauffenburger, J.C., Gyawali, B., Kesselheim, A.S., Darrow, J.J.: Efficacy, safety, and regulatory approval of food and drug administration-designated breakthrough and nonbreakthrough cancer medicines. J. Clin. Oncol. 36 , 1805-1812 (2018)
+- 20. Molto, C., Hwang, T.J., Borrell, M., Andres, M., Gich, I., Barnadas, A., Amir, E., Kesselheim, A.S., Tibau, A.: Clinical benefit and cost of breakthrough cancer drugs approved by the US Food and Drug Administration. Cancer 126 , 4390-4399 (2020)
+- 22. Kern, K.A.: Trial design and efficacy thresholds for granting breakthrough therapy designation in oncology. J. Oncol. Pract. 12 , e810-817 (2016)
+- 24. Davis, C., Abraham, J.: The political dynamics of citizenship, innovation, and regulation in pharmaceutical governance. Innov Eur J Soc Sci Res 25 , 478-496 (2012)
+- 23. Herink, M.C., Irwin, A.N., Zumach, G.M.: FDA breakthrough therapy designation: evaluating the quality of the evidence behind the drug approvals. Pharmacotherapy 38 , 967-980 (2018)
+- 25. Rodriguez, R., Brunner, R., Spencer, S., Qato, D.M.: Time to inclusion in clinical guidance documents for non-oncological orphan drugs and biologics with expedited FDA designations: a retrospective survival analysis. BMJ Open 11 , e057744 (2021)
+- 27. Shahzad, M., Naci, H., Wagner, A.K.: Estimated medicare spending on cancer drug indications with a confirmed lack of clinical benefit after US food and drug administration accelerated approval. JAMA Intern. Med. 181 , 1673-1675 (2021)
+- 26. Rome, B.N., Feldman, W.B., Kesselheim, A.S.: Medicare spending on drugs with accelerated approval, 2015-2019. JAMA Health Forum 2 , e213937 (2021)
+- 28. Buckley, B.M.: Clinical trials of orphan medicines. Lancet 371 , 2051-2055 (2008)
+- 30. Gammie, T., Lu, C.Y., Babar, Z.U.-D.: Access to orphan drugs: a comprehensive review of legislations, regulations and policies in 35 countries. PLoS ONE 10 , e0140002 (2015)
+- 29. Commissioner O of the.: The Story Behind the Orphan Drug Act. FDA (2019)
+- 31. Onakpoya, I.J., Spencer, E.A., Thompson, M.J., Heneghan, C.J.: Effectiveness, safety and costs of orphan drugs: an evidencebased review. BMJ Open 5 , e007199 (2015)
+- 33. Commissioner O of the.: About Orphan Products Clinical Trial Grants. FDA (2019)
+- 32. Chan, A.Y.L., Chan, V.K.Y., Olsson, S., et al.: Access and unmet needs of orphan drugs in 194 countries and 6 areas: a global policy review with content analysis. Value Health 23 , 1580-1591 (2020)
+- 34. Fermaglich, L.J., Miller, K.L.: A comprehensive study of the rare diseases and conditions targeted by orphan drug designations and approvals over the forty years of the orphan drug act. Orphanet J. Rare Dis. 18 , 163 (2023)
+- 36. Kesselheim, A.S., Myers, J.A., Avorn, J.: Characteristics of clinical trials to support approval of orphan vs nonorphan drugs for cancer. JAMA 305 , 2320-2326 (2011)
+- 35. Fan, M., Chan, A.Y.L., Yan, V.K.C., et al.: Postmarketing safety of orphan drugs: a longitudinal analysis of the US food and drug administration database between 1999 and 2018. Orphanet J. Rare Dis. 17 , 3 (2022)
+- 37. Bell, S.A., Tudur Smith, C.: A comparison of interventional clinical trials in rare versus non-rare diseases: an analysis of ClinicalTrialsgov. Orphanet J. Rare Dis. 9 , 170 (2014)
+- 38. Michaeli, T., Jürges, H., Michaeli, D.T.: FDA approval, clinical trial evidence, efficacy, epidemiology, and price for non-orphan
+
+<!-- image -->
+
+- and ultra-rare, rare, and common orphan cancer drug indications: cross sectional analysis. BMJ 281 , e073242 (2023)
+- 40. Michaeli, D.T., Michaeli, T., Albers, S., Michaeli, J.C.: Association between clinical trial design characteristics and treatment effect estimates: A meta-analysis of randomized-controlled and single-arm trials supporting the FDA approval of 455 new cancer drugs and indications. SSRN. https://ssrn.com/abstract=4546126 (2023)
+- 39. Naci, H., Davis, C., Savović, J., Higgins, J.P.T., Sterne, J.A.C., Gyawali, B., Romo-Sandoval, X., Handley, N., Booth, C.M.: Design characteristics, risk of bias, and reporting of randomised controlled trials supporting approvals of cancer drugs by European Medicines Agency, 2014-16: cross sectional analysis. BMJ 366 , l5221 (2019)
+- 41. Dechartres, A., Trinquart, L., Boutron, I., Ravaud, P.: Influence of trial sample size on treatment effect estimates: meta-epidemiological study. BMJ 346 , f2304 (2013)
+- 43. Hwang, T.J., Ross, J.S., Vokinger, K.N., Kesselheim, A.S.: Association between FDA and EMA expedited approval programs and therapeutic value of new medicines: retrospective cohort study. The BMJ 371 , m3434 (2020)
+- 42. Chambers, J.D., Silver, M.C., Berklein, F.C., Cohen, J.T., Neumann, P.J.: Orphan drugs offer larger health gains but less favorable cost-effectiveness than non-orphan drugs. J. Gen. Intern. Med. 35 , 2629-2636 (2020)
+- 44. Zelei, T., Molnár, M.J., Szegedi, M., Kaló, Z.: Systematic review on the evaluation criteria of orphan medicines in Central and Eastern European countries. Orphanet J. Rare Dis. 11 , 72 (2016)
+- 46. Simoens, S.: Pricing and reimbursement of orphan drugs: the need for more transparency. Orphanet J. Rare Dis. 6 , 42 (2011)
+- 45. Berdud, M., Drummond, M., Towse, A.: Establishing a reasonable price for an orphan drug. Cost Eff Resour Alloc 18 , 31 (2020)
+- 47. Michaeli, D.T., Michaeli, T.: Launch and Post-Launch Prices of Injectable Cancer Drugs in the US: Clinical Benefit, Innovation, Epidemiology, and Competition. Pharmacoeconomics. https:// doi.org/10.1007/s40273-023-01320-4 (2023)
+- 49. Hay, M., Thomas, D.W., Craighead, J.L., Economides, C., Rosenthal, J.: Clinical development success rates for investigational drugs. Nat. Biotechnol. 32 , 40-51 (2014)
+- 48. Michaeli, D.T., Michaeli, T.: Cancer drug prices in the United States: Efficacy, innovation, clinical trial evidence, and epidemiology. Value Health 26 , 11 (2023)
+- 50. David, W.T., Justin, B., John, A., Adam, C., Corey, D-H., Michael, H.: Clinical Development Success Rates 2006-2015. Biotechnology Innovation Organization. https://www.bio.org/ sites/default/files/legacy/bioorg/docs/Clinical%20Development% 20Success%20Rates%202006-2015%20-%20BIO,%20Biomedtr acker,%20Amplion%202016.pdf (2016). Accessed 05 Nov 2023
+- 52. Hwang, T.J., Carpenter, D., Lauffenburger, J.C., Wang, B., Franklin, J.M., Kesselheim, A.S.: Failure of investigational drugs in late-stage clinical development and publication of trial results. JAMA Intern. Med. 176 , 1826-1833 (2016)
+- 51. Wong, C.H., Siah, K.W., Lo, A.W.: Estimation of clinical trial success rates and related parameters. Biostat Oxf Engl 20 , 273286 (2019)
+- 53. Jayasundara, K., Hollis, A., Krahn, M., Mamdani, M., Hoch, J.S., Grootendorst, P.: Estimating the clinical cost of drug development for orphan versus non-orphan drugs. Orphanet J. Rare Dis. 14 , 12 (2019)
+- 55. Michaeli, D.T., Michaeli, J.C., Michaeli, T.: Clinical trials for ultra-rare diseases: Challenges in designing, conducting, and incentivizing ultra-orphan drug development (2023)
+- 54. Hauck, C.L., Kelechi, T.J., Cartmell, K.B., Mueller, M.: Triallevel factors affecting accrual and completion of oncology clinical trials: A systematic review. Contemp Clin Trials Commun 24 , 100843 (2021)
+
+- 56. Meekings, K.N., Williams, C.S.M., Arrowsmith, J.E.: Orphan drug development: an economically viable strategy for biopharma R&D. Drug Discov. Today 17 , 660-664 (2012)
+- 58. Michaeli, D.T., Yagmur, H.B., Achmadeev, T., Michaeli, T.: Value drivers of development stage biopharma companies. Eur. J. Health Econ. 23 , 8 (2022)
+- 57. Rooswinkel, R., Mulder, G.-J., van Deventer, S.: Acquiring orphans. Nat. Biotechnol. 32 , 213-216 (2014)
+- 59. Michaeli, D.T., Yagmur, H.B., Achmadeev, T., Michaeli, T.: Valuation and returns of drug development companies: lessons for bioentrepreneurs and investors. Ther Innov Regul Sci. 56 , 2 (2022)
+- 61. Hughes, D.A., Poletti-Hughes, J.: Profitability and market value of orphan drug companies: a retrospective, propensity-matched case-control study. PLoS ONE 11 , e0164681 (2016)
+- 60. Miller, K.L.: Do investors value the FDA orphan drug designation? Orphanet J. Rare Dis. 12 , 114 (2017)
+- 62. Kesselheim, A.S., Treasure, C.L., Joffe, S.: Biomarker-defined subsets of common diseases: policy and economic implications of orphan drug act coverage. PLoS Med. 14 , e1002190 (2017)
+- 64. Nabhan, C., Phillips, E.G., Feinberg, B.A.: Orphan cancer drugs in the era of precision medicine. JAMA Oncol. 4 , 14811482 (2018)
+- 63. Vokinger, K.N., Kesselheim, A.S.: Application of orphan drug designation to cancer treatments (2008-2017): a comprehensive and comparative analysis of the USA and EU. BMJ Open 9 , e028634 (2019)
+- 65. Michaeli, D.T., Michaeli, T.: Spending on orphan cancer drugs for ultra-rare, rare, and common diseases. SSRN (2023). https://doi.org/10.2139/ssrn.4421181
+- 67. National Institute for Health and Care Excellence (NICE).: NICE and NHS England consultation on changes to the arrangements for evaluating and funding drugs and other health technologies assessed through NICE's technology appraisal and highly specialised technologies programmes (2017)
+- 66. Scottish Government.: Treatments for rare conditions. http:// www.gov.scot/news/treatments-for-rare-conditions/ (2018). Accessed 4 Jul 2022
+- 68. Pearson, C., Schapiro, L., Pearson, S.D.: The Next Generation of. Rare Disease Drug Policy: Ensuring Both Innovation and Affordability (2022)
+
+70. Tu, S.S., Nagar, S., Kesselheim, A.S., Lu, Z., Rome, B.N.: Five-year sales for newly marketed prescription drugs with and without initial orphan drug act designation. JAMA 329 , 1607-1608 (2023)
+
+- 69. Michaeli, D.T., Michaeli, T.: Partial orphan cancer drugs: FDA approval, clinical benefit, trials, epidemiology, price, beneficiaries, and spending. SSRN. https://ssrn.com/abstract=45389 21 (2023)
+- 71. Chua, K.-P., Kimmel, L.E., Conti, R.M.: Spending for orphan indications among top-selling orphan drugs approved to treat common diseases. Health Aff (Millwood) 40 , 453-460 (2021)
+- 73. Mills, M., Michaeli, D., Miracolo, A., Kanavos, P.: Launch sequencing of pharmaceuticals with multiple therapeutic indications: evidence from seven countries. BMC Health Serv. Res. 23 , 1 (2023)
+- 72. Michaeli, D.T., Mills, M., Kanavos, P.: Value and price of multi-indication cancer drugs in the USA, Germany, France, England, Canada, Australia, and Scotland. Appl. Health Econ. Health Policy 20 , 757-768 (2022)
+- 74. Michaeli, D.T., Mills, M., Michaeli, T., Miracolo, A., Kanavos, P.: Initial and supplementary indication approval of new targeted cancer drugs by the FDA, EMA, Health Canada, and TGA. Invest. New Drugs 40 , 798-809 (2022)
+
+- 75. Merson, M.H., O'Malley, J., Serwadda, D., Apisuk, C.: The history and challenge of HIV prevention. The Lancet 372 , 475-488 (2008)
+- 77. Chambers, J.D., Thorat, T., Wilkinson, C.L., Neumann, P.J.: Drugs cleared through the FDA's expedited review offer greater gains than drugs approved by conventional process. Health Aff (Millwood) 36 , 1408-1415 (2017)
+- 76. Damle, N., Shah, S., Nagraj, P., Tabrizi, P., Rodriguez, G.E., Bhambri, R.: FDA's expedited programs and their impact on the availability of new therapies. Ther Innov Regul Sci 51 , 24-28 (2017)
+- 78. Alefantis, T.G., Kulkarni, M.S., Vora, P.P.: Wealth effects of food and drug administration "fast track" designation. J Pharm Finance Econ Policy 13 , 41-53 (2004)
+- 80. Miller, K.L., Nardinelli, C., Pink, G., Reiter, K.: The signaling effects of incremental information: evidence from stacked US food and drug administration designations. Q. Rev. Econ. Finance 67 , 219-226 (2018)
+- 79. Miller, K.L., Nardinelli, C., Pink, G., Reiter, K.: The signaling effects of the US food and drug administration fast-track designation. Manag. Decis. Econ. 38 , 581-594 (2017)
+- 81. Anderson, C.W., Zhang, Y.: Security market reaction to FDA fast track designations. J. Health Care Finance 37 , 27-48 (2010)
+- 83. Canada, H.: Guidance Document: Notice of Compliance with Conditions (NOC/c). https://www.canada.ca/en/health-canada/ services/drugs-health-products/drug-products/applicationssubmissions/guidance-documents/notice-compliance-condi tions.html (2005). Accessed 26 Mar 2022
+- 82. EMA.: Conditional marketing authorisation. In: Eur. Med. Agency. https://www.ema.europa.eu/en/human-regulatory/ marketing-authorisation/conditional-marketing-authorisation (2018). Accessed 28 Dec 2020
+- 84. Administration AGD of HTG Fast track approval pathways. In: Ther. Goods Adm. TGA. https://www.tga.gov.au/fast-trackapproval-pathways. Accessed 26 Mar 2022
+- 86. FDA.: Accelerated Approval Program. In: US Food Drug Adm. https://www.fda.gov/drugs/information-health-care-profession als-drugs/accelerated-approval-program (2020). Accessed 28 Dec 2020
+- 85. Mehta, G.U., de Claro, R.A., Pazdur, R.: Accelerated approval is not conditional approval: insights from international expedited approval programs. JAMA Oncol. 8 , 335-336 (2022)
+- 87. Chen, E.Y., Joshi, S.K., Tran, A., Prasad, V.: Estimation of study time reduction using surrogate end points rather than overall survival in oncology clinical trials. JAMA Intern. Med. 179 , 642-647 (2019)
+- 89. Salcher-Konrad, M., Naci, H., Davis, C.: Approval of cancer drugs with uncertain therapeutic value: a comparison of regulatory decisions in europe and the united states. Milbank Q. 98 , 1219-1256 (2020)
+- 88. Johnson, J.R., Ning, Y.-M., Farrell, A., Justice, R., Keegan, P., Pazdur, R.: Accelerated approval of oncology products: the food and drug administration experience. J. Natl. Cancer Inst. 103 , 636-644 (2011)
+- 90. Gyawali, B., Rome, B.N., Kesselheim, A.S.: Regulatory and clinical consequences of negative confirmatory trials of accelerated approval cancer drugs: retrospective observational study. BMJ 374 , n1959 (2021)
+- 92. Naci, H., Smalley, K.R., Kesselheim, A.S.: Characteristics of preapproval and postapproval studies for drugs granted accelerated approval by the US food and drug administration. JAMA 318 , 626-636 (2017)
+- 91. Gyawali, B., Hey, S.P., Kesselheim, A.S.: Assessment of the clinical benefit of cancer drugs receiving accelerated approval. JAMA Intern. Med. 179 , 906-913 (2019)
+
+- 93. Wallach, J.D., Ramachandran, R., Bruckner, T., Ross, J.S.: Comparison of duration of postapproval vs pivotal trials for therapeutic agents granted US food and drug administration accelerated approval, 2009-2018. JAMA Netw. Open 4 , e2133601 (2021)
+- 95. Kaltenboeck, A., Mehlman, A., Pearson, S.D.: Potential policy reforms to strengthen the accelerated approval pathway. J Comp Eff Res 10 , 1177-1186 (2021)
+- 94. Gyawali, B., Ross, J.S., Kesselheim, A.S.: Fulfilling the mandate of the US food and drug administration's accelerated approval pathway: the need for reforms. JAMA Intern. Med. 181 , 1275-1276 (2021)
+- 96. Gyawali, B., Kesselheim, A.S.: Reinforcing the social compromise of accelerated approval. Nat. Rev. Clin. Oncol. 15 , 596-597 (2018)
+- 98. Wallach, J.D., Zhang, A.D., Skydel, J.J., Bartlett, V.L., Dhruva, S.S., Shah, N.D., Ross, J.S.: Feasibility of using real-world data to emulate postapproval confirmatory clinical trials of therapeutic agents granted US food and drug administration accelerated approval. JAMA Netw. Open 4 , e2133667 (2021)
+- 97. Gyawali, B., Kesselheim, A.S., Ross, J.S.: The accelerated approval program for cancer drugs-finding the right balance. N. Engl. J. Med. 389 , 968-971 (2023)
+- 99. Rome, B.N., Kesselheim, A.S.: Raising medicaid rebates for drugs with accelerated approval. Health Aff (Millwood) 40 , 1935-1942 (2021)
+- 101. Farrimond, B., Fleming, J.J., Mathieu, M.: Accelerated pathways work-now what? A survey of payers in the United States. Ther Innov Regul Sci 51 , 224-231 (2017)
+- 100. Gellad, W.F., Kesselheim, A.S.: Accelerated approval and expensive drugs - a challenging combination. N. Engl. J. Med. 376 , 2001-2004 (2017)
+- 102. Thorpe, K.E., Holtz-Eakin, D.: Limiting Medicaid access to accelerated approval drugs: costs and consequences. Am. J. Manag. Care 27 , e178-e180 (2021)
+- 104. Ferrario, A., Kanavos, P.: Dealing with uncertainty and high prices of new medicines: a comparative analysis of the use of managed entry agreements in Belgium, England, the Netherlands and Sweden. Soc Sci Med 124 , 39-47 (2015)
+- 103. Kanavos, P., Ferrario, A.: Managed entry agreements for pharmaceuticals: the European experience. EMiNet, Brussels, Belgium (2013)
+- 105. Dabbous, M., Chachoua, L., Caban, A., Toumi, M.: Managed entry agreements: policy analysis from the european perspective. Value Health 23 , 425-433 (2020)
+- 107. Ballreich, J., Socal, M., Bennett, C.L., Schoen, M.W., Trujillo, A., Xuan, A., Anderson, G.: Medicare spending on drugs with accelerated approval. Ann. Intern. Med. https://doi.org/10.7326/ M21-4442 (2022)
+- 106. Kanavos, P., Visintin, E., Gentilini, A.: Algorithms and heuristics of health technology assessments: a retrospective analysis of factors associated with HTA outcomes for new drugs across seven OECD countries. Soc Sci Med 331 , 116045 (2023)
+- 108. Ballreich, J., Bennet, C., Moore, T.J., Alexander, G.C.: Medicare expenditures of atezolizumab for a withdrawn accelerated approved indication. JAMA Oncol. 7 , 1720-1721 (2021)
+- 110. Puthumana, J., Wallach, J.D., Ross, J.S.: Clinical trial evidence supporting FDA approval of drugs granted breakthrough therapy designation. JAMA 320 , 301-303 (2018)
+- 109. Mullard, A.: 2020 FDA drug approvals. Nat. Rev. Drug Discov. 20 , 85-90 (2021)
+- 111. Berlin, R.J.: Examination of the relationship between oncology drug labeling revision frequency and FDA product categorization. Am. J. Public Health 99 , 1693-1698 (2009)
+- 112. Neez, E., Hwang, T.J., Sahoo, S.A., Naci, H.: European medicines agency's priority medicines scheme at 2 years: an
+
+<!-- image -->
+
+- evaluation of clinical studies supporting eligible drugs. Clin. Pharmacol. Ther. 107 , 541-552 (2020)
+- 114. Kakkis, E., Bronstein, M.G.: The 21st century cures act. N. Engl. J. Med. 373 , 1677-1680 (2015)
+- 113. Kondo, H., Hata, T., Ito, K., Koike, H., Kono, N.: The current status of sakigake designation in Japan, PRIME in the European Union, and breakthrough therapy designation in the United States. Ther Innov Regul Sci 51 , 51-54 (2017)
+- 115. Avorn, J., Kesselheim, A.S.: The 21st century cures act-will it take us back in time? N. Engl. J. Med. 372 , 2473-2475 (2015)
+- 117. Michaeli, D.T., Michaeli, T.: Breakthrough therapy cancer drugs and indications with FDA approval: Development time, trials, clinical benefit, epidemiology, and price. Accepted for publication at Journal of the National Comprehensive Cancer Network (2023)
+- 116. Ribeiro, T.B., Buss, L., Wayant, C., Nobre, M.R.C.: Comparison of FDA accelerated vs regular pathway approvals for lung cancer treatments between 2006 and 2018. PLoS ONE 15 , e0236345 (2020)
+- 118. Shepshelovich, D., Tibau, A., Goldvaser, H., Molto, C., Ocana, A., Seruga, B., Amir, E.: Postmarketing modifications of drug labels for cancer drugs approved by the US food and drug administration between 2006 and 2016 with and without supporting randomized controlled trials. J. Clin. Oncol. 36 , 17981804 (2018)
+- 120. Chandra, A., Kao, J.L., Miller, K., Stern, A.D.: Regulatory Incentives for Innovation: The FDA's Breakthrough Therapy Designation. https://doi.org/10.2139/ssrn.4296623 (2022)
+- 119. Pregelj, L., Hine, D.C., Kesselheim, A.S., Darrow, J.J.: Assessing the impact of US food and drug administration breakthrough therapy designation timing on trial characteristics and development speed. Clin. Pharmacol. Ther. 110 , 1018-1024 (2021)
+- 121. Krishnamurti, T., Woloshin, S., Schwartz, L.M., Fischhoff, B.: A randomized trial testing US food and drug administration "breakthrough" language. JAMA Intern. Med. 175 , 1856-1858 (2015)
+- 123. Paquin, R.S., Boudewyns, V., O'Donoghue, A.C., Aikin, K.J.: Physician perceptions of the FDA's breakthrough therapy designation: an update. Oncologist 27 , e85-e88 (2022)
+- 122. Kesselheim, A.S., Woloshin, S., Eddings, W., Franklin, J.M., Ross, K.M., Schwartz, L.M.: Physicians' knowledge about FDA approval standards and perceptions of the "breakthrough therapy" designation. JAMA 315 , 1516-1518 (2016)
+- 124. Hoffmann, D., Van Dalsem, S., David, F.S.: Stock price effects of breakthrough therapy designation. Nat. Rev. Drug Discov. 18 , 165-165 (2019)
+- 126. Kesselheim, A.S., Myers, J.A., Solomon, D.H., Winkelmayer, W.C., Levin, R., Avorn, J.: The prevalence and cost of unapproved uses of top-selling orphan drugs. PLoS ONE 7 , e31894 (2012)
+- 125. (2000) Orphan Medicinal Products.
+- 127. European Medicines Agency.: Guideline on the procedure for accelerated assessment pursuant to Article 14 (9) of Regulation (EC) No 726/2004. (2022)
+- 129. Cox, E.M., Edmund, A.V., Kratz, E., Lockwood, S.H., Shankar, A.: Regulatory affairs 101: introduction to expedited regulatory pathways. Clin. Transl. Sci. 13 , 451-461 (2020)
+- 128. EMA.: Accelerated assessment. In: Eur. Med. Agency. https:// www.ema.europa.eu/en/human-regulatory/marketing-authorisat ion/accelerated-assessment (2018). Accessed 28 Dec 2020
+- 130. European Medicines Agency.: Conditional marketing authorisation: Report on ten years of experience at the European Medicines Agency (2017)
+- 131. Vokinger, K.N., Kesselheim, A.S., Glaus, C.E.G., Hwang, T.J.: Therapeutic value of drugs granted accelerated approval or conditional marketing authorization in the US and Europe from 2007 to 2021. JAMA Health Forum 3 , e222685 (2022)
+
+- 132. European Medicines Agency.: European Medicines Agency Guidance for applicants seeking access to PRIME scheme (2023)
+- 134. Frank, R.G., Dach, L., Lurie, N.: It Was The Government That Produced COVID-19 Vaccine Success | Health Affairs Forefront. Health Aff (Millwood). https://doi.org/10.1377/hblog20210512. 191448 (1377)
+- 133. Cross, S., Rho, Y., Reddy, H., Pepperrell, T., Rodgers, F., Osborne, R., Eni-Olotu, A., Banerjee, R., Wimmer, S., Keestra, S.: Who funded the research behind the Oxford-AstraZeneca COVID-19 vaccine? BMJ Glob. Health 6 , e007321 (2021)
+- 135. Mueller-Langer, F.: Neglected infectious diseases: Are push and pull incentive mechanisms suitable for promoting drug development research? Health Econ. Policy Law 8 , 185-208 (2013)
+- 137. Årdal, C., Røttingen, J.-A., Opalska, A., Van Hengel, A.J., Larsen, J.: Pull Incentives for antibacterial drug development: an analysis by the transatlantic task force on antimicrobial resistance. Clin. Infect. Dis. 65 , 1378-1382 (2017)
+- 136. Cama, J., Leszczynski, R., Tang, P.K., Khalid, A., Lok, V., Dowson, C.G., Ebata, A.: To push or to pull? In a post-COVID world, supporting and incentivizing antimicrobial drug development must become a governmental priority. ACS Infect Dis 7 , 2029-2042 (2021)
+- 138. Sciarretta, K., Røttingen, J.-A., Opalska, A., Van Hengel, A.J., Larsen, J.: Economic incentives for antibacterial drug development: literature review and considerations from the transatlantic task force on antimicrobial resistance. Clin. Infect. Dis. 63 , 1470-1474 (2016)
+
+## Authors and Affiliations
+
+Daniel Tobias Michaeli$^{1,2}$ Julia Caroline Michaeli$^{7}$
+
+· Thomas Michaeli$^{3,4,5}$
+
+· Sebastian Albers$^{6}$
+
+· Tobias Boch$^{3,4,5}$
+
+·
+
+- * Daniel Tobias Michaeli danielmichaeli@yahoo.com
+- $^{1}$ Department of Medical Oncology, National Center for Tumor Diseases, Heidelberg University Hospital, Im Neuenheimer Feld 460, 69120 Heidelberg, Germany
+- $^{2}$ TUM School of Management, Technical University of Munich, Munich, Germany
+- $^{3}$ Department of Personalized Oncology, University Hospital Mannheim, Heidelberg University, Mannheim, Germany
+- $^{4}$ DKFZ-Hector Cancer Institute at the University Medical Center Mannheim, Mannheim, Germany
+- $^{5}$ Division of Personalized Medical Oncology, German Cancer Research Center (DKFZ), Heidelberg, Germany
+- $^{6}$ Department of Orthopaedics and Sport Orthopaedics, School of Medicine, Klinikum Rechts Der Isar, Technical University of Munich, Munich, Germany
+- $^{7}$ Department of Obstetrics and Gynaecology, LMU University Hospital, LMU Munich, Germany
+
+- 139. Mandl, K.D., Kohane, I.S.: Data citizenship under the 21st century cures act. N. Engl. J. Med. 382 , 1781-1783 (2020)
+- 141. U.S. Food & Drug Administration C for DE and Development & Approval Process | Drugs. In: FDA. https://www.fda.gov/drugs/ development-approval-process-drugs (2021). Accessed 13 Dec 2021
+- 140. Hudson, K.L., Collins, F.S.: The 21st century cures act-a view from the NIH. N. Engl. J. Med. 376 , 111-113 (2017)
+- 142. Alexander, G.C., Knopman, D.S., Emerson, S.S., Ovbiagele, B., Kryscio, R.J., Perlmutter, J.S., Kesselheim, A.S.: Revisiting FDA approval of aducanumab. N. Engl. J. Med. 385 , 769-771 (2021)
+- 144. Michaeli, D.T., Michaeli, T., Albers, S., Michaeli, J.C.: Clinical benefit, development, innovativeness, trials, epidemiology, and price for cancer drugs and indications with multiple special FDA designations. JNCI: Journal of the National Cancer Institute, djad212. https://doi.org/10.1093/jnci/djad212 (2023)
+- 143. U.S. Department of Health and Human Services, Food and Drug Administration, Center for Drug Evaluation and Research (CDER), Center for Biologics Evaluation and Research (CBER).: Guidance for Industry: Expedited Programs for Serious Conditions - Drugs and Biologics (2014)
+
+Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

@@ -1,0 +1,164 @@
+## ABSTRACT
+
+A series of Tb 3 + substituted layered perovskite Sr(La$_{1-}$$_{x}$Tb$_{x}$)AlO$_{4 }$ ( x = 0 -1) was synthesized via solid-state reaction. The influence of Tb 3 + on the phase, structure, photoluminescence, and long afterglow properties of the SrLaAlO$_{4 }$product was investigated. The fully substituted product SrTbAlO$_{4 }$was found to be isostructural with its SrLaAlO$_{4 }$counterpart, and the crystal structure parameters were first reported in this work. Photoluminescence investigation found that benefiting from the unique layered crystal structure, the activator Tb 3 + was well separated and the optimal doping concentration was found to be as high as 20 at%. Except for photoluminescence, the products simultaneously show long afterglow properties due to disorder cations distribution in the local structure and thus induced defect condition. When the UV light source is turned off, the afterglow luminescence of SrLaAlO$_{4}$: 0.03 Tb 3 + can last over 1 h. The trap distribution of SrLaAlO$_{4}$: Tb 3 + was analyzed in detail by thermoluminescence. The trap depth is calculated to be around 0.7 -0.81 eV, the value of which highly coincides with the ideal energy level for trapping and releasing electrons at room temperature. On the basis of the experimental results, the mechanism of long afterglow luminescence of SrLaAlO$_{4}$: Tb 3 + is elaborated and discussed.
+
+## 1. Introduction
+
+Long afterglow luminescence is a special optical phenomenon. Corresponding products can continue to emit light for some time after excitation has ceased, due to electrons being excited and stored in the trap and subsequently released slowly by thermal energy at room temperature [1 -4]. Long afterglow phosphor has been widely used in emergency lighting and displays, decoration, optical information storage, in vivo bio-imaging night vision monitoring, etc [5 -8]. For long afterglow phosphors, emitting centers and traps are two decisive factors worth considering [9,10]. Usually, the emitting center serves as the destination of the release carrier that generates the emission. In contrast, defects associated with the substrate are able to trap free carriers and preserve them, releasing them gradually in response to thermal disturbances [11]. Although several long afterglow luminescent materials
+
+* Corresponding author. Bohai University Jianzhou, China.
+
+have been developed such as sulfides, oxy-sulfides, nitrides, and silicates [12 -14], compared with other types of phosphors, long afterglow phosphors still lag behind. It is still highly desired to design and develop novel long afterglow systems and to clarify the luminescence mechanisms.
+
+Inorganic oxide perovskite materials draw intense research attentions in the field of optoelectronic devices due to their good stability and wide emission range [15,16]. Layered perovskites, with the structural formula ABCO$_{4}$, are a class of compounds derived from perovskite, where A = Sr, Ca or Ba, B = a rare earth element such as La, Y or Gd, and C -Al, Sc, Ga or certain transition metal [17,18]. These compounds belong to the K$_{2}$NiF$_{4 }$ tetragonal structure type with the space group I 4/ mmm [19 -21]. They have received considerable research attention mainly by doping various activators as light-emitting substrates, such as SrLaScO$_{4}$: Eu 2 + [22], SrLaAlO$_{4}$: Bi 3 + [23], BaLaAlO$_{4}$: Sm 3 + [24], and
+
+** Corresponding author. National Institute for Materials Science, Ibaraki, Japan. E-mail addresses: wangxuejiao@bhu.edu.cn (X. Wang), li.jiguang@nims.go.jp (J.-G. Li).
+
+https://doi.org/10.1016/j.ceramint.2023.12.415
+
+0272-8842/© 2023 Published by Elsevier Ltd.
+
+Available online 1 January 2024 Received 14 November 2023; Received in revised form 24 December 2023; Accepted 31 December 2023
+
+Please cite this article as: Bowen Wang et al., Ceramics International , https://doi.org/10.1016/j.ceramint.2023.12.415
+
+Ceramics International xxx (xxxx) xxx Wang et al.
+
+Fig. 1. X-ray diffraction patterns of Sr(La$_{1-}$$_{x}$Tb$_{x}$)AlO$_{4 }$( x = 0.000 -1.000) samples (a), local magnification of X-ray diffraction patterns in 2 θ = 31 $^{·}$-35 · range (b), and the crystal structure of SrLaAlO$_{4 }$(c).
+
+others. Based on previous crystal structure analysis, we noticed in this work that A 2 + /B 3 + cations with different valence states occupy the same crystallographic position in the layered perovskite ABCO$_{4 }$ and are randomly distributed. Thus, the ABCO$_{4 }$ compounds may easily form disorder-induced traps since the cations are not in complete order in the local structure. Such structure may provide defect conditions for the design of long afterglow phosphors. It was indeed found that Bi 3 + presents long afterglow luminescence in the structure. But the long afterglow luminescence of rare earth in the system has never been reported before. Moreover, another structure merit is that the [A/BO$_{9}$] polyhedrons in different layers are well separated by the interlayer [CO$_{6}$] polyhedrons, thus if the activator were in the A/B site, the luminescence quenching effect may be restrained.
+
+Aluminates have excellent chemical and thermal stability, and layered perovskites aluminates SrLaAlO$_{4 }$ have extra advantages of environmental friendliness and cheap raw materials. Therefore, in this work, SrLaAlO$_{4 }$ was selected as the host for the design of photoluminescence and long afterglow material. A series of Tb 3 + substituted SrLaAlO$_{4 }$materials were prepared by solid-state reaction. The influence of Tb 3 + substitution on the phase, crystal structure, photoluminescence, and long afterglow properties of SrLaAlO$_{4 }$were systematically investigated. The luminescence mechanism was proposed. We believe this work is important for studying the long afterglow luminescence of layered perovskites.
+
+## 2. Experimental procedure
+
+## 2.1. Reagents and sample synthesis
+
+A series of Sr(La$_{1-}$$_{x}$Tb$_{x}$)AlO$_{4 }$ ( x = 0 -1) layered perovskites were synthesized from SrCO$_{3 }$(99.95 % pure), La$_{2}$O$_{3 }$(99.999 % pure), Al$_{2}$O$_{3 }$ (AR pure), Tb$_{4}$O$_{7 }$(99.99 % pure) by solid-state reaction. The rare earth sources were bought from Huizhou Ruier Rare Chemical Hi-Tech Co. Ltd (Huizhou, China), and the other reagents were purchased from Aladdin Industrial Corporation (Shanghai, China). All the reagents were used without further purification. Weighed the reagents according to the designed compositions, mixed and ground them in an agate mortar for 30 min, and then calcined in a 1500 · C furnace for 6 h, The heating rate below 800 · C is 5 · C/min and the heating rate between 800 and 1500 · C is 3 · C/min. After the reaction was completed, the product was cooled to
+
+room temperature at 5 · C/min for characterization. All samples doped with Tb 3 + ions were sintered in a reducing atmosphere (10 % H$_{2 }$ + 90% N$_{2}$).
+
+## 2.2. Characterization
+
+X-ray diffraction (XRD; Model Ultima IV, Rigaku, Tokyo, Japan) was used for phase identification with operating voltage/current of 40 kV/ 40 mA, nickel filtered Cu-K α radiation ( λ = 0.15406 nm), scanning speed of 2 · /min for 2 θ = 5-90 · . The morphology and elemental distribution of the samples were analyzed via field emission scanning electron microscopy (FE-SEM; Model Tescan MIRA LMS, Tesken). Light absorption and the bandgap energy of the products were studied via UV -vis spectroscopy (Model PE-750, PerkinElmer, USA). X-ray photoelectron spectroscopy (XPS) was performed using a Thermo Scientific K-Alpha analyzer (Thermo Fisher Scientific, Waltham, USA), where the chamber pressure is less than 2.0 × 10 GLYPH<0> 7 Mbar, the spot size is 400 μ m, the working voltage is 12 kV, and the filament current is 6 mA. The binding energies were calibrated by using the C 1 s line of adventitious carbon as a reference. Photoluminescence properties of the Sr(La$_{1-}$$_{x}$Tb$_{x}$)AlO$_{4 }$were measured using an FLS 1000 fluorescence spectrophotometer (Edinburgh Instruments Ltd., Herrsching am Ammersee, Britain) with a 450 W Xe lamp as the excitation source. Fluorescence decay kinetics of the main emissions were measured with the lifetime testing unit of the FLS 1000 equipment. Temperature-dependent luminescence spectra were measured using the same spectrophotometer equipped with a TAP-02 high-temperature controller. Thermoluminescence analysis of the samples was carried out using an SL08 TL dosimeter (Guangzhou Radiation Science and Technology Co. Ltd., Guangzhou, China), with a fixed heating rate of 5 · C/s in the range of RT-400 · C.
+
+## 3. Results and discussion
+
+3.1. Synthesis of the Sr(La$_{1-x}$Tb$_{x}$)AlO$_{4 }$(x = 0 -1) type layered perovskite and full substitution of La site with Tb
+
+A series of Tb substituted La samples Sr(La$_{1-}$$_{x}$Tb$_{x}$)AlO$_{4 }$ ( x = 0.000 -1.000) were synthesized in a reducing atmosphere, and their XRD patterns are shown in Fig. 1(a). It can be found that the obtained X-ray diffraction peaks for all the products are in agreement with the standard
+
+Ceramics International xxx (xxxx) xxx Wang et al.
+
+Fig. 2. The Rietveld refinement XRD patterns of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.00 (a), x = 0.03 (b), x = 0.20 (c), x = 1.00 (d)). The lattice parameters of a , b , c , and V versus x in SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.00, 0.03, 0.20, 0.30, 0.50, 1.00) (e).
+
+Table 1 Structure parameters and reliability factors obtained via refinement of the XRD patterns of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.00, 0.03, 0.20, 0.30, 0.50, 1.00).
+
+| Chemical Formula   | x  = 0.00   | x  = 0.03   | x  = 0.20   | x  = 0.30   | x  = 0.50   | x  = 1.00   |
+|--------------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| Space Group        | I 4/ mmm    | I 4/ mmm    | I 4/ mmm    | I 4/ mmm    | I 4/ mmm    | I 4/ mmm    |
+| a  (Å)             | 3.7567(0)   | 3.7534(0)   | 3.7426(0)   | 3.7314(0)   | 3.7188(0)   | 3.6914(0)   |
+| b                  |             |             |             |             |             |             |
+| c  (Å)             | 12.6474(1)  | 12.6407(1)  | 12.6010(2)  | 12.5631(1)  | 12.5044(1)  | 12.3332(1)  |
+| α  ( · )           | 90          | 90          | 90          | 90          | 90          | 90          |
+| β  ·               |             |             |             |             |             |             |
+| γ  ( · )           | 90          | 90          | 90          | 90          | 90          | 90          |
+| V  (Å$^{3}$)       | 178.49(0)   | 178.08(0)   | 176.51(1)   | 174.92(0)   | 172.93(0)   | 168.05(0)   |
+| R$_{p }$           | 6.39 %      | 5.37 %      | 4.35 %      | 5.35 %      | 5.02 %      | 3.59 %      |
+| R$_{wp }$          | 8.71        | 7.16        | 5.88        | 7.03        | 6.70        | 4.89        |
+| χ 2                | 2.182       | 1.935       | 1.862       | 2.53        | 2.53        | 2.032       |
+
+card of SrLaAlO$_{4 }$ (PDF#81 -0744), including the fully substituted product SrTbAlO$_{4}$. No other impure phases were found in the XRD patterns, and these results suggest that Tb 3 + substitution did not change
+
+the crystal structure. When La 3 + was fully substituted by Tb 3 + , SrLaAlO$_{4 }$ completely transformed into SrTbAlO$_{4}$, and the characteristic diffraction peaks were shifted to a high angle as shown in Fig. 1(b). This is because
+
+Fig. 3. XPS survey spectra of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb ( x = 0, 0.03, 0.20, 1) (a), XPS core level scan of Tb 3 d (b), and O 1 s (c).
+
+Ceramics International xxx (xxxx) xxx Wang et al.
+
+Fig. 4. UV -vis absorption spectra (a) and the determination of bandgap energies (b) for SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0, 0.03, 0.20, 1).
+
+the radius (CN = 9) of Tb 3 + , La 3 + , and Sr 2 + is 1.095 Å, 1.216 Å, and 1.310 Å, respectively. Considering the ion radius difference and valence state, Tb 3 + tends to replace La 3 + , thus the lattice spacing was reduced after Tb 3 + doping. SrLaAlO$_{4 }$has a layered perovskite structure ( I 4/ mmm space group) as shown in Fig. 1(c). In this structure, Sr 2 + /La 3 + occupies the same site and is 9-coordinated by O atoms, while Al is 6-coordinated with O atoms to form octahedra.
+
+The chemical composition and chemical state of O, and Tb in the products were investigated by XPS. Fig. 3(a) shows the XPS measured spectra of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb ( x = 0, 0.03, 0.20, 1), from which it is obvious that all the spectral features are attributed to the constituent elements of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb except for the C 1 s energy level. The
+
+The Rietveld refinement results for SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.00, 0.03, 0.20, 0.30, 0.50, 1.00) are shown in Fig. 2(a -d) and Figs. S1(a and b). The refinement yielded stable results and acceptable reliability factors as shown in Table 1 and Tables S1 -S6, which indicates the products are pure phases. The structure parameters of SrTbAlO$_{4 }$( x = 1 product) have not been reported before, and it is proved in this work that it was isostructure with its SrLaAlO$_{4 }$counterpart. The cell parameters a , b , c , and V linearly decrease with a gradually increased Tb 3 + doping (Fig. 2 (e)), which proves that Tb 3 + is indeed doped into the lattice. To check the chemical composition, we performed the elemental mapping for the SrLaAlO$_{4}$: 0.03 Tb 3 + sample, as shown in Fig. S2. It is clear that the different cations Sr, La, Al, and Tb are uniformly dispersed in the particles.
+
+Fig. 3(c) shows the XPS spectra of O 1 s , where three different Lorentzian -Gaussian peaks centered around 528.4, 529.1, and 530.85 eV are observed. According to previous reports, O 1 s state always contains three binding energy components, namely, a low binding energy peak (LP), a medium binding energy peak (MP), and a high binding energy peak (HP), centered at ~530.23 eV (LP), 531.57 eV (MP), and 532.60 eV (HP) [26 -28]. LP, MP, and HP are attributed to lattice point oxygen ( O$_{L}$ ), oxygen vacancies ( V$_{o}$ ), and interstitial oxygen ( O$_{i}$ ) [27,28]. The existence of oxygen-related defects may provide a trap condition for the products to have long afterglow properties. 3
+
+binding energies for 3 d$_{5/2 }$ and 3 d$_{3/2 }$ orbitals of Tb 3 + ions are usually at ~1241 and 1275 eV, while those of Tb 4 + occur at ~1244 and 1278 eV, respectively [25]. Fig. 3(b) shows the XPS scan of the 3 d orbits of the Tb element from the SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb samples. It can be seen from the figure that for the SrLaAlO$_{4}$: 3%Tb sample, the binding energy of 3 d orbits is undetectable due to the small doping level. For SrLaAlO$_{4}$: 20% Tb and the full substituted SrTbAlO$_{4 }$ samples, the binding energies of 3 d$_{5/2 }$ and 3 d$_{3/2 }$ are at ~1240 and 1275 eV, and no other peaks were observed. It can thus be concluded that the Tb element is present in the 3 + valence state in the products.
+
+Fig. 4(a) shows the UV -vis absorption spectra of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0, 0.03, 0.20, 1). It can be found from the figure that the samples with different Tb 3 + concentrations show obviously different responses to UV light. The Tb 3 + free sample SrLaAlO$_{4 }$shows the lowest absorption in the range of 200 -255 nm, and the absorption is most likely caused by
+
+Fig. 5. The excitation (a) and emission spectra (b) of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.005 -1.000).
+
+Ceramics International xxx (xxxx) xxx Wang et al.
+
+Fig. 5(b) and Fig. S3(b) show the emission spectra of the SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + samples excited by 274 nm (Fig. 5(b)) and 370 nm (Fig. S3(b)) respectively. Similar emission spectra were obtained by 274 nm and 370 nm excitation. Emission peaks in the 400 -650 nm range are due to the $^{5}$D$_{3}$ $^{$_{→}$7}$F$_{J }$ ( J = 5, 4) and $^{5}$D$_{4}$ $^{$_{→}$7}$F$_{J }$ ( J = 6, 5, 4, 3) transitions of Tb 3 + as labeled in the figure [35]. The intensity of the main emission (544 nm, $^{5}$D$_{4}$ $^{$_{→}$7}$F$_{5}$ ) increases first with increasing Tb 3 + concentration and reaches a maximum at a Tb 3 + concentration of 0.20. However, when the Tb 3 + content exceeds 0.20, the intensity of the emission peaks decreases. The quantum efficiencies for typical products were also tested as shown and summarized in Fig. S4 and Table S7. It can be seen that with increasing Tb 3 + the quantum efficiencies show a similar tendency with the emission intensity, and reach the highest value of 32.21 % when the Tb 3 + doping level is 20 at%. This phenomenon is known as the concentration quenching effect. Such a high quenching concentration benefits from the layered structure of the SrLaAlO$_{4 }$matrix and Tb 3 + -Tb 3 + in the different layers was well separated by the interlayer [AlO$_{6}$] polyhedron. The large Tb 3 + -Tb 3 + distance inhibits the energy transfer between Tb ions and restrains the quenching, which makes it possible that the luminescence quench at high concentrations in SrLaAlO$_{4}$:Tb 3 + . Moreover, further analysis found that emissions from the $^{5}$D$_{3 }$level show different intensity quenching behaviors compared with above analyzed $^{5}$D$_{4 }$emissions. As shown in Figs. S3(c and d), the $^{5}$D$_{3 }$ emissions reach the strongest intensity at x = 0.01 and steadily lose intensity after x = 0.01 with increasing Tb 3 + , and are almost completely quenched at = 0.20. This can be explained by cross-relaxation between the excited and ground states of two Tb 3 + ions, that is, the $^{5}$D$_{4 }$level was populated by quenching the $^{5}$D$_{3 }$level via Tb 3 + ($^{5}$D$_{3}$) + Tb 3 + ($^{7}$F$_{0}$) → Tb 3 + ($^{5}$D$_{4}$) + Tb 3 + ($^{7}$F$_{6}$) [36, 37]. 3
+
+Fig. 6. The decay curves for the main emission (544 nm) of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.005 -1.000) (a) and the decay curves for the main emission (544 nm) of SrLaAlO$_{4}$: 0.20 Tb 3 + excited by different wavelength ( $^{λ}$ex = 274 nm and 370 nm).
+
+host absorption. Slight Tb 3 + doping (SrLaAlO$_{4}$: 0.03 Tb 3 + ) obviously enhanced the absorption, moreover, the profile of the absorption is different from the SrLaAlO$_{4 }$host, where split peaks at 211 and 260 nm were observed, with the 211 nm peak much stronger. The 20 at% Tb 3 + doping samples show similar absorption behavior with the 3 at% doped one, but the peaks at 211 and 260 nm basically show equal strong intensity with the 260 nm one slightly stronger. The promotion of the Tb 4 f electron to the excited 5 d shell produces two excited states, which are the high-spin $^{9}$D$_{J }$state and the low-spin $^{7}$D$_{J }$state. According to Hund ' s rule, the excited state of $^{9}$D$_{J }$has a lower energy, $^{7}$F$_{J}$ $^{$_{→}$9}$D$_{J }$ transition is spin forbidden, $^{7}$F$_{J}$ $^{$_{→}$7}$D$_{J }$ transition is spin allowed, and is related to the band at higher energy. Thus, the two peaks observed at 211 nm and 260 nm in the UV -vis absorption spectra are attributed to the lowest spinallowed $^{7}$F$_{J}$ $^{$_{→}$7}$D$_{J }$ transition absorption and the lowest spin-prohibited $^{7}$F$_{J}$ $^{$_{→}$9}$D$_{J }$ transition absorption, respectively [29,30]. The full substituted product SrTbAlO$_{4 }$ shows broad absorption in the 200 -350 nm region.
+
+The estimation of the bandgap energy can be determined according to Tauc ' s formula [31]:
+
+GLYPH<0>
+
+where, n = 1/2 for direct semiconductors, and K , α , and h ν are the constants, absorbance, and photon energy, respectively. According to the curve of ( α h ν ) 2 versus h ν , the bandgap energy of SrLaAlO$_{4 }$ was determined to be ~5.11 eV by extrapolating the linear part of the curve [32]. The bandgap energy values for Sr(La$_{0.97}$Tb$_{0.03}$)AlO$_{4 }$ and Sr (La$_{0.8}$Tb$_{0.2}$)AlO$_{4 }$were also obtained as E$_{g }$ = 5.06 eV and E$_{g }$ = 4.21 eV, respectively. The decrease in the E$_{g }$ value of Sr(La$_{0.97}$Tb$_{0.03}$)AlO$_{4 }$and Sr (La$_{0.8}$Tb$_{0.2}$)AlO$_{4 }$is caused by the occurrence of extra electronic states of Tb 3 + ions within the SrLaAlO$_{4 }$host band gap [33]. The band gap for the full substituted product SrTbAlO$_{4 }$is 4.32 eV.
+
+## 3.2. The photoluminescence and restrained concentration quenching of Tb 3 + in Sr(La$_{1-x}$Tb$_{x}$)AlO$_{4 }$ (x = 0 -1)
+
+Fig. 5(a) shows the excitation spectra of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.005 -1.000). Monitored by 544 nm, the excitation spectra include band excitation from 235 to 330 nm and strong peak excitations from 330 to 375 nm. The band excitation can be attributed to the 4 f $^{8$_{→}$}$4 f $^{7}$5 d $^{1 }$transition of Tb 3 + , and the sharp peaks are especially due to $^{7}$F$_{6}$ $^{$_{→}$5}$D$_{0 }$ (319 nm),  $^{7}$F$_{6}$ $^{$_{→}$5}$G$_{2 }$ (341 nm),  $^{7}$F$_{6}$ $^{$_{→}$5}$D$_{2 }$ (352 nm),  $^{7}$F$_{6}$ $^{$_{→}$5}$G$_{5 }$ (360 nm), $^{7}$F$_{6}$ $^{$_{→}$5}$G$_{6 }$ (370 nm), and $^{7}$F$_{6}$ $^{$_{→}$5}$D$_{3 }$ (379 nm) transitions of Tb 3 + [34]. Interestingly, the 4 f $^{8$_{→}$}$4 f $^{7}$5 d $^{1 }$band is red-shifted from 268 nm to 276 nm with increasing Tb 3 + doping, as shown in Fig. S3 (a). This may be due to
+
+the fact that the excitation at 274 nm belongs to the 4 f -5 d energy level transition, which is allowed to be a transition between group states and is strongly influenced by the surrounding environment. So, with the increase of doping concentration, the excitation shows a red shift. However, the excitation peaks in the range of 320 -380 nm belong to f -f transitions, which are forbidden and less affected by the environment because the 4 f electrons in the inner layers are shielded by the 5 s and 5 p shell electrons. Therefore, the shape and position of the excitation peaks do not change with increasing doping concentration.
+
+The decay curves for the main emission (544 nm) of Tb 3 + were measured and the corresponding average decay times for products with different Tb 3 + concentrations were calculated. The decay curves (Fig. 6 (a)) can be fitted by a double exponential function [38]:
+
+Ceramics International xxx (xxxx) xxx Wang et al.
+
+Fig. 7. Thermoluminescence analysis of SrLaAlO$_{4 }$calcined in air and N$_{2}$/H$_{2 }$atmospheres, respectively (a). Thermoluminescence spectra for the SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.000 -1.000) (b), all samples were obtained by calcination under N$_{2}$/H$_{2 }$atmosphere.
+
+where the I is the luminescence intensity at time t , A$_{1 }$ and A$_{2 }$ the constants, and τ $_{1 }$and τ $_{2 }$are the decay times of the two exponential components. The average lifetime τ can then be determined with the equation [38]:
+
+GLYPH<0>
+
+The average decay times are summarized in Table S8, and the lifetime reaches a maximum of 1.342 ms at a Tb 3 + doping concentration of 0.02. With the increase in the Tb 3 + concentration, the average decay times of the SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + phosphor decreases, which is attributed to the interactions between adjacent Tb 3 + ions. Furthermore, since the products are excitable both by 274 and 370 nm, the fluorescence decay curves of SrLaAlO$_{4}$: 0.20 Tb 3 + under different excitations ( $^{λ}$ex = 274 nm and 370 nm) are shown in Fig. 6(b). It can be found that the average decay time obtained under 274 nm excitation for the main emission of the same sample is longer than that obtained under 370 nm excitation. This may be because the sample produces afterglow emission under 274 nm excitation, and as a result, prolongs the average decay time for the main emission.
+
+## 3.3. Novel long afterglow luminescence of Tb 3 + in SrLaAlO$_{4 }$
+
+The thermoluminescence behaviors of the products were investigated and the result is shown in Fig. 7. Since the calcination atmosphere
+
+would obviously influence the oxygen-related defects, the thermoluminescence spectra of SrLaAlO$_{4 }$host calcined in air and 90 % N$_{2}$ + 10 % H$_{2 }$ atmosphere were primarily investigated (Fig. 7(a)). It is clearly observed from Fig. 7(a) that the sample calcined in the air has two thermoluminescence bands at 69.99 · C and 211.61 · C, which indicates that two trap energy levels exist. It is well known that the electron trap depth can be estimated by the following equation [39]:
+
+where T$_{m }$ is the peak/subpeak temperature in Kelvin, thus the two thermoluminescence bands in Fig. 7(a) corresponds to a shallow trap and a deep trap respectively. However, in contrast, the sample calcined in a reducing atmosphere (90 % N$_{2}$ + 10 % H$_{2}$) has only one thermoluminescence band (104.53 · C), indicating that defects changed in a reducing atmosphere and only one trap level remains in the obtained sample. Based on the XPS results in Fig. 3, it can be concluded that the shallow and deep traps correspond to oxygen vacancy and interstitial oxygen defects, respectively for the product calcined in the air, and the remaining trap in the product calcined in H$_{2}$/N$_{2 }$was oxygen vacancy. The reason is that the H$_{2}$-containing reducing atmosphere would consume and restrain the formation of interstitial oxygen, thus the concentration of O$_{i }$ is too low and undetectable via thermoluminescence. Fig. 7(b) shows the thermoluminescence spectra of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 +
+
+Fig. 8. Long afterglow luminescence decay curves of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.005 -0.400) samples (a), all of which were irradiated with 254 nm UV light for 3 min. Long afterglow luminescence decay curves of SrLaAlO$_{4}$: 0.03 Tb 3 + (b). The inset in (b) shows long afterglow luminescence photographs of SrLaAlO$_{4}$: 0.03 Tb 3 + taken at different times after removal of the excitation source.
+
+Ceramics International xxx (xxxx) xxx Wang et al.
+
+Fig. 9. The long afterglow luminescence mechanism for SrLaAlO$_{4}$: 0.03 Tb 3 + sample.
+
+( x = 0.000 -1.000), all the samples were obtained by calcination in a reducing atmosphere. It can be found that after 0.5 at% Tb 3 + doping the thermoluminescence band was greatly enhanced by 31.04 times as shown in Fig. S5. With the increasing Tb 3 + doping, the thermoluminescence intensity reaches the highest when the doping level is 3 at%. When the doping concentration exceeds 20 at%, the thermoluminescence intensity almost disappears. The long afterglow luminescence would be significantly influenced by the trap depth and trap concentration. According to the previous literature, the trap depths of 0.6 -0.8 eV are beneficial for long afterglow luminescence performance because such traps are suitable for releasing trapped electrons at room temperature [40], and in the 0.6 -0.8 eV range, the deeper trap is more conducive to electron storage and show better long afterglow luminescence. For the factor of trap concentration, normally the higher trap concentration with proper trap depth yields better long afterglow. The electron trap depth of the SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.000 -1.000) samples obtained in this work is calculated using equation (6) and shown in Table S9, and it can be found that the defect depth of all samples is in the 0.6 -0.8 eV range. The trap concentration is calculated by integrating the thermoluminescence band, and the calculation results are shown in Table S9. The defect concentration increases with the increasing Tb 3 + doping and reaches the maximum at 3 at%, which indicates a longer afterglow for this sample. When the doping concentration of Tb 3 + exceeds 0.50, the TL intensity and trap concentration are very low, thus although the trap depth increases the afterglow phenomenon cannot be generated. 3
+
+The long afterglow luminescence of SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + ( x = 0.005 -0.400) was checked after irradiation by 254 nm ultraviolet light for 3 min as shown in Fig. 8(a). The strongest initial intensity and the slowest decay of afterglow intensity are obtained when the doping concentration is x = 0.03. This is consistent with the thermoluminescence results in Fig. 7, where the relatively high trap concentration and deeper defects were observed at a doping concentration of x = 0.03. When the Tb 3 + content exceeds 0.03, the band gap of sample decreases (Fig. 4(b)), causing the conduction band to move down and the trap to become shallow (Fig. 7(b) and Table S9). At this point, the electrons in the trap are more likely to escape, resulting in a reduction in the decay time of the afterglow. Fig. 8(b) shows the long afterglow luminescence decay curve of SrLaAlO$_{4}$: 0.03 Tb 3 + . It can be clearly observed that the sample still has luminescence intensity over 1 h after the removal of the UV lamp. The inset of Fig. 8(b) shows photographs of the long afterglow luminescence for SrLaAlO$_{4}$: 0.03 Tb 3 + taken at different times after the
+
+sample was irradiated by a 254 nm UV lamp for 3 min. As can be seen in the figure, green emissions could still be observed by the naked eye after the UV lamp was removed over 25 min.
+
+Based on the above discussion, a possible and reasonable mechanism for SrLaAlO$_{4}$:Tb 3 + afterglow is proposed, as shown in Fig. 9. Under the excitation of ultraviolet light (254 nm), the ground state electrons in Tb 3 + ions are excited from the 4 f orbital to the 5 d state in the conduction band. This is similar to previous reports [41 -44]. Some electrons in the 5 d state relaxed to the  $^{5}$D$_{3 }$ energy level, resulting in Tb 3 + signature emission. The remaining electrons are captured by the oxygen vacancy ( V$_{o}$ ). After stopping the excitation, the electrons in the trap relax to the $^{5}$D$_{3 }$level through the conduction band, resulting in afterglow emission.
+
+## 4. Conclusions
+
+A series of Tb-substituted layered perovskite SrLa$_{1-}$$_{x}$AlO$_{4}$: x Tb 3 + were synthesized via solid-state reaction, and the influence of Tb 3 + doping on the phase, morphology, and optical properties of SrLaAlO$_{4 }$ was investigated. The photoluminescence and long afterglow of SrLaAlO$_{4}$:Tb were systematically evaluated, and the mechanism was proposed. The main conclusions are as follows: The substitution of Tb doesn ' t influence the crystal structure of SrLaAlO$_{4}$. The full substitution products of SrTbAlO$_{4 }$were isostructural with its SrLaAlO$_{4 }$counterpart, and its structure parameters were first reported. The bandgap of SrLaAlO$_{4}$:Tb 3 + was narrowed after Tb 3 + doping. Benefiting from the structural characteristics of layered perovskite, the photoluminescence quenching of Tb 3 + in SrLaAlO$_{4 }$ was effectively restrained, and the quenching concentration was as high as 20 at%. Novel long afterglow luminescence was observed in SrLaAlO$_{4}$:Tb due to the presence of oxygen vacancy in the host, and the afterglow time is over 1 h. The afterglow luminescence mechanism was proposed, and can well explain the observed phenomenon.
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Acknowledgements
+
+This work is supported by Natural Science Foundation of the Educational Department of Liaoning Province (Grant No. JYTMS20231627) and the Natural Science Foundation of Liaoning Province (Grant No. 2020-MS-286). The authors would like to thank Haijiao Xie from Shiyanjia Lab (www.shiyanjia.com) for the FE-SEM analysis.
+
+## Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.ceramint.2023.12.415.
+

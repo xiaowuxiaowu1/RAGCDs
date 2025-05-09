@@ -1,0 +1,177 @@
+## 1. Introduction
+
+Journal Pre-proof Due to the increasing depletion of primary energy of fossil fuels, the demand for clean and sustainable energy technologies is continuously increasing. Solid oxide fuel cells (SOFCs) are highly efficient and environmentally friendly solid-state devices, which thereby have attracted significant attention [1-5]. To promote the commercialization, it is highly demanded for SOFCs to lower the operation temperature (  800  C), which can broaden the materials selection and reduce the cost. However, at redued temperatures, the cathodes of SOFCs are still the main reason for the efficiency loss of the existing systems and performance degradation [6-8]. It is therefore of significant importance to explore high efficient and durable cathode materials [9-11].
+
+Mixed ionic electronic conductors (MIECs) have been extensively evaluated as cathode materials for intermediate temperature SOFCs (IT-SOFCs) [12-14]. Currently, perovskite oxides including La$_{0.6}$Sr$_{0.4}$Co$_{0.2}$Fe$_{0.8}$O$_{3-δ }$(LSCF),
+
+Ba$_{0.5}$Sr$_{0.5}$Co$_{0.8}$Fe$_{0.2}$O$_{3-δ }$(BSCF) and double perovskite oxides like LnBaCo$_{2}$O$_{5+δ }$(Ln = La, Pr, Nd, Sm, etc.) are receiving increasing attention due to their excellent catalytic activity for ORR and rapid electrical transport properties [15, 16]. Special attention has been paid on double perovskite cathodes, due to is unique structure. The structure is laminar with alternating planes of lanthanides and alkaline earths, which allows for
+
+the rapid movement of oxygen ions [17]. Among LnBaCo$_{2}$O$_{5+δ}$ materials, the PrBaCo$_{2}$O$_{5+δ}$ has been reported with the best electrochemical performance [18, 19].
+
+Journal Pre-proof Despite the importance of electrochemical performance, electrode stability is also a crucial factor for commercial applications. Alkaline earths such as Ba and Sr are commonly used in cathode design, but they will be segregated to the surface, forming corresponding oxides during high temperature preparation or operation. When the cathodes are exposed to CO$_{2}$ contained air, carbonates will be formed, resulting in performance degradation [20-22]. For instance, after 100 h operation in air with 8 vol% CO$_{2}$ at 700 °C, the polarization resistance (R$_{p}$) value of LSCF cathode increased from 0.26 Ω cm$^{2}$ to 1.92 Ω cm$^{2}$ [14]. After exposure to 10% CO$_{2}$-air mixture for 11 h at 700 °C, the R$_{p}$ value of PrBaCo$_{2}$O$_{5+δ}$ increased from 0.061 to 0.225 Ω cm$^{2}$, which highlights the necessity of developing CO$_{2}$-tolerant cathode materials [23]. By tuning the elemental components or microstructure, the CO$_{2 }$tolerance can be significantly enhanced. Liu et al. reported that replacing Ba with certain Ca could increase the stability in the presence of CO$_{2}$ [24]. Li et al. designed a
+
+La$_{2}$NiO$_{4+δ}$/PrBa$_{0.5}$Sr$_{0.5}$Co$_{1.5}$Fe$_{0.5}$O$_{5+δ}$ composite cathode and found the surface of optimized cathode remains clean with enhanced robustness in a CO$_{2}$-rich atmosphere [25]. Due to the increasing demand for the performance and stability, the development of advanced air electrodes are still required for IT-SOFCs.
+
+Recently, medium- or high-entropy concept has been transferred to cathode development, due to their unique features of adjustable compositions and material
+
+functionalities [26-30]. The configuration entropy ( S$_{config}$ ) of ABO$_{3}$-type perovskites is calculated using the following equation [31]:
+
+Where R represents the constant of ideal gas, n represents the number of components in the same location and x$_{i}$ (i=a, b and c) represents the molar fractions of the different elements in their respective positions. The degree of disorder in a system can be assessed using the magnitude of S$_{config}$ . High- or medium- entropy can be defined when S$_{config}$ is greater than 1.5 R or in the range of 1.0 R ≤ S$_{config}$ ≤1.5 R , respectively [32]. The mixed Gibbs free energy ( Δ G$_{mix}$ ) is calculated by the following formula [33]:
+
+(2)
+
+For medium- to high-entropy materials, their structural Gibbs free energy is minimized, allowing them to remain thermodynamically stable even at high temperatures [34]. In addition, the high lattice distortion and stress field disorder induced by the difference in cation size can slow down the diffusion of ions and thereby improves the structural stability [29, 35]. Chen et al. reported Pr$_{0.2}$Ba$_{0.2}$Sr$_{0.2}$La$_{0.2}$Ca$_{0.2}$CoO$_{3-δ }$(PBSLCC) as a favorable oxygen electrode, which exhibits improved ORR activity and superior durability [36, 37]. Shao et al. developed six equimolar cations at the A-site, Pr$_{1/6}$La$_{1/6}$Nd$_{1/6}$Ba$_{1/6}$Sr$_{1/6}$Ca$_{1/6}$CoO$_{3-δ}$ (PLNBSCC). Owing to it's the high electrons/ions conductivity, PLNBSCC is a bifunctional air electrode with high performance [38]. A medium-entropy perovskite
+
+Journal Pre-proof
+
+SrFe$_{0.25}$Ti$_{0.25}$Co$_{0.25}$Mn$_{0.25}$O$_{3-δ}$ has been reported with a high power density of 1.02 W cm$^{-2}$ at 850 ℃ and good structural stability in the actual operation [28]. The above progresses confirm that perovskite oxides with higher configuration entropy have enormous promise in SOFC cathode applications.
+
+## 2. Experimental
+
+## 2.1. Materials synthesis
+
+PrBaCo$_{2}$O$_{5+δ }$(PBC), PrBa$_{0.8}$Ca$_{0.2}$Co$_{2}$O$_{5+δ }$(PBCC) and PrBa$_{0.5}$Sr$_{0.25}$Ca$_{0.2}$Ce$_{0.05}$Co$_{2}$O$_{5+δ}$ (PBSCCC) powders were prepared via a sol-gel process using citric acid (CA) and ethylenediamine tetraacetic acid (EDTA) as complexing agents. The required quantities of Pr(NO$_{3}$)$_{3}$·6H$_{2}$O, Ba(NO$_{3}$)$_{2}$, Sr(NO$_{3}$)$_{2}$, Ca(NO$_{3}$)$_{2}$·4H$_{2}$O, Ce(NO$_{3}$)$_{3}$·6H$_{2}$O and Co(NO$_{3}$)$_{2}$·6H$_{2}$O were dissolved in distilled water. The remaining CA and EDTA were then added while stirring at 80 °C. The mole ratio of total metal ions/CA/EDTA was set as 1:1.5:1 and the pH value of
+
+Journal Pre-proof In order to increase the configuration entropy value and thus the structural stability, a medium-entropy perovskite oxide PrBa$_{0.5}$Sr$_{0.25}$Ca$_{0.2}$Ce$_{0.05}$Co$_{2}$O$_{5+δ}$ (PBSCCC, S$_{config}$ = 1.16 R ) was designed. In this study, the PBSCCC was evaluated in contrast to the traditional high performance PrBaCo$_{2}$O$_{5+δ}$ (PBC) and PrBa$_{0.8}$Ca$_{0.2}$Co$_{2}$O$_{5+δ}$ (PBCC) cathodes. The influence of configuration entropy on the electrochemical properties and stability of under CO$_{2 }$was investigated. The results demonstrate the A-site medium-entropy cathode with high performance and superior stability is thus very promising for SOFC applications.
+
+solution was regulated to between 7 and 7.5 with ammonia. The purple viscous gel was formed due to the continuous evaporation of water. It was then dried in an oven at 200 °C for 12 h. The dried gel was calcined at 1100 °C for 5 h to get the phase-pure powders. Sm$_{0.2}$Ce$_{0.8}$O$_{1.9}$ (SDC) powder was synthesized using the sol-gel process with CA as complexing agent, and calcined at 800 °C for 4 h. Dense electrolyte pellets were obtained by pressing 0.25 g SDC powder into 13 mm diameter discs followed by calcining at 1400 °C for 4 h.
+
+## 2.2. Basic characterization
+
+Journal Pre-proof The X-ray diffraction (XRD, Bruker D8 Advance diffractometer, Cu-Kα radiation) method was used to study the crystal structures. To check the chemical compatibility, the blended powder of PBSCCC-SDC (7:3 mass ratio) was calcined at 1000 °C for 5 h. Scanning electron microscopy (SEM) and energy dispersive X-ray spectroscopy (EDS) were conducted using a Hitachi SU8010 for microstructure and composition analysis. Dense bars of PBC, PBCC and PBSCCC were calcined at 1150 °C for 10 h in air for electrical conductivity test. The conductivity was measured using a DC four terminal method at 100-850 °C in air. Electrical conductivity data was recorded through a high-precision digital multimeter (Keithley DAQ6510). The surface element states were probed using X-ray photoelectron spectroscopy (XPS, Thermo Scientific K-Alpha). Raman spectroscopy (LabRam, Horiba Jobin-Yvon) was applied with a wavelength of 532 nm. Raman mapping was carried out in a step of 0.15 µm. CO$_{2}$ Temperature programmed desorption (CO$_{2}$-TPD) technique was used to study sample surface basicity using a AutoChem II 2920 in combination with OmniStar
+
+mass spectrometers. Powder samples (0.1 g) were pre-treated in He flow at 500 ℃ for 1 h and then cooled down to 50 ℃. The adsorption of CO$_{2}$ was carried out under pure CO$_{2}$ at 50 ℃ for 1 h. Finally, samples were heated from 50 ℃ to 850 ℃ in He flow at a heating rate of 10 ℃ min$^{-1}$.
+
+## 2.3. Electrochemical characterization
+
+Journal Pre-proof For the electrochemical studies, symmetrical half-cells were used with an electrode/SDC/electrode configuration. Cathode powders were ball-milled for 12 h, which were then combined with organic binder (consisting of 5.5 wt% ethyl cellulose and α-terpineol) in an appropriate ratio of 7:3 to obtain slurries. The cathode slurries were symmetrically painted onto both surfaces of SDC electrolyte with an active area of 0.12 cm$^{2}$, which were subsequently sintered at 1000 °C for 2 h to get porous cathodes. Electrochemical impedance spectroscopy (EIS) was collected using an electrochemical workstation (Admiral Squidstat Plus) under open cell voltage condition. The applied frequency ranged from 100 kHz to 0.1 Hz with a signal amplitude of 10 mV. For CO$_{2}$ tolerance evaluation, cathodes were tested under a 10 % CO$_{2}$-air atmosphere.
+
+## 3. Results and discussion
+
+## 3.1. Crystal structure and phase analysis
+
+Shown in Fig. 1a are a schematic view of the crystal structures of PBC and PBSCCC. A medium-entropy cathode is designed by introducing three alkaline earth metals and cerium element at the A site of double perovskites. XRD patterns of PBC,
+
+PBCC and PBSCCC powders are shown in Fig. 1b, all of which present as a phase-pure layered perovskite structure (tetragonal, space group P4/mmm) without visible impurities. Compared to the parent PBC sample, the peak at 2θ  33° is shifted towards higher angles, implying lattice shrinking, because of the substitution of smaller sized Sr$^{2+}$, Ca$^{2+}$ and Ce$^{3+}$ ions. It has been reported that the doping of Ca and Sr can reduce the tolerance factor and improve the crystal symmetry, thereby affecting the bimodal peak shape of the XRD pattern [39, 40]. The Rietveld refining data for PBC, PBCC and PBSCCC are shown in Figs. 1c, d and S1, and it can be found that the experimental and computational results are well matched. Based on Rietveld refinement results, the lattice parameters are obtained in Table S1. In addition, no new peaks were detected after the PBSCCC-SDC admixture was calcined at 1000 °C for 5 h. This suggests that PBSCCC cathode exhibits favorable chemical compatibility with SDC electrolyte.
+
+Journal Pre-proof
+
+Fig. 1. (a) Schematic diagrams of PBC and PBSCCC structures. (b) X-ray diffraction patterns of PBC, PBCC, PBSCCC and PBSCCC-SDC admixture. Rietveld refinement of XRD patterns for (c) PBC and (d) PBSCCC from 2θ =20 to 80°.
+
+## 3.2. Microstructure and elemental analysis
+
+Journal Pre-proof The as-prepared cathode powders were analysed by SEM and EDS, as shown in Fig. 2a, b and Figs. S2, S3. The SEM images of three samples show no significant changes, indicating that the doping of multiple elements does not change the microscopic morphology of the PBC material. The EDS element mappings clearly show that all elements are evenly distributed and no enrichment of certain elements is found. Furthermore, EDS spectrum in Fig. 2c confirms the co-existence of Ba, Sr, Ca, and Ce elements for the PBSCCC. The atomic ratio measured by EDS analysis is consistent with the stoichiometric composition. Both XRD and EDS results distinctly confirm that the single-phase medium-entropy perovskite oxide is successfully formed.
+
+Fig. 2. SEM images and corresponding EDS element mappings for (a) PBC and (b) PBSCCC. (c) EDS profile of the PBSCCC.
+
+## 3.3. XPS studies
+
+Journal Pre-proof XPS is employed to analyze the surface chemical states of PBC and PBSCCC samples. The XPS surveys depicted in Fig. S4 validate the presence of all anticipated elements in both samples, in agreement with EDS analysis. Shown in Fig. 3a and b are SEM images of PBC and PBSCCC after calcination at 1100 °C for 5 h. It is evident that the surface of medium-entropy one is smoother and cleaner than PBC cathode because of less cation segregations. The high-resolution Ba 4d spectra in Fig. 3c exhibit two distinct parts. The peaks at 87.6 eV and 90.4 eV are assigned to Ba in the perovskite structure, while two bands at 89.6 eV and 92.2 eV are assigned to surface Ba-containing species such as BaO and BaCO$_{3}$ [41-43]. The estimated lattice
+
+## Journal Pre-proof
+
+Ba content of PBSCCC is 48.3 % higher than that of PBC (43.9 %), indicating a reduced amount of Ba cations accumulated in the medium-entropy material surface. The surface Ba species identified here are crucial for influencing both the activity and stability of cathodes [44, 45]. This finding suggests that the composition with medium-entropy can decrease the presence of surface Ba species.
+
+Journal Pre-proof In high-resolution Co 3p (Fig. 3d) spectra, mixed-valence states of 3+ and 4+ can be found in the PBC and PBSCCC. The ratios of Co$^{4+}$ to Co$^{3+}$ in PBC and PBSCCC are 0.41 and 0.58, respectively. O 1s regions in Fig. 3e include three characteristic bands at about 528.7, 531.2 and 532.8 eV, which can be respectively attributed to lattice oxygen (O$_{lat}$), adsorbed oxygen (O$_{ad}$) and surface adsorbed water (H$_{2}$O$_{ad}$) [46]. The proportion of lattice oxygen in PBSCCC (27.8 %) is higher than that in PBC (24.7 %), which is also consistent with the conclusion that the average valence of medium-entropy material Co increases and the proportion of lattice Ba increases. The Pr 3d$_{5/2}$ and 3d$_{3/2}$ peaks in Fig. 3f indicate the co-existance of Pr$^{3+}$ and Pr$^{4+}$ species in both samples [47], and no conspicuous distinction in the surface chemical states between PBC and PBSCCC can be found. The spectra of Sr 3d, Ca 2p, and Ce 3d in PBSCCC are displayed in Fig. S5, providing additional evidence for the presence of these elements.
+
+Fig. 3. SEM images of (a) PBC and (b) PBSCCC calcined at 1100 °C for 5 h. High-resolution XPS spectra of (c) Ba 4d, (d) Co 3p, (e) O 1s and (f) Pr 3d for PBC and PBSCCC.
+
+Journal Pre-proof
+
+## 3.4. Electrical conductivity
+
+The electrical conductivities and Arrhenius plots for PBO, PBCC and PBSCCO are presented in Fig. 4a and b. Between 100 and 850 °C, all samples exhibit a decrease in electrical conductivity as temperature rises, indicating metallic conduction behavior. The electrical conductivity can be described by the small polaron conduction
+
+mechanism, and electrons hop between Co$^{4+}$- O$^{2-}$- Co$^{3+ }$for conduction [18, 48, 49]. At 700 °C, the conductivity values of PBC, PBCC and PBSCCC are 471.6 S cm$^{-1}$, 634.5 S cm$^{-1}$ and 935.5 S cm$^{-1}$, respectively, significantly surpassing the required threshold (100 S cm$^{-1}$) for application in SOFCs [50]. All samples show linear relationships in the low temperature region of the Arrhenius plots, and the activation energies for PBC, PBCC and PBSCCC are calculated as 3.01, 2.97 and 2.74 kJ mol$^{-1}$, respectively (Fig. 4b). The highest conductivity of the medium-entropy PBSCCC over the entire studied temperature range, which is mainly due to the increase of Co$^{4+ }$ratio, as confirmed by the XPS results in Fig. 3d. The increase of Co$^{4+}$ ions concentration in PBSCCC is attributed to the doping of Ca, Sr and Ce cations with reduced radius difference between A and A' in double perovskite lattice, leading to the increase of cation coordination number and oxygen content, which has been reported previously [51-53].
+
+Fig. 4. Temperature-dependent curves of (a) electrical conductivity. (b) Arrhenius plots of PBC, PBCC and PBSCCC samples at 100-850 ℃ in air.
+
+Journal Pre-proof
+
+## 3.5. ORR activity
+
+Journal Pre-proof The electrocatalytic performance of as-prepared three cathodes for ORR was assessed using impedance spectroscopy. Fig. 5a shows the Nyquist plots collected at 700 ℃ in air, fitted with an equivalent circuit containing three semicircles (R$_{Ω}$-(R$_{HF}$//CPE$_{HF}$)-(R$_{MF}$//CPE$_{MF}$)- (R$_{LF}$//CPE$_{LF}$). The R$_{p}$ value of PBSCCC is 0.027 Ω cm$^{2}$ at 700 ℃, remarkably smaller than that of PBC and PBCC (0.047 and 0.034 Ω cm$^{2}$). Fig. 5b presents a comparison of R$_{p}$ values at various temperatures, affirming that the PBSCCC cathode exhibits the lowest values within the tested temperature range. Arrhenius plots for three cathodes are provided in Fig. 5c. The apparent activation energies (E$_{a}$) of PBC, PBCC and PBSCCC are computed to be 103.1 kJ mol$^{-1}$, 101.8 kJ mol$^{-1}$ and 112.4 kJ mol$^{-1}$, respectively. The distribution of relaxation time (DRT) technique is employed to elucidate the particular reaction sub-steps involved in the electrode process. Fig. 5d compares the DRT curves of three cathodes at 700 °C. It appears that each profile contains three elementary sub-processes, e.g., low-frequency (mass transfer near the interface), medium-frequency (oxygen surface exchange and charge transfer processes), and high-frequency (oxygen ion transport across the electrode/electrolyte interface) [23, 44, 54]. For PBSCCC cathode, the peak areas corresponding to each frequency are reduced, especially for high- and medium-frequency regions. It implies that the medium-entropy cathode has a high ion mobility and charge transfer rate, which greatly accelerates the ORR kinetic process, attributed to its less surface segregation and higher electrical conductivity.
+
+Fig. 5. (a) Impedance spectra of symmetrical half-cells for PBC, PBCC and PBSCCC cathodes measured under OCV conditions at 700 ℃. (b) Polarization resistances at different temperatures and (c) the corresponding Arrhenius plots. (d) DRT curves of the PBC, PBCC and PBSCCC cathodes in air at 700 ℃.
+
+## 3.6. CO$_{2}$ tolerance test and post-characterizations
+
+In addition to high ORR activity, an essential concern for the practical application of SOFC cathodes is their durability towards CO$_{2}$. This is because that many perovskite cathodes with alkaline earth cations, such as Ba/Sr, are highly sensitive to CO$_{2}$ impurity. The presence of CO$_{2}$ can lead to rapid performance loss due to surface passivation via CO$_{2}$ adsorption and carbonate formation [55]. Thus, the CO$_{2}$ tolerant ability of the medium-entropy cathode was assessed in 10 % CO$_{2 }$-air. The time dependence of R$_{p}$ values is shown in Fig. 6a. After the introduction of CO$_{2}$, a
+
+Journal Pre-proof
+
+Journal Pre-proof significant increase in the R$_{p}$ is due to the adsorption of CO$_{2}$ on the cathode surface. As time progressed, it is evident that the R$_{p}$ value of PBSCCC increase very gently and that the gap between the R$_{p}$ values expand larger over time relative to those of PBC and PBCC. The PBSCCC demonstrates its excellent CO$_{2}$ tolerance, with a R$_{p}$ value of only 0.136 Ω cm$^{2}$ after 16 h test, much lower than those of PBC (0.559 Ω cm$^{2}$) and PBCC (0.285 Ω cm$^{2}$), as shown in Figs. 6b, c and S6a. In addition, after the remove of CO$_{2}$, the recovery performance of PBSCCC is also obviously better than other two electrodes. The ORR performance was not fully recovered, mainly due to plenty of carbonates and oxides being generated on the cathode surface after prolonged CO$_{2}$ treatment, which will significantly hinder processes such as gas diffusion and oxygen adsorption during the ORR process. These impedance spectra were also analyzed using DRT technique to gain further insight into the electrochemical process evolution of the cathodes, as shown in Figs. 6d, e and S6b. It is evident that both cathode materials are characterized by the integrated resistance of the P$_{LF}$ and P$_{MF}$ peaks increased continuously with time, while the characteristic frequencies of the peaks move towards the lower frequencies. The above results show that under high concentration of CO$_{2 }$atmosphere, the surface exchange process of cathodes and the mass transport process in the interface vicinity are greatly affected [24]. On the other hand, the integral resistance of PBSCCC increases gently, indicating that it has a great CO$_{2}$ tolerance ability.
+
+The CO$_{2}$ contamination of cathodes usually involves two reasons, namely, the surface adsorption of CO$_{2}$ and generation of inactive by-products at the cathode
+
+Journal Pre-proof surface. The evaluation of the interaction between the perovskite surface and adsorbed CO$_{2}$ can be determined using the CO$_{2}$-TPD technique. Fig. 6f depicts the desorption profiles of PBC and PBSCCC powders. Both samples exhibit three distinct peaks categorized as weak, medium, and strong basic sites, with the classification based on the desorption peak temperatures. Low and medium basic sites can be assigned to the adsorption reaction between oxygen vacancies on the particle surface and CO$_{2 }$gas [56, 57]. The desorption peaks of the strong basic sites essentially correspond to the decomposition of BaCO$_{3}$/SrCO$_{3}$ and the release of adsorbed CO$_{2}$ [58]. The peak area can intuitively reflect the total amount of CO$_{2}$ released by desorption. The amount of CO$_{2}$ desorption of PBSCCC is significantly smaller than PBC, indicating that the reduction of alkaline sites on the surface of the medium-entropy oxide can effectively inhibit CO$_{2}$ adsorption and carbonate production.
+
+Fig. 6. (a) Temperature dependence of R$_{p}$ values for PBC, PBCC and PBSCCC cathodes in 10 % CO$_{2 }$-air at 700 °C. EIS of symmetrical half-cells for (b) PBC and (c) PBSCCC cathodes at 700 °C in 10 % CO$_{2 }$-air. The corresponding DRT curves of (d) PBC and (e) PBSCCC. (f) CO$_{2}$-TPD profiles for PBC and PBSCCC powders.
+
+Journal Pre-proof
+
+Fig. 7a-c give the SEM images of three cathodes before CO$_{2}$ treatment. All of these initial surfaces are characterized by the presence of small segregations, especially for PBC, which could be Co$_{3}$O$_{4}$ (695 cm$^{-1}$) and BaCoO$_{3-δ}$ (718 cm$^{-1}$) based on Raman results (Fig. 7g) [59]. There is no visible Raman signal from the PBSCCC cathode. After prolonged exposure to high concentration CO$_{2}$, the surfaces of the PBC and
+
+PBCC cathodes changed significantly with the formation of many large crystals (Figs. 7d, e and S7a, b). In contrast, the surface of PBSCCC cathode is less changed with relatively less precipitations (Figs. 7f and S7c). According to the Raman and XRD results in Fig. 7h and i, the surfaces of the PBC and PBCC were contaminated greatly after CO$_{2}$ exposure. The precipitations of large amounts of Ba and Co species led to significant structure changes with partial decomposition of outer surface, producing large amounts of Co$_{3}$O$_{4}$ and BaCO$_{3}$. The production of these by-products occupied a large number of active sites, resulting in a gradual increase in R$_{p}$ values and poor performance recovery. On the contrary, only a weak Raman response of Co$_{3}$O$_{4}$ from treated PBSCCC can be detected and no other impurity peaks are found in XRD. Its initial layered perovskite structure is mainly maintained, indicating greatly enhanced structure stability after configurational entropy engineering.
+
+Journal Pre-proof
+
+Fig. 7. SEM images of initial electrodes (a) PBC, (b) PBCC and (c) PBSCCC. SEM images of (d) PBC, (e) PBCC and (f) PBSCCC cathodes after 20 h treatment in 10 % CO$_{2}$-air at 700 °C. (g) Raman spectra of initial cathodes. (h) Raman spectra and (i) XRD patterns of cathodes after CO$_{2}$ treatment.
+
+Journal Pre-proof The superb CO$_{2}$ tolerance of PBSCCC can be further validated through Raman mappings, which are generated according to the main peaks of Co$_{3}$O$_{4 }$(695 cm$^{-1}$) and BaCO$_{3}$ (1058 cm$^{-1}$) phases with unified colour scales. As compared in Fig. 8a and b, it can be vividly observed that the Raman signals of Co$_{3}$O$_{4}$ and BaCO$_{3}$ on PBC surface are very strong, especially for Co$_{3}$O$_{4}$ segregations that spread over the surface. Note that the intensity of Co$_{3}$O$_{4}$ is higher than that of BaCO$_{3}$. As Raman technique is very surface sensitive, it is reasonable to consider that the segregation amount of Co$_{3}$O$_{4}$ is more than BaCO$_{3}$. It confirms that PBC cathode is heavily polluted by formation of Co$_{3}$O$_{4}$ and BaCO$_{3}$. On the other hand, the signals of cobalt oxide and carbonate on PBSCCC surface are much weaker. The combined SEM, Raman and XRD results further confirm the greatly improved structure stability of the medium-entropy cathode, in comparison to pristine PBC and PBCC cathodes.
+
+Based on above results, a possible mechanism for the structural changes in cathode surfaces during CO$_{2}$ treatment is proposed, as illustrated in Fig. 8c. The initial PBC cathode surface may contains BaO, Co$_{3}$O$_{4}$ and BaCoO$_{3-δ}$ second phases after high temperature sintering. Under CO$_{2 }$ atmosphere, the interaction between the BaO/BaCoO$_{3-δ}$ and CO$_{2}$ could result in the formation of BaCO$_{3}$ and Co$_{3}$O$_{4}$. It has
+
+been reported that BaCoO$_{3-δ}$ is unstable under the CO$_{2}$ atmosphere, which can be easily transfer into BaCO$_{3}$ and Co$_{3}$O$_{4}$, in agreement with Raman results (Fig. 7c and d) [60]. In contrast, fewer secondary phases on PBSCCC surface are found, due to its higher structural stability.
+
+Fig. 8. Raman mappings and Raman spectra from marked area for (a) PBC and (b) PBSCCC after treatment in 10 vol% CO$_{2}$-air at 700°C. (c) A schematic diagram illustrating the possible mechanism of CO$_{2}$ interaction with two electrodes.
+
+The average metal-oxygen bond energy < ABE > is strongly correlated with the structural stability of perovskite oxides. As for AA'B$_{2}$O$_{5+δ}$ perovskite oxides, the <
+
+ABE > can be calculated as follows [61]:
+
+The higher electrical conductivity and suppressed cation surface segregation make the PBSCCC exhibit superior ORR activity compared to the other two cathodes. The improved resistance to segregation can be ascribed to the delayed diffusion effect resulting from the stress field within the medium-entropy sample [27]. With the incorporation of Sr, Ca and Ce, the different sizes of the cations at the A site leads to lattice distortion accompanied by changes in the stress field. This alteration can decelerate the migration of Ba ions and inhibit the accumulation of Ba on the surface during operation [63,64]. PBSCCC has excellent CO$_{2}$ resistance because of its
+
+Journal Pre-proof where x$_{A(B)}$$_{ }$ represents the molar fraction of A(B)-site ions; CN$_{A(B)}$ is the coordination number of cations at A(B)-site; Δ H$_{A(B)}$$_{m}$$_{O}$$_{n}$ and Δ H$_{A(B)}$ signifies the enthalpy of formation of 1 mol of A(B)$_{m}$O$_{n}$ and the sublimation energy of A(B) metal at 25 ℃; D$_{O}$$_{2}$ represents the dissociation energy of O$_{2}$ [58]. The calculated ABE values for three cathodes are listed in Table 1. The PBSCCC has the most negative ABE value among them, which is beneficial to its lattice stability and CO$_{2}$ tolerance. In addition, the cation acidity sequence is as follows Co$^{3+ }$> Ca$^{2+ }$> Pr$^{3+ }$>Ce$^{3+}$> Sr$^{2+}$> Ba$^{2+}$ [62]. PBSCCC is less basic and has a reduced reaction activity with the acidic CO$_{2}$.
+
+## Journal Pre-proof
+
+negative ABE value, high acidity and reduced surface segregations due to its the unique property of medium-entropy design, as confirmed by XPS, SEM and Raman results. The combined reasons lead to a substantial reduction in CO$_{2}$ adsorption and reaction sites on the cathode surface, as evidenced by CO$_{2}$-TPD profiles.
+
+## 4. Conclusion
+
+In summary, a PrBaCo$_{2}$O$_{5+δ}$ derived medium-entropy double perovskite oxide was proposed and studied in detail for the cathode of IT-SOFCs. PBSCCC exhibits high electrical conductivity and superb ORR activity with a low R$_{p}$ value of only 0.027 Ω cm$^{2}$ at 700 °C. In addition, the PBSCCC has better CO$_{2}$ durability than the advanced PrBa$_{0.8}$Ca$_{0.2}$Co$_{2}$O$_{5+δ}$ cathode, due to the increased entropy value, which can significantly inhibit the surface segregations, thereby reducing the generation of secondary phases that can react with CO$_{2}$. Our study indicates that the configurational
+
+Table 1 calculated ABE values for PBC, PBCC and PBSCCC materials.
+
+| Sample                                                             | <B-O> <ABE>                                                        | <B-O> <ABE>                                                                                              | <B-O> <ABE>                                                        | <B-O> <ABE>                                                        |
+|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| Sample                                                             | <Pr-O>                                                             |                                                                                                          | (kJ mol-')                                                         | (kJ mol')                                                          |
+| PBC                                                                | -68.15                                                             |                                                                                                          | -188.29                                                            | -297.74                                                            |
+| PBCC                                                               | -68.15                                                             |                                                                                                          | -188.29                                                            | -298.35                                                            |
+| PBSCCC                                                             | -68.15                                                             |                                                                                                          | -188.29                                                            | -300.62                                                            |
+| Table 1  calculated ABE values for PBC, PBCC and PBSCCC materials. | Table 1  calculated ABE values for PBC, PBCC and PBSCCC materials. | Table 1  calculated ABE values for PBC, PBCC and PBSCCC materials.                                       | Table 1  calculated ABE values for PBC, PBCC and PBSCCC materials. | Table 1  calculated ABE values for PBC, PBCC and PBSCCC materials. |
+| 4. Conclusion                                                      |                                                                    | Journal Pre-proof In summary, a PrBaCo$_{2}$O$_{5+δ}$ derived medium-entropy double perovskite oxide was |                                                                    |                                                                    |
+
+entropy engineering would be applied in SOFC and related electrochemical devices, and this design concept may provide new ideas for constructing promising electrode materials.
+
+## CRediT authorship contribution statement
+
+Zhe Wang: Conceptualization, Data curation, Methodology, Investigation, Writing - original draft. Jingwei Li: Conceptualization, Data curation. Mengke Yuan: Data curation, Formal analysis. Juntao Gao : Data curation. Hongru Hao : Data curation. Abdalla M Abdalla :Formal analysis. Lingling Xu : Conceptualization, Methodology. Zhe Lv: Conceptualization, Methodology. Bo Wei : Funding acquisition, Supervision, Formal analysis, Writing - review & editing.
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Journal Pre-proof
+
+## Acknowledgments
+
+This work was supported by the National Natural Science Foundation of China (22279025, 21773048, 52302119), Natural Science Foundation of Heilongjiang Province (LH2021A013) and the Fundamental Research Funds for the Central
+
+Universities (2023FRFK06005, HIT.NSRIF202204). The authors also thank
+
+Shiyanjia Lab (www.shiyanjia.com) for the XPS measurements.
+
+## Appendix A. Supplementary material
+

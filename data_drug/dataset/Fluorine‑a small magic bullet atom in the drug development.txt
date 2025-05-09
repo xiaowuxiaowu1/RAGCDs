@@ -1,0 +1,429 @@
+Chemical Papers (2023) 77:4085-4106
+
+## REVIEW
+
+## Fluorine-a small magic bullet atom in the drug development: perspective to FDA approved and COVID-19 recommended drugs
+
+Girish Chandra$^{1}$ · Durg Vijay Singh$^{2}$ · Gopal Kumar Mahato$^{1}$ · Samridhi Patel 1
+
+Received: 6 December 2022 / Accepted: 29 March 2023 / Published online: 13 April 2023 © Institute of Chemistry, Slovak Academy of Sciences 2023
+
+## Abstract
+
+During the last twenty years, organic fluorination chemistry established itself as an important tool to get a biologically active compound. This belief can be supported by the fact that every year, we are getting fluorinated drugs in the market in extremely significant numbers. Last year, also ten fluorinated drugs have been approved by FDA and during the COVID-19 pandemic, fluorinated drugs played a very crucial role to control the disease and saved many lives. In this review, we surveyed all ten fluorinated drugs approved by FDA in 2021 and all fluorinated drugs which were directly-indirectly used during the COVID19 period, and emphasis has been given particularly to their synthesis, medicinal chemistry, and development process. Out of ten approved drugs, one drug pylarify, a radioactive diagnostic agent for cancer was approved for use in positron emission tomography imaging. Also, very briefly outlined the significance of fluorinated drugs through their physical, and chemical properties and their effect on drug development.
+
+## Graphical abstract
+
+Keywords Fluorinated drugs · FDA · Synthesis · Drug design and development · PET · Covid-19
+
+<!-- image -->
+
+## Brief Outlook of fluoro Compounds
+
+*
+
+Girish Chandra girish@cub.ac.in
+
+Durg Vijay Singh durgvijaysingh@cub.ac.in
+
+- $^{1}$ Department of Chemistry, School of Physical and Chemical Sciences, Central University of South Bihar, SH-7, Gaya Panchanpur Road, Gaya, Bihar 824236, India
+- $^{2}$ Department of Bioinformatics, School of Earth Biological and Environmental Sciences, Central University of South Bihar, SH-7, Gaya Panchanpur Road, Gaya, Bihar 824236, India
+
+Over the last twenty years, a strong belief has been grown up that by the introduction of the fluorine atom in the molecule, chances to get better therapeutically useful compounds increases. And, this belief was supported by the fact that every year we are witnessing a growing number of fluorinated drugs which are coming to the market to treat different diseases. At present, approximately 20% of pharmaceuticals and 50% of agrochemicals marketed are fluorinated compounds. Also in the year 2021, out of fifty drugs approved by FDA, ten were fluorinated compounds (Fig. 1a) (U.S. Food Drugs Administrations: Novel Drug Approvals for 2021). Not only the development of drugs but other areas of science and engineering like material science, (Padamata
+
+<!-- image -->
+
+Fig. 1 a FDA-approved fluorinated drugs in 2021; b FDA-approved fluorinated biologics in 2019; c FDA-approved fluorinated drugs for PET imaging in 2021 and 2020; d $^{19}$F tracer for MRI
+
+<!-- image -->
+
+et al. 2022; Berger et al. 2011) agrochemicals, (Ogawa et al. 2020; Fujiwara and O'Hagan 2014) polymers, (Peng 2019) catalysis, (Cahard and Bizet 2014), etc. are also getting incredible benefits from fluoro organic compounds. Refrigerants, (Sicard and Baker 2020) liquid crystal application, (Hird 2007; Lopes and Merlo 2022).photovoltaic solar cells (Ouedraogo et al. 2021; Fan et al. 2019), adhesive, coating of textiles dye, and surfactants (Hussain et al. 2022) are a few applications in material science (Inoue et al. 2020).
+
+Fluorinated mineral is very enriched in the universe and the 13th most abundant element in the earth's crust (available as Fluorspar, CaF$\_{2}$), but mother nature seems not to be very specialized in fluorination chemistry to transform this element to make fluorinated natural products, since up to now we have isolated only twelve natural products those containing fluorine atom and that they too are very simple and the most of them are plant secondary metabolites. In 2003, O'Hagan's isolated the first fluorinating enzyme
+
+'fluorinase' (O'Hagan et al. 2002) which supports the formation of the fluorinated compound in nature (O'Hagan et al. 2002). Although scarcity in nature, numerous fluorinated compounds were synthesized in the research lab, since the incorporation of the fluorine atom in the compound furnishes an unusual and unique property to the compound which is in general not available by using regular other atoms (Yamazaki et al. 2009; Dehnen et al. 2021).
+
+Due to the unique properties of fluorine atom-like small size (1.47 Å), inherent highest electronegativity (3.98 Pauling), robust C-F bond (472 KJmol$^{-1}$), and very high reactivity of F$\_{2}$ posed a lot of challenges initially to the synthetic chemist to develop a suitable method for the introduction of the fluorine atom in the organic molecules. Also, there is a significant perturbation in the electronic property (physical and chemical) of fluorinated compounds compared to parent compounds due to changes in the energy levels of HOMO and LUMO, so dramatically changing the reactivity
+
+pattern. This creates a problem to understand and manipulate further new analogs. Based on this observation, a proverb become very popular 'A small atom with a big ego' which justifies the unpredictable behavior, and reactivity of fluorinating reagents and compounds. During the last fifty years, many good methodologies and reagents have been developed which are suitable to react with electron-rich, neutral, and deficient substrates. Traditionally, we introduce fluorine atom/s by electrophilic or nucleophilic reagents and a good number of reagents have been developed (Caron 2020). In the last ten years, a growth of interest has been seen in the development of methods of fluorination through thermal (Nonn et al. 2022; Dong and Tsui 2021; Campbell and Ritter 2014) or photochemical radical reactions (Sibi and Landais 2013; Kindt and Heinrich 2014; Li et al. 2013; Cui et al. 2016; Meyer et al. 2018). We have now good methods of regio- and enantioselective introduction of a fluorine atom or fluorine-containing substituent in organic compounds. These developments in fluorination chemistry are now fulfilling the requirement of fluoro-compounds in different areas of science (Britton et al. 2021).
+
+Lipophilicity is another important concern in drug development. For passive transportation, where the drug has to pass through the cell membrane, the drug must be such that it could easily pass the lipid membrane and should not be trapped inside it. For a better drug, moderate lipophilicity is required. Fluorination in most cases provides a better option due to its high lipophilicity and increases the absorption of drugs. So judicial use of fluorine atoms in the molecule increases the bioavailability and increases potency of drugs.
+
+The presence of fluorine has a significant role in the development of drugs (Barnes-Seeman et al. 2014). Both the pharmacokinetics and dynamic properties of the drug are distinctly affected by the introduction of fluorine in the compound. The low metabolic stability of drugs is one of the important concerns during the development of drugs, but this could be easily circumvented by blocking the metabolically labile sites with fluorine substituent (Johnson et al. 2020). Since the C-F bond is very strong and the presence of an electronegative fluorine atom also affects other bond strengths, it becomes comparatively easy to survive for the different enzymes to undergo metabolization and thus prolonging the curative effect (Pal et al. 2022; Shet et al. 2022).
+
+Also, the most important characteristic of fluoro compounds is their electronic effects that change the physicochemical properties. Thus, the pKa value of drugs could be easily adjusted by the introduction of a fluorine atom which thus increases the bioavailability of amine functional group-containing drugs (Morgenthaler et al. 2007). There are significant conformational biases that have a dramatic effect on biological activities. And, also fluorine atoms further add inter and intramolecular sites on fluoro compounds to interact properly, strongly, and selectively with different
+
+macromolecules like enzymes and receptors, etc. which further adds the flavor of fluoro-organic compounds (Purser et al. 2008; Zhang 2022).
+
+Further, during the COVID-19 outbreak, a quest of searching for new drugs to treat has been started and here also fluorinated drugs appeared to show a significant contribution. Paxlovid combination of nirmatrelvir and ritonavir was the first oral drug that was recommended for the treatment of mild and moderate COVID-19 symptoms. During the tenure, many vaccines and small molecule drugs have been developed and there were more than ten fluorinated drugs have been recommended (Fig. 2) for the treatment in of COVID-19 on a case-to-case basis.$^{34}$ These drugs mostly target either proteins (or RNA) of the virus or host proteins and significantly contribute to the controlling of the COVID19 pandemic.
+
+Last year up to ten fluoro-containing drugs was approved by FDA for the treatment of different diseases. These are belzutifan, 1 (to treat von Hippel-Lindau disease under specific conditions), sotorasib, 2 (for non-small cell lung cancer), melphalan flufenamide, 3 (for refractory or relapsed multiple myeloma), vericiguat, 4 (to alleviate the risk of cardiovascular death and hospitalization for chronic heart failure), atogepant, 5 (qulipta, to prevent episodic migraines), umbralisib, 6 (for marginal zone lymphoma and follicular lymphoma), avacopan, 7 (tavneos, to treat severe active anti-neutrophil cytoplasmic autoantibody-associated vasculitis), cabotegravir and rilpivirine, 8 (co-packaged, for HIV), asciminib, 9 (scemblix, for philadelphia chromosome-positive chronic myeloid leukemia with a disease that meets certain criteria) (Fig. 1a) (U.S. Food Drugs Administrations: Novel Drug Approvals for 2021; Tiz et al. 2022; Hea et al. 2022). These trends were also reported in previous years (Mei et al. 2019a, b).
+
+It is well-known fact that the recognition abilities of biomacromolecules like receptors, enzymes, DNA, and polysaccharides are highly reliant on the specific conformation of ligands. The change in the conformation of the ligand changes the biological properties. So, in drug development, a biased conformation of the ligand is the essential requirement in the solution state. The presence of different kinds of bonds and substituents causes conformational flexibilities which relieve their different torsional strain and electronic strain. There are well-known examples available in the literature which confirms that the presence of fluoro substituent at a particular position in different therapeutically useful ligands fixes the conformation and alters or enhances the biological activities (Marquez et al. 2004, 1998; Maougal et al. 2013).
+
+Let us consider two representative examples which demonstrate how the presence of fluorine influences the conformation of ligands. Thus, 2 $^{'}$-fluoro ribose nucleoside adopts north conformation (C-3 $^{'}$-endo) but on the other hand
+
+Fig. 2 Representative examples of drugs recommended for the treatment of SARS-CoV-2 during the COVID-19 pandemic
+
+<!-- image -->
+
+Fig. 3 a Different conformations of a nucleoside; b Most stable conformations of α -and β-amino acids and 1,2- and 1,3-difluoro compounds
+
+<!-- image -->
+
+arabinose analog, favors south conformation (C-2 $^{'}$-endo) (Fig. 3a). This was explained by having good proximity and interaction between 8-H and 2 $^{'}$-F of nucleobase and making a strong C-H…‥F-C, H-bond (as in 29 ) and thus suggested to stabilize the south conformation. But, with 2 $^{'}$-F-ribonucleoside, there was no such kind of interactions and fluorine hydrogen bond (Fig. 3b) (Caron 2020; Nonn et al. 2022).
+
+F-C-C=O prefers antiparallel arrangement or F-C bond always prefers cis to N-H bond. Also, the introduction of flu orine at β -position (as in 31 , Fig. 3b) then F-C and N-H bonds adopt gauche conformation. Further, if there are
+
+Similarly, the amide bond is planar and has significant rotational freedom. But, the introduction of a fluorine atom at α -position, (as in 30 ) restricts this freedom. Thus, it appeared that.
+
+1,2-difluoro substituents on open-chain (as in 32 , Fig. 3b) then it always prefers gauche conformation. But, on the other hand, 1,3-difluoro substituents (as in 33 , Fig. 3b) repel each other at gauche conformation, and in this case, staggered conformation dominates (Fig. 3b) (Dong and Tsui 2021).
+
+Further, there are extensive research going on to develop fluorinated RNA molecules, since it has a variety of application in nucleic acid-based therapeutics like aptamers, ribozymes, antisense, siRNA, miRNA,
+
+Bio-pharmaceutical products or biologics (mimics compounds found within the body) like hormones, antibodies, antisense drugs, peptide therapeutics, clotting factors, vaccines, etc. are the fastest growing class of pharmaceuticals. The major challenge in this class of drugs is their in vitro stability and due to that, natural compounds cannot be used. Also, these macromolecules are generally membrane impermeable. So, these large molecules have a problem to reach intercellular targets. These problems could be easily circumvented by the introduction of fluoro substituent in the molecule due to its inherent high lipophilicity and increased metabolic stability. Thus, the positive influence of fluorine substitution has also been used to make different biologics like fluoro analogs of nucleic acid, proteins, and polysaccharides. The presence of fluorine increases nuclease resistance, limits the immune responses, and in some cases favors the in vivo and in vitro biological activity. Recently, fluorinated biologic trastuzumab deruxtecan, 10 (Fig. 1b) was also approved by FDA in 2019 to treat metastatic breast cancer (Campbell and Ritter 2014).
+
+splice-switching, etc (Egli et al. 2011; Patra et al. 2012; El-Khoury and Damha 2021). Fluorination on monomer nucleoside not only enhances the metabolic stability like oxidation of nucleoside base, glycosidic cleavage, and deamination reactions but also provides an extra intermolecular interaction site to stabilize the DNA or RNA duplexes (Guo et al. 2017). After continuous effort, pegaptanib, 11 a fluorinated nucleic acid drug for the treatment of neovascular was approved in 2004 (Ng et al. 2006).
+
+Fluorine substituent has also been incorporated into carbohydrates for many purposes like to develop inhibitors, (Zephyr et al. 2022; Tysoe and Withers 2014) vaccines, (Dong et al. 2022) antibodies, (Linclau et al. 2020) $^{19}$F tracer for MRI, (Chapelin et al. 2018) $^{18}$F labeled sugar for PET imaging (Alauddin 2012; Cole et al. 2014), etc (Chandra et al. 2015). Also, the development of fluorinated glycomimetic drugs is a recent advancement (Hevey 2021; Meanwell et al. 2021). The native glycans were found to have limitations like low binding affinities due to their characteristic high polarity and low pharmacokinetics. Fluorination by replacement of the -OH group has been found to solve a few of the above problems (Choi et al. 2012).
+
+A variety of fluorinated unnatural amino acids has also been synthesized which were further incorporated into protein structures. And it was realized in many cases that, the presence of fluorine atoms stabilizes protein structure against unfolding since fluorinated amino acids are more hydrophobic than their counterpart. Thus, this significant stability was utilized in protein-based therapeutics and vaccines, since this decreases the chances of degradation by protease and improves the potency and bioavailability. Further, to improve the drug delivery of the macromolecules, dendrimers like drugs fluoroamphiphiles and polyethyleneimines have been developed (Zhang et al. 2018).
+
+In addition to fluorine use in therapeutic, it has a wide application in diagnostic tools. Thus, $^{18}$F-containing compounds are used in positron emission tomography (PET). This is mainly used to study biochemical transformations, pharmacokinetics, and dynamics. This is a very good noninvasive diagnostic method to survey living tissue and study its functional process in humans. The $^{18}$F isotope has a halflifetime (t$\_{1/2}$) of 110 min, so this tracer has a big advantage as compared to other radionuclides like $^{11}$C which has only a half-life of 20 min. Recently, many $^{18}$F labeled imaging agents have been developed and regularly used for the detection of various diseases (Zhang et al. 2020). Last year in 2021, pylarify (piflufolastat $^{18}$F) 12 , a drug for PET has been approved by FDA to recognize prostate-specific membrane antigen (PSMA) (Fig. 1c) with prostate cancer, and in 2020, flortaucipir $^{18}$F, 13 and fluoroestradiol 18F, 14 were approved as a diagnostic agent for patients with Alzheimer's disease and certain patients with breast cancer respectively
+
+(Approvals and for 2020, can be found under 2020; Yu et al. 2020).
+
+On the same line, the $^{19}$F isotope is regularly used as a non-invasive therapeutic agent in magnetic resonance imaging (Tirotta et al. 2015; Janasik and Krawczyk 2022; Du et al. 2022; Mali et al. 2021). There is a need to administer a low dose of tracer (contrast agent) that should be nontoxic and chemically inert and due to that sensitivity of the nucleus becomes a critical issue. Here, the use of $^{19}$F solves all issues since the $^{19}$F isotope is 100% natural abundant, its spin is ½, the gyromagnetic ratio is similar to hydrogen (40.08 vs. 42.58) and its sensitivity is 83% of the proton. Also, there is no endogenous movable fluorine, so it has short spin-spin relaxation (T$\_{2}$) and consequently, it shows an extremely high contrast to noise ratio. Many fluorinated tracers have been developed. The representative example is perflubron (PFOB), 15 (Fig. 1d) which is also approved by FDA in the USA. The $^{19}$F MRI has been extensively used to understand the mechanism of recognition behavior of ligands with different macromolecules like proteins, enzymes, receptors, lipids, etc.
+
+## Fluorinated drugs approved by FDA
+
+Last year ten fluoro-containing drugs were approved by FDA for the treatment of different diseases. Here, we highlight the structural features of compound, their synthesis and biological activities. We tried to present the seminal work and synthesis of fluorinated compounds.
+
+## Scemblix™-ABL001 (asciminib)
+
+Scemblix-ABL001, 9 , developed by Novartis, is the new drug approved by the FDA in October 2021. This drug is recommended for the treatment of philadelphia chromosome-positive chronic myeloid leukemia. This is a chiral compound having one ( R )-configuration secondary carbon centre and difluorinated moiety. This is a protein kinase inhibitor and the active ingredient of this drug is asciminib.
+
+Chronic myeloid leukemia (CML) is a blood and bone marrow disease that develops due to the generation of too many white blood cells. CML arises from the activity of the BCR-ABL1 protein. The BCR-ABL1 fusion protein, which contains an active ABL1 kinase domain lead to the abnormal activation of numerous signalling pathways that result in the dysregulated differentiation, growth, and survival of leukemic cells. Tyrosine kinase inhibitors (drugs) that act on BCR-ABL1 by targeting its ATP-binding site will transform CML into a chronic manageable disease. Based on this concept, many drugs have been discovered. The first drug imatinib (Gleevec) 34 , was approved in 2001 as a BCR-ABL1 kinase inhibitor for the treatment of CML
+
+and followed by dasatinib 35 (Sprycel, 2006), nilotinib 36 (Tasigna, 2007), etc. were also approved (Fig. 4).
+
+The new drug asciminib (ABL001), was developed by Novartis, which binds to the myristate pocket of BCR-ABL1 and maintains activity (Wylie et al. 2017; Manley and Stiefl 2017; Manley et al. 2020; Schoepfer et al. 2018a). It was observed from the X-ray studies, fluorine atom makes a interaction with the carbonyl carbon of leucine L359 present in the deep pocket of the target Breakpoint Cluster Regionc-abl Oncogene 1 (BCR-ABL1) oncoprotein.
+
+Despite the success of these drugs, the major problem arises development of drug-resistant due to ATP-site mutation, resulting in obstruction to binding the drug properly.
+
+The synthesis route was effectively developed and the strategy started with the conversion of 5-bromo-6-chloronicotinic acid 37 to the corresponding chloride derivative on treatment with thionyl chloride and this was condensed in situ with 4-(chloro-difluoromethoxy)aniline, 38 to the corresponding nicotinamide 39. Nicotinamide 39 was then treated with enantiomerically pure ( R )-pyrrolidine-3-ol derivative, which afforded the corresponding substituted bromonicotinamide 40 in very good yield. The standard Suzuki - Miyaura coupling reaction was used to couple the compound 40 with 1-(tetrahydro-2H-pyran-2-yl)-1H-pyrazol-5-yl)boronic acid pinacol ester, 41 gave the compound 42 . In the last step, the pyranyl group was cleaved under acidic conditions to get the final compound, 9 . The overall yield of the above four steps reaction was 47% (Scheme 1) (Schoepfer et al. 2018b; Blank et al. 2020).
+
+## Qulipta™ (atogepant)
+
+Qulipta, 5 developed by AbbVie, is the new drug approved by FDA in September 2021 for preventive episodic migraines. It is a chiral compound containing multiple chiral centres and tri-fluorinated phenyl moiety. This is a calcitonin gene-related peptide receptor (CGRPR) antagonist. The active ingredient of this drug is atogepant.
+
+Migraine is the most common neurological disorder. During the stock of migraine, there is an increase in the level of the calcitonin gene-related peptide (CGRP) hormone in the cranial blood circulation. And thus, a class of drugs that are antagonist called gepants was developed for the acute treatment of migraine. In this category of the antagonist,
+
+Fig. 4 Representative examples of previously approved drugs for the treatment of CML
+
+<!-- image -->
+
+olcegepant 43 (Fig. 5) and olcegepant were developed but discontinued due to compound-related adverse effects and difficulty in formulating orally administered olcegepan. In this category, ubrogepant 44 , and Rimegepant 45 (2019, and 2020, respectively) are the recently approved oral drug (Fig. 5). And in 2021, the atogepant 5 was approved by FDA (Leung et al. 2021; Dubowchik et al. 2020; Ailani et al. 2021). The trifluorobenzene moiety in atogepant led to higher affinity ( K$\_{i}$ = 0.015 nM), compared to unsubstituted derivative ( K$\_{i}$ = 0.067 nM).
+
+The synthesis of the first part of the molecule started with the fluorinated carboxylic acid compound 46 to introduce the amide, 47 . Thus, carboxylic acid in 46 was manipulated to N -methoxyN -methyl amide, 47 through chlorination by use of POCl$\_{3}$ followed by amidation by using the reagent NHMe(OMe).HCl which gave compound which on methylation by use of MeMgCl-CeCl$\_{3}$ afforded compound 48 . Compound 48 was then subjected to alkylation with 49 under tert -BuOK and ZnBr$\_{2}$ which gave desired alkylated keto ester compound 50 in good yield. Base catalysed cyclization of compound led to lactam 51 in > 60:1 diastereomeric ratio. This was further epimerized to a deprotonation strategy to desired compound 52 . Thus, compound 53 was treated with tert -BuOK, which gave an 85% yield of compound 52 . Trifluoromethyl substituent was introduced by the use of compound 53 in presence of base tert -BuOLi/ DMPU, which provided the desired compound 54 as a mixture of diastereomers, N , N '-dialkylated compound. This was
+
+Scheme 1 Synthesis of Asciminib. Reagents and conditions: a SOCl$\_{2}$, DMF, toluene, 80 °C then DIPEA,THF, -16 °C to r.t., 77%; b DIPEA, ( R )-pyrrolidin-3-ol, i -PrOH, 140 °C, 92%; c Pd(PPh$\_{3}$)$\_{4}$, K$\_{3}$PO$\_{4}$, toluene, 110 °C, 77%; d TFA, DCM, 10 °C to r.t., 78%
+
+<!-- image -->
+
+Fig. 5 Ubrogepant and Rimegepant were approved for the treatment of migraine, and Olcegepant showed promising competitive inhibitor CGRPR but was discontinued
+
+<!-- image -->
+
+used for the next step for deprotection of the -Boc protecting group followed by treatment with N -acetyl L -phenylalanine to give salt 55 in very good yield.
+
+Finally, both above fragments were coupled through in situ generations of compound 56 from 55 by heating the corresponding salt with K$\_{3}$PO$\_{4}$ followed by treatment with coupling agent HOBt and EDC to final compound 5 (Scheme 2) (Belyk et al. 2013).
+
+The synthesis of the 2nd part of the compound started with the esterification of dicarboxylic acid of pyridine derivative 57 , followed by bromination which gave compound 58 . This was on treatment with reducing agent NaBH$\_{4}$ in presence of CaCl$\_{2}$, furnished diol 59 . Mesylation of diol followed by base-catalyzed alkylation by using SEM-protected azaoxindole 60 , afforded the spirocyclic compound 61 . Esterification by use of palladium-catalysed carbonylation in methanol gave compound 62 which on the chiral resolution provided chiral ester 62 as a single enantiomer. Finally, the removal of SEM protecting group under acidic conditions followed by saponification provided carboxylic acid derivative 63 (Scheme 2).
+
+## Tavneos™ (avacopan)
+
+Tavneos, 7 developed by ChemoCentryx, is the new drug approved by FDA in July 2021. This is recommended for the
+
+<!-- image -->
+
+Scheme 2 Synthesis of Atogepant. Reagents and conditions: a i. POCl$\_{3}$, DMF, i PAc, ii. NHMe(OMe)HCl, K$\_{2}$CO$\_{3}$, water, b i. CeCl$\_{3}$, THF, MeMgCl, THF, ii. HCl (2N), MTBE, c i. MTBE, ZnBr$\_{2}$, 37 ii. tert -BoOLi, 40 °C, d DMSO, 50 wt% SEQ, ID No. 1, sodium tetraborate decahydrate, H$\_{2}$O, isopropyl amine, pH=10.5, pyridoxal-5-phosphate, 55 °C, e tert -BuOK, 2-Me-THF, f i. THF, DMPU, tert -BuOLi, ii. 53 , g p -toluene sulfonic acid, 55 °C, K$\_{2}$CO$\_{3}$, N -acetyl L -phenylalanine, h K$\_{3}$PO$\_{4}$, i PrAc, i i. MeOH, H$\_{2}$SO$\_{4}$, ii. Br$\_{2}$, MeOH, j NaBH$\_{4}$, CaCl$\_{2}$, MeOH, k i. MsCl, NEt$\_{3}$, CH$\_{2}$Cl$\_{2}$, ii. Cs$\_{2}$CO$\_{3}$, EtOH, 60 , l i. CO, Pd(dppf)Cl$\_{2}$, NaOAc, MeOH, 80 °C, ii. the chiral resolution, m HCl, ii. NaOH, MeOH, n 56 , HOBt, EDC, MeCN-H$\_{2}$O, r.t.,
+
+use of the severe active anti-neutrophil cytoplasmic autoantibody (ANCA)-associated vasculitis (granulomatosis with polyangiitis and microscopic polyangiitis) in combination with standard therapy, including glucocorticoids. It is a chiral compound containing multiple chiral centres and contains monofluoro and tri-fluorinated phenyl moiety. This is an inhibitor of the complement C5a receptor. The active ingredient of this drug is avacopan.
+
+2-Chloronicotinoyl chloride, 68 was condensed with trifluoromethylated aniline analogue 69 in presence of K$\_{2}$CO$\_{3}$ to provide pyridine amide derivative 70 . Compound 70 was further transferred to compound 72 through coupling with boronic acid derivative 71 in presence of palladium catalyst Pd(PPh$\_{3}$)$\_{4}$. Hydrogenation of compound 72 with PtO$\_{2}$ under high pressure led to compound 73 . The chiral resolution of compound 73 with di-toluoylL -tartaric acid provided the desired compound, 74 with proper configuration (2 R , 3 S ). Condensation of compound 74 with compound 75 led to compound 76 which was treated with 4N HCl and provided free amine 77 . Compound 77 on reductive amination with cyclopentanone finally gave compound 7 (Scheme 3) (Pingchen Fan et al. 2017; Fan et al. 2013).
+
+Vasculitides are diseases that lead to inflammation that causes changes in the blood vessel walls and thus blood vessel walls get thickened and become narrow. Thus, blood supply gets reduced to tissues and organs, which can result in ischemic end-organ destruction or death. Small vessel vasculitides, which are not immune complexes are characterized by the presence of anti-neutrophil cytoplasm antibody (ANCA) autoantibodies in patients with granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA). Many times, patients require glucocorticoid (GC), 64, and other immunosuppressive agents ( 65 -67 ) (Fig. 6) to induce remission. However, many of these patients grow numerous complications from GC therapy (Ailani et al. 2021). Avacopan a competitive inhibitor of the C5a receptor 1 (C5aR1) antagonist provides a complement activation pathway in the pathogenesis of ANCAassociated vasculitis.
+
+## Welireg™ (belzutifan)
+
+Welireg, 1 developed by Merck, is the new drug approved by the FDA in August 2021. This drug is recommended for the treatment of von Hippel-Lindau disease, which requires therapy for associated renal cell carcinoma (RCC), central nervous system (CNS) hemangioblastomas, or pancreatic
+
+Fig. 6 Commonly used drugs for the treatment of vasculitis
+
+<!-- image -->
+
+Scheme 3 Synthesis of Avacopan. Reagents and conditions: a 68 , K$\_{2}$CO$\_{3}$, aq. MTBE, 0 °C; b 71 , 4 mol% Pd(PPh$\_{3}$)$\_{4}$, PhMe, H$\_{2}$O, K$\_{2}$CO$\_{3}$, 118 °C; c 4 mol% PtO$\_{2}$, 1.4 eq HCl, EtOH, 30-35 psi, H$\_{2}$; d di-toluoylL -tartaric acid, H$\_{2}$O, CH$\_{3}$CN, EtOAc, NaHCO$\_{3}$, H$\_{2}$O; e 75 , $^{i}$Pr$\_{2}$NEt, CH$\_{2}$Cl$\_{2}$; f 4N HCl/dioxane, CH$\_{2}$Cl$\_{2}$; g cyclopentanone, NaB(OAc)$\_{3}$H, AcOH, CH$\_{2}$Cl$\_{2}$
+
+<!-- image -->
+
+Scheme 4 Synthesis of Belzutifan. Reagents and conditions: a F-TEDA-BF$\_{4}$, MeOH, reflux; b [( R , R )-Ts- DPEN]RuCl( p -cymene), HCO 2 H, Et 3 N, CH 2 Cl 2 , 4 °C; c Ac$\_{2}$O, Et$\_{3}$N, DMAP, CH$\_{2}$Cl$\_{2}$, r.t.; d NBS, AIBN, 1,2-dichloroethane or carbon tetrachloride, 80 °C; e Ag$\_{2}$CO$\_{3}$ or AgClO$\_{4}$, 1,2-dimethoxyethane, water; f DAST, CH$\_{2}$Cl$\_{2}$, -78 °C to 0 °C; g LiOH, THF, H$\_{2}$O, rt
+
+neuroendocrine tumors (pNET), for those who not requiring immediate surgery. It is a chiral compound containing one F-atom attached to phenyl moiety and two fluorinated chiral centres. This is a hypoxia-inducible factor-2 alpha (HIF-2 α ) inhibitor. The active ingredient of this drug is belzutifan. von Hippel-Lindau disease (VHL) is a rare genetic disorder that causes tumors and crysts to grow in a certain part of the body. Tumors are non-cancerous but some may be malignant. Most people suffering from this disease develop renal carcinoma during their lifetime. Constant surveillance and endless surgery were the only options to treat VHL, particularly for patients who develop multiple tumors throughout their lives. VHL causes due to the mutation of the von Hippel-Lindau tumor suppressor gene which resides on chromosome 3p25. This gene controls the growth of the cell, but when the gene undergoes mutation then cell growth starts multiplying in uncontrollable ways. von Hippel-Lindau tumor suppressor (pVHL) negatively regulates protein levels of hypoxiainducible factorα (HIFα ), which provides fuel to the tumor cell. Thus, loss of pVHL leads to HIFα accumulation, which contributes to the pathogenesis of von Hippel-Lindau (VHL) disease (Okumura et al. 2017; Deeks 2021; Hasanov 2021).
+
+Acetylation of the alcohol 80 to compound 82 followed by benzylic bromination under NBS, AIBN system provided compound 83 . Hydrolysis of bromo to -OH containing compound 84 was achieved by Ag$\_{2}$CO$\_{3}$/H$\_{2}$O. Another fluoro substituent as in 86 was introduced by the replacement of the -OH group by using DAST followed by deprotection gave a diastereomeric mixture ( 85 : 86 ) which was readily separated
+
+The strategy started with the keto compound 78 with the introduction of fluoro at α -position as in 79 with F-TEDABF$\_{4}$ in MeOH which was converted into cis -fluorohydrin 80 which was readily achieved by the use of the Noyori reduction condition. The dynamic kinetic resolution provided the desired compound in excellent yield in addition to compound 81 as a minor product.
+
+1
+
+by column chromatography to get the desired compound 1 (Scheme 4) (Xu et al. 2019; Wehn et al. 2018).
+
+## Cabenuva™ (cabotegravir)
+
+Cabenuva, 8 developed by Janssen Pharmaceutical Companies of Johnson & Johnson, is the new drug approved by the FDA in January 2021. This is recommended for the treatment of HIV. This is a combination of two medications, Healthcare's cabotegravir, and Janssen Pharmaceuticals' rilpivirine. It is a chiral compound containing two F-atoms attached to phenyl moiety. This is an integrase inhibitor. The active ingredient of this drug is cabotegravir.
+
+HIV first targets the cell in the immune system of the type cluster of differentiation 4 (CD4) cell and transfers its own genetic information to CD4 and consequently CD4 slowly stops working properly. Since the CD4 cell is important, this directs another cell to fight against infection. So, over time, after infection with HIV, the number of CD4 cells declines, and thus the body becomes vulnerable to infection. For this whole mechanism, HIV needs the help of integrase, without this enzyme HIV will not get inside the cell and starts replication. The development of integrase inhibitors is one of the active research fields to treat different kinds of viruses (Engelman 2021). FDA-approved integrase inhibitors for the treatment of HIV like Raltegravir 87 (2007),
+
+Human immunodeficiency virus (HIV) attacks the human body's immune system and if not checked then it leads to acquired immunodeficiency syndrome (AIDS) which further threatens the opportunistic infection. Seven mechanismbased concepts and drugs have been developed to fight against HIV viz non-nucleoside reverse transcriptase inhibitors (NNRTIs), nucleoside reverse transcriptase inhibitors (NRTIs), fusion inhibitors, protease inhibitors (PIs), integrase strand transfer inhibitors (INSTIs), CCR5 antagonists, and post-attachment inhibitors.
+
+<!-- image -->
+
+dolutegravir 88 (2013), elvitegravir 89 (combination with other drugs, 2012), and bictegravir 90 other drugs, 2018) (Fig. 7). Cabenuva is a metal chelator and blocks the binding of host DNA to metal cofactors in the active catalytic site of the integrase (Johns et al. 2013). Cabotegravir is a highly effective integrase inhibitor with a half-life of 54 days, allowing parenteral administration every other month. It has low water solubility, long half-life, high activity, and slow metabolic clearance.β-Keto ester 91 was converted into vinylogous amide 93, through condensation with compound 92, which was utilized for cyclization reaction to pyridinone 95 with dimethyl oxalate in the presence of LiOMe. Selective hydrolysis of the C-5 ester group was achieved with LiOH to get compound 96 . All the above four steps were achieved in one pot with a very impressive 61% yield. Now, from here many experiments were done to get the final product with a respectable yield. Finally, the best strategy found was to couple compound 96 with 2,4-difluorobenzylamine, 97 to compound 98 followed by deprotection of the acetal group to aldehydic compound 99 . Compound 99 was subjected to alaninol in the presence of Mg(OTf)$\_{2}$ which underwent smooth ring closure and finally, removal of methyl by the simple addition of NaBr led to desired compound 8 with very good diastereoselectivity (dr, 297:1) (Scheme 5) (Wang et al. 2015).
+
+Fluorine atoms in cabotegravir play an important role in improving the metabolic stability and optimizing the pharmacological parameters, like lipophilicity and permeability.
+
+## Pepaxto™ (melphalan flufenamide)
+
+Pepaxto, 3 developed by Oncopeptides, is the new drug approved by the FDA in February 2021 for the treatment of relapsed or refractory multiple myeloma. It is a chiral peptide derivative compound containing mono F-atom attached to phenyl moiety. This is a peptidase-enhanced cytotoxic drug. The active ingredient of this drug is melphalan flufenamide.
+
+Since the discovery of bis(2-chloromethyl) methylamine, or chlormethine (nitrogen mustards) as the first antitumor agent during the 2nd world war, continuous efforts started to develop a better alkylating agent. Nitrogen alkylating
+
+Fig. 8 Nitrogen-based alkylating agents approved by FDA
+
+<!-- image -->
+
+Fig. 7 FDA-approved integrase inhibitors for the treatment of HIV
+
+<!-- image -->
+
+Scheme 5 Synthesis of Cabotegravir. Reagents and conditions: a i. DMF-DMA, ii. 92 ; b LiOMe, 94; c LiOH; d 97 , CDI, then DFBA, e HCO$\_{2}$H; f i. l-alaninol, Mg(OTf)$\_{2}$, CH$\_{3}$CN; ii. NaBr
+
+<!-- image -->
+
+agents are strong electrophilic and covalently bind with two guanine bases of DNA (N-7 nitrogen) on the same strand and make a cross-link between the DNA chain. This masks the function of that DNA portion to do its work and in this manner, the overall growth of the cell gets hampered. Since nitrogen can react with another nucleophilic base such as with proteins, this lack of selectivity is the cause of side effects. Also, nitrogen mustards can themselves may give rise to secondary malignancies because healthy cells are also affected. To reduce the reactivity of mustard gas, in many varieties, an aromatic ring is placed adjacent to the nitrogen atom, only more reactive N-7 of guanine can react. Thus, for improvement many varieties of nitrogen-based cytotoxic drugs have been developed, particularly peptidebased was the leading ones in drug development. Few of them were also approved by FDA like bis(2-chloromethyl) methylamine 100 (1949), chlorambucil 101 (1957), melphalan 102 (1964), cyclophosphamide 67 (1959), bendamustine 103 (2008), estramustine 104 (1981), uramustine 105 (1962) and ifosfamide 106 (1987) (Fig. 8) (Lehmann and Wennerberg 2021, 2020; Dhillon 2021). The introduction of fluorine substitution in melphalan increases the metabolic stability as compared to unsubstituted analogue.
+
+The crystallized 4-nitroL -phenylalanine 107 was first protected to the Boc-protected group using di -tert -butyl decarbonate, 108 in aqueous sodium carbonate to compound 109 which was then coupled with compound 110 with EDC and HOBt to give amide product 111 in good yield. A better yield was achieved by optimizing the reaction condition with the use of 1.03 eq. of HOBt in 10% excess of EDC.
+
+Scheme 6 Synthesis of Melphalan. Reagents and conditions: a (Boc)$\_{2}$, Na$\_{2}$CO$\_{3}$; b EDC, 1.1 equiv., HOBt, 0.1 equiv., NMM 3.5 equiv., acetone; c H$\_{2}$, Pd/C, EtOH-CH$\_{3}$CO$\_{2}$Et, 2 bar, 35-40 °C; d ClCH$\_{2}$CO$\_{2}$H, ClCH$\_{2}$CO$\_{2}$Na, BH$\_{3}$.Me$\_{2}$S, 13 equiv., THF, 20-25 °C: e HCl in EtOH; f NaOEt, EtOH, 60-70 °C; g i. KOH, ii. HCl; h Amano acylase 2%, pH 8.5, 45-50 °C; i SOCl$\_{2}$, EtOH, toluene, 55-65 °C
+
+<!-- image -->
+
+Hydrogenation of the -NO$\_{2}$ group in the presence pf Pd/C and a combination of solvents of EtOH-ethyl acetate gave an impressive yield of corresponding amine 112 . Compound 112 was transferred to compound 113 with the addition of reagents ClCH$\_{2}$CO$\_{2}$H, and ClCH$\_{2}$CO$\_{2}$Na, followed by the slow addition of BH$\_{3}$.Me$\_{2}$S. Finally, desired compound 3 was obtained by deprotection of the Boc group followed by salt formation was achieved by treatment with ethanolic HCl.
+
+Starting material 110 was synthesized in a few steps. Thus, compound 114 was treated with compound 115 in presence of NaOEt provided 116 which was hydrolyzed and decarboxylated to yield compound 117 in good yield. Enzymatic resolution with amino acylase yielded the corresponding compound 119 ( S -configuration). Esterification of compound 119 to desired compound 110 was achieved through the use of SOCl$\_{2}$ in ethanol (Scheme 6) (Hadidi 2022; Gullbo et al. 2003; Wahlstroem 2016).
+
+## Lumakras™ (sotorasib)
+
+Lumakras, 2 developed by Amgen, is the new drug approved by the FDA in May 2021. This is recommended for the treatment of non-small cell lung cancer. This drug specifically targets a mutation called G12C present in the protein KRAS which is responsible for various forms of cancer. It is a chiral compound containing two mono F-atoms attached to two phenyls and pyridyl.moieties. This is the first approved targeted therapy for tumors with any KRAS mutation. The active ingredient of this drug is sotorasib.
+
+Rat sarcoma viral oncogene homologs (RAS), are small GTPase enzymes that function as cellular signal transducers
+
+flipping between an inactive GDP-bound and active GTPbound state. The RAS gene family has three isoforms HRAS, KRAS, and NRAS. Mutations in the RAS oncogene are the most common activating mutation in human cancer. The majority of RAS-driven cancers are caused by mutations in the KRAS isoform and mutations occurring most frequently in solid tumors such as lung adenocarcinoma, pancreatic ductal carcinoma, and colorectal carcinoma (Blair 2021; Chen et al. 2020; Cox et al. 2014). Initially considered an undruggable protein, becomes druggable due to the identification of cryptic pocket (H95/Y96/Q99) in KRAS. This covalent inhibitor targets the mutant cysteine-12 residue and thus disrupts the signaling pathway (Awad et al. 2021; Canon et al. 2019; Uprety and Adjei 2020; Addeo et al. 2021).
+
+Compound 128 was prepared from compound 132 on treatment with KF followed by the addition of tartaric acid. Similarly, compound 122 was obtained from 133 in two steps. Thus, compound 133 on coupling with 2-isopropenylboronic acid, pinacol ester 134 in presence of palladium(II) catalyst introduces the isopropenyl group which on reduction gave compound 122 (Scheme 7) (Lanman et al. 2020).
+
+Synthesis of sotorasib started with the compound 2,6-dichloro-5-fluoro-nicotinic acid 120 , which was transformed to corresponding amide 121 through chlorination or carboxyl acid group followed by treatment with ammonium hydroxide solution. Now, this nicotinamide 121 was further treated with oxalyl chloride followed by the addition of compound amine derivative 122 , to give carbamoyl nicotinamide derivative 123 . Treatment of compound 123 with KHMDS gave cyclized product 124 in quantitative yield. Compound 124 on chlorination with POCl$\_{3}$ gave 125 which was condensed with ( S )-4-Boc-2-methyl piperazine 126 in presence of DIPEA yielded the desired compound 127 very good yield. Further, compound 127 was coupled with (2-fluoro-6-hydroxyphenyl)potassium trifluoroborate 128 , in presence of palladium(II) catalyst provided coupled compound 129 with a very good yield. Deprotection of the Boc protecting group to 130 followed by treatment with acryloyl chloride gave compound 131 , which on resolution through chiral chromatography gave the desired compound 2 ( R -configuration) in 43% yield.
+
+## Verquvo™ (vericiguat)
+
+Verquvo, 4 co-developed by Bayer and Merck, is the new drug approved by the FDA in January 2021 to mitigate the risk of cardiovascular death and hospitalization for chronic heart failure. It is a chiral compound containing two mono F-atoms attached to two phenyl and pyridyl moieties. This is a soluble guanylate cyclase (sGC) stimulator. The active ingredient of this drug is vericiguat.
+
+<!-- image -->
+
+Scheme 7 Synthesis of Sotorasib. Reagents and conditions: a i. (COCl)$\_{2}$, CH$\_{2}$Cl$\_{2}$, DMF, NH$\_{4}$OH solution., 0 °C; b (COCl)$\_{2}$, THF, DIPEA, THF, 0 °C; c KHMDS, THF, rt.; d POCl$\_{3}$, DIPEA, 80 °C; e 126 , CH$\_{3}$CN, DIPEA; f 128 , [1,1'-bis(diphenylphosphino)ferrocene]dichloropalladium(II), CH$\_{2}$Cl$\_{2}$, 1,4-dioxane, H$\_{2}$O, 90 °C; g CF$\_{3}$CO$\_{2}$H, CH$\_{2}$Cl$\_{2}$; h CH$\_{2}$Cl$\_{2}$, DIPEA, acryloyl chloride, 0 °C; i chiral supercritical fluid chromatography (chiralpak IC 30×250 nm, 5 mm, 55% MeOH/CO$\_{2}$, 120 mL/min); j KF, H$\_{2}$O, CH$\_{3}$CN, L -(+) tartaric acid, THF; k [1,1'-bis(diphenylphosphino)ferrocene] dichloropalladium(II), CH$\_{2}$Cl$\_{2}$, 134, aq. NaCO$\_{3}$, 1,4-dioxane, 110 °C; l H$\_{2}$, Pd/C, EtOH
+
+Verquvo's working function is novel and different as compared to the existing heart failure treatment method. The NOsGC-cGMP pathway, which plays an important role in the progression of heart failure and aggravation of disease symptoms. The NO-sGC-cGMP axis belongs to the key signal transduction pathways involved in regulating the cardiovascular system. This drug specifically restores the defective NO-sGCcGMP pathway. Central to this pathway is soluble guanylate cyclase (sGC), an intracellular enzyme presents in the smooth muscle cells of blood vessels and platelets but also various other cell types like cardiomyocytes. Vericiguat is the first-inclass stimulator of soluble guanylate cyclase (sGC). Riociguat 136 was the first sGC stimulator that was approved by the FDA in 2013 for the treatment of pulmonary arterial hypertension (Fig. 9) (Follmann et al. 2013; Buys et al. 2018; Mittendorf et al. 2009; Markham 2021). This compound contains two F-atoms and one of which present at the meta position of the pyridine ring demonstrate the superior pharmokinetic properties compared to its non-fluorinated analogue.
+
+The strategy started with the activation of 2,2,3,3-tetrafluoropropan-1-ol 137 with trifluoromethanesulfonic acid
+
+Fig. 9 The first sGC stimulator was approved by the FDA
+
+<!-- image -->
+
+and treatment with morpholine to get compound 138 . This was methylated to quaternized derivative 139 followed by conversion into fluoroalkene 140 through base promoted elimination reaction. Further reaction of 140 with morpholine and triethylamine yielded compound 141 , which on condensation with compound 142 yielded compound 143 . This compound was converted into amidine derivative 146 in three steps through conversion into amide 144 and nitrile 145 . Pinner-type reaction with sodium methoxide and ammonium chloride delivered the corresponding amidine derivative 146 . This on treatment with phenyldiazenyl substituted malononitrile 147 led to compound 148 which on hydrogenation gave triamine 149 . Finally, selective formylation provided the desired compound 4 (Scheme 8) (Follmann et al. 2017).
+
+## Ukoniq™ (umbralisib)
+
+Ukoniq, 6 developed by TG Therapeutics, is the new drug approved by FDA in January 2021 for marginal zone lymphoma and follicular lymphoma. It is a chiral compound containing three mono F-atoms attached to three phenyl moieties. This is a kinase inhibitor including PI3K-delta and casein kinase CK1-epsilon. The active ingredient of this drug is umbralisib.
+
+Phosphorylation is an important biochemical reaction in the living system which regulates protein function, transmits signals throughout the cell, and changes the functional group to a more labile functional group which assists the compound to associate with other molecules. It regulates many of the cellular processes including cell cycle, growth, apoptosis, proliferation, differentiation, and signal transduction
+
+Scheme 8 Synthesis of Vericiguat. Reagents and conditions: a Tf$\_{2}$O, 70 °C, then morpholine, 5 °C, then 40 °C; b MeSO$\_{3}$Me, 135 °C, then 100 °C; c 45% aq NaOH, 50 °C; d morpholine, Et$\_{3}$N, reflux; e MsOH, LiCl, EtOH, reflux; f formamide, NaOMe, MeOH, EtOH, 95-125 °C; g POCl$\_{3}$, sulfolane, 107 °C; h NaOMe, NH$\_{4}$Cl, MeOH, EtOH, 65 °C; i 146 , DMF, Et$\_{3}$N, 100 °C; j H$\_{2}$ (60 bar), 5% Pd/C, DMF, 60 °C; k methyl chloroformate, i -PrOH, MeOH, then Et$\_{3}$N, 50 °C
+
+<!-- image -->
+
+Fig. 10 Kinase inhibitor drugs were approved by the FDA in 2021
+
+<!-- image -->
+
+pathways. Kinases help the catalytic transfer of a phosphate group from ATP to specific proteins or small biomolecules, including lipids and carbohydrates. Thus, dysregulation of kinase activity is directly involved in numerous progressive disorders, including cancer. Lipid and protein kinase are the active drug targets for different diseases and till now more than ninety kinase inhibitors have been approved (AyalaAguilera et al. 2022). This year also other than umbralisib, seven kinase inhibitors have been approved by FDA in 2021. These are tivozanib 150, mobocertinib 151, belumosudil 152 , tepotinib 153 , infigratinib 154 , trilaciclib 155 (Fig. 10). Umbralisib 6 is an inhibitor of phosphoinositide 3-kinase (PI3Kδ) (Feng et al. 2019) and casein kinase 1(CK1ε) (Jiang et al. 2018) which reduces the levels of the transcription factor MYC in lymphoma cells (Dhillon and Keam 2021). Umbralisib shows a better pharmacokinetic profile as compared to the related compounds in this categories since it contains the higher number of fluorine atoms on the aromatic rings.
+
+The first fragment of the final compound was synthesized starting from 4-bromo-3-fluorophenol 156 which was condensed with isopropyl alcohol to 157 . This was then converted into borolane intermediate 159 with the use of compound 158 in presence of a palladium (II) catalyst. Compound 159 was utilized to couple with the iodo derivative of compound 160 to get product 161 . The second fragment was synthesized from fluorophenyl acetic acid 162 to compound 164 through chlorination of carboxylic acid followed by alkylation on aromatic derivative 163 . Treatment with propionic anhydride led to compound 165 which was converted into bromide derivative 166 through benzylic bromination. Now, compounds 161 and were coupled together which provided desired compound 167 as a racemic compound. Enantiomerically pure compound 6 was also synthesized starting from compound 166 . Thus, compound 154 was converted into keto derivative 169 in two steps, followed by enantioselective reduction of the keto group to alcohol 170 ( S ) by use of R -alpine borane. Configuration of carbon was inverted as in 171 (R) through reaction with PPh$\_{3}$ and benzoic acid and then hydrolysis gave compound 172 . This condensation with compound 161 gave desired compound
+
+6 ( S ) in enantiomerically pure form (Scheme 9) (Michael Weiss et al. 2014).
+
+Unfortunately, FDA withdrew approval of this drug to treat as a cancer medicine in June 2022.
+
+## Pylarify™ (Piflufolastat $^{18}$F)
+
+Pylarify, 12 developed by Lantheus, is the new drug approved by FDA in January 2021 to identify prostatespecific membrane antigen-positive lesions in prostate cancer. It is a chiral dipeptide compound containing one mono $^{18}$F-atom attached to pyridyl moiety. This is a radioactive diagnostic agent, used in positron emission tomography imaging. The active ingredient of this drug is Piflufolastat $^{18}$F. Before this approval, many other $^{18}$F radioactive diagnostic agents have been approved for different diseases. Important one is $^{18}$F-florbetaben 173 (Alzheimer's Disease 2014), $^{18}$F-flucicovine 174 (prostate cancer, 2016), $^{18}$F-fludeoxyglucose 175 (glucose metabolism, 1999), $^{18}$F-florbetapir 176 (Alzheimer's Disease, 2012), $^{18}$F-flutemetamol 177 (Alzheimer disease, 2013), $^{18}$F-sodium fluoride 178 (osteogenic activity, 2011) (Fig. 11), $^{18}$F-flortaucipir 13 (Alzheimer's disease, 2020) and $^{18}$F-fluoroestradiol 14 (breast cancer, 2020) (Fig. 1c) (Keam 2021).
+
+<!-- image -->
+
+Scheme 9 Synthesis of Umbralisib. Reagents and conditions: a isopropyl alcohol, THF, Ph$\_{3}$P, diisopropylazidocarboxylate, 45 °C to reflux; b CH$\_{3}$CO$\_{2}$K, bis (pinacolato)diboron in dioxane, [1,1'-bis(diphenylphosphino) ferrocene] dichloropalladium(II), CH$\_{2}$Cl$\_{2}$, 80 °C; c 160 , C$\_{2}$H$\_{5}$OH, DMF, H$\_{2}$O, Na$\_{2}$CO$\_{3}$, tetrakis (triphenylphosphine)palladium(0), 80 °C; d i. CH$\_{2}$Cl$\_{2}$, oxychloride in DMF, 0 °C, ii. 151, °C; iii. AlCl$\_{3}$, 0 °C-rt; e Et$\_{3}$N, propionic anhydride, reflux; f NBS, CCl$\_{4}$, 80 °C, AIBN; g K$\_{2}$CO$\_{3}$, DMF; h DMSO, n -butanol, 120 °C; i DMSO, oxychloride, CH$\_{2}$Cl$\_{2}$, Et$\_{3}$N, -78 °C; j R -alpine borane, THF, 60 °C; k 4-chloro benzoic acid, THF, PPh$\_{3}$, 45 °C; l K$\_{2}$CO$\_{3}$, MeOH; m 161 , THF, PPh$\_{3}$, diisopropyl azodicarboxylate, 45 °C
+
+The synthesis started with the activation of tert-butyl ester-protected amino acid H-Glu(O $^{t}$Bu)-O$^{t}$Bu.HCl, 179 with N , N $^{'}$-disuccinimidyl carbonate to give the corresponding ester of carbamic acid 180 . Coupling of this activated ester 180 with μ-benzyloxycarbonylL -lysine tert -butyl ester 181 afforded 182 in 92% yield. Removal of the protecting group in compound 182 using hydrogenation on Pd/C gave provided compound 183 with high chemical yields of 95% (Maresca et al. 2009). Now, salt 184 , which was the starting material for the introduction of radiofluorination was prepared by acylation reaction of compound 183 with activated ester N , N , N -trimethyl- 5-((2,3,5,6-tetrafluorophenoxy) carbonyl)-pyridine- 2-aminium triflate 186 . Compound 186 was prepared from 6-chlorobenzoic acid 185 , this was coupled with 2,3,5,6-tetrafluorophenol followed by treatment with triethylamine and then TMSOTf. $^{18}$F labeled radiosynthesis of pylarify was achieved by using an automated reactor set-up in three steps involving drying and activation of cyclotron-generated no-carrier-added [$^{18}$F]fluoride, followed by incorporation of activated [$^{18}$F]fluoride into compound 184 via nucleophilic heteroaromatic substitution to 190 , and removal of the tert-butyl protecting groups through treatment with HCl and subsequent HPLC purification to give final product 12 (Scheme 10) (Bouvet et al. 2016). The incorporation of $^{18}$F into compound 184 is well documented in the literature (Chen et al. 2011; Ravert et al. 2016; Dornan et al. 2018).
+
+## Fluorinated drugs recommended during the COVID-19 pandemic
+
+During the last three years, after the spread of corona virus disease (COVID-19), more than 500 million people got infected and approximately 6.5 million people reported death, and till today threat of the virus (severe acute respiratory syndrome coronavirus 2, SARS-CoV-2) is still present. Focused research to develop medication had started throughout the world and many vaccines and drugs have been investigated and few of them have been approved for emergency use. Out of them, few of the approved drugs were newly developed for the treatment of SARS-CoV-2 and few were
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Fig. 11 $^{18}$F radioactive diagnostic agents have been approved for different diseases
+
+<!-- image -->
+
+<!-- image -->
+
+Scheme 10 Synthesis of Pylarify . Reagents and conditions: a N , N '-disuccinimidyl carbonate, Et$\_{3}$N, 15 h, 25 °C; b 181 , Et$\_{3}$N, 25 °C; c Pd/C, H$\_{2}$, MeOH; d DIPEA, CH$\_{2}$Cl$\_{2}$, 25 °C, then HPLC separation; e 2,3,5,6-tetrafluorophenol, DCC, Me$\_{3}$N, TMSOTf; f activated 18F$^{-}$, 0.5 mL, CH$\_{3}$CN, 60 °C; g 1.0 mL of CH$\_{3}$CN, ii. 1.5 mL HCl (10 N), 40 °C, 5 min, iii. 2 mL, NaOAc buffer (0.1 M), Ph=5.8, iv. HPLC separation
+
+<!-- image -->
+
+repurposed. Initially, 88 antiviral compounds were identified for further investigation and after scrutiny 25 compounds were selected as drug candidates. Overall, there were more than ten fluorinated drugs have been recommended (Fig. 2) for the treatment in of COVID-19. This again signifies the importance of the fluorine atom (Assmus et al. 2022; Ghosh et al. 2022; Li et al. 2022; Veeramani et al. 2023; Chen et al. 2023; Gahbauer et al. 2023; Kneller et al. 2022; Sasaki et al. 2023).
+
+## Nirmatrelvir or PF-07321332 (paxlovid, combination with ritonavir)
+
+Paxlovid, an antiviral drug, developed by Pfizer which is a combination of Nirmatrelvir 16 and ritonavir 191 (Fig. 12) was the first oral drug issued by the FDA for emergency use to treat COVID-19 patients having mild and moderate symptoms. Nirmatrelvir, is a fluorinated drug that contains -CF$\_{3}$ group and is a protease inhibitor of SARS-CoV-2, it stops the virus replication, and ritonavir which helps to maintain the high concentration of nirmatrelvir for a long period. The half-maximum effective concentration (EC$\_{50}$)
+
+Fig. 12 $^{18}$F radioactive diagnostic agents have been approved for different diseases
+
+<!-- image -->
+
+for nirmatrelvir is very impressive (0.077 μM) (Owen et al. 2021; Marzi et al. 2022; Burki 2022).
+
+The synthesis started with the preparation of two coupling ingredients 196 and 201 . Thus, for the synthesis of 196 , azabicyclo carboxylate 192 was condensed with N -Boc protected L -valine 193 by use of coupling reagent HATU to compound, which on deprotection gave carboxylic acid compound 194 which further trifluoroacetylation reaction provided compound 196 . On the other hand, N -Boc-protected L -alaninate 200 was converted to compound 201 on treatment with NH$\_{3}$ followed by deprotection. Both components were coupled through EDCI to get compound 198 which was converted to desired compound 16 by use of Burgess reagent 199 (Scheme 11) (Marzi et al. 2022).
+
+## Ensitrelvir
+
+Ensitrelvir, 17 is an antiviral compound developed by Shionogi in partnership with Hokkaido University and is a protease. It works on a range of SARS-CoV-2 variants and coronavirus families. This is the first nonpeptidic, noncovalent, oral 3CL$^{pro}$ (3C-like protease) inhibitor. This drug was systematically discovered through proper de novo screening followed by biological screening for nonpeptidic 3CL$^{pro}$ inhibitors. This shows a very good preclinical profile with promising antiviral activities to known variants of concern (IC$\_{50}$ = 0.013 μM, an antiviral activity of EC$\_{50}$ = 0.37 μM), a long elimination half-life in vivo, especially in monkeys and dogs (t$\_{1/2}$ ≈ 10 and 30 h respectively), excellent oral bioavailability, a high metabolic stability of 96% and 88% in human and rat liver microsomes, respectively, and steep efficacy in an in vivo mouse model infected with SARSCoV-2 (Unoh et al. 2022).
+
+The synthesis started with the alkylation of compound 202 with 1- (bromomethyl)-2,4,5-trifluorobenzene gave
+
+Scheme 11 Synthesis of Nirmatrelvir . Reagents and conditions: a 193 , HATU, DIEA, DMF/MeCN; b LiOH, H$\_{2}$O/THF; c 4 M HCl, dioxane, DCM; d 195 , DIEA, MeOH; e 201 , EDCI ( 197 ), HOPO, DIEA, MEK; f MTBE:EtOAc; g NH$\_{3}$, MeOH; h HCl, IPA
+
+<!-- image -->
+
+compound 203 . The 3t -Bu group in compound 203 was removed to 204 and followed by the introduction of the triazole unit as 205 through an alkylation reaction. Finally, the substitution of the -SEt moiety with the indazole unit finally gave compound 17 (Scheme 12) (Unoh et al. 2022).
+
+## Favipiravir
+
+Favipiravir, 28 a purine nucleic acid analog is an antiviral compound and it shows activity against many types of RNA viruses like influenza A, B, C, arenovirus, bunyavirus, flavivirus, alphavirus, norovirus, as well as the Zika, Usutu, and Ebola viruses (Joshi et al. 2021; Titova and Fedorova 2020; Furuta and Egawa 2000; Liu et al. 2017). Recently, this compound was highlighted during COVID-19 tenure as a potential candidate to treat SARS-CoV-2. Favipiravir is an inhibitor of RNA-dependent RNA polymerase (RdRp) of the SARS-CoV-2 virus first used in Wuhan at the very epicenter of the pandemic for the treatment of patients with mild to moderate COVID-19 disease (Zhang 2022). It is a kind of prodrug and converted into a more active form to its triphosphoribosylated (favipiravir-RTP), and thus selectively inhibiting viral RNA polymerase activity and preventing replication of the viral genome. It is still under clinical trial and more study is needed to be fully approved by FDA.
+
+Several methods are available for the synthesis of flavipiravir. The first synthesis was reported in 2000 by Furuta et.al (Joshi et al. 2021; Titova and Fedorova 2020; Furuta and Egawa 2000; Liu et al. 2017). synthesized compound with improved yield, starting from compound 206 . Thus, compound 206 was converted to 207 through esterification followed by bromination giving compound methyl 3-amino6-bromopyrazine-2-carboxylate 208 . This compound was transformed into 3,6-dichloropyrazine-2-carbonitrile 211 in a few steps. Ipso -substitution by fluoride ion, followed by amidation and hydrolysis gave compound 28 in 22% over
+
+Scheme 12 Synthesis of S-217622 . Reagents and conditions: a 1-(Bromomethyl)-2,4,5-trifluorobenzene, K$\_{2}$CO$\_{3}$, MeCN, 80 °C; b TFA, rt; c 3-(chloromethyl)-1-methyl-1H-1,2,4-triazole hydrochloride, K$\_{2}$CO$\_{3}$, DMF, 60 °C; (d) 6-chloro-2-methyl-2H-indazol5-amine, LHMDS, THF, 0 °C to rt
+
+<!-- image -->
+
+Scheme 13 Synthesis of Flavipiravir . Reagents and conditions: a H$\_{2}$SO$\_{4}$, MeOH, 0 °C; b NBS, MeCN, rt; c H$\_{2}$SO$\_{4}$, NaNO$\_{2}$, H$\_{2}$O rt; d NH$\_{3}$.H$\_{2}$O, rt; e POCl$\_{3}$, DIEA, 60 °C to 100 °C; f KF, Bu$^{4}$NBr, DMSO, 50 °C; g K$\_{2}$CO$\_{3}$, H$\_{2}$O$\_{2}$, DMSO, rt; h NaHCO$\_{3}$, H$\_{2}$O, 50 °C
+
+<!-- image -->
+
+all yield (Scheme 13) (Joshi et al. 2021; Titova and Fedorova 2020; Furuta and Egawa 2000; Liu et al. 2017).
+
+## Sofosbuvir
+
+Sofosbuvir, 21 a pro-antiviral drug, was first approved by FDA for the treatment of Hepatitis C Virus (HCV) infections in 2013. This is a fluorinated modified nucleotide and RNA-dependent RNA polymerase (RdRp) inhibitor drug. In 2020, studies of this drug on moderate or severe COVID19 patients, in combination with daclatasvir showed very encouraging results. Sofosbuvir inhibits SARS-CoV-2 replication in human hepatoma-derived (Huh-2) and Type II pneumocyte-derived (Calu-3) cells with EC$\_{50}$ values of 6.2 and 9.5 μM, respectively (Zhang 2022).
+
+Few methods of synthesis of advanced intermediates 217 of sofosbuvir were reported.$^{118}$ Recently, Taddei et.al. reported the synthesis by the use of lactone 212 .$^{118}$ Thus, compound 212 on the protection of two -OH group provided compound 213 , which on reduction followed by acetylation on generated -OH gave compound 214 . Condensation with silylated cytosine base 215 gave compound 216 . Deprotection of TBDMS followed by treatment with acetic acid provided a uracil analog of compound 217 . Compound 217 was then used for phosphorylation reaction with reagent 218 at 5'OH after activation with iPrMgCl LiCl complex and finally, deprotection of benzyl group with Pd/C, H$\_{2}$ gave final compound 21 . The phosphorylation reagent chloro(phenoxy) phosphoryl amino)propanoate was prepared in situ from phenyl dichlorophosphate 221 and the isopropyl ester of L-alanine 220 (Scheme 14) (Sadeghi et al. 2020; Jockusch et al. 2020; Simmons et al. 2017; Wang et al. 2009; Cini et al. 2018).
+
+## Mefloquinine HCl
+
+Mefloquinine 22 is an antimalarial drug that has been used for both malaria treatment and prophylaxis. It is a fluorinated derivative of hydroxychloroquine. In 2021, Watashi and coworkers identified this as a potential drug for the treatment
+
+Scheme 14 Synthesis of Sofosbuvir . Reagents and conditions: a TBDMSCl, Im, DMF; b NaH, BnBr, THF, -10 °C; c DIBAL, THF, -78 °C; d Ac$\_{2}$O; e 215 , SnCl$\_{4}$; f TBAF, THF then CH$\_{3}$CO$\_{2}$H, H$\_{2}$O, 45 °C; g i PrMgBr, LiCl, THF; h 218 ; i Pd/C, H$\_{2}$ (1 atm), MeOH; j 221
+
+<!-- image -->
+
+of COVID-19 disease. It was further observed that fluorination, increases anti-SARS-CoV-2 activity in comparison to HCQ in several SARS-CoV-2 infection models, such as the serine 2 gene overexpressed VeroE6 cells (EC$\_{50}$ = 1.28 vs. 1.94 μM; EC$\_{90}$ = 2.31 vs. 7.96 μM) (Zhang 2022; Shionoya et al. 2021; Knight et al. 2011).
+
+An asymmetric α -alkylation of ketones using chiral N-amino cyclic carbamate (ACC) auxiliaries was used by Coltart et al. for the synthesis of ( +)-enantiomer of mefloquine hydrochloride. Thus, 2-chloroacetophenone 22 was converted to asymmetric hydrazone 224 with ACC auxiliary 223 . A diastereomeric mixture of Darzen's products 226 (92:8) was formed when compound 224 was treated with aldehyde 225 . The major diastereomer of 226 was then subjected to the removal of the chiral auxiliary, followed by oxidation gave compound 227 . This was then reduced and oxidized to the corresponding aldehyde 229 . Aldehyde on reaction with 230 provided azide compound 231 which on reductive cyclization followed by Boc protection gave compound 232 . Olefinic reduction, deprotection of the Boc group, and finally salt formation gave the final compound ( +)-mefloquine hydrochloride 22 (Scheme 15) (Shionoya et al. 2021; Knight et al. 2011).
+
+## Fluvoxamine
+
+Originally, fluvoxamine 27 is used to treat obsessive-compulsive disorder (OCD). This is a selective serotonin reuptake inhibitor. This drug was repurposed for the treatment of corona patients and recommended for early treatment which showed a notable reduction in the need for hospitalization (Reis et al. 2022).
+
+Scheme 15 Synthesis of Mefloquinine . Reagents and conditions: a 223 , p -TsOH.H$\_{2}$O, MgSO$\_{4}$, CHCl$\_{3}$, reflux; b LDA, THF, 225 ; c p -TsOH.H$\_{2}$O, 3-pentanone; d m -CPBA, CH$\_{2}$Cl$\_{2}$; e LiAlH$\_{4}$, Et$\_{2}$O, -78 °C; f DMP, CH$\_{2}$Cl$\_{2}$; g KHMDS, THF, -78 °C, 230 ; h Ph$\_{3}$P, THF, reflux, then Boc$\_{2}$O; i H$\_{2}$, Pd/Alumina, EtOAc; j TFA, CH$\_{2}$Cl$\_{2}$; i Et$\_{2}$O, HCl
+
+<!-- image -->
+
+Welle and Claassen proposed three methods for the manufacture of fluvoxamine maleate. In one of the methods, trifluoromethyl benzonitrile 233 was used as a starting material to get the compound 5-methoxy pentane-one 235 derivative of 233 . Hydroxyl amine formation followed by treatment with ethylene oxide led to the corresponding -OH compound 237 . This on conversion to an amine through mesylation gave the desired compound 27 (Scheme 16) (Reis et al. 2022).
+
+## 4'-Fluorouridine (4'-FIU)
+
+4'-Fluorouridine (4'-FIU) 20 is an antiviral prodrug that acts as a RNA-dependent RNA polymerase and the active component is corresponding triphosphate (4'-FIU-TP). 4'-FIU was recommended for the treatment of SARS-CoV-2 and was found to be effective with a single daily dose. The halfmaximum effective concentration (EC$\_{50}$) for nirmatrelvir is very good (0.61 - 1.2 μM) (Sourimant et al. 2022; Owen et al. 1966).
+
+I$\_{2}$, lead to anhydro compound 239 which was opened by treatment of AgF and then corresponding -OH was converted to azide 240 . This sluggish reaction was performed under DMF and heating conditions. Further conversation of 240 by treatment with nitrosyl tetrafluoroborate gave fluoro anhydro compound 241 . Acid hydrolysis gave compound
+
+The phosphate derivative of 4'-Fluorouridine 20 was reported by Moffatt et.al ., starting from compounds, 4',5'unsaturated uridine 238 . Thus, the activation of compound 238 with.
+
+Scheme 16 Synthesis of Fluvoxamine . Reagents and conditions: a 234 ; b Na$\_{2}$CO$\_{3}$, NH$\_{2}$OH.HCl, MeOH, rt -50 °C; c ethylene oxide; d MsCl; e NH$\_{3}$
+
+<!-- image -->
+
+242 . Since it was observed that final deprotection leads to unstable compound 4'-FIU, so compound 242 , was first converted into ethyl phosphate derivative, which after hydrolysis and deprotection gave monophosphate compound 20 (Scheme 17) (Sourimant et al. 2022; Owen et al. 1966).
+
+## New entities
+
+This year in 2022 few more fluorinated drugs have been approved by FDA like lenacapavir (sunlenca) 243 for the treatments of HIV, oteseconazole (vivjoa) 244 to reduce the incidence of recurrent vulvovaginal candidiasis (RVVC) in females with a history of RVVC who are not of reproductive potential, vonoprazan (voquezna) 245 to treat Helicobacter pylori infection and adagrasib (krazati) to treat KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer in adults who have received at least one prior systemic therapy 246 (Fig. 13) (U.S. Food & Drug Administration: Novel Drug Approval for 2022). Further, many efforts were made to design and develop fluorinated
+
+Scheme 17 Synthesis of 4'-Fluorouridine. Reagents and conditions: a I$\_{2}$, CH$\_{2}$Cl$\_{2}$, AgF; b LiN$\_{3}$, DMF, 105 °C; c nitrosyl tetrafluoroborate, CH$\_{3}$CN, 0 °C-rt; d CF$\_{3}$CO$\_{2}$H, THF:H$\_{2}$O; e bis(2,2,2-trichloroethyl) phosphate, 2,4,6-triisopropyl benzene sulfonyl chloride, py; f 90% HCO$\_{2}$H: g CH$\_{3}$CO$\_{2}$H, DMF, H$\_{2}$O, Zn, AgOAc
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Fig. 13 Fluorinated drugs approved by FDA in 2022 ( 243 -246 )
+
+<!-- image -->
+
+compounds for the use of coronavirus-2 (SARS-CoV-2). Recently, fluorinated compounds like nirmatrelvir (PF07321332) 247 etc . (Brewitz et al. 2023; Higashi-Kuwata et al. 2023; Abdallah et al. 2022; Fang et al. 2022).
+
+From the above account, it is clear that a diverse method has been used for the synthesis of fluorinated compounds. In most of cases, fluorinated building blocks, which are either readily prepared or commercially available were used to synthesize the target compounds. Classically, electrophilic and nucleophilic fluorination strategies have been used, but most recently radical fluorination, thermal as well as photochemical approaches have been also developed. Since fluorination on organic compounds generally change the electronic properties, so late-stage fluorination is an important strategy. Further, the incorporation of fluorine into organic compounds is highly sensitive and dependent on the type of substituents, functional group, ring, etc. and thus methods are not always general, so the developments of new methods are always desirable (Campbell and Ritter 2015; Champagne et al. 2015).
+
+## Conclusion
+
+Fludrocortisone, Florinef (Florinef acetate) was the first approved fluorinated drug, which was brought to the market in 1954, and after this introduction fluorinated drugs in the market become a regular phenomenon. Over the last thirty years, fluorination on organic compounds stood itself as a tool of choice to increase metabolic stability, potency, and bioavailability. It was found in many cases that chances to become marketable drugs increase by just substitution of
+
+a few atoms or functionality to fluorine. So, the introduction of F-atom becomes strategically fruitful in designing new drugs because it minimizes the unsuccess rate. Last year we also witnessed approval of new fluorinated drugs which are actively used in different therapeutic areas like multiple myeloma, HIV, chronic heart failure, lymphoma, chronic myeloid leukemia, migraines, (ANCA)-associated vasculitis, von Hippel-Lindau disease, non-small cell lung cancer etc. All compounds are of the diverse nature which contains multiple chiral centers and multiple fluorine atoms. Also not only drug development but also diagnosis and material science have also been getting tremendous benefits from fluoro compounds. Here, we presented the synthesis, biological properties of all individual approved compounds. Although there is a significant benefit of fluoro-organic compounds, the introduction of F-atom in the organic molecule is still very challenging. Methods are available but unfortunately, methods are not of general type, slight change in the functionalities in the compound, drastically changes the reactivity pattern. In the last ten years, many new methods have been reported particularly, by the use of organometallic reagents, free radical chemistry, and asymmetric transformation, which are fulfilling the gap in the fluorination chemistry. Many mild and stereoselective methods have been developed. Still there are a lot of scopes particularly need to have more fluorinated reagents library, understanding F-effect on bioactivities. And finally, we strongly believe that due to the high benefits, the development of fluorination strategy will continue in the near future and we will see more magical achievements in this field.
+
+Acknowledgements Dr. G. Chandra and Dr. D. V. Singh are grateful to CUSB-Gaya for providing research infrastructure and fellowship. Mr. G. Mahto and Mrs. S. Patel thank CUSB, Gaya, Bihar for providing research infrastructure and research fellowship. Authors acknowledge Department of Biotechnology (DBT), New Delhi for granting research funds and fellowship (Award No: BT/PR34287/AGIII/103/1179/2019).
+
+Author Contributions GC carried out the literature search and wrote and finalized the manuscript. DVS revised the manuscript. GM and SP carried out the literature search, and proofread the manuscript.
+
+## Declarations
+
+Conflicts of interest The authors declare that there is no conflict of interest.
+

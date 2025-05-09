@@ -1,0 +1,259 @@
+## 1. Introduction
+
+Lithium-ion batteries, as a typical energy storage technique, have a profound influence on the field of power batteries. However, the severe problem currently facing this technology is the
+
+Y. Tang, G. Li, S. Cui, W. Cui, L. Han School of Materials Science & Chemical Engineering Ningbo University
+
+Ningbo, Zhejiang 315211, P. R. China
+
+E-mail: liguochang@nbu.edu.cn
+
+H. Chong, H. Pang
+
+School of Chemistry and Chemical Engineering
+
+Yangzhou University
+
+Yangzhou, Jiangsu 225009, P. R. China
+
+E-mail: panghuan@yzu.edu.cn
+
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/adfm.202403351
+
+DOI: 10.1002/adfm.202403351
+
+extremely limited lithium resources. [1-3] In contrast, sodium has the merits of low cost, abundant reserves, and many similar properties to lithium. It is considered to be one of the most ideal candidates to replace lithium. Regrettably, the larger ionic radius of Na + than Li + complicates the (de)intercalation of Na + into graphite. [4-8] Therefore, there is a pressing need to develop more suitable anode materials for sodium-ion batteries (SIBs).
+
+As a Fe-based mixed metal oxide, Fe$_{2}$Mo$_{3}$O$_{8}$ features the superiorities of costeffectiveness, eco-friendliness, and abundant valence states for metal elements. [9-11] In this material, the iron and molybdenum elements present various oxidation states, including Fe(II), Fe(III), Mo(IV), and Mo(VI), providing a rich electronic structure and diverse chemical reactivity. This multiplicity of oxidation states gives rise to intriguing physical and chemical phenomena, which are beneficial to achieve high capacity and pseudo-capacitance behavior for enhanced rate performance. [12,13] Until now, only a few research reported the usage of Fe$_{2}$Mo$_{3}$O$_{8}$ as an anode for lithium
+
+storage, [9-13] and however, to the best of our knowledge, there is no exploration on the employment of Fe$_{2}$Mo$_{3}$O$_{8}$ for SIBs. Therefore, it is important to fill the research gap and establish the energy storage mechanism of Fe$_{2}$Mo$_{3}$O$_{8}$ in SIBs. In addition, MoS$_{2}$, a representative layered material, has garnered significant research interest as anodes for SIBs owing to the high theoretical capacity, weak van der Waals force between stacked layers for hosting metal cations, and adjustable interlayer spacing. [14] While the inferior conductivity, sluggish reaction kinetics, and substantial volume change often lead to inferior rate capability and cycling stability. [15-17] In this sense, increasing the defect density in the MoS$_{2}$ layer structure by constructing the nanovoids and expanding the interlayer spacing could produce extra channels in perpendicular directions, facilitating faster ion transport. [18] Ye et al. [19] prepared a hierarchical MoS$_{2}$ nanowire with an expanded interlayer of 0.963 nm, which exhibits a capacity retention of 82.8% after 6500 cycles at 2 A g - $^{1}$. In addition, restraining the loss of the active components by engineering the unique confinement structure is an effective strategy to
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+enhance cycling durability. [20-22] Metal-organic frameworks (MOF) feature the advantages of high surface area, adjustable structure and morphology, and abundant porosity, which have been extensively explored in gas storage, [23] catalysis, [24] energy storage [25-27] etc. It has also been employed as a versatile template to prepare stable and advanced energy storage materials. [28]
+
+Besides the engineering of advanced electrode materials, optimizing the electrolyte has also been deemed as an important tactic to boost Na storage performance. It is reported that etherbased electrolytes could facilitate the formation of thinner solidelectrolyte interphase (SEI), the insertion effect of solvated Na $^{+}$, and the fast transport of Na $^{+}$. [29-32] Li et al. [30] demonstrated that the ether-based electrolyte can decrease the electrochemical polarization, and form a dense and thin SEI layer, which is conducive to obtaining high initial coulombic efficiency (ICE) and long cycling stability for MoS$_{2}$/Ti$_{3}$C$_{2}$T$_{x}$ electrode. Zhou et al. [32] showed that coupling FeS$_{2}$@C electrodes with ether-based electrolytes can achieve fast ion diffusion and high electrochemical reversibility.
+
+In this work, a confinement-structured Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ with local-expanded interlayers spacing was prepared using Fe -MOF (MIL -88A) coated with polydopamine (PDA) as a self -sacrificing template. During the synthesis process, dopamine (DA) molecules are tactically inserted into the interlayer of MoS$_{2}$, leading to the formation of nanovoids on the MoS$_{2}$ layers and the local-expanded layer spacing. The Na storage performance of this material was explored both in etherbased and ester-based electrolytes, and the reasons for the superior performance in the former were discussed by analyzing the composition and thickness of the SEI layer. Moreover, the Na storage mechanism and detailed structural evolution of Fe$_{2}$Mo$_{3}$O$_{8}$ were established for the first time by in situ X-ray diffraction (XRD). Density functional theory (DFT) calculations exhibit that the unique structure facilitates internal charge transfer and enhances Na + adsorption ability. As a result, a high reversible specific capacity of 636 mAh g -1 was achieved at 0.1 A g -1 and still remained 301 mAh g -1 at 5.0 A g -$^{1}$. After 6000 cycles at 2.0 A g -$^{1}$, the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ still presented a high specific capacity of 365 mAh g -$^{1}$. The full cell was assembled using commercial Na$_{3}$V$_{2}$(PO$_{4}$)$_{3}$@C (NVP@C) as cathode and Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ as an anode, which presents the significant potential for practical application.
+
+## 2. Results and Discussion
+
+The synthesis process and characterization of Fe$_{2}$Mo$_{3}$O$_{8}$ @C@MoS$_{2}$ composite are illustrated in Figure 1 a. First, the spindle-shaped polyhedral MIL -88A nanoparticles with a length of ≈ 530 nm and a diameter of ≈ 210 nm were synthesized by the oil bath method (Figure S1a, Supporting Information). After being coated with the PDA layer, core-shell structured MIL -88A@PDA particles with a similar morphology were obtained (Figure S1b, Supporting Information). Subsequently, 2D MoS$_{2}$ nanosheets were vertically grown onto the surface of the nanoparticles during the hydrothermal process to obtain the sandwich-structured FeMoO$_{4}$@PDA@MoS$_{2}$ composite. After carbonization under N$_{2}$ atmosphere, the FeMoO$_{4}$@PDA@MoS$_{2}$ was phase transferred to Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ composite (Figure S2, Supporting Information). This transfer creates a new
+
+Fe-Mo coordination environment, which is prone to generating structure vacancies and accommodates more Na $^{+}$.Asshownin Figure 1b,c, the interlaced and lamellar MoS$_{2}$ nanosheets are vertically wrapped on the surface of spindle-structured polyhedron with many open spaces. The internal hollow structure can be clearly observed through the broken nanoparticle (Figure 1b). Transmission electron microscopy (TEM) image further shows the hollow internal structure with an outer diameter of ≈ 530 nm and length of ≈ 980 nm. (Figure 1d). The hollow structure can not only expose a more active site for Na + storage but also relieve volume expansion during Na + de(intercalation), which is conducive to achieving high rate capability and long cycling stability. [33,34] From the enlarged TEM image (Figure 1e), the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ composite can be divided into three parts: the hollow and spindle-shaped Fe$_{2}$Mo$_{3}$O$_{8}$ core, the middle carbon layer, and the outer interlaced and lamellar MoS$_{2}$ nanosheets. The interlayer lattices of 0.49 and 0.25 nm for the inner core can relate to the (002) and (112) lattice planes of Fe$_{2}$Mo$_{3}$O$_{8}$,well consistent with the following XRD results (Figure 1f). The outer shell displays a "wave-like" local-expanded MoS$_{2}$ layer with many obvious nanovoids (marked by a red dotted cycle) (Figure 1g; Figure S3, Supporting Information). Significantly, the interlayer lattice at the wave region was enlarged from 0.62 to 0.79 nm. In addition, obvious infiltration of carbon can be observed between the MoS$_{2}$ layer, which is responsible for the distortion and the enlargement of the interlayer. To get deep insight into the reason for the enlarged interlayer spacing, we conducted a control experiment to prepare Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$ under the same experimental conditions without the PDA coating procedure. There were no significant changes observed from surface morphology, while the internal polyhedron lost its basic shape due to the lack of PDA protection (Figure S4a,b, Supporting Information). High-resolution TEM (HRTEM) image and periodic diagram of the lattice peak indicate that MoS$_{2}$ prepared in this way has a typical interlayer spacing of 0.62 nm (Figure S4c,d, Supporting Information). Thus, the PDA layer should play an important role in increasing the interlayer spacing and creating the defects. Based on the characteristics of PDA, the abundant catechol base and chinone base in the PDA layer can efficiently attract both Mo 4 + and S 2 $^{-}$, [35] and the free DA molecules can penetrate into the layers of MoS$_{2}$ during hydrothermal processes, leading to the expansion and distortion of the interlayer spacing. The "wave-like" structure with increased interlayer spacing and adequate nanovoids can efficiently alleviate internal stress during prolonged (de)sodiation processes, reduce the Na + diffusion path from the edge to the center and promote charge transfer efficiency. [18] The Fe$_{2}$Mo$_{3}$O$_{8}$@C was also prepared for comparison, which shows spindle-shaped polyhedral morphology with a hollow internal structure (Figure S5, Supporting Information). As shown in Figure 1h, the composite is composed of Mo, S, Fe, O, C, and N elements. The Mo element is homogeneous distribution through the whole product and the Fe and O elements are mainly in the inner core, confirming the core consists of Fe$_{2}$Mo$_{3}$O$_{8}$. The construction of a multiphase integrated heterogeneous structure is regarded as an effective approach for enhancing reaction reversibility, accelerating charge/ion transfer under the influence of the internal electric field, and improving the cycling stability by the unique confinement structure, leading to high-efficiency charge storage. [36]
+
+Figure 2 a presents the XRD patterns of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ and Fe$_{2}$Mo$_{3}$O$_{8}$@C. The strong diffraction peaks at 17.6 ° , 25.1 ° , 35.8 ° , and 37.0 ° are assigned to (002), (102), (112), and (201) crystal phases of Fe$_{2}$Mo$_{3}$O$_{8}$ (JCPDS No. 78 -0212), in agreement with the HRTEM results. The diffraction peaks at 13.1 ° and 38.9 ° are attributed to the (002) and (103) crystal planes of hexagonal MoS$_{2}$ (JCPDS No. 87 -2416). Raman spectra were conducted to further investigate the structure of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ (Figure
+
+Figure 1. Preparation process and characterization of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ composite. a) Schematic illustration for the synthesis procedure; b,c) SEM images; d -g) TEM and HRTEM images with different magnifications; h) Corresponding elemental mapping.
+
+S6, Supporting Information). The peaks located at 344, 777, and 924 cm - 1 are index to Fe$_{2}$Mo$_{3}$O$_{8}$. [9,12,13] The peaks at 381 and 405 cm -1 belong to the E1$_{2g}$ mode and A$_{1g}$ mode of MoS$_{2}$. [37] In addition, two broad peaks at 1350 and 1570 cm - 1 are ascribed to the D- and G-bands of carbon material. [38] The composition and valence states of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ were analyzed by X-ray photoelectron spectroscopy (XPS). The full survey spectrum detects the existence of Fe, Mo, O, S, N, and C elements
+
+Figure 2. The structural and compositional characterizations of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$. a) XRD patterns; b -f) XPS spectra: b) Mo 3d, c) Fe 2p, d) S 2p, e) O 1s, and f) C 1s.
+
+(Figure S7a, Supporting Information). The high-resolution Mo3d spectrum displays multiple valence states with four peaks centered at binding energies of 236.0, 233.7, 230.7, and 226.7 eV, which are attributed to Mo 6 $^{+}$,Mo 4 + 3d$_{3/2}$,Mo 4 + 3d$_{5/2}$ and S 2s. The peaks at binding energies of 229.6 and 232.8 eV belong to Mo x $^{+}$, which is due to the different Fe -Mo coordination environments (Figure 2b). [9,39] In Figure 2c, the Fe 2p spectrum can be deconvoluted into four peaks at a binding energy of 726.9 and 723.2 eV for Fe 2p$_{1/2}$ and 710.1 and 714.4 eV for Fe 2p$_{3/2}$, which are associated to Fe - NandFe - O bonds (Figure 2c). [40] The high-resolution S 2p spectrum can be fitted divided into three peaks, corresponding to S 2p$_{1/2}$ at 163.7 eV, S 2p$_{3/2}$ at 162.5 eV, and oxidized groups SO$_{X}$ (169.0 eV) (Figure 2d). [41] In high -resolution O1s spectrum, the peak at 530.59 eV belongs to the Fe - O/Mo - O bond, while the peak at 531.37 eV is assigned to C - O(Figure2e). [9] The C1s spectrum is composed of C - Cat 284.8 eV, C - N at 285.7 eV, and C - O at 2857.0 eV (Figure 2f). [15] Regarding the N 1s spectrum, the binding energy at 397.2, 398.1, and 399.5 eV can be assigned to pyridine N, N - Fe bond, and pyrrolic N (Figure S7b, Supporting Information). [42,43] The existence of multiple valence states and multiphase interfaces could reduce charge transfer resistance and promote transport kinetics of ions and electrons, which could have a positive effect on the generation of pseudocapacitance. [44,45] The nitrogen adsorptiondesorption isotherm of the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ composite was tested, as shown in Figure S7c (Supporting Information). The pore size distribution shows the coexistence of micropore and mesopore structure, and the calculated specific surface area is 34.2 m 2 g -$^{1}$.
+
+Besides the intrinsic characteristics of electrode materials, electrolytes also have a significant effect on electrochemical performances. Thus, the electrochemical performances of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ composite were investigated both in etherbased and ester-based electrolytes ( Figure 3 ). The cyclic voltammetry (CV) measurements disclose the different electrochemical sodium storage mechanisms of the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ in the two electrolytes (Figure 3a,b). During the 1st cathodic scan in ether-based electrolyte, three obvious peaks at 1.03, 0.75, and 0.29 V can be observed, which are attributed to the multiple reduction reactions of intercalation of sodium, the formation of SEI after electrolyte decomposition and phase transformation. During the anodic scan, the oxidation peak at 0.45 and 1.84 V is due to the extraction of sodium and the reverse process of phase transformation. In the 2nd cycle, the shift in location and reduction in the intensity of redox peaks are attributed to the initial activation process, the formation of SEI layers, and different products, similar to the phenomenon in lithium-ion batteries for Fe$_{2}$Mo$_{3}$O$_{8}$. [9,10] In the subsequent two CV cycles, the CV curves show good coincidence, indicating excellent cycling reversibility and stability of this material (Figure 3a). By comparison, in the ester-based electrolyte, the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ only presents one broad cathodic peak at 0.66 V and two anodic peaks at 0.87 and 1.92 V since the electrode suffers from serious voltage polarization (Figure 3b). The galvanostatic charge/discharge (GCD) profiles for the initial five cycles at 0.1 A g -1 in the two electrolytes are displayed in Figure 3c,d. In ether-based electrolyte, Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ exhibits an original discharge/charge capacity of 854/676 mAh g - $^{1}$, accompanied by an ICE of 79.1%
+
+Figure 3. The electrochemical performance of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ composite in ether-based and ester-based electrolytes, respectively. CV curves at 0.1 mV s -1 in ether-based electrolyte a) and in ester-based electrolyte b); GCD curves at 0.1 A g -1 in ether-based electrolyte c) and in ester-based electrolyte d); e) Rate capability; f) GITT curves; g) Sodium ions diffusion coefficient; h) Cycling performance; i) EIS.
+
+(Figure 3c). In subsequent cycles, the GCD curves basically overlap, further confirming the good cycling reversibility and stability. By comparison, the initial discharge/charge capacity is only 438/350 mAh g - 1 in ester-based electrolytes (Figure 3d). The discharge capacity in subsequent cycles gradually tends to reversible ≈ 330 mAh g - $^{1}$, much smaller than the performance in ether-based electrolytes. Figure 3e exhibits the rate capability of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ in different electrolytes. Clearly, Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ exhibits excellent rate capability in the ester electrolyte with the reversible discharge specific capacity of ≈ 636, 566, 496, 437, 374, 301 mAh g -1 at current density of 0.1, 0.2, 0.5, 1.0, 2.0 and 5.0 A g -$^{1}$, and when current density returns to 0.1 A g -$^{1}$, the specific capacity is recovered to 635 mAh g -$^{1}$. While the reversible specific capacity is only ca. 275, 237, 191, 151, 107, and 56 mAh g -1 at 0.1, 0.2, 0.5, 1.0, 2.0 and 5.0 A g -1 in ester-based electrolyte (Figure S8, Supporting Information). The diffusion of Na + was analyzed by galvanostatic intermittent titration technique (GITT) tests (Figure 3f). According to Fick's second law, the calculated Na + diffusion co-
+
+(D$_{Na}$$_{+}$)ofFe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ in the two electrolytes is displayed in Figure 3g. Obviously, the values of D$_{Na}$$_{+}$ in the ether-based electrolyte are higher than the case in an esterbased electrolyte, which is responsible for its fast reaction kinetics and excellent rate capability. After 400 cycles at 2 A g -$^{1}$, the retention rate of capacity is only 61% in the ester-based electrolyte, while the capacity exhibits negligible decay in the etherbased electrolyte (Figure 3h). Electrochemical impedance spectroscopy (EIS) was employed to better understand the charge transfer process (Figure 3i). From the Nyquist plots, all the plots exhibit sloped lines in the low-frequency region and semicircles in the high-frequency region, which relate to the Warburg impedance ( R$_{w}$ ) and the charge transfer resistance ( R$_{ct}$ ) at the electrode -electrolyte interface. [46-48] Based on the simulation equivalent circuit model, the R$_{ct}$ of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ in ether-based electrolyte before cycling is 369.7 Ω , much smaller than 957.3 Ω in the ester-based electrolyte, revealing a favorable Na-ion diffusion kinetics in the former. After the first CV cycles, the values of R$_{ct}$ are significantly reduced to 33.6 and 183.6 Ω in
+
+www.afm-journal.de
+
+Figure 4. The characterizations of SEI layer for Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ in ether-based and ester-based electrolytes. SEM images of the electrode after 1, 50, and 100 cycles in ether-based electrolyte a-c) and in ester-based electrolyte d-f); HRTEM images of the electrodes after 50 cycles in ether-based electrolyte g) and in ester-based electrolyte k); XPS spectra of C 1s, F 1s, and O 1s in ether-based electrolyte h-j) and in ester-based electrolyte l-n).
+
+ether-based and ester-based electrolytes due to the formation of SEI. [21]
+
+To understand the reason for the higher capacity, ICE, and excellent rate capability in ether-based electrolytes, we conducted more detailed characterization and validation of the electrodes before and after cycling. Figure 4 a-f shows the SEM images of the electrode after different cycles in the two electrolytes. In etherbased electrolytes, compared with the origin electrode materials (Figure S9a, Supporting Information), a thin and uniform SEI layer covers the surface of electrode materials after the 1st cycle (Figure 4a). As the cycle proceeds, no significant change is observed on the surface of an electrode, and the particles remain evenly distributed (Figure 4b,c; Figure S9b, Supporting Informa-
+
+tion). In contrast, in the case of ester-based electrolytes, the surface of the electrode is covered by a thick SEI layer and the particles have slight aggregation. After repeated charge and discharge, the SEI layer becomes denser (Figure 4d-f). The thicker SEI layer not only consumes more electrolytes but also impedes the ion's diffusion, leading to lower ICE and a rapid capacity decay. The chemical composition and thickness of SEI layer in different electrolytes were analyzed by XPS and TEM. Clearly, after 50 cycles, the thickness of SEI layer in ether-based electrolytes is significantly less than that in ester-based electrolytes (Figure 4g,k). For the XPS spectra in the C 1s region, four characteristic peaks corresponding to C - C, C - O, C ═ O, and Na$_{2}$CO$_{3}$ can be found in both electrolytes (Figure 4h,l). For the F 1s spectrum, the signals
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+are attributed to NaF and NaPF$_{6}$ substances (Figure 4i,m). The larger peak area of NaF in ester electrolytes indicates a significant consumption of electrolytes in the formation of the SEI film. [49] The O 1s spectrum exhibits four fitting peaks, corresponding to polyester, C ═ O, C - O, and Na$_{2}$O(Figure4j,n). [50] Clearly, the signals of Na$_{2}$CO$_{3}$ and Na$_{2}$O occupy the main part of ether-derived SEI layer, indicating that the SEI layer is mainly dominated by inorganic components. Higher inorganic components are conducive to form a more uniform and thin SEI layer. [51] Moreover, the low activation energy of inorganic components (NaF and Na$_{2}$CO$_{3}$) can contribute to fast interfacial reaction kinetics and charge transfer (Na + diffusion).
+
+To further reveal the distinct electrochemical behavior in the two electrolytes, the electrochemical kinetics of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ were further studied by collecting a series of CV curves from 0.1 to 0.8 mV s -$^{1}$. At each scan rate, the CV curves exhibit a similar shape with a pair of redox peaks in ether-based electrolytes ( Figure 5 a). As the scan rate increases, the potential of the redox peaks basically coincides, demonstrating its good rate capability. The correlation between current ( i ) and scan rate ( v ) complies with the following Equation: i = av$^{b}$, where a and b are two variable parameters. The b value ranges from 0.5 to 1, when b value is approaching 0.5, which represents the capacity is primarily determined by diffusion control. While b approaching 1 implies capacitive -controlled processes. [52] On the basis of the relationship between log ( i )versuslog( v ), the obtained b values for the cathode and anode peaks are 0.80 and 0.95, respectively, indicating the capacitance-control dominated processes (Figure S10e, Supporting Information). [53] The capacitive contributions were further calculated by the formula: i = k$_{1}$v + k$_{2}$v 1 / $^{2}$,wherek$_{1}$v and k$_{2}$v 1/2 represent the contribution from capacitive behaviors and diffusion behaviors, respectively. [54] As the scan rate increases along 0.1, 0.2, 0.5, and 0.8 mV s -$^{1}$, the capacitive behaviors contribution becomes more and more predominant, corresponding to the ratio of 52, 73, 84, and 92%, respectively (Figure S10a-d,f, Supporting Information). For the case of ester-based electrolytes, the ratio of capacitive contribution is 42, 51, 62, and 74% at the scan rate of 0.1, 0.2, 0.5, and 0.8 mV s -1 (Figure S11, Supporting Information). The ratio of capacitive contribution in the ester-based electrolyte is far less than that in the ether-based electrolyte. It is reported that the capacitive effect can accelerate the electrochemical reaction dynamics and reduce the volume change, thus maintaining the integrity of the electrode and improving the sodium storage behavior. [30] This is responsible for the high specific capacity, excellent rate capability, and superior cycle stability in ether-based electrolytes.
+
+The unique structure merits of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ were investigated by comparing the electrochemical performance of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ with Fe$_{2}$Mo$_{3}$O$_{8}$@C and Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$. The reversible capacities for Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$ electrode are 555 mAh g -1 at 0.1 A g -1 and remains 197 at 5.0 A g -$^{1}$. Upon returning to 0.1 A g -$^{1}$, the specific capacity significantly decreases only with 459 mAh g -$^{1}$. The Fe$_{2}$Mo$_{3}$O$_{8}$@C exhibits reversible capacities of 482 mAh g -1 at 0.1 and 156 mAh g -1 at 5.0 A g -1 (Figure 5b). Obviously, the capacities for Fe$_{2}$Mo$_{3}$O$_{8}$@C and Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$ at all current densities are significantly smaller than those for Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$. Moreover, after 100 cycles at 1.0 A g -$^{1}$,
+
+the reversible capacity for Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ basically maintains at ≈ 423 mAh g -$^{1}$, much higher than 202 mAh g -1 for Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$ and 254 mAh g -1 for Fe$_{2}$Mo$_{3}$O$_{8}$@C. suggesting its superior cycling stability (Figure 5c). The outstanding electrochemical performance of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ can be ascribed to the robust confinement structure, the excellent conductivity provided by the carbon layer, and the local-expanded interlayer spacing. Specifically, the confinement structure serves as a physical barrier to ensure structural stability. The carbon layer improves the electronic conductivity to guarantee fast electron transfer. The expanded interlayer spacing and nanovoids promote ion migration for fast and reversible Na storage reactions. Impressively, after 6000 cycles at 2.0 A g -$^{1}$, the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ electrode still maintains a capacity of 365 mAh g - 1 with ≈ 100% Coulombic efficiency, indicating a superior cycle stability (Figure 5d). After cycling, the structure of the sample does not collapse, and the surface-coated nanosheets can still be observed clearly indicating the good structural stability for Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ in ether-based electrolyte (Figure S12, Supporting Information). Remarkably, the rate capability surpasses most other iron-based and MoS$_{2}$ composites (Figure S13 and Table S1, Supporting Information), demonstrating the prominent performance of this advanced anode material.
+
+DFT calculations were implemented to better understand the impact of the unique structure on electronic properties and sodium ion storage behavior. The optimized geometric models before and after Na + adsorption are shown in Figures S14 and S15, (Supporting Information). As shown in Figure 5e, the adsorption energy ( E$_{ads}$ )ofNa + exhibits the order of E$_{ads}$ (Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$) < E$_{ads}$ (Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$) < E$_{ads}$ (Fe$_{2}$Mo$_{3}$O$_{8}$), indicating the best adsorption capability for Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$. Additionally, the E$_{ads}$ of Na + on the three models at different adsorption sites were also discussed (Figure S15, Supporting Information). Obviously, at different adsorption sites, the three models have a slight effect on the E$_{ads}$ of Na $^{+}$. Particularly, at all the corresponding adsorption sites, the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ model all exhibit the best E$_{ads}$ of Na + in comparison with the other two models. Furthermore, from the 3D charge density difference (Figure 5i), obvious charge accumulation/depletion between Fe$_{2}$Mo$_{3}$O$_{8}$ and C indicates a strong interfacial interaction. The average Bader charge calculations were performed to analyze the electron gain and loss. The calculated results display the carbon layer transfers 0.89 e - to the Fe$_{2}$Mo$_{3}$O$_{8}$ side. The dominant charge accumulation around the O atoms forms a negative charge center, thus providing a favorable environment for the adsorption of Na $^{+}$. The interfacial interaction in the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ heterojunction leads to fast electron transfer as well as rapid diffusion kinetics of Na $^{+}$. The density of states (DOS) was calculated to explore the electronic structures. The total DOS (TDOS) crossing the Fermi level for Fe$_{2}$Mo$_{3}$O$_{8}$ and Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$ exhibits no electron density, showing a semiconductor characteristic (Figure 5f,g). In comparison, the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ presents significantly increased electron density at the Fermi level due to the carbon contribution, which endow Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ with a conductor property (Figure 5h). To explore the effect of electronic structure on the sodium ion diffusion kinetics, we have calculated the Na + diffusion energy barriers on the three models, as shown in Figures S16 and S17 (Supporting Information). Obviously, the diffusion
+
+16163028, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adfm.202403351 by Ningbo University, Wiley Online Library on [22/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+www.afm-journal.de
+
+Figure 5. a) CV curves of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ electrode at different scan rates; b) Rate capabilities of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$,Fe$_{2}$Mo$_{3}$O$_{8}$@C, and Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$; c) Cycling performances of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$,Fe$_{2}$Mo$_{3}$O$_{8}$@C, and Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$ at 1.0 A g -$^{1}$; d) Cycling performance of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ at 2.0 A g -$^{1}$; e) Na-ion adsorption energy (E$_{ads}$); The calculated DOS for Fe$_{2}$Mo$_{3}$O$_{8}$@C f), Fe$_{2}$Mo$_{3}$O$_{8}$@MoS$_{2}$ g), and Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ h) models; i) The 3D charge density difference of the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ model, yellow stands for charge accumulation and cyan stands for charge depletion; j) The migration path of the sodium in MoS$_{2}$ with the layer spacings of 0.62 and 0.79 nm and k) corresponding diffusion energy barriers.
+
+Figure 6. a) In situ XRD patterns of the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ electrodes at different discharge/charge states; b) Schematic illustration of the structure evolution of Fe$_{2}$Mo$_{3}$O$_{8}$ and MoS$_{2}$ during the (de)sodiation process.
+
+energy barrier of Na + is 0.263 eV on the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ model, much lower than 0.322 eV for Fe$_{2}$Mo$_{3}$O$_{8}$@MoS 2 and 0.371 eV for Fe$_{2}$Mo$_{3}$O$_{8}$. Apart from this, the diffusion energy barriers of Na + in MoS$_{2}$ depending on the interlayer spacings were also performed to illustrate the effect of interlayer spacings on the performance (Figure 5j,k; Figure S18, Supporting Information).
+
+The corresponding energy barriers are 0.405 and 0.486 for the layer spacing of 0.79 and 0.62 nm, which indicates the enlarged layer spacing can facilitate Na + diffusion kinetics.
+
+Given that Fe$_{2}$Mo$_{3}$O$_{8}$ has been explored for the first time as an anode for SIBs, it is very essential to establish the Na-storage mechanism. Therefore, in situ XRD measurement was carried
+
+Figure 7. The electrochemical performance in ether-based electrolyte. a) Schematic illustration of full-cell; b) CV curves of the 1st, 3rd, and 5th cycle at a scan rate of 0.2 mV s - $^{1}$; c) GCD curves of the 1st, 2nd, 3rd, and 5th cycle at a current density of 0.1 A g - $^{1}$; d) Rate capability and Ragone plot; e) Cycling stability at current density of 1.0 A g - $^{1}$.
+
+out to detect the structural transformation of the electrode at different discharge/charge stages. As displayed in Figure 6 a,during the first sodium storage process, when discharged to 0.45 V, the diffraction peaks of Na$_{2}$Fe$_{2}$(MoO$_{4}$)$_{3}$ and Na$_{x}$MoS$_{2}$ emerge in the XRD patterns, which manifest that the sodiation reactions of MoS$_{2}$ and Fe$_{2}$Mo$_{3}$O$_{8}$ occur simultaneously. These processes are related to the reaction of Na + with MoS$_{2}$ to form Na$_{x}$MoS$_{2}$ phase and Na + with Fe$_{2}$Mo$_{3}$O$_{8}$ to form Na$_{2}$Fe$_{2}$(MoO$_{4}$)$_{3}$.When further discharged to 0.29 V, the distinct diffraction peaks at 38.7 ° and 44.6 ° appear, which correspond to the (111) crystal planes of metallic Mo and (110) crystal planes of metallic Fe. With deep discharge, the peak of Na$_{2}$S (002) also appears, indicating that further transformation of Na$_{x}$MoS$_{2}$ has occurred. Upon charging to 1.5 V, the peak of Fe$_{2}$Mo$_{3}$O$_{8}$ reappears, and the peak of Na$_{2}$Fe$_{2}$(MoO$_{4}$)$_{3}$ gradually disappears, verifying the progress of the oxidation reaction. At the time of charging to 3.0 V, Fe$_{2}$Mo$_{3}$O$_{8}$ still exists, proving the reversibility of (de)sodiation. Notably, we hardly find the peak of Na$_{2}$O during the charge and discharge, indicating that Na$_{2}$O may exist in an amorphous form. [55] The in situ XRD graphs of the charge-discharge process were nearly identical, indicating the stability of the products. Based on the above analysis, we provide the structure evolution of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ during the (de)sodiation process and the possible reaction mechanism is presented as follows:
+
+To further demonstrate the practical application of Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$, the full cell was assembled using commercial Na$_{3}$V$_{2}$(PO$_{4}$)$_{3}$@C (NVP@C) as cathode and Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ as anode with ether electrolyte. The electrochemical behavior of the NVP@C and full cell were evaluated through CV and GCD measurements, as shown in Figures 7 and S19 (Supporting Information). The high overlap of the CV curves and almost unchanged charge/discharge plateaus in the first five cycles validate the reversible redox reactions in the full cell (Figure 7b,c). The rate capability of the full cell at different current densities is shown in Figure 7d. At 0.1 A g - $^{1}$, the specific capacity is 225.3 mAh g - $^{1}$,a n di t still retains 96.1 mAh g - 1 at 2.0 A g - 1 (Figure 7d; Figure S19c, Supporting Information). When the current density returns to 0.2 A g - $^{1}$, the capacity recovers to 183.6 mAh g - $^{1}$. After 300 cycles at 1.0 A g - $^{1}$, it maintains a capacity of 90.1 mAh g - 1 (Figure 7e). Accordingly, the full cell presents a maximum energy density of 280.4 Wh kg - 1 at a power density of 102.3 W kg - $^{1}$. Even when the power density increases to 2046.7 W kg - $^{1}$, the energy density still remains at 97.6 Wh kg - $^{1}$. Such excellent performance is highly competitive with currently advanced SIB full cells. [56-60] These results demonstrate the Fe$_{2}$Mo$_{3}$O$_{8}$@c@MoS$_{2}$ with unique confinement structure and local-expanded interlayer spacing exhibits outstanding electrochemical performance for efficient sodium ion storage both in half-cell and full-cell configurations.
+
+## 3. Conclusion
+
+In summary, we designed a phase transition-assisted hollow Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ composite as the anode material
+
+www.advancedsciencenews.com
+
+for sodium-ion batteries using MIL -88A coated PDA as a self -sacrificing template, which shows local-expanded interlayer spacing due to the free DA molecules penetration into the layers of MoS$_{2}$ during hydrothermal processes. The enlarged interlayer spacing reduces the energy barriers for the ion diffusion, exposes more active site and shortened the migration pathway for Na $^{+}$, thus improving the electrochemical performance. The carbon layer sandwiched between Fe$_{2}$Mo$_{3}$O$_{8}$ and MoS$_{2}$ improves the conductivity, promotes charge transfer, and suppresses the volume changes and pulverization/loss of active components during the electrochemical reaction. The electrochemical test and the characterization of the SEI layer indicate good compatibility in ether-based electrolytes. Consequently, the Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$ composite exhibits high reversible specific capacity of 636 mAh g -1 at 0.1 A g -$^{1}$, excellent rate capability (301 mAh g -1 at 5.0 A g -$^{1}$) and super cycle stability after 6000 cycles at 2.0 A g -$^{1}$. More importantly, the Na storage mechanism of Fe$_{2}$Mo$_{3}$O$_{8}$ is established for the first time by in situ XRD. The study provides a scientific understanding of the Na storage mechanism of Fe$_{2}$Mo$_{3}$O$_{8}$ and meanwhile suggests a promising strategy for constructing high-performance anodes for SIBs.
+
+## Supporting Information
+
+Supporting Information is available from the Wiley Online Library or from the author.
+
+## Acknowledgements
+
+This work was supported by the National Natural Science Foundation of China (Grant no. 22209083, 21971131). The authors appreciate Shiyanjia Lab (www.shiyanjia.com) for providing invaluable assistance with the science analysis.
+
+## Conflict of Interest
+
+The authors declare no conflict of interest.
+
+## Data Availability Statement
+
+The data that support the findings of this study are available in the supplementary material of this article.
+
+## Keywords
+
+confinement structure, Fe$_{2}$Mo$_{3}$O$_{8}$@C@MoS$_{2}$, local-expanded interlayer, sodium-ion batteries, storage mechanism
+
+Received: February 25, 2024 Revised: April 1, 2024 Published online:
+
+[1] B. Dunn, H. Kamath, J. M. Tarascon, Science 2011 , 334 , 928.
+
+[2] V. Palomares, P. Serras, I. Villaluenga, K. B. Hueso, J. Carretero -Gonzalez, T. Rojo, Energ. Environ. Sci. 2012 , 5 , 5884.
+
+[3] E. Goikolea, V. Palomares, S. Wang, I. R. de Larramendi, X. Guo, G. Wang, T. Rojo, Adv. Energy Mater. 2020 , 10 , 2002055.
+
+[4] K.Chayambuka,G.Mulder,D.L.Danilov,P.H.L.Notten, Adv. Energy Mater. 2020 , 10 , 2001310.
+
+[5] X. Li, L. Liang, M. Su, L. Wang, Y. Zhang, J. Sun, Y. Liu, L. Hou, C. Yuan, Adv. Energy Mater. 2023 , 13 , 2203701.
+
+[6] J. Peng, W. Zhang, Q. Liu, J. Wang, S. Chou, H. Liu, S. Dou, Adv. Mater. 2022 , 34 , 2108384.
+
+[7] Y. Fang, D. Luan, X. Lou, Adv. Mater. 2020 , 32 , 2002976.
+
+[8] H. Sun, H. Fu, Y. Huang, X. Zheng, Y. Huang, R. Lin, W. Luo, Rare Met. 2022 , 41 , 3336.
+
+[9] J. Ding, Y. Huang, Z. Liu, X. Wang, Y. Zhang, Y. Guo, R. Sheng, D. Jia, X. Tang, L. Wang, Chem. Eng. J. 2022 , 431 , 133984.
+
+[10] Y. Sun, X. Hu, W. Luo, J. Shu, Y. Huang, J. Mater. Chem. A 2013 , 1 , 4468.
+
+[11] W. Wang, F. Xiong, S. Zhu, J. Chen, J. Xie, Q. An, eScience 2022 , 2 , 278.
+
+[12] H. Maseed, S. Petnikota, V. V. S. S. Srikanth, M. Srinivasan, B. V. R. Chowdari, M. V. Reddy, S. Adams, New J. Chem. 2018 , 42 , 12817.
+
+[13] Y. Chu, X. Shi, Y. Wang, Y. Fang, Y. Deng, Z. Liu, Q. Dong, Z. Hao, Inorg. Chem. Commun. 2019 , 107 , 107477.
+
+[14] Z. Shi, H. Zhao, X. Chen, G. Wu, F. Wei, H. Tu, Rare Met. 2022 , 41 , 3574.
+
+[15] C. Wu, H. Song, C. Tang, A. Du, C. Yu, Z. Huang, M. Wu, H. Zhang, Chem. Eng. J. 2019 , 378 , 122249.
+
+[16] P. Li, Y. Yang, S. Gong, F. Lv, W. Wang, Y. Li, M. Luo, Y. Xing, Q. Wang, S. Guo, Nano. Res. 2019 , 12 , 2218.
+
+[17] G. Dong, L. Li, K. Zhu, J. Yan, G. Wang, D. Cao, Small 2023 , 19 , 2208291.
+
+[18] W. Feng, X. Wei, F. Cao, Y. Li, X. Zhang, Y. Li, W. Liu, J. Han, D. Kong, L. Zhi, Energy. Storage. Mater. 2024 , 65 , 103186.
+
+[19] W. Ye, F. Wu, N. Shi, H. Zhou, Q. Chi, W. Chen, S. Du, P. Gao, H. Li, S. Xiong, Small 2020 , 16 , 1906607.
+
+[20] G. Chen, J. Liu, S. Ma, C. Zhou, J. Jiang, Z. Shen, L. Yan, Y. Guo, L. Yang, Q. Wu, X. Wang, Z. Hu, Mater. Horiz. 2023 , 10 , 5898.
+
+[21] M. Liu, H. Fan, O. Zhuo, J. Chen, Q. Wu, L. Yang, L. Peng, X. Wang, R. Che, Z. Hu, Nano Energy 2020 , 68 , 104368.
+
+[22] L. Liang, X. Sun, J. Zhang, L. Hou, J. Sun, Y. Liu, S. Wang, C. Yuan, Adv. Energy Mater. 2019 , 9 , 1802847.
+
+[23] J. Zheng, R. S. Vemuri, L. Estevez, P. K. Koech, T. Varga, D. M. Camaioni,T.A.Blake,B.P.McGrail,R.K.Motkuri, J. Am. Chem. Soc. 2017 , 139 , 10601.
+
+[24] M. Du, P. Geng, C. Pei, X. Jiang, Y. Shan, W. Hu, L. Ni, H. Pang, Angew. Chem., Int. Ed. 2022 , 61 , e202209350.
+
+[25] T. Chen, F. Wang, S. Cao, Y. Bai, S. Zheng, W. Li, S. Zhang, S.-X. Hu, H. Pang, Ad. Mater. 2022 , 34 , 2201779.
+
+[26] C. Liu, Y. Bai, W. Li, F. Yang, G. Zhang, H. Pang, Angew. Chem., Int. Ed. 2022 , 61 , e202116282.
+
+[27] S. Zheng, Y. Sun, H. Xue, P. Braunstein, W. Huang, H. Pang, Natl. Sci. Rev. 2022 , 9 , nwab197.
+
+[28] G. Li, Y. Tang, S. Cui, H. Chen, H. Chong, L. Han, H. Pang, Adv. Funct.Mater. 2024 , 2401586. https://doi.org/10.1002/adfm. 202401586
+
+[29] C. Zhang, F. Wang, F. Han, H. Wu, F. Zhang, G. Zhang, J. Liu, Adv. Mater. Interfaces 2020 , 7 , 2000486.
+
+[30] J. Li, S. Tang, Z. Li, J. Hao, T. Wang, L. Pan, C. Wang, Inorg. Chem. Front. 2023 , 10 , 1357.
+
+[31] F. Zeng, L. Xing, W. Zhang, Z. Xie, M. Liu, X. Lin, G. Tang, C. Mo, W. Li, J. Energy Chem. 2023 , 79 , 459.
+
+[32] M. Zhou, H. Tao, K. Wang, S. Cheng, K. Jiang, J. Mater. Chem. A 2018 , 6 , 24425.
+
+[33] F. Xie, L. Zhang, C. Ye, M. Jaroniec, S. Qiao, Adv. Mater. 2019 , 31 , 1800492.
+
+[34] L. Cao, X. Gao, B. Zhang, X. Ou, J. Zhang, W. Luo, ACS Nano 2020 , 14 , 3610.
+
+## www.advancedsciencenews.com
+
+[35] H. Zhou, R. Zhang, S. Song, C. Xiao, G. Gao, S. Ding, ACS Appl. Energy Mater. 2018 , 1 , 5112.
+
+[36] C. Zhang, F. Han, F. Wang, Q. Liu, D. Zhou, F. Zhang, S. Xu, C. Fan, X. Li, J. Liu, Energy. Storage. Mater. 2020 , 24 , 208.
+
+[37] A. Lu, L. G. P. Martins, P. Shen, Z. Chen, J. Park, M. Xue, J. Han, N. Mao, M. Chiu, T. Palacios, V. Tung, J. Kong, Adv. Mater. 2022 , 34 , 2202911.
+
+[38] J.Wang,C.Luo,T.Gao,A.Langrock,A.C.Mignerey,C.Wang, Small 2015 , 11 , 473.
+
+[39] Y. Wang, Y. Wang, Q. Dong, T. Zhang, T. Lu, Y. Yang, W. Wu, Q. Liu, Z. Hao, Chem. Eng. J. 2023 , 460 , 141673.
+
+[40] X. Zhang, F. Ma, K. Srinivas, B. Yu, X. Chen, B. Wang, X. Wang, D. Liu, Z. Zhang, J. He, Y. Chen, Energy Storage Mater. 2022 , 45 , 656.
+
+[41] S. Wang, L. Zhao, J. Li, X. Tian, X. Wu, L. Feng, J. Energy Chem. 2022 , 66 , 483.
+
+[42] G.Li,K.Mao,M.Liu,M.Yan,J.Zhao,Y.Zeng,L.Yang,Q.Wu,X. Wang, Z. Hu, Adv. Mater. 2020 , 32 , 2004632.
+
+[43] J. Ye, Y. Zang, Q. Wang, Y. Zhang, D. Sun, L. Zhang, G. Wang, X. Zheng, J. Zhu, J. Energy Chem. 2021 , 56 , 283.
+
+[44] S. Fleischmann, J. B. Mitchell, R. C. Wang, C. Zhan, D. E. Jiang, V. Presser, V. Augustyn, Chem. Rev. 2020 , 120 , 6738.
+
+[45] Y. Xiang, Z. Yang, S. Wang, M. S. A. Hossain, J. Yu, N. A. Kumar, Y. Yamauchi, Nanoscale 2018 , 10 , 18010.
+
+[46] Z. Yuan, J. Cao, S. Valerii, H. Xu, L. Wang, W. Han, Chem. Eng. J. 2022 , 430 , 132755.
+
+[47] L. Tang, P. Yang, Y. Chen, P. Li, T. Peng, H. Wei, Z. Wang, Z. He, C. Yan, J. Mao, K. Dai, Y. Cheng, L. Gao, J. Zheng, J. Power Sources 2022 , 552 , 232210.
+
+[48] P. Geng, L. Wang, M. Du, Y. Bai, W. Li, Y. Liu, S. Chen, P. Braunstein, Q. Xu, H. Pang, Adv. Mater. 2022 , 4 , 2107836.
+
+[49] P. Song, J. Yang, C. Wang, T. Wang, H. Gao, G. Wang, J. Li, Nano-Micro Lett. 2023 , 15 , 118.
+
+[50] J. Li, S. Tang, Z. Li, C. Wang, J. Li, X. Li, Z. Ding, L. Pan, ChemSusChem 2021 , 14 , 5293.
+
+[51] R. Dong, L. Zheng, Y. Bai, Q. Ni, Y. Li, F. Wu, H. Ren, C. Wu, Adv. Mater. 2021 , 33 , 2008810.
+
+[52] Y. Xiao, Y. Miao, S. Wan, Y. Sun, S. Chen, Small 2022 , 18 , 2202582.
+
+[53] S. Chen, S. Huang, Y. Zhang, S. Fan, D. Yan, Y. Shang, M. Pam, Q. Ge,Y.Shi,H.Yang, Nano Energy 2020 , 69 , 104389.
+
+[54] J. S. Lee, R. Saroha, J. S. Cho, Nano-Micro Lett. 2022 , 14 , 113.
+
+[55] L.Yu,X.Tao,D.Sun,L.Zhang,C.Wei,L.Han,Z.Sun,Q.Zhao, H. Jin, G. Zhu, Adv. Funct. Mater. 2024 , 2311471. https://doi.org/10. 1002/adfm.202311471
+
+[56] X. Zhu, F. Xia, D. Liu, X. Xiang, J. Wu, J. Lei, J. Li, D. Qu, J. Liu, Adv. Funct. Mater. 2022 , 33 , 2207548.
+
+[57] Y. Su, B. Johannessen, S. Zhang, Z. Chen, Q. Gu, G. Li, H. Yan, J. Y. Li,H.Y.Hu,Y.F.Zhu,S.Xu,H.Liu,S.Dou,Y.Xiao, Adv. Mater. 2023 , 35 , 2305149.
+
+[58] W. Zhan, M. Zhu, J. L. Lan, H. J. Wang, H. C. Yuan, X. P. Yang, G. Sui, Chem. Eng. J. 2021 , 408 , 128007.
+
+[59] H. Chen, P. Tian, L. Fu, S. Wan, Q. Liu, Chem. Eng. J. 2022 , 430 , 132688.
+
+[60] X. B. Wei, H. C. Yuan, H. J. Wang, R. Q. Jiang, J. L. Lan, Y. H. Yu, X. P. Yang, Mater. Chem. Front. 2021 , 5 , 4712.

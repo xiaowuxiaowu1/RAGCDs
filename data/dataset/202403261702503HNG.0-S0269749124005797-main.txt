@@ -1,0 +1,1330 @@
+## 1. Introduction 43
+
+54
+
+55
+
+56
+
+57
+
+Persulfate activation-based advanced oxidation processes (PS-AOPs) have been 44 confirmed as effective methods for remediating water contaminated with organic pollutants 45 [1]. Through the activation and cleavage of peroxymonosulfate (PMS) and peroxydisulfate 46 (PDS), the generated reactive species (RSs), such as hydroxyl radical ($^{·}$OH) and sulfate radical 47 (SO 4 $^{·-}$), which possess high redox potential can degrade most organic pollutants via radical 48 addition, hydrogen atom abstraction, and single electron transfer [2]. However, the presence of 49 coexisting ions and natural organic matters (NOMs) in natural water may competitively 50 quench the radicals, resulting in lower-than-expected treatment efficiency [3]. Therefore, 51 nonradical pathway-based PS-AOPs, characterized by insensitivity to environmental factors 52 and high oxidant utilization efficiency, has garnered attention from researchers [4, 5]. 53 Journal Pre-proof
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+Heterogeneous
+
+PS
+
+activation
+
+is regarded
+
+as one
+
+of
+
+the
+
+most
+
+flexible approaches to
+
+introduce
+
+nonradical
+
+mechanism
+
+to
+
+PS-AOPs
+
+[6,
+
+7].
+
+In
+
+comparison
+
+with
+
+the
+
+radical
+
+dominated
+
+cobalt
+
+ion-activated
+
+PMS
+
+system,
+
+cobalt
+
+single atom catalysts
+
+prepared
+
+with
+
+chitosan as the precursor not only activate PMS to produce more radicals but also introduce
+
+nonradical pathways to the degradation of carbamazepine [8]. Nevertheless, the production of
+
+radicals
+
+susceptible
+
+to
+
+the
+
+water matrix
+
+still increases the
+
+consumption
+
+of
+
+PS.
+
+Thus,
+
+the
+
+targeted activation of PS has become the current research trend. Singlet oxygen ($^{1}$O 2 ), one of
+
+the
+
+three mainstream nonradical
+
+pathways
+
+($^{1}$O 2 ,
+
+high
+
+valence metal
+
+(HVM)
+
+and
+
+electron
+
+transfer process (ETP)), is the most widely studied nonradical
+
+pathway that can selectively
+
+produce [6,
+
+9]. Compared
+
+with
+
+radicals,  $^{1}$O 2 , with
+
+a
+
+suitable
+
+redox potential
+
+of
+
+2.2
+
+V,
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+possesses high selectivity to the electron-rich organic pollutants, and can efficiently remove
+
+pollutants that play important roles in PS-AOPs [10, 11]. The generation of $^{1}$O 2 with nearly
+
+100% selectivity was achieved by PMS activation using carbon nitride supported high
+
+loading Fe single atom and single atom copper embedded MXene as the catalysts [12, 13].
+
+Through suppressing the spontaneous dissociation of adsorbed PMS on the single atom
+
+CoN 2+2
+
+active sites, the exclusive generation of  $^{1}$O 2
+
+via nonradical pathways was achieved
+
+[14].
+
+However, the current challenge is that the targeted activation of PS can almost only be 71 achieved by using single atom catalysts, whereas the PS activation by widespread metal 72 oxides/hydroxides with milder synthesis conditions is unpredictable, and the mixed 73 mechanism of radical and nonradical is more common [15, 16]. The basis for designing high 74 selectivity catalysts is to first elaborate on the mechanism of the $^{1}$O 2 production. Briefly, the 75 bonding of PS molecule to the surface active sites of the catalyst is the first step in the PS 76 activation. Therein, the transfer of electron from the catalyst to PS would cleave the peroxy 77 bond of PS molecules and produce radicals [17]. For the $^{1}$O 2 nonradical pathway, this process 78 may be reversed, where electron transfer from PS to its bonded active site leads to the 79 production of $^{1}$O 2 [13]. It should be noted that HVM and ETP can also be produced from the 80 spontaneous decomposition of PS via electron shuttle, which depends on the redox potential 81 of PS bonded with the active site of the catalyst [18, 19]. 82 Journal Pre-proof
+
+83
+
+84
+
+Based on the above, we synthesized MnO x intercalated MnFe layered double hydroxides
+
+(MF-MnO x ) using a confined encapsulation strategy to activate PMS for the selective
+
+85
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+production of $^{1}$O 2 by activating PMS with metal oxide/hydroxide. 92
+
+## 2. Materials and methods 93
+
+2.1. Chemicals 94
+
+Potassium peroxymonosulfate was acquired from Sigma-Aldrich$^{®}$, and other reagents 95
+
+were purchased from Sinopharm Chemical Reagent Co., Ltd., China. All reagents were 96
+
+analytical grade and used as received without further purification. Ultrapure water was used 97
+
+in all experiments. 98
+
+2.2. Synthesis of MF-MnO x 99
+
+production of $^{1}$O 2 . In this work, the confined structure of MF-MnO x was determined through
+
+several characterization and deliberately designed experiments. The catalytic performance of
+
+MF-MnO x
+
+was
+
+evaluated
+
+using Bisphenol A (BPA)
+
+as
+
+the
+
+model
+
+pollutant.
+
+Specifically,
+
+although
+
+some
+
+experimental
+
+phenomena
+
+deliberately
+
+pointed
+
+to
+
+ETP as
+
+the
+
+dominant
+
+mechanism of the BPA degradation, we still lifted the cloud of uncertainty hanging over the
+
+catalytic mechanism and first proposed the selective generation of $^{1}$O 2 induced by the passive charge imbalance in the catalyst. This work demonstrates a manner for the selective Journal Pre-proof
+
+CaFe-LDH was first synthesized as the precursor of MF-MnO x . Briefly, Ca(NO 3 ) 2 ·4H 2 O 100
+
+and Fe(NO 3 ) 3 ·9H 2 O were dissolved in 200 mL of ultrapure water with molar ratio of 2:1, 3:1 101
+
+102
+
+103
+
+104
+
+105
+
+and
+
+4:1. Then,
+
+the
+
+alkaline
+
+liquor
+
+was
+
+prepared
+
+by
+
+dissolving
+
+quantitative
+
+NaOH
+
+(C OH-=
+
+C Ca2++Fe3+ ×C Ca2+/Fe3+ )
+
+in
+
+another
+
+200 mL of
+
+ultrapure water. Subsequently,
+
+the
+
+mixed
+
+metal
+
+salt solution was dropwise added to the NaOH solution with vigorous stirring under nitrogen
+
+atmosphere.
+
+Whereafter, the
+
+suspension
+
+was
+
+aged
+
+at 60
+
+℃ for
+
+10
+
+h
+
+to obtain
+
+CaFe-LDH.
+
+CaFe-LDH with different Ca/Fe molar ratios were named C 2 F 1 -LDH, C 3 F 1 -LDH and 106
+
+C 4 F 1 -LDH, respectively. 107
+
+As described in Fig. S1, 2g of CaFe-LDH was immersed in 200 mL of KMnO 4 solution 108
+
+(0.004 M) with vigorous stirring under nitrogen atmosphere for 12 h to gain MnO 4 $^{-}$ 109
+
+intercalated CaFe-LDH. After filtration and washing with ultrapure water, the obtained filter 110
+
+cake was redispersed in 100 mL of MnCl 2 solution (0.012 M) with vigorous stirring at 40 ℃ 111
+
+for 12 h. Finally, the black product was collected, washed and dried at 70 ℃ to acquire 112
+
+MF-MnO x . Similarly, MF-MnO x derived from different CaFe-LDH samples were labeled as 113
+
+M 2 F 1 -MnO x , M 3 F 1 -MnO x and M 4 F 1 -MnO x , respectively. The samples derived from 114
+
+CaAl-LDH through the same synthetic method was named MA-MnO x , and the samples 115
+
+obtained by immersing CaFe-LDH without MnO 4 $^{-}$ in MnCl 2 solution was named MF-LDH. 116
+
+Characterization, experimental and analytic methods are provided in Texts S1-S3 and 117
+
+Tab. S1 in Supporting Information. 118
+
+3. Results and discussion 119
+
+3.1. Catalysts characterization 120
+
+Journal Pre-proof
+
+The phase composition of MF-MnO x was determined using XRD. As displayed in Fig. 121
+
+S2a, the peaks at 2θ = 31.3° can be indexed to the (104) lattice planes of MnFe-LDH [20, 21]. 122
+
+Significantly, none of the characteristic peaks representing CaFe-LDH (Fig. S2b) were found 123
+
+in MF-MnO x . This suggests that CaFe-LDH was completely transformed into MnFe-LDH 124
+
+with isomorphous substitution of Ca$^{2+}$ by Mn$^{2+}$ in the LDH structure [22]. Moreover, peaks 125
+
+related to the (112), (103) and (211) crystal planes of MnO x were detected at 2θ = 29.2°, 126
+
+32.5° and 36.1° [23, 24]. The formation of MnO x can be deciphered by the simultaneous 127
+
+comproportionation reaction between Mn$^{2+}$ and intercalated MnO 4 $^{-}$ during the isomorphous 128
+
+substitution process. Furthermore, the intensity of the characteristic peaks of MF-MnO x 129
+
+varied with the Ca/Fe molar ratio. Briefly, the intensity of the (104) crystal plane representing 130
+
+MnFe-LDH enhanced with the increase in the Ca ratio, while the peak associated with MnO x 131
+
+gradually decreased. A possible explanation for this can be that CaFe-LDH with a high 132
+
+content of Ca possessed a lower exchange capacity for MnO 4 $^{-}$, leading to the increased 133
+
+formation of MnFe-LDH and the reduced production of MnO x [25, 26]. 134
+
+The surface morphology of MF-MnO x was characterized by SEM. As shown in Fig. 1a, 135
+
+MF-MnO x possessed a typical lamellar structure of brucite, suggesting that mild synthesis 136
+
+condition would not result in the collapse of the LDH structure. On the other hand, this 137
+
+implies that MnO x might intercalate in the interlayer of MnFe-LDH, rather than simply 138
+
+loading on the surface of MnFe-LDH. As seen, the standing-up nanosheets of MF-MnO x with 139
+
+a mean size of 200 nm were found in the HR-TEM image (Fig. 1b). The result further verifies 140
+
+the fact that MnO x intercalated in the interlayer of MnFe-LDH. EDS-mapping of MF-MnO x 141
+
+Journal Pre-proof
+
+demonstrates that the as-prepared catalyst was formed by uniformly distributed Fe, Mn and O 142
+
+elements (Fig. 1c). Moreover, as shown in Fig. 1d, the content of Ca in MF-MnO x was less 143
+
+than 1 wt%, which can be ignored. 144
+
+3.2. Catalytic performance assessment 145
+
+The catalytic activity of MF-MnO x was evaluated using BPA as the targeted pollutant. 146
+
+As shown in Fig. 2a, the direct oxidation of BPA by PMS can be ignored, suggesting the 147
+
+reactionlessness of PMS without the presence of catalyst. Additionally, the adsorption of BPA 148 by M 2 F 1 -MnO x was also excluded. The precursor CaFe-LDH possessed limited promotion on 149 the PMS activation, while only 35.6% of BPA was diluted by the CaFe-LDH/PMS system 150 within 20 min reaction time. As for MF-MnO x , it is evident that the catalytic performance 151 varied significantly with different Ca/Fe molar ratio precursors. The removal of BPA by the 152 M 2 F 1 -MnO x /PMS, M 3 F 1 -MnO x /PMS and M 4 F 1 -MnO x /PMS systems were 99.7%, 71.1% and 153 64.0% with the reaction time of 15 min. It is worth noting that, except for the 154 M 2 F 1 -MnO x /PMS system, the fitting degree of the BPA degradation to the first-order kinetic 155 model was low in other systems (Fig. S3). Especially for the samples derived from the 156 precursor with a high content of Ca, two oxidation stages were found in the BPA degradation 157 process. This should be associated with the low content of MnO x in M 3 F 1 -MnO x and 158 M 4 F 1 -MnO x . The reaction between PMS and MnO x in the interlayer of MnFe-LDH relied on 159 the contact of PMS with enough active sites during the mass transfer process [27, 28]. The 160 lack of MnO x induced the delayed degradation of BPA in the M 3 F 1 -MnO x /PMS and 161 M 4 F 1 -MnO x /PMS systems. Therefore, unless otherwise specified, M 2 F 1 -MnO x was chosen as 162 the research object and abbreviated as MF-MnO x . The mineralization rate of BPA was 163 measured by TOC analysis. From Fig. S4, 99.7% of BPA can be attenuated while the TOC 164 removal was 55.2% within 20 min. Prolonging the reaction time to 30 min, it can be seen that 165 81.6% of TOC removal was achieved, suggesting the sustainable degradation capacity of the 166 MF-MnO x /PMS system. 167 Journal Pre-proof
+
+The effect of reaction temperature on the BPA degradation by the MF-MnO x /PMS 168
+
+169
+
+170
+
+171
+
+172
+
+173
+
+174
+
+175
+
+176
+
+177
+
+178
+
+activation. 179
+
+3.3. Reactive species (RSs) identification 180
+
+181
+
+182
+
+coexistence of multiple pathways is always more common than single catalytic mechanism. 183
+
+system was investigated to determine the controlling factor of the catalytic reaction [29]. Fig.
+
+2b exhibits the BPA removal at 15 ℃, 25 ℃ and 35 ℃, elevated temperature was found to be
+
+beneficial to the BPA attenuation, and the reaction rate constants (k obs ) were calculated to be
+
+0.11, 0.21 and 0.31 min$^{-1}$ at reaction temperature of 15 ℃, 25 ℃ and 35 ℃, respectively. The
+
+inserted figure in Fig. 2b shows a linear relationship between ln(k obs ) and the reciprocal of the
+
+reaction temperature (1/T), hence, the activation energy (E a ) for the BPA degradation was estimated as 37.9 kJ/mol through the Arrhenius equation [30]. This value exceeds the range of 10-13 kJ/mol attributed to diffusion-controlled reactions, implying that the catalytic reaction was controlled by surface chemical reaction instead of mass transfer [31]. The above results also indicate that the MnO x load was sufficient to achieve the instantaneous PMS Radical (SO 4 $^{·-}$,  $^{·}$OH) and nonradical ($^{1}$O 2 , HVM, ETP) pathways are commonly recognized in the PMS activation process [1, 6]. Especially in heterogeneous catalysis, the Journal Pre-proof
+
+Thus, the possible RSs and oxidation processes in the MF-MnO x /PMS system were carefully 184
+
+185
+
+determined by
+
+elaborate experiments and
+
+characterization. Firstly,
+
+ESR was
+
+carried
+
+out
+
+to
+
+directly detect the produced radicals. As displayed in Fig. 3a, misleading DMPOX adducts 186
+
+187
+
+188
+
+189
+
+were
+
+found when
+
+DMPO was
+
+used as
+
+the
+
+spin trap compound. These may
+
+refer
+
+to
+
+deeply
+
+oxidized DMPO-SO 4 $^{·-}$ and DMPO-$^{·}$OH adducts
+
+or
+
+non-radical
+
+pathways, including
+
+HVM
+
+and  $^{1}$O 2
+
+[19].
+
+The
+
+ambiguous
+
+information
+
+compelled us
+
+to conduct further investigation to
+
+verify the existence of free radicals. The six characteristic peaks of DMPO-O 2 ·- and the 190
+
+triplet signals of TEMP-$^{1}$O 2 , as shown in Fig. 3b and c, suggest the yield of O 2 $^{·-}$ and $^{1}$O 2 in 191
+
+the MF-MnO x /PMS system [32]. Then, different RSs and oxidation processes and their 192
+
+contribution to the BPA degradation are discussed in detail in the following sections. 193
+
+3.3.1. Free radicals 194
+
+Comparative experiments were performed using nitrobenzene (NB), benzoic acid (BA) 195
+
+and atrazine (ATZ) as the probes. NB is known to be insensitive to RSs except $^{·}$OH (k [NB, ·OH] 196
+
+= 3.9×10$^{9}$ M$^{-1}$ s$^{-1}$), while BA and ATZ, with electron-deficient structure, preferentially react 197
+
+with  $^{·}$OH and SO 4 ·- (k [BA,·OH] = 3.9×10 9 M -1 s$^{-1}$, k [BA, SO4·-] = 1.2×10 9 M -1 s$^{-1}$, k [ATZ,·OH] = 198
+
+2.3×10$^{9}$ M$^{-1}$ s$^{-1}$, k [ATZ,SO4·-] = 2.6×10$^{9}$ M$^{-1}$ s$^{-1}$) [33]. As exhibited in Fig. 3d, NB and BA were 199
+
+stubborn in the MF-MnO x /PMS system, with less than 10% of NB and BA were eliminated 200
+
+within 20 min reaction time. This indicates the negligible contribution of $^{·}$OH and SO 4 $^{·-}$ to 201
+
+the BPA degradation. Surprisingly, the removal of ATZ, with similar properties to BA, 202
+
+reached 20% under the same conditions. Therefore, the adsorption of ATZ by MF-MnO x was 203
+
+tested, as shown in Fig. S5a, ATZ reached ad/desorption equilibrium in a very short time, and 204
+
+Journal Pre-proof
+
+nearly 50% of ATZ was enriched from the water phase to the catalyst surface. The result 205
+
+provides a crucial clue that competitive occupation of active sites between PMS and 206
+
+pollutants might occur on the catalyst surface, potentially affecting ETP induced by the 207
+
+co-occupation of PMS and BPA at the solid-liquid interface [34]. 208
+
+3.3.2. Singlet oxygen and superoxide radical 209
+
+1,4 benzoquinone (BQ) possesses selective trap capability for O 2 ·- (k [BQ,O2·-] = 210
+
+0.9-1.0×10$^{8}$ M$^{-1}$ s$^{-1}$) [35, 36]. Relying on the high reactivity of furfuryl alcohol (FFA) toward 211
+
+$^{·}$OH and $^{1}$O 2 (k [FFA, ·OH] = 1.5×10$^{10}$ M$^{-1}$ s$^{-1}$), k [FFA,1O2] = 1.2×10$^{8}$ M$^{-1}$ s$^{-1}$), FFA was employed to 212
+
+identify the actual contribution of $^{1}$O 2 to the BPA removal [37, 38]. As depicted in Fig. S5b, 213
+
+with 1 mM BQ and 10 mM FFA addition, the BPA removal declined to 86.1% and 64.5%, 214
+
+and the corresponding k obs values decreased to 0.08 and 0.05 min$^{-1}$, implying the participation 215
+
+of O 2 ·- and  $^{1}$O 2 . Considering that the direct consumption of PMS by FFA may lead to 216
+
+misleading conclusions, the degradation of BPA by the MF-MnO x /PMS system was 217
+
+conducted using D 2 O instead of H 2 O as the solvent [39]. The higher lifetime of $^{1}$O 2 in D 2 O 218
+
+endows it with more active oxidation ability [40]. As illustrated in Fig. S6, the BPA 219
+
+degradation in D 2 O was markedly elevated, with the k obs value increased from 0.21 to 0.26 220
+
+min$^{-1}$, suggesting the crucial role of $^{1}$O 2 in the BPA removal. For O 2 $^{·-}$ with a negative redox 221
+
+potential (-0.8 V), the direct oxidation of BPA by O 2 $^{·-}$ was insignificant [40]. Therefore, the 222
+
+inhibition of the BPA degradation induced by scavenging O 2 $^{·-}$ deserves investigation. Oxygen 223
+
+circulation is the link between O 2 ·- and  $^{1}$O 2 , if the BPA degradation is suppressed in an 224
+
+oxygen-free environment, then O 2 $^{·-}$ should be the important precursors of $^{1}$O 2 [35]. As shown 225
+
+Journal Pre-proof
+
+in Fig. S6, the k obs value of the BPA degradation in a nitrogen saturation situation was only 226
+
+227
+
+0.08
+
+min$^{-1}$,
+
+confirming
+
+the
+
+origin of  $^{1}$O 2 .
+
+Notably, the
+
+BPA removal
+
+in
+
+an
+
+anaerobic
+
+environment still reached 84.5%, indicating that $^{1}$O 2 might not be the dominant RSs. 228
+
+3.3.3. High valence metal (HVM) 229
+
+HVM with strong oxidizing has been verified as a typical nonradical pathway in 230
+
+previous studies [7]. Thus, methyl phenyl sulfoxide (PMSO) was used to detect the generated 231
+
+high valence iron and manganese [41]. As depicted in Fig. S7, Compared with the sole PMS 232
+
+system, the addition of MF-MnO x did not promote the removal of PMSO and the formation 233
+
+of PMSO 2 . This result indeed excludes the participation of HVM in the BPA degradation. 234
+
+3.3.4. Direct oxidation process (DOP) and electron transfer process (ETP) 235
+
+Acidic PMS can trigger MnO x to oxidize organic contaminants through DOP [42]. The 236
+
+pH fluctuation during the reaction was recorded using a hypersensitive pH meter. As tested, 237
+
+the solution pH instantaneously declined to 3.88 with PMS addition and stabilized within plus 238
+
+or minus 0.2 in the follow-up degradation process. Hence, the contribution of DOP was 239
+
+simulated by maintaining the solution pH at 3.88 using 0.1 M H 2 SO 4 . As shown in Fig. 4a, 240
+
+36.4% of BPA was eliminated by DOP within reaction time of 20 min, implying the 241
+
+significance of the BPA oxidation induced by acidity. More importantly, the BPA degradation 242
+
+poorly fitted the first-order kinetic model, but the reaction rate increased with prolonging the 243
+
+reaction time. A credible explanation for this is that the confined space of MnFe-LDH 244
+
+buffered the change in the surface chemistry micro-environment of the intercalated MnO x and 245
+
+delayed the acidity-induced oxidation [43]. 246
+
+Journal Pre-proof
+
+The electron transfer between PMS and BPA induced by catalyst as electron shuttle is a 247
+
+noteworthy nonradical degradation mechanism [6]. Firstly, the premixing experiment was 248
+
+operated to confirm ETP. As shown in Fig. 4b, the premixing of MF-MnO x and PMS 249
+
+promoted the BPA degradation in the early stage of the reaction, which might be related to the 250
+
+advance of DOP. The mass transfer of PMS in the interlayer of MnFe-LDH was completed 251
+
+during the premixing process, and BPA can be degraded immediately by acid-activated MnO x . 252
+
+However, the premature mixing of PMS with MF-MnO x resulted in the slight inhibition of 253
+
+the BPA degradation in the later stage of the reaction. This might be due to the self-quenching 254
+
+of the produced $^{1}$O 2 during the premixing process. The above results indeed imply that ETP, 255
+
+not controlled by premixing time, may be the dominant mechanism. Significantly, the 256
+
+suppression of the BPA degradation did not enhance with prolonging the premixing time, 257
+
+which differed from previous reports [44]. This may be related to the generation and 258
+
+self-quenching of $^{1}$O 2 at nearly equal rate in the absence of BPA. 259
+
+Open-circuit potential analysis was performed to identify the existence of ETP. As 260
+
+displayed in Fig. 4c, the addition of PMS elevated the MF-MnO x potential from ~0.33 to 261
+
+~0.37 V, indicating the formation of high-energy metastable intermediates [6]. Surprisingly, 262
+
+the involvement of BPA did not reduce the potential of MF-MnO x as reported in previous 263
+
+literature. For one thing, the redox potential of the metastable intermediates formed by 264
+
+MF-MnO x and PMS was low and insufficient to capture electron from BPA [45]. For another, 265
+
+the competitive occupation of active sites between PMS and BPA blocked the electronic 266
+
+channel from BPA to PMS via catalyst. The PMS consumption in the MF-MnO x /PMS system 267
+
+Journal Pre-proof
+
+with/without BPA presence was further monitored to exclude ETP between BPA and 268
+
+MF-MnO x -PMS intermediates. As seen in Fig. 4d, the addition of BPA hardly effected the 269
+
+PMS decomposition, reliably supporting the conclusion obtained from the open-circuit 270
+
+potential analysis [46]. 271
+
+3.4. Catalytic mechanisms analysis 272
+
+Although the aforementioned discussion verifies the secondary role of $^{1}$O 2 and DOP in 273
+
+the BPA degradation, the dominant mechanism has been proven not to be ETP, leaving us 274
+
+with difficulties. Therefore, there is a possibility that  $^{1}$O 2 and DOP did not exist 275
+
+independently but cooperatively, to this end, ingenious experiments were designed to prove 276
+
+this conjecture. 277
+
+3.4.1 Origin of $^{1}$O 2 278
+
+Typically, dissolved oxygen and PMS molecule are considered as the main precursors of 279
+
+$^{1}$O 2 . Of which, the  $^{1}$O 2 production from O 2 via O 2 ·- and PMS via SO 5 ·- are recognized 280
+
+reaction pathways [40, 47]. Although the discussion in section 3.3.2 confirmed the  $^{1}$O 2 281
+
+evolution pathway involving O 2 and O 2 $^{·-}$, the generation of $^{1}$O 2 from PMS cannot be ruled 282
+
+out. Thus, quantitative ESR was performed to identify the origin of $^{1}$O 2 . As shown in Fig. 5a 283
+
+and Tab. S2, the yield of $^{1}$O 2 in the MF-MnO x /PMS system in ultrapure water was determined 284
+
+to be 2.72×10$^{11}$ spins/mm$^{3}$ using the spins per unit volume as the index. However, with the 285
+
+addition of 1 mM BQ, the generation of $^{1}$O 2 declined to 1.95×10$^{11}$ spins/mm$^{3}$, suggesting the 286
+
+uniqueness of the precursor of  $^{1}$O 2 without BPA presence. Surprisingly, different from the 287
+
+general cognition, instead of suppressing the intensity of TEMP-$^{1}$O 2 , the addition of BPA 288
+
+Journal Pre-proof
+
+greatly increased the generation of  $^{1}$O 2 (3.45×10 11 spins/mm$^{3}$), indicating that DOP can 289
+
+synergistically promote the $^{1}$O 2 production while degrading BPA. Further confirmation of the 290
+
+effect of BQ on the yield of $^{1}$O 2 with BPA involvement showed that the addition of 1 mM BQ 291
+
+reduced the $^{1}$O 2 production of 0.86×10$^{11}$ spins/mm$^{3}$, equivalent to the $^{1}$O 2 yield from O 2 $^{·-}$ in 292
+
+the MF-MnO x /PMS system in ultrapure water. This result implies that instead of promoting 293
+
+the conversion of O 2 ·- to  $^{1}$O 2 , DOP triggered the generation pathway of  $^{1}$O 2 from PMS 294
+
+295
+
+molecule.
+
+3.4.2 Evolution of $^{1}$O 2 from PMS 296
+
+As mentioned in section 3.3.4, open-circuit potential analysis identified the generation of 297
+
+the high-energy metastable MF-MnO x -PMS intermediates. Although MF-MnO x -PMS cannot 298
+
+directly degrade BPA through ETP, the decomposition of the intermediates could result in the 299
+
+generation of  $^{1}$O 2 through the biradical reaction between two SO 5 ·- (Eqs. 1-2) [47]. This 300
+
+process would not reduce the open-circuit potential of MF-MnO x but generate PDS in situ, 301
+
+leading to the confused result of the PMS decomposition (PDS possesses the same absorption 302
+
+wavelength as PMS; 415 nm) [48]. 303
+
+M$^{n+1}$-HSO 5 $^{-}$ → M$^{n}$-SO 5 $^{·-}$ + H$^{+}$ (1) 304
+
+2M$^{n}$-SO 5 $^{·-}$ → M$^{n}$-S 2 O 8 $^{2-}$-M$^{n}$ + $^{1}$O 2 305
+
+For this case, in situ-Raman was operated to confirm this process. As shown in Fig. 5b, 306
+
+the peaks at 980 and 1086 cm$^{-1}$ can be indexed to SO 4 $^{2-}$ and the metastable MF-MnO x -PMS 307
+
+308
+
+309
+
+310
+
+311
+
+312
+
+313
+
+314
+
+(2) intermediates, suggesting the reaction between MF-MnO x and PMS [45]. Whereafter, the addition of BPA led to the blue shift of the peak representing metastable intermediates from Journal Pre-proof
+
+1086
+
+to
+
+1006
+
+cm$^{-1}$.
+
+It is
+
+reasonable
+
+to
+
+presume
+
+that the
+
+new
+
+peak
+
+can
+
+be
+
+attributed
+
+to
+
+the
+
+MF-MnO x -PDS-MF-MnO x intermediates, which was generated simultaneously with the $^{1}$O 2
+
+production by PMS via SO 5 $^{·-}$ [47]. Significantly, MF-MnO x was inert to the PDS activation
+
+(Fig.
+
+S8), indicating that
+
+MF-MnO x -PDS-MF-MnO x
+
+might possess
+
+a lower
+
+redox potential
+
+than MF-MnO x -PMS. It also suggests that the generation of MF-MnO x -PDS-MF-MnO x from
+
+MF-MnO x -PMS was thermodynamically feasible. 315
+
+## 3.4.3 Active site identification 316
+
+317
+
+318
+
+319
+
+320
+
+321
+
+322
+
+323
+
+324
+
+325
+
+326
+
+327
+
+328
+
+329
+
+330
+
+331
+
+332
+
+333
+
+334
+
+335
+
+336
+
+So far, the synergy between the catalytic mechanisms has been clarified, and the only
+
+remaining
+
+puzzle
+
+is
+
+the
+
+relationship between
+
+DOP and
+
+the
+
+cleavage of
+
+MF-MnO x -PMS.
+
+Considering the
+
+electron
+
+transfer
+
+from PMS
+
+to MF-MnO x
+
+was
+
+the
+
+initial
+
+step to produce
+
+SO 5 $^{·-}$, the active sites of MF-MnO x were first identified. XPS was performed to reveal the
+
+element valence change of MF-MnO x during the catalytic reaction (Fig. 6 and Tab. S3). From Fig. 6a, the peaks at 644.8, 640.9 and 640.6 eV were related to Mn(IV), Mn(III) and Mn(II), respectively [49]. After the reaction, the relative content of the three valence of manganese changed from 19.8%, 60.9% and 19.3% to 16.2%, 71.5% and 12.3%, respectively. With regard to DOP induced by the intercalated MnO x , Mn(IV) could capture an electron from BPA leading to the BPA degradation and the increase of Mn(III) [42]. Then, BPA can be further degraded along with the reduction of Mn(III) to Mn(II) [42]. However, from the XPS Mn 2p spectrum, the relative content of Mn(II) declined instead of increasing. Therefore, the change in different valence of manganese was further accurately demonstrated by the XPS Mn 3s spectrum. As depicted in Fig. 6b, the ΔE value MF-MnO x declined from 6.2 to 6.0 eV, Journal Pre-proof
+
+suggesting
+
+that the
+
+overall
+
+valence
+
+of
+
+manganese
+
+elevated
+
+after
+
+the
+
+reaction,
+
+and
+
+the
+
+oxidation of Mn(II) to Mn(III) far exceeded the conversion of Mn(III) to Mn(II) [50]. This
+
+can be accounted for by the special bimetallic structure of MnFe-LDH, in which bimetallic
+
+atoms bonded to the same oxygen atom can undergo a redox cycle by charge balance [51].
+
+This point is verified by the XPS Fe 2p spectrum (Fig. 6c), where peaks at 711.6 and 709.7
+
+eV can be classified as Fe(III) and Fe(II), respectively. The catalytic reaction resulted in the
+
+337
+
+338
+
+reduction of 17.1% of Fe(III) to Fe(II). Hence, the catalytic sites of MF-MnO x for the PMS
+
+activation should be Fe(III), which was reduced to Fe(II) by capturing electrons from BPA.
+
+The XPS O 1s spectrum further reveals the bonding between Fe(III) sites and PMS molecule. 339
+
+As seen in Fig. 6d, the XPS O 1s spectrum can be deconvoluted into water molecule (O W ), 340
+
+341
+
+342
+
+343
+
+344
+
+345
+
+346
+
+was further demonstrated by adding H 2 PO 4 $^{-}$ into the BPA solution [35]. As illustrated in Fig. 347
+
+348
+
+indeed verifies the absolute necessity of Fe(III)-SO 3 OOH in the PMS activation. 349
+
+Fe(III)-OH + HSO 5 $^{-}$ → Fe(III)-SO 3 OOH + OH$^{-}$ (3) 350
+
+3.4.4 Mechanism of PMS activation 351
+
+352
+
+353
+
+354
+
+355
+
+356
+
+357
+
+lattice
+
+hydroxyl
+
+(O OH ),
+
+lattice
+
+oxygen
+
+(O L )
+
+and
+
+adsorbed
+
+oxygen
+
+(O O ) [35].
+
+Of which,
+
+the
+
+decrease of O O in the used MF-MnO x confirms the generation of  $^{1}$O 2 from O 2 . More importantly, 7.2% of O OH transformed into other O species, suggesting that Fe(III)-OH provided ideal coordinating sites for PMS to form the inner-sphere metastable intermediates (Fe(III)-SO 3 OOH) via the displacement of surface hydroxyl groups (Eq. 3) [50]. Since H 2 PO 4 $^{-}$ can compete with PMS for Fe(III)-OH active sites, the key role of Fe(III)-SO 3 OOH S9, the strong inhibition of H 2 PO 4 $^{-}$ on the BPA degradation by the MF-MnO x /PMS system Journal Pre-proof
+
+To sum up, the PMS activation by MF-MnO x is illustrated in Fig. 7, Fe(III)-OH on the
+
+MF-MnO x
+
+surface
+
+instantly
+
+bond
+
+with
+
+PMS
+
+to
+
+form
+
+Fe(III)-SO 3 OOH
+
+through
+
+the
+
+displacement
+
+of
+
+surface
+
+hydroxyl
+
+groups (Eq. 3) [50].
+
+However,
+
+the
+
+redox
+
+potential of
+
+Fe(III)-SO 3 OOH was insufficient to directly degrade BPA. Meanwhile, DOP induced by the
+
+confined MF-MnO x is slightly delayed due to the buffering of the MnFe-LDH layer. Once the
+
+mass
+
+transfer
+
+of PMS in
+
+the
+
+interlayer
+
+of MnFe-LDH is completed, the intercalated MnO x
+
+could degrade BPA along with the reduction of Mn(IV)/Mn(III) to Mn(II) via DOP [52]. The 358
+
+charge imbalance in the MnFe-LDH layer triggered by excess Mn(II) in MnO x through the 359
+
+metal-oxygen bond could result in the electron transfer from the bonded PMS to Fe(III) 360
+
+active sites. Surface-bond SO 5 ·- generated in the process would promote the production of 361
+
+PDS and $^{1}$O 2 via biradical reaction (Eqs. 4-5) [47]. 362
+
+Fe(III)-SO 3 OOH → Fe(III)-SO 5 $^{·-}$ + H$^{+}$ (4) 363
+
+2Fe(III)-SO 5 $^{·-}$ → Fe(II)-S 2 O 8 $^{2-}$-Fe(II) + $^{1}$O 2 (5) 364
+
+To further confirm the synergism of DOP and the  $^{1}$O 2 generation, we evaluated the 365
+
+catalytic performance of MA-MnO x and MF-LDH. As shown in Fig. S10, the k obs values of 366
+
+the MA-MnO x /PMS and MF-LDH/PMS systems were calculated as 0.02 min and 0.03 min$^{-1}$, 367
+
+suggesting that the efficient degradation of BPA depended on the simultaneous presence of 368
+
+Fe(III) active site and MnO x . Moreover, the synergic coefficient (ξ) of Fe(III) active site and 369
+
+MnO x was determined via Eq. 6 [53]. As calculated, the ξ value was 4.2, definitely verifying 370
+
+the promotion of the $^{1}$O 2 production by DOP. 371
+
+ξ = k obs (MF-MnO x /PMS)/(k obs (MA-MnO x /PMS)+k obs (MF-LDH/PMS)) (6) 372
+
+Journal Pre-proof
+
+In summary, DOP, $^{1}$O 2 from PMS activation inspired by DOP and $^{1}$O 2 produced from O 2 373
+
+were jointly responsible for the BPA degradation. 374
+
+3.5. Effect of key parameters 375
+
+Effect of the solution initial pH on the BPA degradation by the MF-MnO x /PMS system 376
+
+was investigated. As depicted in Fig. 8a and Fig. S11a, the k obs values of pH at 3.0, 5.0, 7.0 377
+
+and 9.0 were 0.11, 0.12, 0.22 and 0.18 min$^{-1}$, respectively. The variation in environmental 378
+
+adaptability of DOP and $^{1}$O 2 in the solution explains this trend. DOP prefers to oxidize BPA 379
+
+under acidic condition, whereas  $^{1}$O 2 is more active in alkaline solution [54]. Although 380
+
+adjusting the solution pH inhibited the BPA degradation, the BPA removal remained above 381
+
+90% within the pH range of 3.0 to 9.0, suggesting the outstanding performance of the 382
+
+MF-MnO x /PMS system over a wide pH range. In comparison to radical-based systems 383
+
+sensitive to pH, the MF-MnO x /PMS system exhibits greater promise for the treatment of 384
+
+micro-polluted water. 385
+
+The effect of coexisting anions on the BPA degradation was studied, with Cl$^{-}$, CO 3 $^{2-}$ and 386
+
+NO 3 $^{-}$ as the objects. As shown in Fig. 8b and Fig. S11, with concentration of Cl$^{-}$, CO 3 $^{2-}$ and 387
+
+NO 3 -increasing from 1 to 100 mM, the BPA removal by the MF-MnO x /PMS system 388
+
+consistently exceeded 90%, implying the insensitiveness of the catalytic system to the 389
+
+environmental factors. Furthermore, the degradation efficiency of BPA was highly dependent 390
+
+on the type and concentration of coexisting anions, especially those affecting catalyst surface 391
+
+properties and reacting with PMS, rendering the process more unpredictable [50]. Overall, the 392
+
+substantial influence of environmental factors on the catalytic process with multi-mechanism 393
+
+Journal Pre-proof
+
+deserves more attention. 394
+
+As one of the most common substances in natural water, the effect of humic acid (HA) on 395
+
+the BPA degradation was also performed. As depicted in Fig. S12, the existence of 1, 5, 10 396
+
+mg/L HA suppressed the BPA removal to 58.5%, 67.1% and 73.8%. This can be explained by 397
+
+the competitive consumption of  $^{1}$O 2 by HA, leading to the decrease of effective RSs. 398
+
+Significantly, increased concentration of HA did not actually lead to more disastrous 399
+
+inhibition of the BPA degradation. This can be attributed to the fact that HA with 400
+
+electron-rich structure can promote the production of $^{1}$O 2 [55]. 401
+
+3.6. Durability of MF-MnO x in actual water treatment 402
+
+Since the deterioration of catalytic performance over extended use is a critical concern for 403
+
+practical catalyst application, the cycling stability of the catalyst was examined. Given the 404
+
+difficulty of recovering powder catalysts, we constructed a self-developed fixed-bed reactor, 405
+
+in which MF-MnO x was encapsulated in a polymethyl methacrylate tube with quartz wool 406
+
+(Fig. S13a). The mixed solution of PMS and BPA, prepared with Qiantang River water (Tab. 407
+
+S4), was continuously pumped into the reactor through a peristaltic pump and then returned 408
+
+to the beaker to achieve continuous-flow. As shown in Fig. S13b, the BPA removal 409
+
+maintained 100% in the first 6 h, and gradually declined to 72.4% after 10 h of continuous 410
+
+operation, suggesting the superior stability of MF-MnO x . The slight deterioration of 411
+
+MF-MnO x might be attributed to the gradual loss of active sites during long-term use. 412
+
+Therefore, the concentration of metal ions leaking from the catalyst was monitored during 413
+
+each cycle. From Fig. S13b, the dissolution of metal ions from MF-MnO x decreased 414
+
+Journal Pre-proof
+
+gradually with prolonging the operation time, and the peak values of Fe ions and Mn ions 415
+
+were 0.16 mg/L and 0.07 mg/L, respectively, lower than the drinking water standard of China 416
+
+(0.3 mg/L for Fe and 0.1 mg/L for Mn). This implies that MF-MnO x might be an eco-friendly 417
+
+catalyst for the PMS activation. 418
+
+3.7. Degradation pathway 419
+
+The degradation intermediates of BPA in the MF-MnO x /PMS system were analyzed by 420
+
+the liquid chromatography and mass spectroscopy-MS/MS. As shown in Figure S14a, BPA 421
+
+422
+
+423
+
+424
+
+425
+
+426
+
+427
+
+428
+
+429
+
+430
+
+431
+
+molecules. 432
+
+## 4. Conclusion 433
+
+Selective production of  $^{1}$O 2 from the PMS activation using low-cost metal 434 oxides/hydroxides as the catalyst was realized in this work, providing deep insights into the 435 design of highly selective catalysts. The MF-MnO x /PMS system exhibited outstanding 436 performance, with the BPA removal exceeding 99% within 20 min. The PMS activation by 437 MF-MnO x was purely dominated by nonradical pathway, and the BPA degradation was 438 attributed to DOP and its inductively produced $^{1}$O 2 . The unique confined structure of 439 MF-MnO x was proven to be the key to the special catalytic mechanism, in which the direct 440 oxidation of BPA on the intercalated MnO x induced the charge imbalance in the MnFe-LDH 441
+
+and six degradation products can be found in the solution. Then, the degradation pathway of
+
+BPA was proposed based on the m/z of the degradation intermediates (Figure S14b).
+
+According to the catalytic mechanisms analysis, BPA can be degraded by two oxidation
+
+processes, including DOP and $^{1}$O 2 . For the DOP route, an electron transferred from BPA to
+
+MF-MnO x would lead to the formation of BPA radical, then, unstable BPA radical would rapidly split into P1 and P2 through homolytic reaction [42]. Meanwhile, P1 and P2 tended to repolymerize to P3 during the electron transfer process [45]. With regards to the $^{1}$O 2 route, under the attack of $^{1}$O 2 , the aldehydes and hydroxylation reaction occurred on the benzene ring of BPA leading to the formation P4, then, P4 would be further oxidated by  $^{1}$O 2 to produce P5 and P6 [56]. Finally, BPA could be gradually mineralized into inorganic Journal Pre-proof
+
+layer, and the reverse transfer of electron from the bonded PMS to the catalyst led to the 442
+
+selective production of $^{1}$O 2 . The MF-MnO x /PMS system possessed strong resistance to harsh 443
+
+water environment, which is a promising strategy for the remediation of micro-polluted 444
+
+water. 445
+
+## Conflicts of interest 446
+
+The authors declare no conflict of interest. 447
+
+Acknowledgments 448
+
+This work was supported by National Natural Science Foundation of China (Grant No. 449
+
+52300014, 52270004 and 51978618), Zhejiang Provincial Natural Science Foundation of 450
+
+China (Grant No. LQ24E080020 and LZ24E080005), The Science & Technology Innovation 451
+
+Program of Hunan Province (Grant No. 2021RC3039), and Natural Science Foundation of 452
+
+Hunan Province (Grant No. 2021JJ40069). The authors would like to thank Shiyanjia Lab 453
+
+(www.shiyanjia.com) for the XPS analysis. 454
+

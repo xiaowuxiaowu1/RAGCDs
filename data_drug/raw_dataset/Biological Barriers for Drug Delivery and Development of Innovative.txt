@@ -1,0 +1,790 @@
+<!-- image -->
+
+<!-- image -->
+
+Review
+
+## Biological Barriers for Drug Delivery and Development of Innovative Therapeutic Approaches in HIV, Pancreatic Cancer, and Hemophilia A/B
+
+Emre Basar $^{1,}$* ,† , Henry Mead 2,† , Bennett Shum $^{3,4}$, Ingrid Rauter $^{5}$, Cihan Ay 6 , Adriane Skaletz-Rorowski 1 and Norbert H. Brockmeyer $^{1,}$*
+
+- 1 WIR-Walk In Ruhr, Center for Sexual Health & Medicine, Department of Dermatology, Venerology and Allergology, Ruhr-University Bochum, 44787 Bochum, Germany; adriane.skaletz-rorowski@klinikum-bochum.de
+- 2 BioMarin LLC, San Rafael, CA 94901, USA
+- 3 GenePath LLC, Sydney, NSW 2067, Australia
+- 4 EMBL Australia Node in Single Molecule Science, School of Medical Sciences, University of NSW, Sydney, NSW 2052, Australia
+- 5 Vaccentis AG, 8001 Zurich, Switzerland
+- 6 Division of Haematology and Haemostaseology, Department of Medicine I, Medical University of Vienna, 1090 Vienna, Austria
+- * Correspondence: emrebasar2015@gmail.com (E.B.); nhb@nbrockmeyer.de (N.H.B.)
+- † These authors contributed equally to this work.
+
+Abstract: Biological barriers remain a major obstacle for the development of innovative therapeutics. Depending on a disease's pathophysiology, the involved tissues, cell populations, and cellular components, drugs often have to overcome several biological barriers to reach their target cells and become effective in a specific cellular compartment. Human biological barriers are incredibly diverse and include multiple layers of protection and obstruction. Importantly, biological barriers are not only found at the organ/tissue level, but also include cellular structures such as the outer plasma membrane, the endolysosomal machinery, and the nuclear envelope. Nowadays, clinicians have access to a broad arsenal of therapeutics ranging from chemically synthesized small molecules, biologicals including recombinant proteins (such as monoclonal antibodies and hormones), nucleicacid-based therapeutics, and antibody-drug conjugates (ADCs), to modern viral-vector-mediated gene therapy. In the past decade, the therapeutic landscape has been changing rapidly, giving rise to a multitude of innovative therapy approaches. In 2018, the FDA approval of patisiran paved the way for small interfering RNAs (siRNAs) to become a novel class of nucleic-acid-based therapeutics, which-upon effective drug delivery to their target cells-allow to elegantly regulate the post-transcriptional gene expression. The recent approvals of valoctocogene roxaparvovec and etranacogene dezaparvovec for the treatment of hemophilia A and B, respectively, mark the breakthrough of viral-vector-based gene therapy as a new tool to cure disease. A multitude of highly innovative medicines and drug delivery methods including mRNA-based cancer vaccines and exosome-targeted therapy is on the verge of entering the market and changing the treatment landscape for a broad range of conditions. In this review, we provide insights into three different disease entities, which are clinically, scientifically, and socioeconomically impactful and have given rise to many technological advancements: acquired immunodeficiency syndrome (AIDS) as a predominant infectious disease, pancreatic carcinoma as one of the most lethal solid cancers, and hemophilia A/B as a hereditary genetic disorder. Our primary objective is to highlight the overarching principles of biological barriers that can be identified across different disease areas. Our second goal is to showcase which therapeutic approaches designed to cross disease-specific biological barriers have been promising in effectively treating disease. In this context, we will exemplify how the right selection of the drug category and delivery vehicle, mode of administration, and therapeutic target(s) can help overcome various biological barriers to prevent, treat, and cure disease.
+
+<!-- image -->
+
+Citation: Basar, E.; Mead, H.; Shum, B.; Rauter, I.; Ay, C.; Skaletz-Rorowski, A.; Brockmeyer, N.H. Biological Barriers for Drug Delivery and Development of Innovative Therapeutic Approaches in HIV, Pancreatic Cancer, and Hemophilia A/B. Pharmaceutics 2024 , 16 , 1207. https://doi.org/10.3390/ pharmaceutics16091207
+
+Academic Editors: Franciska Erd"o, Heidi Kidron and Anna Soba'nska
+
+Received: 26 July 2024 Revised: 6 September 2024 Accepted: 7 September 2024 Published: 13 September 2024
+
+<!-- image -->
+
+Copyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+
+Keywords: HIV; pancreatic cancer; hemophilia A and B; biological barrier; RNA interference; HIV microbicide; tumor microenvironment; AAV vector; valoctocogene roxaparvovec; etranacogene dezaparvovec
+
+## 1. Introduction
+
+Biological barriers such as the skin, the mucosa of the cervicovaginal tract and intestines, the blood-brain barrier, and the desmoplastic stromal tissue surrounding certain solid tumors remain major obstacles for the efficient delivery of innovative medicines.
+
+The broad range of biological barriers can be divided into obstacles at a cellular/ intracellular/molecular level and a (supracellular) tissue/organ level.
+
+On a cellular level, the nuclear membrane, the lining of the organelles, various endosomal compartments, and the negatively charged outer lipid bilayer can be very difficult for drugs to cross.
+
+Human organs and tissues pose additional challenges to the design and selection of an appropriate drug: in fact, poor access to the blood supply, the blood-brain barrier and blood-bone barrier, enzymatic degradation in the blood stream or inside the cellular endolysosomal machinery, and protection by the mucosal/epithelial lining can be major obstacles for therapeutics to reach their destination.
+
+Moreover, the genetic heterogeneity of pathogens and tumors, interception by the innate or adaptive immune system, and various immune evasion mechanisms can also form challenges for efficient therapeutic targeting.
+
+This comprehensive review's two objectives are to identify the overarching principles of biological barriers across different disease entities and to exemplify how the development of innovative drug delivery technologies helps overcome these barriers.
+
+For this purpose, we selected three different disease entities according to their global clinical, scientific, epidemiological, and socioeconomic relevance. Moreover, we chose disease areas which are suitable for showcasing a broad range of biological barriers and, at the same time, offer a multitude of technological novelties and breakthroughs. Based on these criteria, we decided to divide this review into disease-specific chapters that offer deep insights into the following three disease entities: Chapter I focuses on the biology of human immunodeficiency virus (HIV) as a one of the world's predominant infectious diseases, and on novel therapeutic strategies to fight acquired immunodeficiency syndrome (AIDS). Chapter II visits pancreatic cancer as one of the most lethal solid tumors whose incidence is rising in many countries. Here, we highlight the biological hallmarks of pancreatic cancer, all of which represent challenging biological barriers, and offer a glimpse into the huge range of therapeutic approaches. In Chapter III, we introduce hemophilia A/B as a rare monogenetic disease and discuss how recent advancements in gene therapy have revolutionized the treatment in this field.
+
+In all three chapters, we describe the biological barriers which have hampered the development of effective therapies. At the same time, we provide insights into new technological advancements that enable us to overcome these barriers to prevent, treat, or cure disease.
+
+## 2. Chapter I: HIV/AIDS-Biological Barriers in HIV and Innovative Therapeutic Strategies to Prevent and Treat HIV Infection
+
+## 2.1. Introduction to HIV/AIDS
+
+After the emergence of HIV/AIDS in 1981, the spread of HIV rapidly evolved into the world's most prevalent epidemic, causing significant morbidity and mortality [1,2]. Today, about 37-39 million people worldwide carry the HIV virus, and about 1.3 million people are estimated to be infected with HIV every year, with heterosexual transmission accounting for the majority of new infections [3-6].
+
+HIV is a lymphotropic retrovirus which belongs to the genus of lentiviruses [7]. It can be classified into two strains, HIV-1 and HIV-2, both of which originate from the simian immunodeficiency virus (SIV) circulating in non-human primates [8]. Phylogenetically, HIV-1 can be further classified into four lineages (M, N, O, and P), with each group being the result of an independent cross-species transmission in central western Africa [5,9]. Representing 90-95% of all HIV-1 infections worldwide, the highly infectious HIV-1 M virus is the predominant strain and main causative agent of the AIDS pandemic [10,11].
+
+Structurally, HIV can be divided into a lipid membrane (envelope) as its outer layer, an underlying matrix, and a cone-shaped capsid at its core [5]. The HIV genome consists of two identical single (positive-sense) RNA strands which are encased by the capsid. The outer layer of the virus is made up of a phospholipid bilayer membrane: it harbors two surface glycoproteins, gp120 and gp41, which are critical for the interaction with the host target cell receptors [12].
+
+HIV-1 primarily targets human CD4 + immune cells which simultaneously express one of the two co-receptors (CCR5 or CXCR4) that are required for cell entry. Therefore, T-helper lymphocytes, macrophages, and dendritic cells (DCs), including Langerhans cells, are the three major targets of HIV-1 [13].
+
+Upon infecting the host's immune cells, HIV-1 takes advantage of a unique set of three replication enzymes that are vital for sustaining the HIV life cycle: reverse transcriptase (RT), integrase (IN), and protease (PR) [14,15]. Upon target cell binding and intracellular uptake, HIV exploits the invaded cells' transport mechanisms to reach the nucleus [7]. By harnessing the enzymatic activities of RT and IN, HIV hijacks the host cell's replication machinery and protein synthesis capabilities, which results in highly efficient viral proliferation and reproduction. In the final step of its life cycle, PR orchestrates the assembly of viral particles which are finally released from their host cells to infect new target cells.
+
+In terms of disease manifestations, the (productive) infection of CD4 + T-helper cells is the most crucial event, as it results in T-cell depletion, which manifests in a continuous decline in the immune system's functionality and culminates in its collapse. Ultimately, by weakening the host's immune system by CD4 + T-cell depletion, HIV deprives the human body of a potent weapon to fight infection [16-18].
+
+The success of HIV in advancing to a worldwide pandemic and remaining one of the globally most significant socioeconomic burdens for more than four decades is based on several hallmarks:
+
+As a retrovirus, HIV has the ability to integrate into the host cell's DNA to form a provirus [7]. It then replicates by exploiting the host transcriptional and translational machinery.
+
+An important hallmark of HIV is its genetic heterogeneity, reflected by the existence of numerous HIV strains spread all over the world. The genetic diversity of HIV-1 is rooted in the unusually high error rate during the reverse transcription of viral RNA, the enormous replication activity of viral reverse transcriptase, the extensive recombination upon transcription from (viral) DNA, and the vast number of virions generated in each patient [19,20].
+
+From an immunological point of view, the characteristics of HIV are its profound infiltration of the immune system and the knockout of key components of the host's immune surveillance, which results in immune evasion [13]. Moreover, HIV causes chronic inflammation which-partly attributed to its latency in persisting reservoirs-further weakens the immune system [21,22].
+
+All these hallmarks form diverse biological barriers (summarized in Figure 1), whichdespite four decades of intense research-have been challenging to overcome. Although the development of an effective HIV vaccine to eradicate the pandemic remains elusive, several therapeutic approaches have evolved which dramatically reduced the impact of HIV on morbidity and mortality.
+
+Pharmaceutics 2024 , 16 , x FOR PEER REVIEW
+
+4 of 34
+
+4 of 32 elusive, several therapeutic approaches have evolved which dramatically reduced the impact of HIV on morbidity and mortality.
+
+Figure 1. Biological barriers forming hurdles for HIV treatment. The success of HIV in establishing a worldwide pandemic is largely a tt ributed to the multitude of biological barriers that HIV harnesses to evade both the host immune system and different treatment approaches. Its genetic heterogeneity, its deep infiltration and paralysis of the host immune system, the viral infection of various cell populations, and viral latency as provirus are major factors that explain why the development of an effective vaccine to eradicate the pandemic remains elusive. Figure 1. Biological barriers forming hurdles for HIV treatment. The success of HIV in establishing a worldwide pandemic is largely attributed to the multitude of biological barriers that HIV harnesses to evade both the host immune system and different treatment approaches. Its genetic heterogeneity, its deep infiltration and paralysis of the host immune system, the viral infection of various cell populations, and viral latency as provirus are major factors that explain why the development of an effective vaccine to eradicate the pandemic remains elusive.
+
+<!-- image -->
+
+2.2.
+
+ART/HAART
+
+The most important concept that revolutionized HIV treatment is antiretroviral ther-
+
+## ART/HAART
+
+## ART/HAART
+
+apy (ART): in fact, the emergence of systemically applied ART has transformed HIV from a deadly disease into a chronic condition [2,23,24]. The most important concept that revolutionized HIV treatment is antiretroviral therapy (ART): in fact, the emergence of systemically applied ART has transformed HIV from a deadly disease into a chronic condition [2,23,24].
+
+the development of antiretroviral therapeutics which a tt ack key points of the HIV life cycle. By inhibiting the viral enzymes reverse transcriptase, integrase, and protease, antiretroviral drugs paralyze HIV's replication machinery and hence dramatically reduce the viral burden [2]. However, ART is challenged by the fast transformation of HIV, which is a major facInsights into the viral mechanisms of integration and subsequent replication allowed the development of antiretroviral therapeutics which attack key points of the HIV life cycle. By inhibiting the viral enzymes reverse transcriptase, integrase, and protease, antiretroviral drugs paralyze HIV's replication machinery and hence dramatically reduce the viral burden [2].
+
+Insights into the viral mechanisms of integration and subsequent replication allowed
+
+However, ART is challenged by the fast transformation of HIV, which is a major factor for drug resistance: as HIV's error-prone reverse transcriptase has no proofreading activity, it gives rise to escape mutations which often lead to treatment resistance to a single antiretroviral drug [25]. Therefore, patients are treated with a combination antiretroviral therapy (cART), which includes at least three drugs directed at two or more different targets within the HIV life cycle [2]. However, ART is challenged by the fast transformation of HIV, which is a major factor for drug resistance: as HIV's error-prone reverse transcriptase has no proofreading activity, it gives rise to escape mutations which often lead to treatment resistance to a single antiretroviral drug [25]. Therefore, patients are treated with a combination antiretroviral therapy (cART), which includes at least three drugs directed at two or more different targets within the HIV life cycle [2].
+
+evolved into the gold standard in the treatment of HIV-infected individuals. In fact, This combination therapy, called highly active antiretroviral therapy (HAART), has evolved into the gold standard in the treatment of HIV-infected individuals. In fact, HAART reduces the viral load to almost undetectable levels, dramatically decreases the risk of viral transmission during sexual intercourse, extends the lifespan by reducing mortality, and
+
+This combination therapy, called highly active antiretroviral therapy (HAART), has
+
+increases the quality of life by inhibiting the emergence of AIDS including its opportunistic infections [2,24,26].
+
+For the treatment of HIV-infected patients, HAART has several limitations: on one hand, it requires lifelong daily oral intake of medication, which is why compliance remains a key challenge. On the other hand, it does not offer a cure for HIV infection, because HIV virions persist in latent reservoirs [24,26].
+
+Being highly effective, combination ART is not only indicated for patients infected with HIV, but it is also used as pre-exposure prophylaxis (PrEP) or post-exposure prophylaxis (PEP) to prevent HIV infection prior to or after sexual intercourse with an HIV-infected individual [27-31].
+
+The main drawbacks of PrEP and PEP as preventive tools are the lack of compliance and their challenging affordability in developing countries [28].
+
+## 2.3. HIV Vaccine
+
+Despite the great success of modern combination antiretroviral therapy, namely HAART for the treatment of HIV patients and PrEP/PEP for the prevention of HIV transmission upon sexual intercourse, the development of an effective and safe vaccine remains elusive [16,32]. In fact, the research community is convinced that only a preventive globally available HIV vaccine can eradicate the pandemic [16].
+
+Several biological barriers impede the development of an HIV vaccine: first, the high mutation rate during reverse transcription results in an extraordinary diversity of HIV strains and thus transforms HIV into a continuously changing immunological target [16].
+
+Second, HIV has the ability to evade adaptive immune responses, which is partly attributed to the fact that it infiltrates and invalidates the immune system. Moreover, HIV establishes latent viral reservoirs in various immune cells which are difficult to target [16]. Recently, vaginal epithelial cells have been shown to contribute to viral sequestration and subsequent dissemination, hence adding a new layer of complexity into treating viral latency [6,13].
+
+Finally, it turned out to be challenging to develop antibodies which do not only recognize highly immunogenic (antigenic) epitopes but also induce a broadly reactive antibody response. The HIV envelope glycoprotein complex, which-formed by the surface glycoprotein gp120 and the transmembrane fragment gp41-is embedded in the viral envelope, would be a formidable druggable target. However, gp120 is heavily glycosylated, which is why large parts of the antigenic epitopes of the glycoprotein complex are shielded by sugar moieties. Epitope masking due to the heavy glycosylation of the HIV envelope glycoprotein forms a powerful biological barrier and is one of the main reasons why the development of effective antibodies has not been successful so far [16,33].
+
+Novel vaccine models focus on either designing immunogens, which induce broadly neutralizing antibodies (bnABs) to bind conserved epitopes on HIV envelope glycoproteins, or harnessing cytomegalovirus vectors to elicit a cellular CD8 + T-cell-mediated immune response [17,34].
+
+## 2.4. HIV Microbicide
+
+In the absence of a preventive effective vaccine, new therapeutic approaches are required to limit the spread of HIV. As heterosexual transmission accounts for most new infections, the development of a preventive HIV microbicide to inhibit vaginal HIV transmission is considered to be a promising avenue [35].
+
+The structure and dynamics of the female genital tract (FGT) play a pivotal role for infectivity with HIV and other sexually transmitted infections [36,37]. The female reproductive tract (FRT) can be divided into a lower part including the vaginal mucosa and ectocervix, and an upper part, which comprises the endocervix, uterus, fallopian tubes, and ovaries [38]. As the lower female tract is the primary site of contact with infectious seminal fluids, it offers multiple layers of protection: the apical layer of the vaginal epithelium is shielded by a protective lubricating mucus [36,38]. The mucosal epithelial lining is made
+
+up of a stratified squamous epithelium which is robust against mechanically induced lesions. Multiple intercellular connections such as tight junctions and desmosomes help decrease tissue permeability. The basal layer of the epithelium borders the underlying lamina propria (LP), which includes most HIV-susceptible immune cells such as T-cells, macrophages, and dendritic cells [36].
+
+To reach their CD4 + target cells in the lamina propria and subsequently establish infection in the cervicovaginal tract (CVT), HIV-1 virions in the male semen must first overcome two important obstacles: the lubricant mucus covering the mucosa, as well as the underlying epithelial cell barrier.
+
+The mucus acts as a very first line of defense, as it can trap and destroy HIV virions. It contains many soluble factors such as immunoglobulins which recognize, bind, and eliminate invading pathogens [36-38]. Additionally, the low pH in the cervicovaginal cavity, which is induced by lactic acid production by lactobacilli, contributes to killing microbes and viral particles. In this context, vaginal epithelial cells (ECs) play a vital role in regulating the microbial hemostasis and maintaining the acidic milieu, as they produce and store glycogen which serves as a substrate for fermentation by lactobacilli [39-41].
+
+Once virions in the (male) semen traverse the mucus as the first site of contact with the human body, they face the vaginal epithelium, which is challenging to cross. In fact, the stratified non-keratinized squamous epithelium constitutes a powerful physical barrier, as pathogens have to overcome several layers of epithelial cells. Moreover, epithelial layers are closely connected via tight junctions, which seal the space between cells to prevent intercellular pathogen passage [42].
+
+Despite these layers of protection, HIV harnesses multiple mechanisms and routes to cross the epithelial layer. On the one hand, virions passage through the intercellular space until reaching HIV-susceptible immune cells in deeper layers of the epithelium and the underlying LP [43]. On the other hand, virions cross epithelial cells via transcytosis upon endosomal uptake at the apical cell membrane [13,43-45].
+
+Importantly, it is not only CD4 + human immune cells that are targeted and infected by HIV. As emerging new evidence suggests, vaginal epithelial cells are also infected by HIV and actively contribute to viral dissemination throughout the FGT. Several studies reveal that, upon uptake, HIV virions are sequestered in the endosomal compartment (multivesicular bodies) of epithelial cells [6,46]. Afterwards, sequestered virions are passed on from ECs to susceptible immune cells via cell-to-cell transmission [47,48].
+
+These groundbreaking insights into the mucosal pathogenesis of HIV infection open the door for exploring many new druggable targets in vaginal epithelial cells including genes mediating HIV binding (complement receptor 3, and heparan sulfate), endosomal uptake (clathrin, caveolin, GalCer, and TIM-1), transcytosis, sequestration, epithelial cell polarization, and cell-to-cell transmission to susceptible immune cells (ICAM-1) [13,43-45,47,48].
+
+Over the past decade, studying the role of immune cells in vaginal HIV infection elucidated new routes of HIV transmission and viral dissemination. Druggable targets in immune cells go far beyond the established targets such as the CCR5/CXCR4 co-receptors that mediate HIV uptake into macrophages, dendric cells, and T lymphocytes. In fact, druggable targets can be expanded to genes/proteins involved in HIV attachment/binding (C- and i-type lectin receptors on DCs), endosomal uptake, the sequestration of virions in multivesicular bodies, the cell-to-cell transmission between immune cells (including factors necessary to establish filopodia in DCs; genes mediating actin nucleation; and proteins required to form infectious and viral synapses), the maturation and migration of immune cells (CCR7), and the release of cytokines which mediate cellular cross-talk and immune cell recruitment [49-54].
+
+The same way the cervicovaginal mucosa acts as a biological barrier which HIV must penetrate to obtain access to its CD4 + target cells, the mucosa also impedes drug delivery to HIV target cells. Therefore, therapeutic strategies including the development of a vaginal HIV microbicide need to be designed in such a way that they can effectively overcome the vaginal mucosa as an important biological barrier.
+
+Harnessing RNA interference (RNAi) technology might be a promising tool with which to target vaginal immune cells.
+
+In 1998, Craig Mello and Andrew Fire described a fascinating phenomenon which they had discovered in the nematode worm C. elegans [55,56]. The following years led to the unraveling and deeper understanding of this evolutionarily conserved mechanism, which-termed RNA interference-allows to elegantly control gene regulation.
+
+In 2001, Thomas Tuschl's group showed that RNAi-mediated gene silencing was not only applicable in animals and plants, but also in mammalian cells. By using small interfering RNA duplexes (siRNAs) as RNAi effector molecules, they induced sequencespecific post-transcriptional gene silencing in mammalian cells and, hence, demonstrated the potential of siRNAs as a gene-specific drug for humans [57].
+
+In contrast to gene therapy, which manipulates the cellular genome and, therefore, bears the risk of causing cancer, RNAi-based gene regulation happens on a mRNA level without interfering with the cellular DNA. Due to its elegant way of regulating gene expression, RNAi soon opened the door to a multitude of applications, both as a powerful research tool to study gene function and as a promising new class of nucleic-acid-based therapeutics [58].
+
+Despite the great enthusiasm for harnessing RNAi as a therapeutic, the journey of developing RNAi-based drugs has been challenged by several obstacles. A major hurdle is to ensure that siRNAs are efficiently delivered to their target organs and cells. On a cellular basis, the major difficulties for siRNAs to become effective were to cross the negatively charged outer cell membrane, to escape the endolysosomal compartment, and to finally translocate to the cytoplasmic p-bodies as their site of action [59,60].
+
+On a macroscopic level, the essential prerequisites for efficient siRNA delivery are a favorable pharmacokinetic profile, protection from degradation during transport through the bloodstream or across mucosal barriers, and the precise targeted delivery to the desired cell populations and diseased organs [61].
+
+A series of advancements in siRNA chemistry and design contributed to resolving these challenges. Due to their phosphate backbone, siRNAs are negatively charged, which makes it difficult for them to cross the hydrophobic plasma membrane [62]. An early approach which turned out to be successful is to either embed naked siRNAs into lipid-based nanocarriers (liposomes, and lipoplexes) or conjugate them to cholesterol: this modification allows siRNAs to overcome the target cells' plasma membrane, and subsequently-upon endosomal uptake-escape from the endosomal compartment to reach the p-bodies [59]. The incorporation of phosphorothioate residues into the siRNA design permits to stabilize them against nuclease degradation in the acidic environment of the vaginal mucosa [35,62].
+
+Several research studies established a proof-of-concept that demonstrates the potential of a vaginally applied siRNA-based microbicide to inhibit heterosexual HSV-2 transmission [63-65].
+
+Palliser et al. found that intravaginally (IVAG) instilled lipoplexed siRNAs targeting two viral genes protected mice from a lethal infection with herpes simplex virus 2 (HSV-2) [63]. In a subsequent study, Yichao Wu et al. showed that intravaginally applied cholesterol-conjugated siRNAs (chol-siRNAs) were efficiently taken up into the vaginal epithelium in mice. The IVAG administration of chol-siRNAs, which target HSV-2 viral genes as well as EC host genes required for viral entry, successfully inhibited HSV-2 infection in mice [64].
+
+We wondered whether these results could be expanded to HIV. In comparison with HSV-2, the development of an RNAi-based vaginal microbicide against HIV is more challenging, as it requires drug penetration throughout the entire cervicovaginal mucosa to obtain therapeutic access to the HIV-relevant immune cell populations in the epithelial lining and underlying lamina propria. Although the siRNA-mediated transfection of immune cells proved to be difficult in vitro as well as in vivo, it is important to explore which siRNA formulations are suitable for inhibiting HIV uptake, viral sequestration, cell-to-cell transfer, and subsequent systemic dissemination.
+
+Based on Yichao Wu's promising findings, we embarked on a study that examined to which extent chol-siRNAs could be harnessed for gene silencing in HIV-relevant immune cells in the CVT [35,66]. Harnessing intravaginally instilled chol-siRNAs targeting the CD45 gene, we demonstrated (partial) gene silencing in mucosal dendritic cells including intraepithelial and lamina propria DCs [35].
+
+Recent insights into the broad range of mechanisms which HIV exploits to cross the mucosal barrier to infect both vaginal epithelial and immune cells deliver a multitude of new gene targets that can be integrated into an RNAi-based microbicide.
+
+Given the success of the above-mentioned proof-of-principle studies in mice, a mixture of siRNA formulations including chol-siRNAs could be harnessed to simultaneously block multiple routes of HIV transmission both in vaginal immune cells and ECs. Therefore, a promising approach would be to develop an RNAi-based microbicide based on multiplexes of chol-siRNAs that target a variety of host genes as well as conserved regions in viral genes to reduce or even inhibit the transmission of HIV in the FGT.
+
+In conclusion, several treatment approaches have succeeded in limiting the HIV pandemic and transforming HIV into a chronic condition. Although several hallmarks of HIV, summarized in Figure 1, still form powerful biological barriers that impede more effective therapy, new preventive vaccine candidates and microbicides might soon become available to eradicate the pandemic.
+
+## 3. Chapter II: PANCREATIC CANCER-Biological Barriers and Novel Innovative Therapeutic Approaches to Treat Pancreatic Cancer
+
+3.1. Introduction to Pancreatic Cancer
+
+Despite many significant therapeutic advancements including the emergence of innovative immune-therapy, cancer remains one of the leading causes of morbidity and mortality worldwide [67-69].
+
+It is estimated that, in 2022, cancer gave rise to almost 20 million new cases and killed about 10 million people, turning it into the second biggest cause of death [68].
+
+As a result of the aging population and increased exposure to risk factors, the global burden of cancer is anticipated to grow rapidly and reach about 29.9 million new cancer cases per annum by 2040, which translates into an increase of almost 50% from 2020 [70,71].
+
+In the broad and heterogeneous spectrum of malignancies, pancreatic cancer (PC) stands out as one of the most threatening tumors with a dismal five-year survival rate of 8-12% [67,72-74]. Because of its high lethality, its current incidence translates into an almost equal mortality rate [72,75]. The American Cancer Society anticipates PC to surpass breast, colorectal, and prostate cancer to become the second leading cause of cancer-related death in the US, which reflects similar trends in all regions worldwide [70,73,76-80].
+
+One important reason for pancreatic cancer to be such a deadly disease is attributed to its location. Deeply embedded into the abdominal retroperitoneal space and surrounded by many important organs and vessels, a surgical intervention is challenging-in particular, if the tumor has infiltrated neighboring organs. Because of its central location in the abdomen, many of the unspecific symptoms arising from PC can potentially be attributed to other abdominal organs so that the malignancy is often recognized and diagnosed in advanced (local or metastatic) disease stages [70,72,73,81]. As a result of its late detection, PC often turns out to have invaded its surrounding organs and/or spread to distant organs, thus rendering it inoperable [82,83].
+
+A second reason for PC to be highly treatment resistant and lethal is based on its capability to form multiple biological barriers, which a drug needs to overcome in order to exert its therapeutic effects. In general, these barriers are the result of three characteristic hallmarks of PC, which contribute to its malignancy: a favorable tumor microenvironment (TME) which establishes a tumor-promoting immunosuppressive milieu, the tumor's remarkable genetic heterogeneity, and its tendency for early advanced metastatic disease (summarized in Figure 2) [72,78,80].
+
+## GENETIC DIVERSITY
+
+## METASTATIC POTENTIAL
+
+- Genetic Heterogeneity
+- Epithelial-Mesenchymal Transition (EMT)
+- Clonal Evolution
+- Circulating Tumor Cells (CTCs)
+- Chemotherapy Resistance
+- Distant Tumors & Pre-Metastatic Niche (PMN)
+
+Figure 2. Hallmarks of pancreatic cancer and overview of biological barriers which challenge treatment success. The tumor microenvironment, genetic diversity, and metastatic potential are hallmarks of pancreatic cancer which contribute to the malignancy and treatment resistance of Figure 2. ment success. The tumor microenvironment, genetic diversity, and metastatic potential are hallmarks of pancreatic cancer which contribute to the malignancy and treatment resistance of pancreatic cancer. At the same time, by forming a variety of biological barriers, they impede effective treatment.
+
+<!-- image -->
+
+- Abnormal Vasculature: Low O2
+- Abnormal Vasculature: Transformed Metabolism
+- Abnormal Vasculature: Low pH
+- Abnormal Vasculature: Interstitial Fluid Pressure
+- Physical Barrier: Fibrosis
+- Immunological Barrier
+
+9 of 32 to exert its therapeutic effects. In general, these barriers are the result of three characteristic hallmarks of PC, which contribute to its malignancy: a favorable tumor microenvironment (TME) which establishes a tumor-promoting immunosuppressive milieu, the tumor's remarkable genetic heterogeneity, and its tendency for early advanced metastatic disease (summarized in Figure 2) [72,78,80].
+
+PD-LI Expression
+
+TAM: M2 Polarization
+
+TAN: N2 Polarization
+
+T Cell Exhaustion
+
+Comprising about 90% of all pancreatic cancer cases, the histologically most relevant type is pancreatic ductal adenocarcinoma (PDAC), which originates from the exocrine cells that line the pancreatic duct [70,78,81]. Mutagenesis transforms normal pancreatic ductal cells into a preinvasive precursor lesion, a so-called pancreatic intraepithelial neoplasia (PanIN), which marks the first step in the development of PDAC [78-80]. Fostered by its
+
+genetic heterogeneity and nourishing tumor microenvironment, PDAC grows aggressively and quickly infiltrates neighboring as well as distant organs.
+
+Despite many years of research and the development of a broad range of therapy modalities comprising surgery, radiation, and drug-based treatments (including standard chemotherapy, immunotherapy, and targeted therapy), PC remains resistant to current treatment approaches [72,81].
+
+In the subsequent paragraphs, we will first provide more profound insights into the three above mentioned hallmarks of PC and then describe the arsenal of therapeutics which are applied to fight this deadly disease.
+
+## 3.2. Tumor Microenvironment (TME) as a Biological Barrier
+
+Pancreatic carcinoma has the ability to remodel the cellular, immune, vascular, and connective tissue components in its neighborhood, hence creating a favorable TME which promotes its development [69,79].
+
+The hallmarks of pancreatic cancer's complex TME comprise its cellular heterogeneity, continuous intercellular cross-talk, a desmoplastic reaction embedding the tumor into a fibrotic capsule, an abnormal vascular network resulting in poor blood supply, and an immunological pro-tumorigenic milieu (see Figure 2). In fact, the protective and nourishing tumor microenvironment of PC provides the foundation for many characteristics of its malignancy. At the same time, many challenges for a successful treatment can be attributed to the TME's capacity to form a physical and immunologic barrier [69,79].
+
+The dynamic ecosystem of the TME comprises multiple cell populations. Primarily, it includes a heterogeneous population of cancer cells (including cancer stem cells as well as senescent cells), which exhibit an enormous genetic and phenotypic diversity as drivers for tumor growth and treatment resistance [79]. Furthermore, the TME comprises a broad spectrum of immune cells such as tumor-associated macrophages (TAMs), T cells (CD4, TH17, and Tregs), B cells, NK cells, neutrophils, and myeloid-derived suppressor cells [76,79,81]. A third characteristic cell population of the TME are cancer-associated fibroblasts (CAFs) and pancreatic stellate cells (PSCs) that induce a desmoplastic reaction: by producing collagen and extracellular matrix proteins, they give rise to a dense fibrotic stroma [79,81]. Basically, this fibrotic transformation creates a "stromal fortress", which impedes efficient drug delivery and host immune surveillance [69,80].
+
+The rich extracellular matrix (ECM) of the TME is shaped by proteins such as collagen fibers and fibronectin, proteoglycans such as hyaluronic acid (HA), and other components, all of which form a dense fibrotic barrier which prevents therapeutics of various sizes (small molecules, immunoglobulins, and cell-based therapies) accessing the tumor [69,81].
+
+In combination with uncontrolled angiogenesis, the desmoplastic stroma induces the formation of an abnormal network of vessels, which cause a high interstitial fluid pressure (IFP) and a poor blood supply to the tumor [69,76,79]. The resulting intra-tumoral hypoxia triggers rapidly dividing cancer cells to switch their energy generation to anaerobic glycolysis and thus produce lactic acid as a final metabolite. As a consequence, the hypoxic tumor environment turns increasingly acidic [69]. By forcing its cells to adapt their metabolism to the progressively unfavorable hypoxic and acidic environment, PC generates increasingly aggressive cancer cell clones [76].
+
+One advantage of the abnormal intra-tumoral vasculature is its leakiness as a result of large endothelial gaps, which allow macromolecules to enter the tumor tissue. In PC, however, this enhanced permeation and retention effect (EPR), which facilitates drug delivery to tumors, is counter-balanced by the high interstitial fluid pressure [69]. Therefore, the TME's high IFP, poor blood perfusion, and fibrotic physical barrier require novel treatment approaches including sophisticated drug delivery technologies.
+
+An emerging hallmark of the TME is its tumor-promoting immunosuppressive immunological milieu, which converts PC into an immunologically cold tumor and contributes to immune evasion [73,76]. It includes immune cells that reside in the TME as well as tumor-infiltrating immune cells.
+
+Macrophages are one cellular component of the residing immune cell fraction: since hypoxia-inducible factors trigger an M2 polarization, macrophages promote tumor growth via pro-tumorigenic signaling [79,84].
+
+Despite their short lifespan, neutrophils have emerged as an important co-factor of the pro-tumorigenic TME. When tumor-associated neutrophils (TANs) are polarized by the TME towards their immunosuppressive N2 phenotype, they contribute to tumor progression, metastasis, and chemotherapy resistance via the secretion of cytokines and proteases which shape the TME [84]. For instance, matrix metalloproteinase 9 and neutrophil elastase have been shown to enhance the remodeling of the TME and the immunosuppressive milieu. Furthermore, a high neutrophil-to-lymphocyte ratio (NLR) reflecting systemic inflammation is predictive of a decreased overall survival in PDAC patients after surgical tumor excision [83].
+
+Regulatory T cells (Tregs) contribute to the immunosuppressive TME by secreting cytokines such as tumor growth factor ß (TGF-ß) and interleukin 10 (IL-10). By inhibiting the function of cytotoxic CD8 + T cells, CD4 + T-helper cells, and NK cells, they facilitate immune evasion [84]. In fact, both the stromal barrier and immunosuppressive environment prevent cytotoxic CD8 + T cells (CTLs) from infiltrating the tumor and killing cancer cells via granzyme-mediated cell lysis [72]. Furthermore, the expression of programmed death ligand 1 (PD-L1) allows PC to escape recognition by CTLs and thus create an effective biological barrier for immune-mediated drug approaches [80].
+
+A plethora of signaling molecules (cytokines such as TGF-ß, TNFα , IFN- ß, IL-6, IL-10, IL-17, GM-CSF, CSF-3, VEGF, and miRNA-containing exosomes) mediate the crosstalk between tumor cells, immune cells, and the surrounding stroma, hence sustaining the chronic (smoldering) inflammation, and mediating the proliferation and malignant transformation of the tumor [80,81,85-87].
+
+Ultimately, pancreatic cancer cells, in concert with its TME, tailor the tumor niche in such a way that it promotes tumor growth while acting as a barrier against a systemic immune response and suppresses anti-tumor immune invasion by cytotoxic CD8 + T lymphocytes [79].
+
+## 3.3. Genetic Diversity and Clonal Evolution as a Biological Barrier
+
+One of the hallmarks of pancreatic carcinoma is its genetic heterogeneity: while certain cancers such as acute myeloid leukemia (AML) are rooted in a clearly defined small range of 10-15 characteristic mutations, pancreatic tumors often harbor a large number of (on average 50-65) somatic mutations [72,88-90].
+
+This broad spectrum of genetic alterations comprises both driver and passenger mutations, which affect a dozen core signaling pathways (KRAS, TP53, DNA repair, apoptosis, CDKN2A, SMAD4/TGF-ß signaling, nFκ B, PI3K/AKT/mTOR, Wnt/Notch signaling, and Hedgehog) [80,81,91-93]. A genomic analysis of PDAC reveals four characteristic oncogenic driver mutations that are found in a majority of patients: KRAS, TP53, CDKN2A, and SMAD4 [72,76,90,93-95].
+
+This significant genetic diversity is partly based upon genomic instability as a consequence of impaired DNA repair mechanisms [94]. Genetic heterogeneity impacts several facets of PC including its tumor biology, its diagnosis, and subsequent therapy.
+
+From a cancer biology perspective, pancreatic carcinoma is characterized by its high adaptive potential: because of its broad genetic diversity, PC exploits a large reservoir of genomic mutations and epigenetic alterations, allowing it to quickly adapt to changing environments such as hypoxia, nutrient deprivation, and acidic pH. In fact, new mutations and epigenetic changes allow cancer subclones to emerge and expand based on their mutational profile's survival advantage in the changing TME [96,97]. Interestingly, clonal evolution is a highly complex process which undergoes continuous oscillations in the growth and atrophy of clonal lineages, which goes hand in hand with alternating clonal dominance (ADC) [96]. Ultimately, by giving rise to a highly dynamic clonal evolution, PC's genetic diversity causes rapid tumor progression and increased metastatic potential.
+
+PC's complex clonal architecture does not only impact its biological development by promoting an aggressive growth, but also complicates cancer diagnosis and treatment [98]. Because of intra-tumoral differences, a single tumor biopsy is unlikely to reflect the entire tumor's spatial genetic fingerprint and hence might be insufficient for treatment guidance and prognosis [97,98]. Furthermore, PC's dynamic clonal evolution necessitates the continuous monitoring for early identifying new aggressive clones [98,99].
+
+PC's genetic heterogeneity, including the concurring expansion of genetically diverse subclones, gives rise to treatment resistance, and tumor progression or relapse. The fraction of highly malignant cancer stem cells, senescent cancer cells, and many of the cell populations in the TME contribute to the emergence of chemotherapy resistance [100]. To address this important challenge, the therapy design often incorporates a combinational therapy that targets multiple mutations to minimize the risk of escape mutations, and an adaptive therapy approach which considers the dynamics of clonal evolution [97,98]. Ultimately, inter-tumoral differences between the genetic signatures of PC urge a personalized therapy approach designed according to the genomic profile of every patient's tumor.
+
+## 3.4. Metastasis as a Biological Barrier
+
+As 90% of cancer patients succumb to metastasis, targeting and eliminating metastatic cells including circulating tumor cells (CTCs) in the blood stream is an important therapeutic pillar in advanced disease [101,102].
+
+Pancreatic cancer's broad genetic diversity and its unique pro-tumorigenic TME exert a high selection pressure and, hence, drive the emergence of subclones with increased metastatic potential [96]. Certain mutations that are common in PC such as genetic alterations in the tumor-suppressor gene TP53 and loss of SMAD4 are linked to enhanced metastatic propensity [76].
+
+Cancer metastasis provides a great example of how cancer cells evolve over time and change their phenotype by acquiring mutations that allow them to subsequentially overcome multiple biological barriers. In order to metastasize, tumor cells have to undergo a series of genetically and epigenetically driven transformations termed metastatic cascade, which provide them the ability to detach from the epithelial cell association within the primary tumor tissue, migrate through the extracellular matrix, invade the blood stream, survive within the circulation, and finally extravasate in a suitable distant organ ("homing") to form a new tumor [103]. This cellular genomic and phenotypic transformation is called epithelial-mesenchymal transition (EMT): it allows epithelial cancer cells to lose their epithelial markers alongside their apicobasal polarity and turn into mesenchymal stem cells, which provide cancer cells the capabilities to migrate, invade blood vessels, and form secondary tumors [104,105]. EMT is often triggered by the activation of transcription factors belonging to the SNAIL, TWIST, and ZEB pathways [106,107]. The characteristics of EMT are several phenotypic changes such as the loss of epithelial markers (E-cadherin, claudins, and cytokeratin) and the expression of mesenchymal markers (N-cadherin, vimentin, and fibronectin) [101,105-107].
+
+Once the activation of the EMT program enables cancer cells to detach from the primary tumor and migrate, they invade the blood stream and/or lymphatic tissues, hence turning into circulating tumor cells (CTCs). As new evidence suggests, many cancer cells can be found in the circulation even at earlier stages of disease, which underlines the necessity of targeting CTCs.
+
+Drug delivery to (clustered) CTCs is particularly challenging: they are not only a difficult-to-catch moving target, but they also adhere to and activate platelets to form a microthrombus, which acts as a protective barrier shielding CTCs from potential systemically delivered therapeutics [102].
+
+The last step of the metastatic cascade is the non-random homing of CTCs to specific metastatic sites. Thus far, the factors determining the timing, metastatic organotropism, and success rate for CTCs to seed and expand new metastatic sites remain elusive. Probably, a set of specific driver mutations in neoplastic cells is a prerequisite for coloniza-
+
+tion [103,108]. Furthermore, the availability of a pre-existing organ-specific favorable microenvironment, called premetastatic niche (PMN), is also required for CTCs to colonize distant tissues [101]. New evidence reveals that a primary tumor can induce the formation of PMNs by sending out tumor-cell-derived exosomes. These exosomes could carry tumorigenic micro-RNAs such as miR-200 which has been shown to enhance breast cancer cell metastasis [101,109,110].
+
+A new hypothesis suggests a correlation between microenvironmental changes in the primary tumor and the probability of metastatic cells forming a new colony. In fact, changes in the primary tumor's TME might induce clonal reshuffling which mobilizes those cells which are most potent to seed secondary tumors [96].
+
+The therapeutic targeting of metastasis is not only challenged by the cells' phenotypic changes in the context of EMT and the difficulties of targeting CTCs, but also by the anatomical-physiological barriers attributed to different metastatic sites.
+
+Pancreatic cancer primarily metastasizes to the liver, and, to a lesser extent, to the lungs and bones [111]. In rare cases, it can also spread into the brain and other organs. The most common site of metastasis is the liver because of the portal vein, which carries blood from the pancreas to the liver [111]. Liver metastasis can often be treated by surgical resection, as the liver is anatomically divided into distinct easily removable segments and has an extraordinary regenerative capacity. Brain metastasis, on the contrary, is rare and difficult to treat via surgery. It has an extremely poor prognosis, and drug delivery is challenged by the blood-brain barrier [111].
+
+From a drug delivery standpoint, metastatic sites within the bones are also difficult to access. In fact, the blood-bone barrier and the highly mineralized dense bone tissue act as a physical barrier which limit (even) drug distribution. Furthermore, the bone marrow's (BM) dense cellular network can also impede efficient drug delivery to metastatic sites within the BM. Ultimately, the blood-bone barrier, the dense bone matrix, and the poor solubility of drugs in bone tissue make it challenging for a systemically administered drug to reach therapeutic concentrations within the bone tissue [112].
+
+Ideally, every organ which is infiltrated by metastatic colonies requires an individual drug delivery approach, for every single metastatic site forms a different biological barrier.
+
+In the future, a deeper understanding of the pattern of mutations and the epigenetic signature, which facilitate metastasis, might assist the design of (combinational) therapeutic strategies to prevent cancer from forming new colonies.
+
+3.5. Therapeutic Strategies to Overcome Biological Barriers in Pancreatic Cancer 3.5.1. Basic Therapeutic Principles
+
+The hallmarks of pancreatic cancer-namely, its specific TME, its broad genetic diversity, and metastatic potential-explain why most therapeutic approaches have not been fruitful so far. Therefore, new therapeutic modalities are being developed to overcome these obstacles.
+
+An effective therapeutic strategy builds upon addressing the tumor-specific challenges and optimizing the drugs' pharmacokinetic (PK) profiles according to the drugs' mode of administration.
+
+In oncology, systemic (intravenous) infusion represents the main route of drug administration. For systemically applied therapeutics, bioavailability is mainly determined by renal clearance, metabolic transformation in the liver, and drug uptake into undesired organs (tissues, and compartments) and cells including the mononuclear phagocyte system (MPS).
+
+The MPS, which consists of macrophage-like Kupffer cells in the liver and sinusoidal macrophages in the spleen, is responsible for clearing the host system from foreign particles, with particle tagging by opsonization enhancing this process.
+
+As a molecule's PK profile is key for efficient drug delivery, multiple hemodynamic concepts have been developed to increase the circulation time of antibodies, peptides, and
+
+nucleic-acid-based therapeutics. Drug modifications include the attachment of polyethylene glycol, known as pegylation, and drug encapsulation into various nanocarriers.
+
+Despite numerous clinical trials to explore the potential of new drugs, the standard therapy for pancreatic carcinoma has not changed significantly over the past two decades. Nevertheless, gemcitabine remains a basic pillar of the (standard) chemotherapeutic therapy [81]. It can either be infused alone, or in combination with erlotinib or the taxane nab-paclitaxel [76,113]. Paclitaxel exerts its anticancer effects by inhibiting the depolymerization of microtubules during cell division. To enhance the drug delivery properties of paclitaxel, it was reformulated and is nowadays used as nanoparticle albumin-bound paclitaxel (nab-paclitaxel) [81].
+
+Patients with a good performance status might be eligible for the FOLFIRINOX regimen which is an effective but burdensome combination therapy based on the concurrent administration of folinic acid (leucovorin), fluorouracil (5-FU), irinotecan, and oxaliplatin [76]. In 2010/2011, FOLFIRINOX emerged as the most potent treatment for patients with advanced PC, with a median overall survival benefit of approximately 4 months compared to gemcitabine alone [113-115].
+
+In 2015/2016, a new nano-liposomal formulation of irinotecan (nal-IRI, Onivyde) was approved by the FDA and EMA, and is now available for the treatment of patients with PC [116].
+
+Despite the remarkable success of nab-paclitaxel, FOLFIRINOX, and liposomal irinotecan, the development of many new treatment approaches has not yielded any major breakthroughs.
+
+Although immunotherapy has revolutionized cancer therapy for many tumor entities, PDAC remains resistant to this modern therapy approach [79,80]. In fact, PDAC's immunesuppressive TME, its limited immunogenicity, and the poor access of cytotoxic CD8 + T cells to the tumor tissue due to its stromal barrier turn PDAC into an immunologically cold tumor [74].
+
+Novel therapeutic approaches focus on the characteristics of PC including its protumorigenic immunosuppressive TME, its genetic diversity, and metastatic potential.
+
+## 3.5.2. Therapeutic Targeting of the TME
+
+In pancreatic cancer, the TME typically constitutes up to 80-85% of the tumor bulk. Its fibro-inflammatory nature contributes in large part to the proliferation, aggressiveness, and chemotherapy resistance of PC [107]. Since the fibrotic stroma surrounding PC and its abnormal vasculature form a physical barrier, which slows down the perfusion of systemically administered drugs, several strategies aim to remodel the TME by softening the extracellular matrix and improving or restoring the blood supply. One approach is to use a metalloproteinase, which enzymatically degrades various components of the ECM [79]. Another option is to target the stromal ECM with pegylated human recombinant PH20 hyaluronidase (PEGPH20) to enzymatically digest hyaluronan as one of the predominant substances of the ECM and hence reprogram the dense tumor stroma [81,117]. In Phase 2 trials in 279 patients with metastatic pancreatic ductal adenocarcinoma receiving treatment of PEGPH20 plus nab-paclitaxel/gemcitabine or nab-paclitaxel/gemcitabine alone, promising results were observed (in particular, a significant improvement in the progression-free survival in patients with HA-high tumors). However, the results of a recent Phase 3 trial could not confirm any significant improvement in clinical outcomes when PEGPH20 was added to the treatment with nab-paclitaxel/gemcitabine, hence manifesting the complexity of therapeutic strategies to remodel the TME [117].
+
+Several small leucine-rich proteoglycans (such as decorin and lumican), which are expressed by PSCs in the ECM, appear to play a role in mediating signaling across the TME. Several studies are ongoing to elaborate their precise function and their potential as drug targets [79].
+
+Currently, various studies explore how to therapeutically target the immunosuppressive TME and convert pancreatic cancer from an immunologically cold into a hot tumor. One approach is to therapeutically regulate and steer the polarization of tumor-associated
+
+macrophages (TAMs) and neutrophils (TANs) towards their M1 and N1 phenotypes, respectively. In this context, agonistic CD40 monoclonal antibodies have emerged as a promising candidate to modulate the functional plasticity of TAMs by shifting their phenotype to the more favorable M1 polarization, which promotes the apoptosis of pancreatic cancer cells [73,76,81,118,119]. Furthermore, agonistic CD40 therapy leads to the activation of tumor-specific T cells via dendritic-cell-mediated priming, hence inducing tumor regression via multiple channels [120].
+
+With the deficiency in major histocompatibility complex (MHC) I antigen presentation being one of cancer cells' immune evasion mechanisms, an elegant new approach is to restore TME inflammation and immune cell infiltration by the systemic delivery of mRNAencoded interleukin-2 [121].
+
+Pancreatic stellar cells contribute to shaping the tumorigenic TME by the production of collagen and hyaluronan, hence fortifying the stromal barrier. Preclinical studies suggest that targeting PSCs by angiotensin inhibitors such as losartan inhibits the proliferation of tumor-promoting PSCs [81].
+
+## 3.5.3. Therapeutic Targeting of Genetic Diversity
+
+Pancreatic cancer's broad genetic heterogeneity and dynamic clonal evolution form a complex biological barrier, which transforms the tumor into a "continuously moving target" and inhibits an effective therapy [98,122].
+
+Despite the emergence of many new therapy modalities over the past decade, cancer cell plasticity remains a major obstacle for therapeutic intervention. Importantly, a tumor's genetic heterogeneity is not only spatial, meaning that the clonal architecture varies within the disease site, but also temporal as a result of the clonal evolution and continuous tumor remodeling [99]. Currently, the best therapeutic strategy to overcome these challenges is to apply two treatment modalities in cancer care: a combination regimen, and a personalized treatment design, which includes a targeted as well as adaptive therapy approach [99].
+
+Combination therapy has already proven to be a successful strategy. In fact, FOLFIRINOX as a combination regimen allows us to simultaneously target multiple pathways, hence minimizing the risk of escape mutations and the development of treatment resistance. Unfortunately, multidrug resistance remains a major problem in cancer therapy. Cancer cell clones which overexpress efflux pumps such as permeability-glycoprotein (P-gp) have the capacity to pump out about 100 different chemotherapeutics, hence rendering therapy ineffective. Therefore, enriching chemotherapy regimens by an efflux pump inhibitor such as verapamil might help overcome multidrug resistance [123].
+
+Personalized cancer treatment has emerged as a novel precision-medicine-based approach for treating every tumor individually by taking into consideration intra-tumoral variability (over time), the reciprocal influence between the neoplasm and its TME, and individual patient characteristics (including lifestyle, environmental factors, and co-morbidities) [90,98,124].
+
+Nowadays, the availability of a broad range of monoclonal antibodies and smallmolecule drugs that specifically inhibit multiple cancer signaling pathways allows us to design a personalized combination treatment based on the tumor's genetic fingerprint. A precision medicine program called Know Your Tumor ® (KYT) demonstrated not only the great potential of molecular tumor profiling for tailoring a patient's personalized therapy but also its beneficial impact on therapy outcomes: the KYT program revealed that about half of all PC patients have a mutation which is actionable and for which a targeted therapy is available. When a small patient cohort was switched from their standard treatment to a personalized targeted therapy, they demonstrated a significant improvement in their median progression-free survival [90,125].
+
+Ideally, a personalized treatment approach includes adaptive therapy. Because adaptive therapy requires longitudinal molecular analysis to track the evolving clonal architecture, various diagnostical tools have to be implemented. These comprise next-generation sequencing (NGS), including the whole-exome sequencing (WES) of tumor samples, multiregional sequencing, single-cell sequencing, and the longitudinal analysis of liquid biopsy
+
+samples [99]. Regular genomic profiling will ensure the stringent monitoring of the tumor's clonal evolution and allow us to adjust the targeted therapy based on the evolving mutational signature.
+
+A revolutionary approach, which might soon become available to fight PC, is a therapeutic cancer vaccine. The innovation leaders BioNTech and Moderna alongside other biotechnology companies are working on different concepts to develop vaccines against various cancer entities.
+
+A huge advantage of a therapeutic vaccine is its potential to simultaneously target multiple tumorigenic antigens and activate the host immune system to eradicate cancer cells. Ideally, the tumor's mutational signature serves as template for a personalized vaccine, which addresses the patient-specific genetic heterogeneity and hence minimizes the risk of escape mutations. To be effective, a vaccine has to not only elicit a humoral response by the generation of neutralizing antibodies, but also a T-cell response, which includes the activation of CD4 + T-helper cells and cytotoxic CD8 + T lymphocytes.
+
+Depending on the way of identifying, selecting, and delivering tumor antigens into the patient, four vaccine technologies are being investigated: cell-based cancer vaccines including autologous vaccines based on tumor lysates, viral-based cancer vaccines using engineered viruses as the delivery vehicle for tumor antigens, peptide-based cancer vaccines, and nucleic-acid-based cancer vaccines. The latter received a lot of attention through BioNTech's and Moderna's focus on developing mRNA-based COVID-19 and tumor vaccines [126,127]. Their cancer vaccine approach harnesses mRNA transcripts encoding up to 20 neoantigens, which are delivered using mRNA-lipoplex nanoparticles. The neoantigen design is based on the next-generation sequencing (including WES) of tumor biopsies and subsequent in silico neoantigen prediction via bioinformatic tools [128].
+
+Currently, several cancer vaccine candidates targeting PC are being investigated in clinical studies: VCC-001, developed by Vaccentis, is an autologous tumor vaccine harnessing a tumor lysate. It has significant potential for renal cell carcinoma, and colon cancer [129,130]. A major advantage of using a tumor lysate is that it includes all tumor antigens.
+
+Personalized mRNA-based cancer vaccines are currently developed by BioNTech and Moderna. As exogenously administered mRNAs are recognized by endosomal and cytosolic innate immune receptors (such as toll-like receptors 7 and 8), mRNAs are rendered non-immunostimulatory by the incorporation of modified nucleosides such as pseudouridine. To enhance cellular uptake and protect mRNAs from nuclease digestion, they are embedded into lipid-based or liposomal nanocarriers [131].
+
+Adjuvant autogene cevumeran (BNT122), a personalized cancer vaccine based on (uridine) mRNA-lipoplex nanoparticles, is currently enrolling patients for a randomized Phase 2 clinical trial [74]. A previously conducted Phase 1 study showed poly-specific T-cell responses and delayed tumor recurrence up to three years post tumor resection [132]. The established process of tumor sample acquisition, and subsequent cell sequencing to identify suitable neo-epitopes, finally followed by mRNA design by integrating the most immunogenic neo-epitopes, allows a rapid and scalable production of personalized tumor vaccines [133]. Two major challenges of the mRNA-based cancer vaccine approach, however, are the accurate mapping of the cancer mutanome and the selection of neoantigens on a patient-specific basis [127]. The selection is error-prone, as it depends on the quality of the neoantigen prediction algorithm and does not include all tumor antigens.
+
+Given a rich pipeline of tumor vaccines and many recent scientific breakthroughs, it is likely that cancer vaccines will revolutionize cancer therapy within the next years.
+
+Nowadays, the challenges arising from a neoplasm's genetic diversity and clonal evolution can be addressed most efficiently by combining a personalized poly-therapy concept with an adaptive treatment approach.
+
+## 3.5.4. Therapeutic Targeting of Metastasis
+
+The metastatic cascade comprises several consecutive steps and, therefore, offers multiple druggable targets:
+
+- (a) the epithelial-mesenchymal transformation of tumor cells at the site of the primary tumor;
+- (b) the migration of metastatic cells as circulating tumor cells (CTCs) in the blood stream and/or lymphatic tissues;
+- (c) metastatic colonies in distant organs.
+
+The epithelial-mesenchymal transition of cancer cells, rooted in the tumor's cellular plasticity, allows epithelial cancer cells to acquire mesenchymal traits to enhance their migratory and invasive capabilities for forming new colonies in suitable organs [107]. With transforming growth factor β (TGFβ ) being a crucial driver for EMT, inhibitors of the TGFβ pathway might reduce the metastatic potential of primary tumor cells [100,134,135]. A plethora of molecular compounds (such as losartan) are in preclinical or clinical studies, either as inhibitors of the TGFβ ligand, the TGFβ receptor, or the downstream mediators of TGFβ signaling [81,100,135].
+
+Since Hedgehog signaling is also involved in shaping the TME and promoting metastasis, the therapeutic use of Hedgehog inhibitors is likely to slow down cancer progression [136]. Various pharmacologic Hedgehog pathway inhibitors such as vismodegib, sonidegib, saridegib, and glasdegib are being investigated in clinical trials [137].
+
+With the mechanistic target of rapamycin (mTOR) signaling pathway enhancing the migration and metastasis of cancer cells, several mTOR inhibitors such as everolimus and temsirolimus are investigated in combinational therapy to treat PC [87,138]. Paradoxically, mTOR inhibition might favor the emergence of cancer cells that are resistant to chemotherapy. In fact, in this resistant cancer cell population, the activation of the mTOR pathway increases chemosensitivity in vitro and in vivo, hence demonstrating the variety of effects signaling pathways can elicit [139].
+
+Tumor cells which have invaded the blood and/or lymphatic vessels are a difficult drug target. Drug delivery is dramatically complicated by the fact that CTCs are a moving target shielded by a protective layer of activated platelets. Basically, (clustered) CTCs form a microthrombus which acts as a barrier against the efficient delivery of therapeutics and recognition by the host immune surveillance system.
+
+A recent study suggests that platelet-coated (platelet membrane biomimetic) nanoparticles bear the potential to deliver drugs to CTCs. In fact, Da and colleagues demonstrated in a cancer mouse model that the targeted co-delivery of antibodies against PD-L1 and sorafenib using platelet-functionalized nanocarriers did not only help recruit T cells to circulating CTCs, but also prevented them from forming metastasis in distant organs [102].
+
+New findings show the "homing" of CTCs in distant organs requires a suitable microenvironment at the metastatic site to allow a new tumor to expand.
+
+Based on the mechanistic insights into the role of tumorigenic microRNAs and their exosomal delivery to metastatic sites where they facilitate a favorable tumor microenvironment, a promising avenue to inhibit metastasis is to deliver tumor-suppressive miRNAs that inhibit the formation of metastasis. Aside from naked miRNAs, various vehicles such as exosomes can be harnessed for the delivery of miRNAs to the primary tumor and pre-metastatic niches. In a murine prostate cancer xenograft model, atelocollagen-delivered miR-16 inhibited the formation of bone metastasis by regulating genes mediating cell-cycle control [140].
+
+Depending on the organ, which is invaded by metastasis, specific targeted therapeutic approaches might be most promising. For instance, to specifically target bone metastasis, chemotherapeutics are conjugated with bisphosphonates, which selectively accumulate in bones due to their high affinity with hydroxyapatite [112].
+
+## 3.5.5. Summary of Therapeutic Approaches in Pancreatic Cancer
+
+New mechanistic insights into the complex pathophysiology of PC have paved the way for new therapeutic approaches targeting the hallmarks of PC, which form challenging biological barriers: PC's nourishing TME, and its genetic heterogeneity and metastatic potential (summarized in Figure 2 and Table 1). Emerging novel therapeutic strategies
+
+aim to remodel the TME by enhancing the blood supply, increasing intra-tumoral drug retention, and reversing immunosuppression. Combination and adaptive therapy will be key to addressing the challenges resulting from PC's genetic diversity. A multitude of nanoparticle-based delivery systems are being developed to attain difficult-to-reach tumor cells including CTCs. Ultimately, the treatment of PC will become more and more tailored to the individual patient, and a set of innovative targeted/personalized medicines including immunotherapy, antibody-drug conjugates (ADCs), and cellular therapies such as chimeric antigen receptor T cells (CAR-T), and cancer vaccines holds promise in revolutionizing the treatment of this highly malignant tumor.
+
+Table 1. This table provides an overview of the hallmarks of pancreatic cancer and the biological barriers which challenge the development of effective treatments.
+
+| Hallmarks of Pancreatic Cancer         | Challenges for Drug Delivery                                                                                                  | Challenges for Drug Delivery                                                    | References       |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------|
+|                                        | Abnormal Vasculature: Poor Perfusion & Low Oxygen                                                                             | Poor access to target cells                                                     | [76,79,109]      |
+|                                        | Abnormal Vasculature: IFP                                                                                                     | Pressure gradient                                                               | [79,109]         |
+| Tumor Microenvironment                 | Abnormal Vasculature: Acidic pH                                                                                               | Degradation                                                                     | [98]             |
+|                                        | Fibrotic Stroma                                                                                                               | Physical barrier                                                                | [79,109]         |
+| Genetic Diversity and Clonal Evolution | Immunologic Barrier                                                                                                           | Immunosuppressive milieu, PD-L1 expression                                      | [76,79-81,83]    |
+| Genetic Diversity and Clonal Evolution | Tumor Heterogeneity                                                                                                           | Multitude of targets Differences between patients                               | [93,94,97-99]    |
+| Genetic Diversity and Clonal Evolution | Clonal Evolution                                                                                                              | Changing targets and escape mutations                                           | [97,98]          |
+| Genetic Diversity and Clonal Evolution | Chemotherapy Resistance                                                                                                       | Efflux Pumps, mTOR inhibition                                                   | [98-100,109,140] |
+| Genetic Diversity and Clonal Evolution | EMT                                                                                                                           | Changing targets due to phenotypic alterations                                  | [109]            |
+| Genetic Diversity and Clonal Evolution | Circulating Tumor Cells                                                                                                       | Moving targets & protection by a shield of platelets                            | [102]            |
+| Metastatic Potential                   | Distant Organs ■ Brain: Blood-Brain Barrier ■ Bone: Blood-Bone Barrier, poor bone vascularization, poor access to bone marrow | Physical barriers (BBB) Uneven poor drug distribution No access to target cells | [110,113]        |
+
+## 4. Chapter III: HEMOPHILIA-Biological Barriers in Rare Genetic Disorders and Gene Therapy as a Novel Therapeutic Approach in Hemophilia A and B
+
+4.1. Introduction to Rare Genetic Diseases
+
+While RNAi-based therapeutics and targeted nanomedicines turned out to be efficient for treating a broad spectrum of diseases, they are not suitable for curing genetic disorders. In contrast to cancer and infectious diseases such as HIV, hereditary (mono-) genetic disorders often require the substitution or supplementation of the missing or defective gene by an imported (functional) transgene. For this purpose, a curative therapeutic does not only have to pass the plasma membrane of a target cell but also overcome the nuclear envelope to gain access to the cellular genome. In this context, gene therapy in its most fundamental form introduces genetic material into target cells via viral and non-viral vectors [141].
+
+Nature has invested considerable energy and effort to protect cells against viral entry [142]. Paradoxically, the transfer of functional genes into cells can be facilitated by viruses re-engineered to perform as vectors. Currently, in clinical trials, viral vectors are being used to transfer genes to treat cardiovascular, muscular, metabolic, neurological,
+
+hematological, and ophthalmological diseases, as well as infectious disorders and cancers [143]. The most efficient viral vectors to emerge from preclinical and clinical studies are adenovirus vectors, adeno-associated virus (AAV) vectors, retroviral vectors, and lentiviral vectors (as a subtype of retrovirus) [144].
+
+## 4.2. Biology of AAV-Mediated Gene Therapy as Novel Therapeutic Approach
+
+Viral-vector-mediated gene therapy has coalesced around two primary approaches, in vivo AAV gene transfer (episomal gene transfer) or ex vivo Lenti virus (gene insertion). This section will focus on AAV gene transfer.
+
+AAV belongs to the genus Dependoparvovirus within the family Parvoviridae [145,146]. AAV was first described in the mid-1960s [147]. After its discovery, subsequent research studies provided the foundational knowledge that led to the use of AAV as a gene delivery vector. Understanding genome composition, infectious latency, and virion assembly allowed for the cloning of the wild-type AAV2 sequence into plasmids, which enabled genetic studies [146]. Importantly, wild-type AAV does not cause any human diseases [148,149]. Thus, as a replication-incompetent vector, with a predictable tropism for selected tissues and the capability to be endocytosed and unpacked within the target cell nucleus, AAV has become a workhorse vehicle for in vivo gene transfer therapy [146,150,151].
+
+The AAV vector has distinctive features that are beneficial in clinical applications, including broad (cell) tropism, low immunogenicity, and ease of production. AAV is also non-pathogenic, rarely integrates into the host chromosome, and results in the long-term expression of the transgene [141,152].
+
+As a parvovirus, AAV carries a single-stranded DNA genome of 4.7 kb, encoding two genes (rep and cap) which are flanked by two inverted terminal repeats [145,146,149]. While the rep gene produces proteins required for viral replication, the cap gene encodes for the capsid proteins VP1, VP2, and VP3 [141,146].
+
+Studies have shown that AAV infects target cells by binding primary receptors and co-receptors on the cell surface, which triggers their endocytosis into endosomes [153]. The biology of viral entry into the target cells, transport across the nuclear membrane, and uncoating and release of the transgene is complex and incompletely understood [154].
+
+At least nine discrete steps have been identified as important in the AAV vector transduction pathway [141]. The first step involves the adeno-associated virus (AAV) vector virions binding to receptors and co-receptors on the surface of target cells. The AAV vectors are endocytosed within the cells (step 2). Following the release from endosomes, AAV virions are either ubiquitylated and targeted for proteasome-mediated degradation (step 3) or intracellularly trafficked to the nucleus (step 4). Once in the nucleus, AAV virions are uncoated and the AAV transgene is released (step 5). The AAV single-stranded DNA genome is then converted into double-stranded DNA (step 6), followed by transcription (step 7) and the nuclear export of mRNA (step 8) for the translation and expression of the therapeutic transgene (step 9) [141].
+
+How AAV virions enter cells to efficiently deliver their gene cargo remains poorly understood [155]. Tissue and cell tropism is determined by the capsid structure, which is composed of three proteins (VP1, VP2, and VP3) [141,149]. Capsid variants differentially engage cellular entry factors. For several AAV serotypes, viral entry is initiated via capsidspecific sugar moieties on the cell surface [156]. Many AAV serotypes bind to specific receptors on the surface of target cells, with several of the serotypes reported to bind to a primary cell surface receptor, followed by interaction with a secondary receptor that appears to enable viral entry. Primary cell surface attachment receptors identified include heparan sulfate proteoglycans for AAV serotypes 2, 3, and 6; N-terminal galactose for AAV9; and specific N- or O-linked sialic acid moieties for AAV1, 4, 5, and 6 [157]. Secondary receptors include fibroblast growth factor receptor (FGFR) and possibly integrin for AAV2; hepatocyte growth factor receptor (c-Met) for AAV2 and 3, and platelet-derived growth factor for AAV5, which is also modified by sialic acid [157]. To date, no single receptor common to all AAV serotypes has been identified [157].
+
+## 4.3. Short History of Gene Therapy
+
+The concept of gene therapy has been hypothesized for decades. Gene transfer has received determined interest with the introduction of recombinant DNA technology and the ability to transfer and express exogenous genes in mammalian cells [144]. The first clinical trials were carried out in the late 1980s. At that time, gene therapy was predicted to become a treatment for monogenic diseases in less than a decade [157]. However, during the next two decades, several obstacles and fatal outcomes in patients have moderated the excitement for gene therapy.
+
+In 1999, an 18-year-old who received gene therapy to treat a metabolic disorder died as a result of a lethal immune reaction to the viral vector. Just a few years later, in five children suffering from a rare condition named SCID-X1, gene therapy turned out to activate an oncogene and hence cause insertional mutagenesis, leading to leukemia. Fifteen years later, a sixth child developed leukemia, demonstrating the long-term risk of oncogenesis [143,158-160].
+
+These fatal incidences basically brought the development of gene-therapy-based therapeutics to a halt until a renaissance emerged a few years ago. Finally, after several decades of intense research, the first EMA-approved gene therapy became available in 2012 to treat adults with a hereditary metabolic condition known as familial lipoprotein lipase deficiency (LPLD): based on a recombinant adeno-associated virus (rAAV) vector, alipogene tiparvovec (Glybera) transduces muscle cells with a functional gene of LPLD [146,160,161].
+
+Today, rAAVs have advanced to the world's leading platform for gene therapy products [146].
+
+## 4.4. Biological Barriers for the Application of Gene Therapy
+
+Despite these recent breakthroughs, five important barriers continue to constrain progress (visualized in Figure 3 and described in Table 2):
+
+Transgene Size : The first restriction to the application of gene therapy is the size of the transgene, which needs to fit into the delivery vector. For recombinant AAV vectors, the DNA packaging size is limited to about 4.7 kb, hence requiring transgenes to be engineered accordingly [161,162]. If the vector genome exceeds the vector capacity, the transgene expression and protein folding might be adversely affected [152].
+
+Vector Organotropism and Uptake : Second, vector delivery to the target cells, and vector uptake, intracellular transport, and uncoating remain a problem. Vector organotropism and uptake by the target tissue are prerequisites for the delivery of sufficient genetic material to allow for therapeutic levels of transgene expression [146]. Organotropism and cellular targeting can be enhanced by engineering cell-targeting viral capsids and gene promoters.
+
+Vector Genome Integration and Persistence : Third, vector genome integration and persistence are a challenge. With AAV vectors being non-integrative, the active transgene exists as a double-stranded DNA episome, which will be lost during cell division [154,163]. Additionally, after the uncoating process, the transgene expression may be further regulated by the epigenetic state of the vector capsid [152,164].
+
+Sustainable Gene Expression : Fourth, the transcriptional expression of the transgene needs to be sustainable [163]. As the expression of the transgene following rAAV-mediated delivery is driven by episomal genomes, transgene levels often decline over time due to the loss of episomes during cell division [152]. Additionally, transgene expression, whether driven from integrated or episomal vector genomes, can be silenced or terminated by epigenetic modifications to the vector genome [152,165]. As a result, transgene expression might fade over time, necessitating redosing. However, redosing remains a major barrier to the success of gene therapy because of the host's immune response [142].
+
+Immune System : Last but not least, an important caveat of applying AAV-vectorbased gene therapy is the host's innate and adaptive (both humoral and cellular) immune response against the AAV capsid antigens and the transgene product.
+
+, 1207 , x FOR PEER REVIEW
+
+Figure 3. Biological barriers which challenge AAV-mediated gene therapy. The host immune system, the vector organotropism, and the sustainability of transgene expression are challenging barriers for the successful application of AAV-based gene therapy. Careful transgene and vector design contribute to overcoming these barriers, hence paving the way for the success of gene therapy. Figure 3. Biological barriers which challenge AAV-mediated gene therapy. The host immune system, the vector organotropism, and the sustainability of transgene expression are challenging barriers for the successful application of AAV-based gene therapy. Careful transgene and vector design contribute to overcoming these barriers, hence paving the way for the success of gene therapy.
+
+<!-- image -->
+
+Table 2. This provides an overview of all biological barriers which are hurdles for effective rAAVmediated drug delivery. Three immunological barriers to gene therapies need to be considered: immunogenicity toward a. the vector delivery system (AAV serotype), b. the transduced target cells, and c. the immunogenicity specific to the transgene product [142,145,161,163].
+
+- rAAV-Mediated Gene Therapy: Challenges for Drug Delivery References Vector packaging size limited to 4.7 kb Transgene engineering of FVIII cDNA [162,163] Vector uptake is organ-/cell-dependent a. As the AAV vector is engineered based on a wild-type parvovir us which naturally infects humans, it often elicits a B-cell response, resulting in neutralizing antibodies [145,166]. Immune responses in the GENEr8-1 trial (NCT03370913) for hemophilia A were predominantly directed toward the AAV5 capsid, and all study subjects developed a durable response against the AAV5 serotype used in the study. This high-titer antibody response will likely prevent redosing with the same serotype or other AAV serotypes due to the high degree of homology between ser otypes.
+
+Transgene Size
+
+Vector Uptake and Organotropism
+
+Capsid modifications aiming at retargeting AAV tropism permit tissue-specific gene transfer Selection of tissue-/cell-specific promoters can direct transgene expression to cells of interest [142,150,162,164,167] AAV vectors can not only induce an adaptive immune r esponse, but also activate the innate immune system. For instance, pathogen recognition receptors (such as tolllike r eceptors), which are located on the surface or in the cytosol of host cells, or within endosomal compartments, recognize pathogen-associated molecular patterns and induce an inflammatory interferon response [145,161].
+
+Vector Genome Integration and Persistence
+
+rAAV delivers transgenes as non-integrative episomes, which are lost upon cell division Lowering vector doses reduces the risk of insertional [155,164,165] Since vector immunogenicity has dose-dependent characteristics, the application of lower vector doses might reduce unfavorable humoral immune responses [142,145,161]. Furthermore, as practiced in current trials, concomitant immunosuppressive therapy with prednisolone improves the outcomes of AAV-mediated gene transfer [145].
+
+Gene Expression Sustainability
+
+- mutagenesis Transgene expression, driven by circular episomes, depends on episomal persistence, epigenetic modulation and choice of promoters [143,163,164,166,167] b. Transduced cells can elicit capsid T-cell responses in humans, which has been implicated in effecting the duration of the transgene expr ession [142]. When a T-cell response leads to the rejection and apoptosis of transduced cells, the transgene expression is abrogated, which renders gene therapy ineffective [ 145].
+
+- c. The transgene itself can also induce an immune response [161,163]. In the worst case, antibodies do not only neutralize the soluble protein, which is produced as a transgene product, but also interfere with substitution therapies that deliver the missing protein [145].
+
+These immunological barriers should be considered additive with cellular uptake barriers. The complexity of AAV vector gene transfer reflects the rationale for the vector design meeting natural cellular defenses and mechanisms of homeostasis.
+
+Table 2. This provides an overview of all biological barriers which are hurdles for effective rAAVmediated drug delivery.
+
+| rAAV-Mediated Gene Therapy: Challenges for Drug Delivery   |                                                                                                                                                                                                                                                   | References            |
+|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| Transgene Size                                             | Vector packaging size limited to 4.7 kb Transgene engineering of FVIII cDNA                                                                                                                                                                       | [162,163]             |
+| Vector Uptake and Organotropism                            | Capsid modifications aiming at retargeting AAV tropism permit tissue-specific gene transfer                                                                                                                                                       | [142,150,162,164,167] |
+| Vector Genome Integration and Persistence                  | rAAV delivers transgenes as non-integrative episomes, which are lost upon cell division Lowering vector doses reduces the risk of                                                                                                                 | [155,164,165]         |
+| Gene Expression Sustainability                             | Transgene expression, driven by circular episomes, depends on episomal persistence, epigenetic modulation and choice of promoters Transgene expression is challenged by adaptive immune responses to the transduced cells and/or transgene itself | [143,163,164,166,167] |
+| Immunological Barrier                                      | Humoral antibody-mediated immune response to viral vector                                                                                                                                                                                         | [146,162,164,167]     |
+| transduced host cells                                      | Cellular CTL-mediated immune response to                                                                                                                                                                                                          | [143,146,162,167]     |
+|                                                            | Humoral and cellular immune response to transgene                                                                                                                                                                                                 | [146,162,164,167]     |
+
+## 4.5. Therapeutic Application of Gene Therapy in Hemophilia A and B
+
+Recently, several important technical barriers have been overcome, paving the way for more than thirty FDA-approved gene therapies which are available now to treat various diseases.
+
+In the past years, gene therapy was approved for the treatment of several rare diseases and introduced a curative approach for hemophilia A and B [145,162,166,168-170].
+
+Hemophilia is a hereditary recessive X-linked coagulopathy resulting from decreased or absent functions of the genes that express human clotting factor VIII or IX (FVIII/FIX). A deficiency in factor VIII leads to hemophilia A, whereas a lack of factor IX manifests as hemophilia B. While FIX is endogenously produced in hepatocytes, FVIII is predominantly secreted from sinusoidal endothelial cells in the liver [161,162,171].
+
+The bleeding in hemophilia is characterized by a preponderance of bleeding in joints and muscle. Repetitive joint bleeds lead to hemophilic joint arthropathy, which causes
+
+significant morbidity [161,162,171]. Bleeding into closed spaces such as intracranial bleeds can be fatal [148,152]. The bleeding phenotype severity is predicted by factor activity. Patients with severe disease have <1% of normal factor activity and experience frequent spontaneous bleeds [162].
+
+The current standard of care for patients with severe hemophilia A and B requires lifelong prophylaxis with an exogenous replacement factor, which is available both as plasma-purified and recombinant protein (FVIII for hemophilia, and FIX for hemophilia B) [152,168]. Although regular intravenous injections with a factor concentrate raise the plasma levels of the clotting factor, it is challenging to attain and maintain physiologic levels of factor VIII/IX. The development of extended half-life products improved the bioavailability of intravenously injected plasma factor and reduced the dosing frequency, but (lifelong) therapy remained burdensome [162].
+
+Recently, the approval of emicizumab (Hemlibra), a bispecific monoclonal antibody bridging activated factor IX and factor X, and hence mimicking factor VIII, has changed the treatment landscape of hemophilia A by allowing (less painful) subcutaneous administration [162,171].
+
+Despite the emergence of emicizumab, substitution therapy remains burdensome: as patients require (lifelong) regular intravenous or subcutaneous injections, compliance is still challenging. Furthermore, all these treatments are extremely expensive and can easily cost millions of dollars for a patient's lifetime treatment [171].
+
+Based on these unmet needs, a curative approach mediated by gene therapy is desirable. Recent evidence has demonstrated that raising factor levels above 10-15% reduces the bleeding phenotype substantially, hence providing the rationale for gene therapy [172].
+
+In the past 2 years, the market authorizations of gene therapy for hemophilia A and B revolutionized the treatment of hemophilic patients by offering them a curative approach, hence eliminating the need for regular substitution therapy [145].
+
+In 2022, the FDA approved etranacogene dezaparvovec (Hemgenix) for the (one-time) treatment of adult patients with hemophilia B, which marked a milestone in hemophilia therapy [162,169]. Delivered by an AAV5 vector, the Hemgenix transgene encodes the highly effective Padua variant (R338L) of human factor IX and targets hepatocytes.
+
+In 2023, valoctocogene roxaparvovec (Roctavian) received market authorization from the FDA for the treatment of adults with severe hemophilia A [162]. In hemophilia A, the applicability of gene therapy was hampered by the size of coagulation FVIII: as its fulllength cDNA amounts to 7 kb and, hence, exceeds the AAV vector capacity, the transgene needed to be adjusted. Therefore, the AAV5 vector of Roctavian, which-equipped with a hybrid liver-selective promoter-targets hepatocytes, carries a B-domain deleted version of the human coagulation FVIII gene [152,161,162]. Amounting to 4.9 kb, the vector size slightly surpasses the vector packaging capacity, which might impact the transgene expression and protein folding [152].
+
+The hemophilia gene therapy clinical trial data and follow-up observations provide valuable insights into the long-term safety and efficacy of Hemgenix and Roctavian.
+
+rAAV vectors were selected due to their non-integrative biology. The episomal form of the transgene dramatically reduces the risk of genotoxicity from insertional mutagenesis. However, as long-term animal data suggest, integrative events can still occur, with the risk of insertional mutagenesis correlating with the applied vector dose [152,161]. Therefore, reducing the vector dose and providing concomitant immunosuppressive therapy help mitigate the risk of genotoxicity and adverse immune reactions. In fact, long-term safety continues to accrue in both hemophilia A and B gene therapy trials with few serious safety events reported after the first year post vector exposure [173].
+
+In terms of long-term effectiveness, Hemgenix and Roctavian differ. While Hemgenix provides sustainable transgene expression of FIX, Roctavian faces challenges with declining plasma levels of FVIII [162]. The HOPE-B study (NCT03569891), in which 54 patients with moderate to severe hemophilia B were treated with Hemgenix, demonstrates stable transgene expression at 1.5 years, with mean plasma FIX activity levels of 36.9% nearing
+
+the lower range of normal levels. In fact, hemophilia B gene therapy benefits from the fact that the target hepatocytes natively produce FIX protein. Furthermore, the used FIX-Padua variant transgene yields an about eight-fold higher specific activity compared to wild-type FIX. In addition, the relatively low applied vector dose of Hemgenix did not induce any unfavorable T-cell response, which might have lowered transgene expression [145].
+
+Although having demonstrated significant efficacy in increasing FVIII plasma levels and reducing bleeding episodes, the effectiveness of Roctavian might not be sustainable. In fact, a 2-year longitudinal analysis of Roctavian showed that the trajectory of FVIII activity exhibited first-order elimination kinetics starting at week 76. The estimated typical half-life of the Roctavian transgene-derived FVIII production (as calculated from modeled data) was 123 weeks, demonstrating that the transgene expression is fading over time and might necessitate redosing [174]. Thus far, however, redosing is not possible due to neutralizing antibodies which would eliminate the vector upon the application of a second dose.
+
+The differences in effectiveness between Roctavian and Hemgenix might be rooted in the nature of the transduced target cells. As FVIII is not endogenously produced by hepatocytes (but sinusoidal endothelial cells), the transduced hepatocytes might not have the capacity to produce the complex FVIII protein and therefore act as a biological barrier. Moreover, in sinusoidal endothelial cells, FVIII is co-expressed with its chaperone protein von Willebrand factor (VWF) which does not occur during hepatocyte expression. Taken together, FVIII expression may behave differently from FIX due to the size differences between the proteins and the choice of a non-native target cell.
+
+Viral-vector-based gene therapy proved to be effective for overcoming both the cell plasma membrane and nuclear envelope as important biological barriers to gain access to the cellular genome. The engineering of viral vectors has rendered gene therapy safe and effective based on the targeted cellular delivery of transgenes.
+
+After the failure of gene therapy 1.0 in the 1990s, the engineering of more powerful and safe viral vector platforms paved the way for the success of gene therapy 2.0 in the last decade. Compared to gene therapy 1.0, the currently used AAV vectors are more effective due to the targeted cellular delivery of transgenes and the optimization of transgenes for vector packaging and enhanced gene expression [175]. Since AAV induces episome-driven transgene expression, the safety profile nowadays is favorable with a low risk of insertional mutagenesis [152].
+
+Both Roctavian and Hemgenix emerged as formidable examples of how gene therapy 2.0 transformed a transfusion-dependent burdensome condition into a functional cure [145].
+
+Currently, new approaches which optimize or even substitute the potentially immunogenic viral vector as the delivery vehicle are being explored in various studies: Engineering cell-type-specific promoters and vector capsids might permit us to restrict the transgene expression to the cells of interest [163]. Recently, extracellular vesicles (EVs) have been emerging as a new delivery vehicle for transgenes. Being non-immunogenic, inert, biodegradable, available from all cells, and equipped with the capability to pass diverse biological barriers (including the blood-brain barrier), EVs have the potential to evolve into the most promising delivery vehicle for gene therapy [167].
+
+Today, gene therapy 3.0 is on the verge: revolutionary gene-editing-based technologies such as clustered regularly interspaced short palindromic repeats (CRISPR/Cas9), zincfinger nucleases (ZFNs), and transcription activator-like effector nucleases (TALEN) will most likely form the pillar of the next generation of gene therapy [176-179].
+
+With about 500 gene therapy clinical trials ongoing in 2024, many new therapies will probably soon become available to treat and cure hereditary genetic diseases-with an estimated annual FDA approval rate of 10-20 gene therapies starting in 2025 [143,180,181].
+
+## 5. Concluding Remarks
+
+This review offered insights into three different disease areas, which are globally highly relevant from a clinical, scientific, and socioeconomic perspective. Studying these different disease areas allowed us to identify and describe the overarching principles of
+
+biological barriers. Moreover, as research in HIV, cancer, and rare genetic diseases has given rise to many innovative technological advancements and breakthroughs, these disease entities are particularly suitable for highlighting novel drug delivery approaches.
+
+The major insights we obtained include the following:
+
+- a. The relevance of the host immune system as a predominant biological barrier;
+- b. The importance of a targeted, personalized, and combinational therapy approach;
+- c. The emergence of new druggable targets in HIV, cancer, and rare diseases;
+- d. The development of new cutting-edge therapy modalities (such as RNAi-based therapeutics, mRNA-based cancer vaccines, and AAV-based gene therapy) in all three disease areas we visited today.
+
+In the context of biological barriers, the host immune system emerged as a significant biological barrier, which plays a predominant role in the treatment of infectious diseases, cancer, and genetic diseases.
+
+For a treatment to be effective and cause as few undesired adverse effects as possible, a patient-tailored targeted therapy is key.
+
+Moreover, a combination therapy approach is necessary in order to overcome immune evasion mechanisms and attain more sustainable therapeutic effects: while combination antiretroviral therapy (cART) transformed HIV into a chronic condition, FOLFIRINOX as a combination treatment proved to be one of the most promising therapies for PC. And even gene therapy is only effective in combination with concomitant prednisolone application.
+
+Over the past decade, the more profound understanding of the disease pathophysiology of AIDS and cancer allowed us to identify a broad range of new druggable targets. These include vaginal epithelial cells (for HIV), and CAFs, PSCs, TAMs, and TANs as key players of the TME (for pancreatic cancer).
+
+Technological advancements have paved the way for many new exciting therapy modalities which broaden the physicians' arsenal of weapons to fight disease. Recently approved or emerging technologies include RNAi-based therapeutics, AAV-based gene therapy, gene-editing-based gene therapy approaches, exosomal delivery strategies, and personalized cancer vaccines harnessing mRNA technology.
+
+Although the emergence of innovative therapeutic approaches empowers us to overcome a broad spectrum of biological barriers, various obstacles remain. These nonbiological barriers include the implementation of novel therapies into standardized clinical practice as well as their incorporation into clinical guidelines. Furthermore, (market) access and socioeconomic strategies including reimbursement are required to not only cover the expensive therapies but also make innovation available for patients all over the world.
+
+Author Contributions: Conceptualization: E.B., H.M., B.S., I.R., C.A., A.S.-R. and N.H.B.; writing (original draft preparation): E.B., H.M. and B.S.; writing (review and editing): E.B., H.M., B.S., I.R., C.A., A.S.-R. and N.H.B.; visualization: E.B.; project administration: E.B. and N.H.B. All authors have read and agreed to the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Conflicts of Interest: H.M. is an employee and shareholder of BioMarin LLC. B.S. is an employee and shareholder of GenePath LLC. I.R. is an employee and shareholder of Vaccentis AG. The remain authors declare no further conflicts of interest.
+
+## References
+
+- 1. Agarwal-Jans, S. Timeline: HIV. Cell 2020 , 183 , 550. [CrossRef] [PubMed]
+- 2. Men é ndez-Arias, L.; Delgado, R. Update and latest advances in antiretroviral therapy. Trends Pharmacol. Sci. 2022 , 43 , 16-29. [CrossRef] [PubMed]
+- 3. Gupta, R.K.; Abdul-Jawad, S.; McCoy, L.E.; Mok, H.P.; Peppa, D.; Salgado, M.; Martinez-Picado, J.; Nijhuis, M.; Wensing, A.M.J.; Lee, H.; et al. HIV-1 remission following CCR5 ∆ 32/ ∆ 32 haematopoietic stem-cell transplantation. Nature 2019 , 568 , 244-248. [CrossRef] [PubMed]
+- 4. UNAIDS JUNP on H (o. J.). UNAIDS Global AIDS Update 2023. Available online: https://thepath.unaids.org/wp-content/ themes/unaids2023/assets/files/2023\_report.pdf (accessed on 1 August 2024).
+
+- 5. Bekker, L.-G.; Beyrer, C.; Mgodi, N.; Lewin, S.R.; Delany-Moretlwe, S.; Taiwo, B.; Masters, M.C.; Lazarus, J.V. HIV infection. Nat. Rev. Dis. Primer 2023 , 9 , 42. [CrossRef]
+- 6. Prabhu, V.M.; Padwal, V.; Velhal, S.; Salwe, S.; Nagar, V.; Patil, P.; Bandivdekar, A.H.; Patel, V. Vaginal Epithelium Transiently Harbours HIV-1 Facilitating Transmission. Front. Cell. Infect. Microbiol. 2021 , 11 , 634647. [CrossRef]
+- 7. Zila, V.; Margiotta, E.; Turoˇnov á , B.; Müller, T.G.; Zimmerli, C.E.; Mattei, S.; Allegretti, M.; Börner, K.; Rada, J.; Müller, B.; et al. Cone-shaped HIV-1 capsids are transported through intact nuclear pores. Cell 2021 , 184 , 1032-1046.e18. [CrossRef]
+- 8. Sharp, P.M.; Hahn, B.H. Origins of HIV and the AIDS pandemic. Cold Spring Harb. Perspect. Med. 2011 , 1 , a006841. [CrossRef]
+- 9. Mourez, T.; Simon, F.; Plantier, J.-C. Non-M variants of human immunodeficiency virus type 1. Clin. Microbiol. Rev. 2013 , 26 , 448-461. [CrossRef]
+- 10. Delviks-Frankenberry, K.; Galli, A.; Nikolaitchik, O.; Mens, H.; Pathak, V.K.; Hu, W.-S. Mechanisms and factors that influence high frequency retroviral recombination. Viruses 2011 , 3 , 1650-1680. [CrossRef]
+- 11. Hemelaar, J. The origin and diversity of the HIV-1 pandemic. Trends Mol. Med. 2012 , 18 , 182-192. [CrossRef]
+- 12. Rossi, E.; Meuser, M.E.; Cunanan, C.J.; Cocklin, S. Structure, Function, and Interactions of the HIV-1 Capsid Protein. Life 2021 , 11 , 100. [CrossRef] [PubMed]
+- 13. Connell, B.; Lortat-Jacob, H. Human Immunodeficiency Virus and Heparan Sulfate: From Attachment to Entry Inhibition. Front. Immunol. 2013 , 4 , 385. [CrossRef]
+- 14. Zhuang, S.; Torbett, B.E. Interactions of HIV-1 Capsid with Host Factors and Their Implications for Developing Novel Therapeutics. Viruses 2021 , 13 , 417. [CrossRef] [PubMed]
+- 15. Grandgenett, D.P.; Engelman, A.N. Brief Histories of Retroviral Integration Research and Associated International Conferences. Viruses 2024 , 16 , 604. [CrossRef] [PubMed]
+- 16. Barouch, D.H. Challenges in the development of an HIV-1 vaccine. Nature 2008 , 455 , 613-619. [CrossRef]
+- 17. Ng'uni, T.; Chasara, C.; Ndhlovu, Z.M. Major Scientific Hurdles in HIV Vaccine Development: Historical Perspective and Future Directions. Front. Immunol. 2020 , 11 , 590780. [CrossRef]
+- 18. Haynes, B.F.; Wiehe, K.; Borrow, P.; Saunders, K.O.; Korber, B.; Wagh, K.; McMichael, A.J.; Kelsoe, G.; Hahn, B.H.; Alt, F.; et al. Strategies for HIV-1 vaccines that induce broadly neutralizing antibodies. Nat. Rev. Immunol. 2023 , 23 , 142-158. [CrossRef]
+- 19. Abram, M.E.; Ferris, A.L.; Shao, W.; Alvord, W.G.; Hughes, S.H. Nature, position, and frequency of mutations made in a single cycle of HIV-1 replication. J. Virol. 2010 , 84 , 9864-9878. [CrossRef]
+- 20. Taylor, B.S.; Sobieszczyk, M.E.; McCutchan, F.E.; Hammer, S.M. The challenge of HIV-1 subtype diversity. N. Engl. J. Med. 2008 , 358 , 1590-1602. [CrossRef]
+- 21. Obare, L.M.; Temu, T.; Mallal, S.A.; Wanjalla, C.N. Inflammation in HIV and Its Impact on Atherosclerotic Cardiovascular Disease. Circ. Res. 2024 , 134 , 1515-1545. [CrossRef]
+- 22. McArthur, J.C.; Johnson, T.P. Chronic inflammation mediates brain injury in HIV infection: Relevance for cure strategies. Curr. Opin. Neurol. 2020 , 33 , 397-404. [CrossRef] [PubMed]
+- 23. Kang, S.; Tang, H. HIV-1 Infection and Glucose Metabolism Reprogramming of T Cells: Another Approach Toward Functional Cure and Reservoir Eradication. Front. Immunol. 2020 , 11 , 572677. [CrossRef] [PubMed]
+- 24. Matsuda, K.; Maeda, K. HIV Reservoirs and Treatment Strategies toward Curing HIV Infection. Int. J. Mol. Sci. 2024 , 25 , 2621. [CrossRef] [PubMed]
+- 25. Siddiqui, D.; Badar, U.; Javaid, M.; Farooqui, N.; Shah, S.A.; Iftikhar, A.; Sultan, F.; Mir, F.; Furqan, S.; Mahmood, S.F.; et al. Genetic and antiretroviral drug resistance mutations analysis of reverse transcriptase and protease gene from Pakistani people living with HIV-1. PLoS ONE 2023 , 18 , e0290425. [CrossRef]
+- 26. Khan, T.; Mayuresh Patkar, M.; Momin, M.; Omri, A. Macrophage targeted nanocarrier delivery systems in HIV therapeutics. Expert Opin. Drug Deliv. 2020 , 17 , 903-918. [CrossRef]
+- 27. Ahaus, P.; Potthoff, A.; Kayser, A.; Wach, J.; Brockmeyer, N.H.; Skaletz-Rorowski, A. HIV-Präexpositionsprophylaxe-Versorgung in intersektoraler Zusammenarbeit. Hautarzt 2020 , 71 , 211-218. [CrossRef]
+- 28. Ahaus, P.; Schmidt, A.J.; Skaletz-Rorowski, A.; Uhrmacher, M.; Serova, K.; Kayser, A.; Wach, J.; Nambiar, S.; Brockmeyer, N.H.; Potthoff, A. Changes in the user profiles of HIV pre-exposure prophylaxis (PrEP) before and after PrEP reimbursement. J. Infect. Public Health 2022 , 15 , 955-960. [CrossRef]
+- 29. Agrahari, V.; Anderson, S.M.; Peet, M.M.; Wong, A.P.; Singh, O.N.; Doncel, G.F.; Clark, M.R. Long-acting HIV pre-exposure prophylaxis (PrEP) approaches: Recent advances, emerging technologies, and development challenges. Expert Opin. Drug Deliv. 2022 , 19 , 1365-1380. [CrossRef]
+- 30. Marrazzo, J.; Tao, L.; Becker, M.; Leech, A.A.; Taylor, A.W.; Ussery, F.; Kiragu, M.; Reza-Paul, S.; Myers, J.; Bekker, L.-G.; et al. HIV Preexposure Prophylaxis With Emtricitabine and Tenofovir Disoproxil Fumarate Among Cisgender Women. JAMA 2024 , 331 , 930-937. [CrossRef]
+- 31. Mayer, K.H.; Allan-Blitz, L.-T. Post-exposure prophylaxis to prevent HIV: New drugs, new approaches, and more questions. Lancet HIV 2023 , 10 , e816-e824. [CrossRef]
+- 32. Burton, D.R. Advancing an HIV vaccine; advancing vaccinology. Nat. Rev. Immunol. 2019 , 19 , 77-78. [CrossRef] [PubMed]
+- 33. Giese, S.; Pelchen-Matthews, A.; Marsh, M. HIV-The Cell Biology of Virus Infection and Replication. In Encyclopedia of Cell Biology ; Bradshaw, R.A., Stahl, P.D., Eds.; Academic Press: Waltham, MA, USA, 2016; pp. 828-838.
+
+- 34. Schiffner, T.; Phung, I.; Ray, R.; Irimia, A.; Tian, M.; Swanson, O.; Lee, J.H.; Lee, C.-C.D.; Marina-Z á rate, E.; Cho, S.Y.; et al. Vaccination induces broadly neutralizing antibody precursors to HIV gp41. Nat. Immunol. 2024 , 25 , 1073-1082. [CrossRef] [PubMed]
+- 35. Basar, E.; Shum, B.; Skaletz-Rorowski, A.; Wu, Y.; Nambiar, S.; Brockmeyer, N.H. Cholesterol-conjugated siRNAs silence gene expression in mucosal dendritic cells in cervicovaginal tissue in mice. J. Eur. Acad. Dermatol. Venereol. 2023 , 37 , 615-626. [CrossRef] [PubMed]
+- 36. Carias, A.M.; McCoombe, S.; McRaven, M.; Anderson, M.; Galloway, N.; Vandergrift, N.; Fought, A.J.; Lurain, J.; Duplantis, M.; Veazey, R.S.; et al. Defining the interaction of HIV-1 with the mucosal barriers of the female reproductive tract. J. Virol. 2013 , 87 , 11388-11400. [CrossRef] [PubMed]
+- 37. Hladik, F.; McElrath, M.J. Setting the stage: Host invasion by HIV. Nat. Rev. Immunol. 2008 , 8 , 447-457. [CrossRef] [PubMed]
+- 38. Ayele, H.; Perner, M.; McKinnon, L.R.; Birse, K.; Farr Zuend, C.; Burgener, A. An updated review on the effects of depot medroxyprogesterone acetate on the mucosal biology of the female genital tract. Am. J. Reprod. Immunol. 2021 , 86 , e13455. [CrossRef] [PubMed]
+- 39. Amabebe, E.; Anumba, D.O.C. The Vaginal Microenvironment: The Physiologic Role of Lactobacilli. Front. Med. 2018 , 5 , 181. [CrossRef] [PubMed]
+- 40. Mirmonsef, P.; Modur, S.; Burgad, D.; Gilbert, D.; Golub, E.T.; French, A.L.; McCotter, K.; Landay, A.L.; Spear, G.T. Exploratory comparison of vaginal glycogen and Lactobacillus levels in premenopausal and postmenopausal women. Menopause 2015 , 22 , 702-709. [CrossRef]
+- 41. Zhou, J.Z.; Way, S.S.; Chen, K. Immunology of Uterine and Vaginal Mucosae: (Trends in Immunology 39, 302-314, 2018). Trends Immunol. 2018 , 39 , 355. [CrossRef]
+- 42. Shen, R.; Richter, H.E.; Smith, P.D. Early HIV-1 target cells in human vaginal and ectocervical mucosa. Am. J. Reprod. Immunol. 2011 , 65 , 261-267. [CrossRef]
+- 43. Sibeko, S.; Sanderson, M.; Moyo, S.; Botha, M.H. Role of the epithelium in human papillomavirus and human immunodeficiency virus infections in the female genital tract. Front. Reprod. Health 2024 , 6 , 1408198. [CrossRef] [PubMed]
+- 44. Yasen, A.; Herrera, R.; Rosbe, K.; Lien, K.; Tugizov, S.M. HIV internalization into oral and genital epithelial cells by endocytosis and macropinocytosis leads to viral sequestration in the vesicles. Virology 2018 , 515 , 92-107. [CrossRef] [PubMed]
+- 45. Day, C.J.; Hardison, R.L.; Spillings, B.L.; Poole, J.; Jurcisek, J.A.; Mak, J.; Jennings, M.P.; Edwards, J.L. Complement Receptor 3 Mediates HIV-1 Transcytosis across an Intact Cervical Epithelial Cell Barrier: New Insight into HIV Transmission in Women. mBio 2022 , 13 , e0217721. [CrossRef] [PubMed]
+- 46. Pena-Cruz, V.; Agosto, L.M.; Akiyama, H.; Olson, A.; Moreau, Y.; Larrieux, J.-R.; Henderson, A.; Gummuluru, S.; Sagar, M. HIV-1 replicates and persists in vaginal epithelial dendritic cells. J. Clin. Investig. 2018 , 128 , 3439-3444. [CrossRef]
+- 47. Yasen, A.; Herrera, R.; Rosbe, K.; Lien, K.; Tugizov, S.M. Release of HIV-1 sequestered in the vesicles of oral and genital mucosal epithelial cells by epithelial-lymphocyte interaction. PLoS Pathog. 2017 , 13 , e1006247. [CrossRef]
+- 48. Tugizov, S.M. Human immunodeficiency virus interaction with oral and genital mucosal epithelia may lead to epithelialmesenchymal transition and sequestration of virions in the endosomal compartments. Oral Dis. 2020 , 26 (Suppl. 1), 40-46. [CrossRef]
+- 49. Geijtenbeek, T.B.; Kwon, D.S.; Torensma, R.; van Vliet, S.J.; van Duijnhoven, G.C.; Middel, J.; Cornelissen, I.L.; Nottet, H.S.; KewalRamani, V.N.; Littman, D.R.; et al. DC-SIGN, a dendritic cell-specific HIV-1-binding protein that enhances trans-infection of T cells. Cell 2000 , 100 , 587-597. [CrossRef]
+- 50. Sewald, X.; Ladinsky, M.S.; Uchil, P.D.; Beloor, J.; Pi, R.; Herrmann, C.; Motamedi, N.; Murooka, T.T.; Brehm, M.A.; Greiner, D.L.; et al. Retroviruses use CD169-mediated trans-infection of permissive lymphocytes to establish infection. Science 2015 , 350 , 563-567. [CrossRef]
+- 51. Gummuluru, S.; Pina Ramirez, N.-G.; Akiyama, H. CD169-dependent cell-associated HIV-1 transmission: A driver of virus dissemination. J. Infect. Dis. 2014 , 210 (Suppl. 3), S641-S647. [CrossRef] [PubMed]
+- 52. M é nager, M.M.; Littman, D.R. Actin Dynamics Regulates Dendritic Cell-Mediated Transfer of HIV-1 to T Cells. Cell 2016 , 164 , 695-709. [CrossRef]
+- 53. Nikolic, D.S.; Lehmann, M.; Felts, R.; Garcia, E.; Blanchet, F.P.; Subramaniam, S.; Piguet, V. HIV-1 activates Cdc42 and induces membrane extensions in immature dendritic cells to facilitate cell-to-cell virus propagation. Blood 2011 , 118 , 4841-4852. [CrossRef] [PubMed]
+- 54. Fackler, O.T.; Alcover, A.; Schwartz, O. Modulation of the immunological synapse: A key to HIV-1 pathogenesis? Nat. Rev. Immunol. 2007 , 7 , 310-317. [CrossRef] [PubMed]
+- 55. Fire, A.; Xu, S.; Montgomery, M.K.; Kostas, S.A.; Driver, S.E.; Mello, C.C. Potent and specific genetic interference by doublestranded RNA in Caenorhabditis elegans. Nature 1998 , 391 , 806-811. [CrossRef]
+- 56. Hannon, G.J. RNA interference. Nature 2002 , 418 , 244-251. [CrossRef]
+- 57. Elbashir, S.M.; Harborth, J.; Lendeckel, W.; Yalcin, A.; Weber, K.; Tuschl, T. Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells. Nature 2001 , 411 , 494-498. [CrossRef]
+- 58. Dykxhoorn, D.M.; Lieberman, J. The silent revolution: RNA interference as basic biology, research tool, and therapeutic. Annu. Rev. Med. 2005 , 56 , 401-423. [CrossRef] [PubMed]
+- 59. Dykxhoorn, D.M. P-bodies and RNAi: The missing link? J. RNAi Gene Silenc. Int. J. RNA Gene Target. Res. 2005 , 2 , 105-106.
+
+- 60. Beckham, C.J.; Parker, R. P Bodies, Stress Granules, and Viral Life Cycles. Cell Host Microbe 2008 , 3 , 206-212. [CrossRef]
+- 61. Dykxhoorn, D.M.; Lieberman, J. Running interference: Prospects and obstacles to using small interfering RNAs as small molecule drugs. Annu. Rev. Biomed. Eng. 2006 , 8 , 377-402. [CrossRef]
+- 62. Kang, H.; Ga, Y.J.; Kim, S.H.; Cho, Y.H.; Kim, J.W.; Kim, C.; Yeh, J.-Y. Small interfering RNA (siRNA)-based therapeutic applications against viruses: Principles, potential, and challenges. J. Biomed. Sci. 2023 , 30 , 88. [CrossRef]
+- 63. Palliser, D.; Chowdhury, D.; Wang, Q.-Y.; Lee, S.J.; Bronson, R.T.; Knipe, D.M.; Lieberman, J. An siRNA-based microbicide protects mice from lethal herpes simplex virus 2 infection. Nature 2006 , 439 , 89-94. [CrossRef] [PubMed]
+- 64. Wu, Y.; Navarro, F.; Lal, A.; Basar, E.; Pandey, R.K.; Manoharan, M.; Feng, Y.; Lee, S.J.; Lieberman, J.; Palliser, D. Durable protection from Herpes Simplex Virus-2 transmission following intravaginal application of siRNAs targeting both a viral and host gene. Cell Host Microbe 2009 , 5 , 84-94. [CrossRef] [PubMed]
+- 65. Wheeler, L.A. Silencing sexually transmitted infections: Topical siRNA-based interventions for the prevention of HIV and HSV. Infect. Dis. Obstet. Gynecol. 2014 , 2014 , 125087. [CrossRef]
+- 66. Hibma, M.H. Silencing genes in the vaginal mucosa by topical application of a cholesterol-modified siRNA to inhibit HIV transmission. J. Eur. Acad. Dermatol. Venereol. JEADV 2023 , 37 , 467-468. [CrossRef]
+- 67. Siegel, R.L.; Miller, K.D.; Wagle, N.S.; Jemal, A. Cancer statistics, 2023. CA Cancer J. Clin. 2023 , 73 , 17-48. [CrossRef]
+- 68. Bray, F.; Laversanne, M.; Sung, H.; Ferlay, J.; Siegel, R.L.; Soerjomataram, I.; Jemal, A. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J. Clin. 2024 , 74 , 229-263. [CrossRef] [PubMed]
+- 69. Ukidve, A.; Cu, K.; Kumbhojkar, N.; Lahann, J.; Mitragotri, S. Overcoming biological barriers to improve solid tumor immunotherapy. Drug Deliv. Transl. Res. 2021 , 11 , 2276-2301. [CrossRef]
+- 70. Afghani, E.; Klein, A.P. Pancreatic Adenocarcinoma: Trends in Epidemiology, Risk Factors, and Outcomes. Hematol. Oncol. Clin. N. Am. 2022 , 36 , 879-895. [CrossRef]
+- 71. International Agency for Research on Cancer. Available online: https://gco.iarc.fr/en (accessed on 1 August 2024).
+- 72. Tarannum, M.; Vivero-Escoto, J.L. Nanoparticle-based therapeutic strategies targeting major clinical challenges in pancreatic cancer treatment. Adv. Drug Deliv. Rev. 2022 , 187 , 114357. [CrossRef]
+- 73. Sturgeon, R.; Goel, P.; Singh, R.K. Tumor-associated neutrophils in pancreatic cancer progression and metastasis. Am. J. Cancer Res. 2023 , 13 , 6176-6189.
+- 74. Rojas, L.A.; Sethna, Z.; Soares, K.C.; Olcese, C.; Pang, N.; Patterson, E.; Lihm, J.; Ceglia, N.; Guasp, P.; Chu, A.; et al. Personalized RNA neoantigen vaccines stimulate T cells in pancreatic cancer. Nature 2023 , 618 , 144-150. [CrossRef] [PubMed]
+- 75. Ilic, I.; Ilic, M. International patterns in incidence and mortality trends of pancreatic cancer in the last three decades: A joinpoint regression analysis. World J. Gastroenterol. 2022 , 28 , 4698-4715. [CrossRef]
+- 76. Halbrook, C.J.; Lyssiotis, C.A.; Pasca di Magliano, M.; Maitra, A. Pancreatic cancer: Advances and challenges. Cell 2023 , 186 , 1729-1754. [CrossRef]
+- 77. Rahib, L.; Smith, B.D.; Aizenberg, R.; Rosenzweig, A.B.; Fleshman, J.M.; Matrisian, L.M. Projecting Cancer Incidence and Deaths to 2030: The Unexpected Burden of Thyroid, Liver, and Pancreas Cancers in the United States. Cancer Res. 2014 , 74 , 2913-2921. [CrossRef] [PubMed]
+- 78. Urbanova, M.; Cihova, M.; Buocikova, V.; Slopovsky, J.; Dubovan, P.; Pindak, D.; Tomas, M.; Garc í a-Bermejo, L.; Rodr í guezGarrote, M.; Earl, J.; et al. Nanomedicine and epigenetics: New alliances to increase the odds in pancreatic cancer survival. Biomed. Pharmacother. 2023 , 165 , 115179. [CrossRef] [PubMed]
+- 79. Hartupee, C.; Nagalo, B.M.; Chabu, C.Y.; Tesfay, M.Z.; Coleman-Barnett, J.; West, J.T.; Moaven, O. Pancreatic cancer tumor microenvironment is a major therapeutic barrier and target. Front. Immunol. 2024 , 15 , 1287459. [CrossRef]
+- 80. Joseph, A.M.; Al Aiyan, A.; Al-Ramadi, B.; Singh, S.K.; Kishore, U. Innate and adaptive immune-directed tumour microenvironment in pancreatic ductal adenocarcinoma. Front. Immunol. 2024 , 15 , 1323198. [CrossRef]
+- 81. Xu, Z.; Pothula, S.; Wilson, J.; Apte, M. Pancreatic cancer and its stroma: A conspiracy theory. World J. Gastroenterol. WJG 2014 , 20 , 11216-11229. [CrossRef] [PubMed]
+- 82. Klein, A.P. Pancreatic cancer epidemiology: Understanding the role of lifestyle and inherited risk factors. Nat. Rev. Gastroenterol. Hepatol. 2021 , 18 , 493-502. [CrossRef]
+- 83. Xiang, Z.-J.; Hu, T.; Wang, Y.; Wang, H.; Xu, L.; Cui, N. Neutrophil-lymphocyte ratio (NLR) was associated with prognosis and immunomodulatory in patients with pancreatic ductal adenocarcinoma (PDAC). Biosci. Rep. 2020 , 40 , BSR20201190. [CrossRef]
+- 84. Li, Y.; Xiang, S.; Pan, W.; Wang, J.; Zhan, H.; Liu, S. Targeting tumor immunosuppressive microenvironment for pancreatic cancer immunotherapy: Current research and future perspective. Front. Oncol. 2023 , 13 , 1166860. [CrossRef]
+- 85. Bayne, L.J.; Beatty, G.L.; Jhala, N.; Clark, C.E.; Rhim, A.D.; Stanger, B.Z.; Vonderheide, R.H. Tumor-derived granulocytemacrophage colony-stimulating factor regulates myeloid inflammation and T cell immunity in pancreatic cancer. Cancer Cell 2012 , 21 , 822-835. [CrossRef]
+- 86. Caronni, N.; La Terza, F.; Vittoria, F.M.; Barbiera, G.; Mezzanzanica, L.; Cuzzola, V.; Barresi, S.; Pellegatta, M.; Canevazzi, P.; Dunsmore, G.; et al. IL-1 β + macrophages fuel pathogenic inflammation in pancreatic cancer. Nature 2023 , 623 , 415-422. [CrossRef]
+- 87. Stanciu, S.; Ionita-Radu, F.; Stefani, C.; Miricescu, D.; Stanescu-Spinu, I.-I.; Greabu, M.; Ripszky Totan, A.; Jinga, M. Targeting PI3K/AKT/mTOR Signaling Pathway in Pancreatic Cancer: From Molecular to Clinical Aspects. Int. J. Mol. Sci. 2022 , 23 , 10132. [CrossRef]
+
+- 88. Papaemmanuil, E.; Gerstung, M.; Bullinger, L.; Gaidzik, V.I.; Paschka, P.; Roberts, N.D.; Potter, N.E.; Heuser, M.; Thol, F.; Bolli, N.; et al. Genomic Classification and Prognosis in Acute Myeloid Leukemia. N. Engl. J. Med. 2016 , 374 , 2209-2221. [CrossRef]
+- 89. Li, L.; Ruan, J.; Zhang, N.; Dai, J.; Xu, X.; Tian, X.; Hu, J. Identification of prognostic and driver gene mutations in acute myeloid leukemia by a bioinformatics analysis. Transl. Cancer Res. 2023 , 12 , 1552-1564. [CrossRef]
+- 90. Regel, I.; Mayerle, J.; Ujjwal Mukund, M. Current Strategies and Future Perspectives for Precision Medicine in Pancreatic Cancer. Cancers 2020 , 12 , 1024. [CrossRef]
+- 91. Waddell, N.; Pajic, M.; Patch, A.-M.; Chang, D.K.; Kassahn, K.S.; Bailey, P.; Johns, A.L.; Miller, D.; Nones, K.; Quek, K.; et al. Whole genomes redefine the mutational landscape of pancreatic cancer. Nature 2015 , 518 , 495-501. [CrossRef]
+- 92. Jones, S.; Zhang, X.; Parsons, D.W.; Lin, J.C.-H.; Leary, R.J.; Angenendt, P.; Mankoo, P.; Carter, H.; Kamiyama, H.; Jimeno, A.; et al. Core signaling pathways in human pancreatic cancers revealed by global genomic analyses. Science 2008 , 321 , 1801-1806. [CrossRef]
+- 93. Bailey, P.; Chang, D.K.; Nones, K.; Johns, A.L.; Patch, A.-M.; Gingras, M.-C.; Miller, D.K.; Christ, A.N.; Bruxner, T.J.C.; Quinn, M.C.; et al. Genomic analyses identify molecular subtypes of pancreatic cancer. Nature 2016 , 531 , 47-52. [CrossRef]
+- 94. Sahin, I.H.; Lowery, M.A.; Stadler, Z.K.; Salo-Mullen, E.; Iacobuzio-Donahue, C.A.; Kelsen, D.P.; O'Reilly, E.M. Genomic instability in pancreatic adenocarcinoma: A new step towards precision medicine and novel therapeutic approaches. Expert Rev. Gastroenterol. Hepatol. 2016 , 10 , 893-905. [CrossRef]
+- 95. Hu, H.; Ye, Z.; Qin, Y.; Xu, X.; Yu, X.; Zhuo, Q.; Ji, S. Mutations in key driver genes of pancreatic cancer: Molecularly targeted therapies and other clinical implications. Acta Pharmacol. Sin. 2021 , 42 , 1725-1741. [CrossRef]
+- 96. Ho, I.-L.; Li, C.-Y.; Wang, F.; Zhao, L.; Liu, J.; Yen, E.-Y.; Dyke, C.A.; Shah, R.; Liu, Z.; Çetin, A.O.; et al. Clonal dominance defines metastatic dissemination in pancreatic cancer. Sci. Adv. 2024 , 10 , eadd9342. [CrossRef]
+- 97. Turajlic, S.; Sottoriva, A.; Graham, T.; Swanton, C. Resolving genetic heterogeneity in cancer. Nat. Rev. Genet. 2019 , 20 , 404-416. [CrossRef]
+- 98. McGranahan, N.; Swanton, C. Clonal Heterogeneity and Tumor Evolution: Past, Present, and the Future. Cell 2017 , 168 , 613-628. [CrossRef]
+- 99. Dagogo-Jack, I.; Shaw, A.T. Tumour heterogeneity and resistance to cancer therapies. Nat. Rev. Clin. Oncol. 2018 , 15 , 81-94. [CrossRef]
+- 100. Luo, Q.; Hu, Z.; Zhao, H.; Fan, Y.; Tu, X.; Wang, Y.; Liu, X. The role of TGFβ in the tumor microenvironment of pancreatic cancer. Genes Dis. 2023 , 10 , 1513-1524. [CrossRef]
+- 101. Fares, J.; Fares, M.Y.; Khachfe, H.H.; Salhab, H.A.; Fares, Y. Molecular principles of metastasis: A hallmark of cancer revisited. Signal Transduct. Target. Ther. 2020 , 5 , 28. [CrossRef]
+- 102. Da, X.; Mo, J.; Li, Q.; Cao, B.; Huang, J.; Lu, Y.; Lu, L.; Fan, M.; Lu, H. Targeted co-delivery of PD-L1 monoclonal antibody and sorafenib to circulating tumor cells via platelet-functionalized nanocarriers. Biochem. Biophys. Res. Commun. 2023 , 671 , 335-342. [CrossRef]
+- 103. Cozzo, A.J.; Coleman, M.F.; Hursting, S.D. You complete me: Tumor cell-myeloid cell nuclear fusion as a facilitator of organspecific metastasis. Front. Oncol. 2023 , 13 , 1191332. [CrossRef]
+- 104. Hanahan, D. Hallmarks of Cancer: New Dimensions. Cancer Discov. 2022 , 12 , 31-46. [CrossRef]
+- 105. Usman, S.; Waseem, N.H.; Nguyen, T.K.N.; Mohsin, S.; Jamal, A.; Teh, M.-T.; Waseem, A. Vimentin Is at the Heart of Epithelial Mesenchymal Transition (EMT) Mediated Metastasis. Cancers 2021 , 13 , 4985. [CrossRef]
+- 106. Chen, T.; Jia, W.; Zhang, B.; Xie, H.; Wu, Q. EMT transcription factors activated circuits: A novel tool to study EMT dynamics and its therapeutic implications. Synth. Syst. Biotechnol. 2024 , 9 , 1-10. [CrossRef]
+- 107. Bulle, A.; Lim, K.-H. Beyond just a tight fortress: Contribution of stroma to epithelial-mesenchymal transition in pancreatic cancer. Signal Transduct. Target. Ther. 2020 , 5 , 249. [CrossRef]
+
+108. Valent, P.; Sadovnik, I.; Eisenwort, G.; Herrmann, H.; Bauer, K.; Mueller, N.; Sperr, W.R.; Wicklein, D.; Schumacher, U. Redistribution, homing and organ-invasion of neoplastic stem cells in myeloid neoplasms. Semin. Cancer Biol. 2020 , 60 , 191-201. [CrossRef]
+
+- 109. Le, M.T.N.; Hamar, P.; Guo, C.; Basar, E.; Perdig ã o-Henriques, R.; Balaj, L.; Lieberman, J. miR-200-containing extracellular vesicles promote breast cancer cell metastasis. J. Clin. Investig. 2014 , 124 , 5109-5128. [CrossRef]
+- 110. Dykxhoorn, D.M.; Wu, Y.; Xie, H.; Yu, F.; Lal, A.; Petrocca, F.; Martinvalet, D.; Song, E.; Lim, B.; Lieberman, J. miR-200 enhances mouse breast cancer cell colonization to form distant metastases. PLoS ONE 2009 , 4 , e7181. [CrossRef]
+- 111. Lemke, J.; Scheele, J.; Kapapa, T.; Wirtz, C.R.; Henne-Bruns, D.; Kornmann, M. Brain metastasis in pancreatic cancer. Int. J. Mol. Sci. 2013 , 14 , 4163-4173. [CrossRef]
+- 112. Ye, W.; Zhao, Y.; Li, H.; Na, R.; Li, F.; Mei, Q.; Zhao, M.; Zhou, S. Doxorubicin-poly (ethylene glycol)-alendronate self-assembled micelles for targeted therapy of bone metastatic cancer. Sci. Rep. 2015 , 5 , 14614. [CrossRef]
+- 113. Conroy, T.; Desseigne, F.; Ychou, M.; Bouch é , O.; Guimbaud, R.; B é couarn, Y.; Adenis, A.; Raoul, J.-L.; Gourgou-Bourgade, S.; de la Fouchardi è re, C.; et al. FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer. N. Engl. J. Med. 2011 , 364 , 1817-1825. [CrossRef]
+- 114. Thota, R.; Pauff, J.M.; Berlin, J.D. Treatment of metastatic pancreatic adenocarcinoma: A review. Oncology 2014 , 28 , 70-74.
+- 115. De Dosso, S.; Siebenhüner, A.R.; Winder, T.; Meisel, A.; Fritsch, R.; Astaras, C.; Szturz, P.; Borner, M. Treatment landscape of metastatic pancreatic cancer. Cancer Treat. Rev. 2021 , 96 , 102180. [CrossRef]
+
+- 116. Lamb, Y.N.; Scott, L.J. Liposomal Irinotecan: A Review in Metastatic Pancreatic Adenocarcinoma. Drugs 2017 , 77 , 785-792. [CrossRef]
+- 117. Tempero, M.A.; Van Cutsem, E.; Sigal, D.; Oh, D.-Y.; Fazio, N.; Macarulla, T.; Hitre, E.; Hammel, P.; Hendifar, A.E.; Bates, S.E.; et al. HALO 109-301: A randomized, double-blind, placebo-controlled, phase 3 study of pegvorhyaluronidase alfa (PEGPH20) + nab-paclitaxel/gemcitabine (AG) in patients (pts) with previously untreated hyaluronan (HA)-high metastatic pancreatic ductal adenocarcinoma (mPDA). J. Clin. Oncol. 2020 , 38 , 638. [CrossRef]
+- 118. Liu, H.-C.; Davila Gonzalez, D.; Viswanath, D.I.; Vander Pol, R.S.; Saunders, S.Z.; Di Trani, N.; Xu, Y.; Zheng, J.; Chen, S.-H.; Chua, C.Y.X.; et al. Sustained Intratumoral Administration of Agonist CD40 Antibody Overcomes Immunosuppressive Tumor Microenvironment in Pancreatic Cancer. Adv. Sci. 2023 , 10 , 2206873. [CrossRef]
+- 119. Lim, C.Y.; Chang, J.H.; Lee, W.S.; Kim, J.; Park, I.Y. CD40 Agonists Alter the Pancreatic Cancer Microenvironment by Shifting the Macrophage Phenotype toward M1 and Suppress Human Pancreatic Cancer in Organotypic Slice Cultures. Gut Liver 2022 , 16 , 645-659. [CrossRef]
+- 120. Wattenberg, M.M.; Herrera, V.M.; Giannone, M.A.; Gladney, W.L.; Carpenter, E.L.; Beatty, G.L. Systemic inflammation is a determinant of outcomes of CD40 agonist-based therapy in pancreatic cancer patients. JCI Insight 2021 , 6 , e145389. [CrossRef]
+- 121. Beck, J.D.; Diken, M.; Suchan, M.; Streuber, M.; Diken, E.; Kolb, L.; Allnoch, L.; Vascotto, F.; Peters, D.; Beißert, T.; et al. Longlasting mRNA-encoded interleukin-2 restores CD8+ T cell neoantigen immunity in MHC class I-deficient cancers. Cancer Cell 2024 , 42 , 568-582. [CrossRef]
+- 122. The moving target of cancer cell plasticity. Nat. Cancer 2022 , 3 , 1013-1014. [CrossRef]
+- 123. Wang, L.; Sun, Y. Efflux mechanism and pathway of verapamil pumping by human P-glycoprotein. Arch. Biochem. Biophys. 2020 , 696 , 108675. [CrossRef]
+- 124. Hoeben, A.; Joosten, E.A.J.; van den Beuken-van Everdingen, M.H.J. Personalized Medicine: Recent Progress in Cancer Therapy. Cancers 2021 , 13 , 242. [CrossRef]
+- 125. Pishvaian, M.J.; Bender, R.J.; Halverson, D.; Rahib, L.; Hendifar, A.E.; Mikhail, S.; Chung, V.; Picozzi, V.J.; Sohal, D.; Blais, E.M.; et al. Molecular Profiling of Patients with Pancreatic Cancer: Initial Results from the Know Your Tumor Initiative. Clin. Cancer Res. 2018 , 24 , 5018-5027. [CrossRef]
+- 126. Sahin, U.; Muik, A.; Vogler, I.; Derhovanessian, E.; Kranz, L.M.; Vormehr, M.; Quandt, J.; Bidmon, N.; Ulges, A.; Baum, A.; et al. BNT162b2 vaccine induces neutralizing antibodies and poly-specific T cells in humans. Nature 2021 , 595 , 572-577. [CrossRef]
+- 127. Sahin, U.; Türeci, Ö. Personalized vaccines for cancer immunotherapy. Science 2018 , 359 , 1355-1360. [CrossRef]
+- 128. Balachandran, V.P.; Łuksza, M.; Zhao, J.N.; Makarov, V.; Moral, J.A.; Remark, R.; Herbst, B.; Askan, G.; Bhanot, U.; Senbabaoglu, Y.; et al. Identification of unique neoantigen qualities in long-term survivors of pancreatic cancer. Nature 2017 , 551 , 512-516. [CrossRef]
+- 129. Jocham, D.; Richter, A.; Hoffmann, L.; Iwig, K.; Fahlenkamp, D.; Zakrzewski, G.; Schmitt, E.; Dannenberg, T.; Lehmacher, W.; von Wietersheim, J.; et al. Adjuvant autologous renal tumour cell vaccine and risk of tumour progression in patients with renal-cell carcinoma after radical nephrectomy: Phase III, randomised controlled trial. Lancet Lond. Engl. 2004 , 363 , 594-599. [CrossRef]
+- 130. Vaccentis Pipeline (o. J.). Available online: https://vaccentis.com/pipeline/ (accessed on 1 August 2024).
+- 131. Pardi, N.; Hogan, M.J.; Porter, F.W.; Weissman, D. mRNA vaccines-A new era in vaccinology. Nat. Rev. Drug Discov. 2018 , 17 , 261-279. [CrossRef]
+- 132. BioNTech Press Release (7 April 2024) (o. J.). Available online: https://investors.biontech.de/news-releases/news-releasedetails/three-year-phase-1-follow-data-mrna-based-individualized/ (accessed on 1 August 2024).
+- 133. Sahin, U.; Derhovanessian, E.; Miller, M.; Kloke, B.-P.; Simon, P.; Löwer, M.; Bukur, V.; Tadmor, A.D.; Luxemburger, U.; Schrörs, B.; et al. Personalized RNA mutanome vaccines mobilize poly-specific therapeutic immunity against cancer. Nature 2017 , 547 , 222-226. [CrossRef]
+- 134. Wang, H.; Li, J.; He, J.; Liu, Y.; Feng, W.; Zhou, H.; Zhou, M.; Wei, H.; Lu, Y.; Peng, W.; et al. Methyl-CpG-binding protein 2 drives the Furin/TGFβ 1/Smad axis to promote epithelial-mesenchymal transition in pancreatic cancer cells. Oncogenesis 2020 , 9 , 76. [CrossRef]
+- 135. Yang, Y.; Ye, W.-L.; Zhang, R.-N.; He, X.-S.; Wang, J.-R.; Liu, Y.-X.; Wang, Y.; Yang, X.-M.; Zhang, Y.-J.; Gan, W.-J. The Role of TGFβ Signaling Pathways in Cancer and Its Potential as a Therapeutic Target. Evid. Based Complement. Altern. Med. 2021 , 2021 , 6675208. [CrossRef]
+- 136. Feldmann, G.; Dhara, S.; Fendrich, V.; Bedja, D.; Beaty, R.; Mullendore, M.; Karikari, C.; Alvarez, H.; Iacobuzio-Donahue, C.; Jimeno, A.; et al. Blockade of hedgehog signaling inhibits pancreatic cancer invasion and metastases: A new paradigm for combination therapy in solid cancers. Cancer Res. 2007 , 67 , 2187-2196. [CrossRef]
+- 137. Xie, H.; Paradise, B.D.; Ma, W.W.; Fernandez-Zapico, M.E. Recent Advances in the Clinical Targeting of Hedgehog/GLI Signaling in Cancer. Cells 2019 , 8 , 394. [CrossRef]
+- 138. Liu, Y.; Feng, M.; Chen, H.; Yang, G.; Qiu, J.; Zhao, F.; Cao, Z.; Luo, W.; Xiao, J.; You, L.; et al. Mechanistic target of rapamycin in the tumor microenvironment and its potential as a therapeutic target for pancreatic cancer. Cancer Lett. 2020 , 485 , 1-13. [CrossRef]
+- 139. Liu, Y.; Azizian, N.G.; Sullivan, D.K.; Li, Y. mTOR inhibition attenuates chemosensitivity through the induction of chemotherapy resistant persisters. Nat. Commun. 2022 , 13 , 7047. [CrossRef]
+
+- 140. Takeshita, F.; Patrawala, L.; Osaki, M.; Takahashi, R.; Yamamoto, Y.; Kosaka, N.; Kawamata, M.; Kelnar, K.; Bader, A.G.; Brown, D.; et al. Systemic delivery of synthetic microRNA-16 inhibits the growth of metastatic prostate tumors via downregulation of multiple cell-cycle genes. Mol. Ther. J. Am. Soc. Gene Ther. 2010 , 18 , 181-187. [CrossRef]
+- 141. Li, C.; Samulski, R.J. Engineering adeno-associated virus vectors for gene therapy. Nat. Rev. Genet. 2020 , 21 , 255-272. [CrossRef]
+- 142. Verdera, H.C.; Kuranda, K.; Mingozzi, F. AAV Vector Immunogenicity in Humans: A Long Journey to Successful Gene Transfer. Mol. Ther. 2020 , 28 , 723-746. [CrossRef]
+- 143. Dunbar, C.E.; High, K.A.; Joung, J.K.; Kohn, D.B.; Ozawa, K.; Sadelain, M. Gene therapy comes of age. Science 2018 , 359 , eaan4672. [CrossRef]
+- 144. Kay, M.A. State-of-the-art gene-based therapies: The road ahead. Nat. Rev. Genet. 2011 , 12 , 316-328. [CrossRef] [PubMed]
+- 145. Ertl, H.C.J. Immunogenicity and toxicity of AAV gene therapy. Front. Immunol. 2022 , 13 , 975803. [CrossRef] [PubMed]
+- 146. Wang, D.; Tai, P.W.L.; Gao, G. Adeno-associated virus vector as a platform for gene therapy delivery. Nat. Rev. Drug Discov. 2019 , 18 , 358-378. [CrossRef] [PubMed]
+- 147. Samulski, R.J.; Berns, K.I.; Tan, M.; Muzyczka, N. Cloning of adeno-associated virus into pBR322: Rescue of intact virus from the recombinant plasmid in human cells. Proc. Natl. Acad. Sci. USA 1982 , 79 , 2077-2081. [CrossRef] [PubMed]
+- 148. Ragni, M.V. Hemophilia as a blueprint for gene therapy. Science 2021 , 374 , 40-41. [CrossRef]
+- 149. Hamann, M.V.; Beschorner, N.; Vu, X.-K.; Hauber, I.; Lange, U.C.; Traenkle, B.; Kaiser, P.D.; Foth, D.; Schneider, C.; Büning, H.; et al. Improved targeting of human CD4+ T cells by nanobody-modified AAV2 gene therapy vectors. PLoS ONE 2021 , 16 , e0261269. [CrossRef]
+- 150. Dudek, A.M.; Zabaleta, N.; Zinn, E.; Pillay, S.; Zengel, J.; Porter, C.; Franceschini, J.S.; Estelien, R.; Carette, J.E.; Zhou, G.L.; et al. GPR108 Is a Highly Conserved AAV Entry Factor. Mol. Ther. 2020 , 28 , 367-381. [CrossRef]
+- 151. Asokan, A.; Shen, S. Redirecting AAV vectors to extrahepatic tissues. Mol. Ther. J. Am. Soc. Gene Ther. 2023 , 31 , 3371-3375. [CrossRef]
+- 152. Fong, S.; Yates, B.; Sihn, C.-R.; Mattis, A.N.; Mitchell, N.; Liu, S.; Russell, C.B.; Kim, B.; Lawal, A.; Rangarajan, S.; et al. Interindividual variability in transgene mRNA and protein production following adeno-associated virus gene therapy for hemophilia A. Nat. Med. 2022 , 28 , 789-797. [CrossRef]
+- 153. Atchison, R.W.; Casto, B.C.; Hammon, W.M. Adenovirus-Associated Defective Virus Particles. Science 1965 , 149 , 754-756. [CrossRef]
+- 154. Gonzalez-Sandoval, A.; Pekrun, K.; Tsuji, S.; Zhang, F.; Hung, K.L.; Chang, H.Y.; Kay, M.A. The AAV capsid can influence the epigenetic marking of rAAV delivered episomal genomes in a species dependent manner. Nat. Commun. 2023 , 14 , 2448. [CrossRef]
+- 155. Büning, H. AAV Entry: Filling in the Blanks. Mol. Ther. 2020 , 28 , 346-347. [CrossRef] [PubMed]
+- 156. Summerford, C.; Johnson, J.S.; Samulski, R.J. AAVR: A Multi-Serotype Receptor for AAV. Mol. Ther. J. Am. Soc. Gene Ther. 2016 , 24 , 663-666. [CrossRef] [PubMed]
+- 157. Sihn, C.-R.; Handyside, B.; Liu, S.; Zhang, L.; Murphy, R.; Yates, B.; Xie, L.; Torres, R.; Russell, C.B.; O'Neill, C.A.; et al. Molecular analysis of AAV5-hFVIII-SQ vector-genome-processing kinetics in transduced mouse and nonhuman primate livers. Mol. Ther. Methods Clin. Dev. 2022 , 24 , 142-153. [CrossRef] [PubMed]
+- 158. Malech, H.L.; Garabedian, E.K.; Hsieh, M.M. Evolution of Gene Therapy, Historical Perspective. Hematol. Oncol. Clin. North Am. 2022 , 36 , 627-645. [CrossRef]
+- 159. Wade, N. Patient Dies during a Trial of Therapy Using Genes. New York Times 1999 , 29 , A24.
+- 160. Conese, M. Engineered Virus to Treat Lipoprotein Lipase Deficiency. Adv. Genet. Eng. 2013 , 2 , e104. [CrossRef]
+- 161. Mendell, J.R.; Al-Zaidy, S.A.; Rodino-Klapac, L.R.; Goodspeed, K.; Gray, S.J.; Kay, C.N.; Boye, S.L.; Boye, S.E.; George, L.A.; Salabarria, S.; et al. Current Clinical Applications of In Vivo Gene Therapy with AAVs. Mol. Ther. 2021 , 29 , 464-488. [CrossRef]
+- 162. Ay, C.; Frenzel, L.; Pinachyan, K.; Le Quellec, S. Gene therapy for haemophilia A and B, from basic principles to clinical implementation: An illustrated review. Haemophilia 2024 , 30 , 5-15. [CrossRef] [PubMed]
+- 163. Muhuri, M.; Levy, D.I.; Schulz, M.; McCarty, D.; Gao, G. Durability of transgene expression after rAAV gene therapy. Mol. Ther. J. Am. Soc. Gene Ther. 2022 , 30 , 1364-1380. [CrossRef] [PubMed]
+- 164. Handyside, B.; Ismail, A.M.; Zhang, L.; Yates, B.; Xie, L.; Sihn, C.-R.; Murphy, R.; Bouwman, T.; Kim, C.K.; De Angelis, R.; et al. Vector genome loss and epigenetic modifications mediate decline in transgene expression of AAV5 vectors produced in mammalian and insect cells. Mol. Ther. 2022 , 30 , 3570-3586. [CrossRef]
+- 165. Sheridan, C. For hemophilia and thalassemia, a new era of "one-and-done" gene therapies has arrived. Nat. Biotechnol. 2022 , 40 , 1531-1533. [CrossRef]
+- 166. High, K.A. The gene therapy journey for hemophilia: Are we there yet? Blood 2012 , 120 , 4482-4487. [CrossRef] [PubMed]
+- 167. Cecchin, R.; Troyer, Z.; Witwer, K.; Morris, K.V. Extracellular vesicles: The next generation in gene therapy delivery. Mol. Ther. J. Am. Soc. Gene Ther. 2023 , 31 , 1225-1230. [CrossRef]
+- 168. Ay, C.; Reinisch, A. Gene therapy: Principles, challenges and use in clinical practice. Wien. Klin. Wochenschr. 2024; ahead of print. [CrossRef]
+- 169. Anguela, X.M.; High, K.A. Hemophilia B and gene therapy: A new chapter with etranacogene dezaparvovec. Blood Adv. 2024 , 8 , 1796-1803. [CrossRef] [PubMed]
+- 170. Samelson-Jones, B.J.; George, L.A. Adeno-Associated Virus Gene Therapy for Hemophilia. Annu. Rev. Med. 2023 , 74 , 231-247. [CrossRef] [PubMed]
+
+- 171. Ten Ham, R.M.T.; Walker, S.M.; Soares, M.O.; Frederix, G.W.J.; Leebeek, F.W.G.; Fischer, K.; Coppens, M.; Palmer, S.J. Modeling Benefits, Costs, and Affordability of a Novel Gene Therapy in Hemophilia A. HemaSphere 2022 , 6 , e679. [CrossRef]
+- 172. Wu, Z.; Asokan, A.; Samulski, R.J. Adeno-associated virus serotypes: Vector toolkit for human gene therapy. Mol. Ther. J. Am. Soc. Gene Ther. 2006 , 14 , 316-327. [CrossRef]
+- 173. Coppens, M.; Pipe, S.W.; Miesbach, W.; Astermark, J.; Recht, M.; van der Valk, P.; Ewenstein, B.; Pinachyan, K.; Galante, N.; Le Quellec, S.; et al. Etranacogene dezaparvovec gene therapy for haemophilia B (HOPE-B): 24-month post-hoc efficacy and safety data from a single-arm, multicentre, phase 3 trial. Lancet Haematol. 2024 , 11 , e265-e275. [CrossRef]
+- 174. Mahlangu, J.; Kaczmarek, R.; von Drygalski, A.; Shapiro, S.; Chou, S.-C.; Ozelo, M.C.; Kenet, G.; Peyvandi, F.; Wang, M.; Madan, B.; et al. Two-Year Outcomes of Valoctocogene Roxaparvovec Therapy for Hemophilia A. N. Engl. J. Med. 2023 , 388 , 694-705. [CrossRef]
+- 175. Wang, J.-H.; Gessler, D.J.; Zhan, W.; Gallagher, T.L.; Gao, G. Adeno-associated virus as a delivery vector for gene therapy of human diseases. Signal Transduct Target Ther. 2024 , 9 , 78. [CrossRef]
+- 176. Li, J.; Røise, J.J.; He, M.; Das, R.; Murthy, N. Non-viral strategies for delivering genome editing enzymes. Adv. Drug Deliv. Rev. 2021 , 168 , 99-117. [CrossRef]
+- 177. Khalil, A.M. The genome editing revolution: Review. J. Genet. Eng. Biotechnol. 2020 , 18 , 68. [CrossRef]
+- 178. Sayed, N.; Allawadhi, P.; Khurana, A.; Singh, V.; Navik, U.; Pasumarthi, S.K.; Khurana, I.; Banothu, A.K.; Weiskirchen, R.; Bharani, K.K. Gene therapy: Comprehensive overview and therapeutic applications. Life Sci. 2022 , 294 , 120375. [CrossRef]
+- 179. Frangoul, H.; Locatelli, F.; Sharma, A.; Bhatia, M.; Mapara, M.; Molinari, L.; Wall, D.; Liem, R.I.; Telfer, P.; Shah, A.J.; et al. Exagamglogene Autotemcel for Severe Sickle Cell Disease. N. Engl. J. Med. 2024 , 390 , 1649-1662. [CrossRef]
+- 180. Alliance for Regenerative Medicine (o. J.). Cell and Gene Therapy Sector Data (Zugriff vom 13.07.2024). Available online: https://alliancerm.org/wp-content/uploads/2024/05/Trials\_Final\_Q1\_2024.pdf (accessed on 15 July 2024).
+- 181. Madigan, V.; Zhang, F.; Dahlman, J.E. Drug delivery systems for CRISPR-based genome editors. Nat. Rev. Drug Discov. 2023 , 22 , 875-894. [CrossRef]
+
+Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

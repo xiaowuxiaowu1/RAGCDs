@@ -1,0 +1,435 @@
+## Trends in
+
+## Molecular Medicine
+
+## Opinion
+
+## Three ' E ' challenges for siRNA drug development
+
+Shuai Guo, 1,2,3 Mengjie Zhang, 1,2,3 and Yuanyu Huang $^{1,2,3,4,5,6,}$*
+
+siRNA therapeutics have gained extensive attention, and to date six siRNAs are approved for clinical use. Despite being investigated for the treatment of metabolic, cardiovascular, infectious, and rare genetic diseases, cancer, and central nervous system (CNS) disorders, there exist several druggability challenges. Here, we provide insightful discussions concerning these challenges, comprising targeted accumulation and cellular uptake ( ' entry ' ), endolysosomal escape ( ' escape ' ), and in vivo pharmaceutical performance ( ' efficacy ' ) -the three ' E ' challenges -while also shedding light on siRNA drug development. Moreover, we propose several promising strategies that hold great potential in facilitating the clinical translation of siRNA therapeutics, including the exploration of diverse ligand-siRNA conjugates, expansion of potential disease targets, and excavation of novel modification geometries, as well as the development of combination therapies.
+
+## The booming development of siRNA therapeutics
+
+Viewed through the prism of pharmaceutical history, small molecules have enjoyed over a century of use as the earliest developed and applied therapeutic modality, while proteins and antibodies emerged relatively late and have been investigated for almost half a century. Although nucleic acid molecules, as a novel therapeutic approach, have had a shorter developmental timeline (20 -30 years), they have already captured significant global attention from the pharmaceutical industry, emerging as the third most prominent modality [1]. Nucleic acid drugs are still undergoing rapid exploration and development, particularly in the realm of RNAi, where their broad and profound therapeutic potential is increasingly manifest. With this in mind, we believe that the coming period will be a pivotal era for nucleic acids, both expanding the scope of treatment options and offering new possibilities in the field.
+
+Compared with traditional small molecules and antibodies, siRNA (see Glossary) has the advantage of abundant disease targets, high development success rate, short development time, robust and long-lasting efficacy, and outstanding attributes of platform-based modalities [2 -4]. Currently, six siRNA drugs (patisiran, givosiran, lumasiran, inclisiran, vutrisiran, and Rivfloza) have been successfully commercialized [5 -7]. Despite the broad application prospects of siRNA drugs in clinical practice, their development faces pivotal challenges, including targeted accumulation and cellular uptake (entry), endolysosomal escape (escape), and in vivo pharmaceutical performance (efficacy) (three ' E ' challenges) (Figure 1). In this opinion article, we elaborate on the current status and future prospects of siRNA therapeutics, summarize the pivotal challenges encountered in this field, and propose a series of circumventing strategies. By offering extensive insights and inspiration, this opinion article seeks to provide valuable guidance to the scientific and pharmaceutical communities alike.
+
+## The latest research and development status of siRNA therapeutics
+
+In recent years, siRNA therapy has shown immense potential in the development of numerous candidate drugs for preclinical and clinical research [8,9]. As of August 2023, there are globally
+
+<!-- image -->
+
+## Highlights
+
+Theoretically, siRNA has the ability to target any gene of interest, potentially addressing disease targets that are ' undruggable ' for small molecules and proteins.
+
+Currently, there are six siRNA therapeutics that have been approved for clinical use, and approximately 20 additional candidates have progressed to late stages of clinical investigation.
+
+Targeted accumulation and cellular uptake (entry), endolysosomal escape (escape), and in vivo pharmaceutical performance (efficacy) (three ' E ' challenges) are the most critical bottlenecks in siRNA drug development.
+
+Ligand-conjugated siRNAs are promising platforms that have made a breakthroughinrobustextrahepaticdelivery.
+
+Sophisticated and appropriate chemical modification may bring astounding breakthroughs in the stability and longterm efficacy of siRNA modalities.
+
+$^{1}$School of Life Science, Beijing Institute of Technology, Beijing 100081, China $^{2}$Advanced Research Institute of Multidisciplinary Science, Beijing Institute of Technology, Beijing 100081, China $^{3}$Key Laboratory of Molecular Medicine and Biotherapy, Beijing Institute of Technology, Beijing 100081, China $^{4}$Key Laboratory of Medical Molecule Science and Pharmaceutics Engineering, Beijing Institute of Technology, Beijing 100081, China
+
+$^{5}$Rigerna Therapeutics, Suzhou, Jiangsu 215127, China
+
+$^{6}$Rigerna Therapeutics, Beijing 102629, China
+
+*Correspondence:
+
+yyhuang@bit.edu.cn (Y. Huang).
+
+<!-- image -->
+
+<!-- image -->
+
+## Trends in Molecular Medicine
+
+15 investigational siRNA drugs in clinical Phase 2 or later stages (Table 1), covering a wide range of treatment areas including rare diseases and genetic diseases and extending to common diseases. Leading pharmaceutical companies have expanded their research focus to encompass popular disorders such as metabolic diseases , cardiovascular disease, hepatitis B, and cancer. For instance, ALN-AGT (NCT04936035$^{i}$, NCT05103332$^{ii}$, randomized) is currently in development for the treatment of hypertension and has progressed to Phase 2 trials [10]. Olpasiran (NCT05581303$^{iii}$, randomized) is intended to treat atherosclerotic plaques and is undergoing Phase 3 study [11]. SLN360 (NCT05537571$^{iv}$, randomized), a lipid-lowering siRNA, has progressed to Phase 2 investigation. RBD1016 (NCT05961098$^{v}$, randomized), a N -acetylgalactosamine (GalNAc)-conjugated siRNA for the treatment of hepatitis B, will start Phase 2 trials in the Europe. STP705 and STP707 are made of two siRNAs that target transforming growth factor beta 1 (TGFβ 1) and cyclooxygenase 2 (COX-2) and are formulated in peptide nanoparticles (PNPs). STP705 was locally administered to diseased tissue and investigated for the treatment of in situ squamous cell carcinoma (isSCC) (NCT04844983$^{vi}$, Phase 2, randomized) and basal cell carcinoma (BCC) (NCT04669808$^{vii}$, Phase 2, non-randomized), while STP707 (NCT05037149$^{viii}$, Phase 1, non-randomized) was intravenously injected into the body for the treatment of several solid tumors and fibrotic liver diseases such as primary sclerosing cholangitis (PSC).
+
+From a product pipeline perspective, a notable breakthrough in siRNA therapy lies in its expansion into extrahepatic diseases [12 -22], including realms that have remained elusive for small molecules and antibody drugs, such as CNS disorders. ALN-APP (NCT05231785$^{ix}$,Phase1, randomized) is an intrathecally administered siRNA targeting amyloid precursor proteins (APPs) for the treatment of Alzheimer ' s disease (AD) [23] and cerebral amyloid angiopathy (CAA) [24]. Recently, the ongoing Phase 1 study of ALN-APP has attained positive mid-term results in the single-drug dose escalation trial$^{x}$. ARO-SOD1 (NCT05949294$^{xi}$, Phase 1, randomized) is an investigational siRNA targeting superoxide dismutase 1 (SOD1) in the CNS for potential treatment of amyotrophic lateral sclerosis (ALS) caused by SOD1 mutations, which is undergoing Phase 1 study. In addition, clinically developed RNAi therapies are progressing towards the delivery of siRNAs to other tissues, such as eye, muscle, lung, and fat. Tivanisiran (SYL1001) (NCT03108664$^{xii}$, NCT04819269$^{xiii}$, randomized) is currently in a Phase 3 clinical study for the treatment of dry eye disease. ARO-DUX4 xiv (Phase 1/2) for the treatment of facioscapulohumeral muscular dystrophy (FSHD) has been submitted for clinical trials. ARO-MUC5AC (NCT05292950$^{xv}$, Phase 1, randomized), ARO-RAGE (NCT05276570$^{xvi}$, Phase 1, randomized), and ARO-MMP7 (NCT05537025$^{xvii}$, Phase 1/2a, randomized) are investigated for the treatment of pulmonary disorders.
+
+It is noteworthy that the administration frequency of siRNA has achieved a historic breakthrough. The enhanced stabilization modification of siRNA enables durable gene repression and treatment effect in vivo while avoiding potential sequence-dependent off-target effects . As an example, Leqvio requires administration only twice in the first 3 months, followed by treatments every 6 months, to effectively manage primary hypercholesterolemia or mixed dyslipidemia.
+
+There are currently over 100 companies worldwide engaged in the siRNA field, with approximately 30 of them specifically focusing on siRNA drug development. As Informa Pharma Intelligence ' s Biomedtracker recorded, there are currently approximately 200 siRNA/RNAi-based drugs undergoing preclinical and clinical investigation. Since 2016, a total of 14 siRNAs and antisense oligonucleotides (ASOs) have been approved for commercialization. Additionally, the field of oligonucleotide therapeutics has witnessed significant activity in terms of mergers and acquisitions. There have been several notable licensing agreements in recent years in fields such as cardiovascular and metabolic diseases, neurological disorders, and hepatitis B. Representative
+
+## Glossary
+
+## Antisense oligonucleotide (ASO):
+
+a short, synthetic single-stranded DNA or RNA molecule that can bind to a complementary RNA target. It is used in antisense therapy, including ribonuclease H-mediated decay of the pre-mRNA, direct steric blockage, and exon content modulation through splicing site binding on pre-mRNA.
+
+Exogenous oligonucleotides: synthetic or naturally occurring short nucleic acid sequences introduced into cells from an external source and used for a variety of purposes, including gene regulation, gene silencing, and gene editing.
+
+Genetic diseases: can be caused by a mutation in one gene (monogenic disorder), by mutations in multiple genes (multifactorial inheritance disorder), by a combination of gene mutations and environmental factors, or by damage to chromosomes.
+
+Metabolic diseases: agroupof disorders that affect the body ' s metabolism. They can be caused by genetic mutations, environmental factors, or a combination of the two. Some common metabolic diseases include diabetes, obesity, and metabolic syndrome. Other examples include phenylketonuria (PKU), a rare genetic disorder that affects the body ' sabilityto break down an amino acid called phenylalanine, and Gaucher disease, a rare genetic disorder that affects the body's ability to break down a type of fat called glucocerebroside.
+
+Noncoding RNAs (ncRNAs): functional RNA molecules transcribed from DNA but not translated into proteins. They play vital roles in cellular processes, including transcription and translation. Key examples include miRNAs,rRNAs,tRNAs,smallnucleolar RNAs (snoRNAs), and small nuclear RNAs (snRNAs).
+
+Off-target effects: refer to biological activity of a drug that is different from and not at that of its intended biological target, contributing to side effects. Off-target effects of siRNA refer to the unintended silencing of genes other than the target gene. These can becaused by sequence similarity between the target gene and other genes, leading to the siRNA binding to and silencing these off-target genes.
+
+Oligonucleotide therapeutics: primarily include siRNA, miRNA, and ASOs and achieve therapeutic effects
+
+## Trends in Molecular Medicine
+
+siRNA delivery platforms include lipid nanoparticle (LNP), GalNAc-siRNA conjugates (GalAhead$^{TM}$, PDoV-GalNAc, etc.), GEMINI ™ , TRiM ™ , PNPs, RIBO-GalSTAR®, and RIBO-OncoSTAR [25], while IKARIA ™ was established to develop long-acting siRNA.
+
+## The bottleneck of siRNA clinical investigation
+
+Despite the significant progress that has been made in siRNA drug research, some critical challenges remain that should be overcome. Specifically, the three ' E ' challenges (entry, escape, efficacy) are the three pivotal issues that limit the clinical translation and application of siRNA.
+
+## Entry challenge: targeted accumulation and cellular uptake
+
+The first challenge is to achieve efficient enrichment of siRNAs in target organs/tissues and effective internalization into the target cells (Figure 1A). Due to their large size and anionic charge, unmodified naked siRNAs display low bioavailability, with a half-life as short as several minutes [26]. Nanocarrierencapsulated siRNAs are typically bound by serum proteins, leading to uptake by the reticuloendothelial system (RES) and phagocytic clearance [27]. Moreover, siRNA can be rapidly degraded by nucleases or phosphatase present in plasma, tissues, and cytoplasm. After systemic clearance, siRNAs must cross the endothelium of capillaries to enter the tissue, which is particularly challenging due to extensive adhesion and tight junctions. Although siRNA may passively accumulate in porous sites such as liver or tumor tissues, delivering these therapeutic agents to other parts of the body beyond the organs that preferentially absorb these molecules, as well as the efficient crossing of barrierssuchastheblood -brain barrier (BBB) and blood -retinal barrier, still faces great challenges [28].
+
+## Escape challenge: endosomal and lysosomal escape
+
+The second challenge is how to achieve efficient endosomal and lysosomal escape. Although siRNA can enter cells through endocytosis, less than 1% of siRNAs can escape from the endosome, with a passive siRNA escape rate of less than 0.01% [29]. The asialoglycoprotein receptor (ASGPR) is a notable exception, with liver cell expression levels of approximately 500 000 or higher and a recycle time of less than 20 min [30]. Sufficient GalNAc-siRNA conjugates can accumulate in the cytoplasm of hepatocytes to achieve therapeutic levels during treatment. While this provides hope for future RNAi-based targeting of liver therapies, siRNA escape remains an unresolved issue for other types of cells. The expression range of most surface receptors is 10 000 -100 000 or less, and receptor recycle times are approximately or longer than 90 min [31] (Figure 1B). As a result of the degradation of siRNA in both the cytoplasm and the endosome, it was observed that only a minuscule fraction of endocytosed GalNAc-siRNA conjugate is present in the cytoplasm in vivo at any given moment [32]. Remarkably, while endosomally entrapped RNA therapeutics serve as a depot, thereby sustaining a long single-dose response duration, this advantage is offset by the substantial proportion of endocytosed RNA therapeutics that fail to penetrate the cytoplasm. Consequently, while the release from endosomes is indeed the primary barrier that inhibits broader application of RNA therapeutics in the treatment of human diseases, it is noteworthy that there needs to be a counterbalance to maintain a depot effect to some extent, ensuring sustained responses over an extended period.
+
+To date, attempts to enhance endosomal escape using modified pH sensitivity, ion-penetrating agents, chloroquine-like lysosomotropic agents, pore-forming peptides such as melittin [33], dodecylphosphocholine (DPC), and/or GalNAc-conjugated melittin-like peptide (NAG-MLP) have not fully resolved the relationship between cytotoxicity and increased endosomal escape.
+
+## Efficacy challenge: in vivo pharmaceutical performance
+
+The third challenge is the requirement for good in vivo stability, long-lasting effects, and safety. The use of viral vectors for in vivo nucleic acid delivery has some toxic side effects [34,35] and
+
+<!-- image -->
+
+through RNAi, degradation, or splicemodulating pathways. Other nucleic acid-based therapies include mRNA, small activation RNA (saRNA), antagomirs, and aptamers.
+
+Pharmacokinetics: used to analyze chemical metabolism and to discover the fate of a chemical from the moment that it is administered up to the point at which it is eliminated from the body, including absorption, distribution, metabolism, and excretion.
+
+Rare diseases: also known as orphan diseases; conditions that occur in an extremely small fraction of the population. Most are genetic, meaning that although the symptoms may not be present at birth, they persist throughout the lifetime of an individual.
+
+siRNA: small interfering RNA; a class of double-stranded RNA molecules that are typically 19 -25 base pairs in length and operate in the RNAi pathway. siRNA interferes with the expression of specific genes with complementary nucleotide sequences by degrading mRNA after transcription, preventing translation.
+
+Figure 1. Three ' E ' challenges that limit the clinical translation and application of siRNA. (A) The ' entry ' challenge encompasses the fate of siRNA therapeutics in the vascular system. It includes vascular barriers (mediated by opsonins facilitating macrophage uptake and serum nucleases degrading improperly protected siRNA), extravascular degradation by immune cells, and extracellular matrix (ECM). Furthermore, it entails clearance by organs like the liver and kidneys. Additionally, with solid tumors, an accumulation of nanoparticles may occur in the liver and tumors due to the enhanced permeability and retention (EPR) effect. Abbreviations: PEG, poly(ethylene glycol); RISC, RNA-induced silencing complex. Reproduced, with permission, from [28]; copyright © 2010 Springer Nature. (B) The ' escape ' challenge is the insufficient endosomal escape of siRNA. The limited expression levels of non-hepatocellular surface receptors ( ∼ 10$^{4}$-10$^{5}$/cell) result in significantly lower cellular internalization of drugs targeting these receptors compared with N -acetylgalactosamine (GalNAc) conjugates mediated by asialoglycoprotein receptor (ASGPR) ( ∼ 10$^{6}$/hepatocyte)-mediated endocytosis. Reproduced, with permission, from [29]; copyright © 2017 Springer Nature. (C) The ' efficacy ' challenge encompasses the pharmaceutical performance of siRNAs in vivo . The percentage change in proprotein convertase subtilisin -kexin type 9 (PCSK9) level over time in the ORION-10 trial. Reproduced, with permission, from [43]; copyright © 2020, Massachusetts Medical Society. (D) The mechanism of miRNA-like off-target effects. Reduction/elimination of nonspecific actions can enhance the in vivo safety and efficiency. Abbreviation: UTR, untranslated region. Reproduced, with permission, from [46]; copyright © 1969 Springer Nature.
+
+<!-- image -->
+
+(A)
+
+Targeted accumulation and cellular uptake ( Entry )
+
+<!-- image -->
+
+## Trends in Molecular Medicine
+
+In vivo pharmaceutical performance ('Efficacy')
+
+<!-- image -->
+
+<!-- image -->
+
+Trends Trendsin inMolecular MolecularMedicine Medicine
+
+<!-- image -->
+
+is currently mainly limited to preclinical studies. Chemically synthesized carrier systems such as cationic lipids [36] and most inorganic nanoparticles [37] may induce apoptosis and inflammation in vivo . The delivery systems must also ensure ease of production, quality control, and transport to achieve large-scale clinical applications [38]. In addition, the widely used mouse model in current preclinical studies of RNA drugs is not a toxicity evaluation model, as the RNA dose -response relationship obtained from mouse models cannot be directly applied to human beings. Non-primate models often lack sufficient overlap of genomic sequences with humans to predict pharmacodynamic effects, so it is necessary to expand the use of non-human primate (NHP) models or, as a potential choice, disease-related organoids [39]. Oligonucleotides without modification normally are unstable in vivo and are easily degraded by nucleases in the bloodstream. Moreover, exogenous oligonucleotides may display immunogenicity and cause immune reactions in the body. With technological breakthroughs, chemical modifications [e.g., modifications on the phosphorothioate (PS) backbone, ribose, and the end of the strand] have been widely used to enhance siRNA stability and reduce/erase off-target effects and immunogenicity [40 -42], thereby improving the ' efficacy ' of siRNAs [43,44](Figure 1C). Through sophisticated modification, siRNA has successfully achieved 99% gene silencing and persistent existence in the body, allowing low-dose quarterly, semiannual, or even annual dosing [45]. The evolutionary history of chemical modifications and their effects on siRNA efficacy is a fascinating area of
+
+## Trends in Molecular Medicine
+
+Table 1. Selected commercialized or late-stage investigated siRNA therapeutics
+
+| Drug name                   | Target gene                                             | Delivery technology               | Indication                                                                     | Sponsor                        | Phase and NCT number                      | Administration route a   |
+|-----------------------------|---------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------|--------------------------------|-------------------------------------------|--------------------------|
+| Patisiran                   | Transthyretin (TTR)                                     | L NPs                             | Polyneuropathy of hereditary TTR-mediated amyloidosis (hATTR)                  | Alnylam                        | Approved                                  | i.v.                     |
+| Givosiran                   | Aminolevulinate synthase 1 (ALAS1)                      | GalNAc-siRNA conjugate            | Acute hepatic porphyria (AHP)                                                  | Alnylam                        | Approved                                  | s.c.                     |
+| Lumasiran                   | Hydroxyacid oxidase 1 (HAO1)                            | GalNAc-siRNA conjugate            | Primary hyperoxaluria type 1 (PH1)                                             | Alnylam                        | Approved                                  | s.c.                     |
+| Inclisiran                  | Proprotein convertase subtilisin/kexin type 9 (PCSK9)   | GalNAc-siRNA conjugate            | Hypercholesterolemia                                                           | Alnylam, The Medicine Company, | Approved                                  | s.c.                     |
+| Vutrisiran                  | TTR                                                     | GalNAc-siRNA conjugate            | Polyneuropathy of hATTR amyloidosis                                            | Alnylam                        | Approved                                  | s.c.                     |
+| Rivfloza                    | Lactate dehydrogenase A(LDHA)                           | GalXC ™ RNAi platform             | PH1                                                                            | Novo Nordisk                   | Approved                                  | s.c.                     |
+| Olpasiran, AMG 890, ARO-LPA | Apolipoprotein (APO) A1 (APOA1), Lp(a)                  | GalNAc-siRNA conjugate            | Cardiovascular disease, atherosclerotic cardiovascular disease                 | Amgen, Arrowhead               | Phase 2, NCT04270760 xviii Phase 3,       | s.c.                     |
+| ARO-APOC3                   | APOC3                                                   | GalNAc-siRNA conjugate            | Type I hyperlipoproteinemia, hypertriglyceridemia, congenital lipid metabolism | Arrowhead                      | Phase 3, NCT05089084 xix                  | s.c.                     |
+| Tivanisiran, SYL1001        | Transient receptor potential cation channel subfamily V | None (unmodified, carrier-free)   | Dry eye disease, Sjögren's syndrome                                            | Sylentis                       | Phase 3, NCT03108664 xii NCT04819269 xiii | o.a.                     |
+| AOC 1020                    | Double homeobox 4 (DUX4)                                | Antibody-siRNA conjugate          | FSHD                                                                           | Avidity Biosciences            | Phase 2, NCT05747924 xx                   | i.v.                     |
+| SLN360                      | APOA1, Lp(a)                                            | GalNAc-siRNA conjugate            | Cardiovascular diseases, atherosclerosis, Lp(a)                                | Silence                        | Phase 2, NCT05537571 iv                   | s.c.                     |
+| SLN-124                     | Transmembrane serine protease 6                         | GalNAc-siRNA conjugate            | Polycythemia vera                                                              | Silence                        | Phase 1/2, NCT05499013 xxi                | s.c.                     |
+| Zilebesiran, ALN-AGT        | Angiotensinogen (AGT)                                   | GalNAc-siRNA conjugate            | Hypertension                                                                   | Alnylam                        | Phase 2, NCT04936035$^{i}$,               | s.c.                     |
+| ALN-HSD                     | Hydroxysteroid 17-beta dehydrogenase 13 (HSD17B13)      | GalNAc-siRNA conjugate            | NASH                                                                           | Alnylam, Regeneron             | Phase 2, NCT05519475 xxii                 | s.c.                     |
+| OLX10010                    | Connective tissue growth factor (CTGF)                  | Cell-penetrating asymmetric siRNA | Hypertrophic scarring                                                          | Olix, Alira Health             | Phase 2, NCT04877756 xxiii                | i.d.                     |
+| Xalnesiran                  | HBV gene                                                | GalNAc-siRNA conjugate            | Hepatitis B virus (HBV)                                                        | Dicerna, Novo Nordisk          | Phase 2, NCT04225715 xxiv                 | s.c.                     |
+| RBD1016                     | HBV gene                                                | GalNAc-siRNA conjugate            | HBV                                                                            | Ribo Life Science Ltd          | Phase 2, NCT05961098 v                    | s.c.                     |
+| SYL1801                     | NOTCH regulated ankyrin repeat protein (NRARP)          | None                              | Wet macular degeneration, neovascular age-related macular degeneration,        | Sylentis                       | Phase 2, NCT05637255 xxv                  | o.a.                     |
+
+(continued on next page)
+
+<!-- image -->
+
+<!-- image -->
+
+## Trends in Molecular Medicine
+
+Table 1. (continued)
+
+| Drug name    | Target gene                        | Delivery technology   | Indication                                                        | Sponsor    | Phase and NCT number                                                 | Administration route a   |
+|--------------|------------------------------------|-----------------------|-------------------------------------------------------------------|------------|----------------------------------------------------------------------|--------------------------|
+| SYL040012    | Adrenoceptor beta 2 (ADRB2)        | None                  | Open-angle glaucoma                                               | Sylentis   | Phase 2, NCT02250612$^{xxvi}$, NCT01739244 xxvii                     | o.a.                     |
+| STP705       | COX-2, TGF- β 1                    | PNPs                  | BCC, intraepidermal SCC, skin SCC in situ (isSCC, keloid), keloid | Sirnaomics | Phase 2, NCT04669808$^{vii}$, NCT04844983$^{vi}$, NCT04844840 xxviii | s.c., i.d., ita          |
+| siG12D-LODER | KRAS proto-oncogene, GTPase (KRAS) | LODER®                | Pancreatic ductal adenocarcinoma                                  | Silenseed  | Phase 2, NCT01676259 xxix                                            | ita                      |
+
+$^{a}$Abbreviations: i.d., intradermal injection; i.t., intratracheal administration; ita, intratumoral administration; i.v., intravenous injection; o.a., ophthalmic administration; s.c., subcutaneous injection.
+
+research that deserves further comprehensive exploration. However, despite these promising achievements, some challenges remain. For example, modification-induced stability and specificity enhancement may reduce the silencing activity or cause unexpected adverse effects [46,47] (Figure 1D). In addition, the immunogenicity and toxicity (including off-target induced toxicity) of siRNA need to be carefully assessed in both preclinical and clinical studies. More importantly, a series of patent families have significantly contributed to the intellectual property landscape in the development of siRNA drugs. For instance, WO2016028649 outlines a geometry that divides modifications of the two strands of siRNA into distinct regions defined by specific ranges of nucleotide counts, providing the chemical structures or physicochemical properties of the modification monomers for each region. WO2013074974 describes a dsRNA duplex with motifs comprising three identical modifications on three consecutive nucleotides in one or both strands, particularly near the cleavage site. Additionally, WO2018185241 focuses on modification strategies for nucleotides at positions 2 and 14 from the 5 ' end of the antisense strand as well as the nucleotides on the sense strand, which correspond to position 11, 13, 11 and 13, or 11 -13 of the antisense strand. These patents pose significant barriers to siRNA drug development, necessitating the establishment of unique technologies by other entities in the field.
+
+## Promising strategies to overcome the three ' E ' challenges
+
+To address these challenges and advance the development of siRNA therapeutics, several promising strategies or approaches are worth exploration.
+
+## Developing novel chemical modifications
+
+Optimizing chemical modifications is an important direction to improve siRNA stability, specificity, safety, and bioavailability. This includes the development of novel chemical modification monomers, modification patterns, and RNAi trigger structures (Figure 2A -C). Traditional siRNA modifications mainly involve 2 ' -O -methylation (2 ' -OMe), 2 ' -fluoro-deoxyribonucleotide (2 ' -F), and PS, while the development of novel modification monomers and modification patterns will further refine the pharmacokinetic and safety profiles of siRNAs. For example, novel monomers such as glycol nucleic acid (GNA) and 5 ' -( E )-vinylphosphonate [5 ' -( E )-VP] (Figure 2B), novel modification patterns such as enhanced stabilization chemistry (ESC) plus (ESC+) (Figure 2A), as well as novel RNAi trigger structures such as small circular interfering RNAs (sciRNAs) [48,49], asymmetric siRNAs [50,51], and divalent siRNA scaffold [52] have been developed (Figure 2C). In addition, siRNA design and modification can now be achieved using algorithms. For example, Alnylam has developed several generations of siRNA designs, including partially modified, standard template chemistry (STC), ESC, advanced ESC, ESC+, and IKARIA ™ [53].
+
+## Trends in Molecular Medicine
+
+Figure 2. Promising approaches to circumvent the three ' E ' challenges. (A) Representative siRNA modification patterns. The sequences and modification details for patisiran and some representative modification patterns developed by Alnylam [enhanced stabilization chemistry (ESC), advanced ESC, and ESC+), Arrowhead, Silence, and Dicerna are shown. (B) Popularly used modification monomers and N -acetylgalactosamine (GalNAc) linker structures of (A). (C) Some novel RNAi trigger structures encompassing small circular interfering RNA (sciRNA), GEMINI ™ ,mxRNA ™ , asymmetric siRNA, cell-penetrating asymmetric siRNA (cp-asiRNA), and divalent siRNA (di-siRNA) scaffold. (D) A scheme of ligand-siRNA conjugates. Abbreviation: CNS, central nervous system. Reproduced, with permission, from [55]CCBY4.0licenseand[7] copyright © 2022 Elsevier. (E) Schematics of the main epigenetic mechanisms associated with gene transcription. Histone modifications, DNA methylation, and noncoding RNA constitute three distinct mechanisms of epigenetic regulation. Abbreviations: HMT, histone methyltransferase; lncRNA, long noncoding RNA; SAM, S -adenosyl methionine; TF, transcription factor. Reproduced, with permission, from [75] CC BY 4.0 license.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Trends Trendsin inMolecular MolecularMedicine Medicine
+
+<!-- image -->
+
+## Trends in Molecular Medicine
+
+Several ESC+ conjugates are currently in clinical pipelines [6,12]. In terms of patents, the development of novel monomers, patterns, and structures can provide space for newcomers to bypass existing intellectual property rights. In addition, open licensing agreements during business cooperation can provide opportunities for other companies to use siRNA technologies, promoting their popularization and commercialization.
+
+## Establishing unique delivery system
+
+While various nanomaterials such as LNPs, polymers, inorganic nanoparticles, and exosomes have been developed as siRNA carriers [12,54], their loading capacity, stability, safety, and efficacy still have limitations. Future basic research should focus on optimizing the physicochemical properties of these carriers and using unique targeting ligands or chemical moieties to specifically bind to surface markers/receptors of diseased cells. The siRNA can be covalently linked to the ligand to form ligand-siRNA conjugates [55], which can reduce the clearance rate in circulation and enhance targeted accumulation and cellular uptake, thus modulating their pharmacokinetic and pharmacodynamic profiles. These ligands include small molecules, lipids [e.g., cholesterol, 2 ' -O -hexadecyl (C16), various fatty acids] [16,56 -58], peptides (e.g., RGD derivatives, H2009.1, A20FMDV2, cystine knot peptides) [12,59 -62], aptamers [63], antibodies [64], proteins (e.g., centyrin [65]), sugars (e.g., GalNAc) [66], and noncoding RNA (ncRNA) (Figure 2D). Compared with nanoparticles, ligand conjugates are typically small and easy to synthesize on a large scale and have clear pharmacokinetic properties. Binding with lipid moieties such as fatty acids can alter accumulation in extrahepatic tissues, enabling gene regulation in a wide range of tissues including CNS, heart, lung, and muscle [67 -70]. Specific interactions between antibodies and cell surface receptors may enable delivery to specific tissues and/or cell subpopulations that other technologies cannot reach [64,71]. A single dose of a TfR1 antibody ( α TfR1) conjugated to an siRNA produced over 75% mRNA reduction in mice and monkeys, and the silencing was greatest in skeletal and cardiac (striated) muscle with minimal to no activity in other major organs [72]. siRNA therapeutics can also be linked to cationic peptide moieties such as cell-penetrating peptides and Endo-Porter, effectively penetrating tissue barriers and cell membranes [47]. In addition, a combination of siRNAs [73] and endosomal escape-enhancing adjuvants may be a viable strategy for ligand-conjugated siRNA delivery to non-hepatic tissues.
+
+## Expanding disease targets
+
+siRNA technology has mainly been used to target protein-coding genes. However, recent studies have shown that ncRNAs, such as long ncRNAs (lncRNAs), play important roles in various diseases [74,75](Figure 2E). Therefore, the development of new RNA-targeting technologies that can effectively modulate the expression of ncRNAs may provide broader opportunities for disease treatment [76]. In addition, exploring the interactions between coding and ncRNAs, such as competitive endogenous RNA (ceRNA) networks, may provide new insights into disease mechanisms and enable more effective therapeutic interventions. In addition to regulating gene expression at the mRNA level, siRNA technology can target epigenetic modifications, such as DNA methylation or histone modifications, which play crucial roles in the development and progression of diseases. By modulating epigenetic marks, it may be possible to reprogram gene expression patterns and reverse disease phenotypes.
+
+## Exploring combination therapy
+
+The utilization of dual-targeting approaches or combining siRNA with other therapeutic agents, such as chemotherapy drugs, antibodies, or immune modulators, holds promise in enhancing efficacy, overcoming drug resistance, and reducing off-target effects [77]. These strategies may create novel opportunities for the treatment of previously untreatable diseases. For instance, a combination therapy involving VIR-2218 (a GalNAc-siRNA conjugate, also known as ALN-
+
+## Clinician ' s corner
+
+Enhancing the stability of siRNA, reducing off-target effects, and improving accumulation in target organs are key focuses in the development of siRNA therapeutics.
+
+A promising and innovative delivery carrier capable of targeting extrahepatic tissues will become the next frontier in siRNA drug development.
+
+Combining siRNA therapeutics with other regimens such as small molecules and antibodies may boost the treatment effects or reduce the potential adverse effects.
+
+Leveraging the specificity and selectivity of siRNA therapeutics, we can move towards personalized treatment approaches. By utilizing genetic profiling and phenotypic information, tailored siRNAs can be designed and used to target specific genes or signaling pathways based on the genomic features and disease subtypes of patients, thus enabling more precise therapeutic outcomes.
+
+## Trends in Molecular Medicine
+
+HBV02) and poly(ethylene glycol)-interferon alpha (PEG-IFNα ) is being implemented, aiming to achieve functional cure in hepatitis B [78]. siRNA JNJ-73763989 (JNJ-3989) plus a nucleos(t) ide analog (NA) is utilized to assess the therapeutic effects in patients with chronic hepatitis B, with/without the capsid assembly modulator JNJ-56136379 (JNJ-6379) [79]. In addition, pozelimab (complement C5-targeted antibody) and cemdisiran (a GalNAc-siRNA conjugate) are being co-administered for the treatment of myasthenia gravis and paroxysmal nocturnal hemoglobinuria (PNH) [80]. Furthermore, preclinical studies on the combination of Empaveli (a cyclic peptide) and siRNA are being performed, which may reduce the treatment frequency of Empaveli and/or boost the treatment efficacy$^{xxx}$.
+
+## Concluding remarks and future perspectives
+
+We are witnessing the dawn of a new era in RNA drug therapies. RNA therapy is based on a powerful and versatile platform that has virtually unlimited potential to address unmet clinical needs [81 -86]. Hence, RNA therapy is destined to change the standard of care for many diseases. With the approval of the sixth siRNA drug, Rivfloza, more siRNA therapeutics are sure to follow in the coming years. After the successful establishment of the state-of-the-art GalNAc-siRNA conjugate for hepatocyte delivery, the exploration of extrahepatic delivery techniques will be the next frontier in the field (see Clinician ' s corner).
+
+In contrast to the liver, the delivery of RNAi molecules to target non-hepatic diseases presents considerably greater challenges. Ligand-siRNA conjugates must accumulate in target cells at a sufficient rate to achieve silencing. Additionally, several factors such as the avoidance of concurrent renal and reticuloendothelial clearance, enhancing extravasation and tissue perfusion, increasing uptake by cell types with low expression of cargo internalization receptors, improving endosome escape, and supporting potent and safe treatment effects need to be addressed to achieve satisfactory silencing [29]. To broaden the applicability of siRNA beyond hepatic tissues, it is crucial to: (i) identify or determine unique receptors that can facilitate efficient internalization; (ii) propose specific screening or exploration strategies; (iii) engineer and identify novel ligands for robust delivery and sustained gene silencing; and (iv) select genetically or clinically feasible target genes involved in specific diseases. If extrahepatic delivery becomes feasible and robust under clinical conditions, the domain for hunting RNAi therapeutics may expand significantly.
+
+In addition, in the development of siRNA, issues related to Chemistry Manufacturing and Controls (CMC) as well as drug registration policies significantly impact new drug marketing. The CMC of siRNAs faces multiple challenges, including monomer supply, quality control, capacity building, impurity characterization, and separation purification. In terms of drug registration policies, there is as yet a lack of unified international standards. It is recommended that the safety and effectiveness of clinical trials be ensured through the enhancement of scientificresearch,improvement of transparency, and revision of regulations and policies.
+
+In addition, the current main expansion direction of siRNAs is in the field of chronic diseases such as hypercholesterolemia, hypertriglyceridemia, hypertension, cardiovascular disease with high lipoprotein(a) [Lp(a)], nonalcoholic steatohepatitis (NASH), and hepatitis B. The breakthrough direction of future siRNA drug development includes delivery to CNS, eye, muscle, lung, and fat tissues and tumors. This leaves a considerable market space for siRNA therapy.
+
+<!-- image -->
+
+## Outstanding questions
+
+How can we develop the next generation of chemical modification technology to ensure druggability with siRNA while not infringing on existing ' Markush ' modification patents?
+
+Based on what strategies can we establish extrahepatic delivery technologies to support the more explosive development of siRNA drugs in the future?
+
+With the booming development of antibody-drug conjugate (ADC) drugs, what will be future developments in the field of siRNA-conjugated drugs (e.g., antibody-siRNA conjugates, peptide-siRNA conjugates, even small molecule-siRNA conjugates)?
+
+How can we strike a balance between maximizing treatment efficacy and minimizing toxic adverse effects? Moreover, how can we devise personalized treatment protocols based on distinct diseases and individual patient characteristics?
+
+In addition to short-term side effect assessments, is there a potential for long-term adverse effects and detrimental implications for the overall safety profile with prolonged administration of siRNA therapeutics, especially when the target genes of siRNA themselves are also involved in important normal physiological regulation?
+
+Given that diseases often involve abnormalities in multiple genes or signaling pathways, how can we effectively develop siRNA therapeutics targeting multiple targets simultaneously to attain a more comprehensive therapeutic outcome?
+
+In addition to direct gene expression inhibition by siRNA, how can we use alternative gene-specific regulatory strategies, such as modification of chromatin conformation and interfering with transcription factors, to achieve more accurate gene regulation and therapeutic outcomes?
+
+Although challenges exist (see Outstanding questions), siRNA represents a promising modality with the potential to revolutionize treatment for diverse diseases. To address challenges related to efficient and safe delivery, endosome escape, in vivo efficacy, and other aspects requires
+
+<!-- image -->
+
+## Trends in Molecular Medicine
+
+sustained innovation and collaboration across multiple fields. It is certain that, after persistent efforts, these challenges will continue to be circumvented and ultimately usher further significant breakthroughs.
+
+## Author contributions
+
+S.G. wrote the original manuscript. M.Z. was involved in figure preparation and discussion. Y.H. revised the manuscript and supervised the project.
+
+## Acknowledgments
+
+This research was funded by the National Natural Science Foundation of China (32171394), the National Key Research and Development Program of China (2021YFA1201000, 2021YFC2302400, 2021YFE0106900), the Beijing Nova Program (Interdisciplinary Cooperation Project) from Beijing Municipal Science and Technology Commission (20220484207), the Fundamental Research Funds for the Central Universities (2022CX01013), the project from China Bio-Medicine Park (Daxing Biomedical Industrial Base of Zhongguancun Science and Technology Park), and the project from Suzhou Biomedical Industrial Park (BioBAY). We thank the Biological and Medical Engineering Core Facilities and the Analysis and Testing Center, Beijing Institute of Technology for supporting experimental equipment and staff for valuable help with technical support.
+
+## Declaration of interests
+
+Y.H. is a founder of Rigerna Therapeutics. S.G. and M.Z. declare no interests.
+
+## Resources
+
+$^{i}$https://classic.clinicaltrials.gov/ct2/show/NCT04936035
+
+$^{ii}$https://classic.clinicaltrials.gov/ct2/show/NCT05103332
+
+$^{iii}$https://classic.clinicaltrials.gov/ct2/show/NCT05581303
+
+$^{iv}$https://classic.clinicaltrials.gov/ct2/show/NCT05537571
+
+$^{v}$https://classic.clinicaltrials.gov/ct2/show/NCT05961098
+
+$^{vi}$https://classic.clinicaltrials.gov/ct2/show/NCT04844983
+
+$^{vii}$https://classic.clinicaltrials.gov/ct2/show/NCT04669808
+
+$^{viii}$https://classic.clinicaltrials.gov/ct2/show/NCT05037149
+
+$^{ix}$https://classic.clinicaltrials.gov/ct2/show/NCT05231785
+
+$^{x}$https://investors.alnylam.com/press-release?id=27441
+
+$^{xi}$https://classic.clinicaltrials.gov/ct2/show/NCT05949294
+
+$^{xii}$https://classic.clinicaltrials.gov/ct2/show/NCT03108664
+
+$^{xiii}$https://classic.clinicaltrials.gov/ct2/show/NCT04819269
+
+- $^{xiv}$https://ir.arrowheadpharma.com/node/18171/pdf
+
+$^{xv}$https://classic.clinicaltrials.gov/ct2/show/NCT05292950
+
+$^{xvi}$https://classic.clinicaltrials.gov/ct2/show/NCT05276570
+
+$^{xvii}$https://classic.clinicaltrials.gov/ct2/show/NCT05537025
+
+$^{xviii}$https://classic.clinicaltrials.gov/ct2/show/NCT04270760
+
+$^{xix}$https://classic.clinicaltrials.gov/ct2/show/NCT05089084
+
+$^{xx}$https://classic.clinicaltrials.gov/ct2/show/NCT05747924
+
+$^{xxi}$https://classic.clinicaltrials.gov/ct2/show/NCT05499013
+
+$^{xxii}$https://classic.clinicaltrials.gov/ct2/show/NCT05519475
+
+$^{xxiii}$https://classic.clinicaltrials.gov/ct2/show/NCT04877756
+
+$^{xxiv}$https://classic.clinicaltrials.gov/ct2/show/NCT04225715
+
+$^{xxv}$https://classic.clinicaltrials.gov/ct2/show/NCT05637255
+
+- $^{xxvi}$https://classic.clinicaltrials.gov/ct2/show/NCT02250612
+- $^{xxvii}$https://classic.clinicaltrials.gov/ct2/show/NCT01739244
+- $^{xxviii}$https://classic.clinicaltrials.gov/ct2/show/NCT04844840
+- $^{xxix}$https://classic.clinicaltrials.gov/ct2/show/NCT01676259
+- $^{xxx}$www.globenewswire.com/news-release/2023/02/21/2612720/0/en/Apellis
+
+## Trends in Molecular Medicine
+
+## References
+
+- 1. Opalinska, J.B. and Gewirtz, A.M. (2002) Nucleic-acid therapeutics: basic principles and recent applications. Nat. Rev. Drug Discov. 1, 503 -514
+- 2. Hopkins, A.L. and Groom, C.R. (2002) The druggable genome. Nat. Rev. Drug Discov. 1, 727 -730
+- 3. Wu, S.Y. et al. (2014) RNAi therapies: drugging the undruggable. Sci. Transl. Med. 6, 240ps7
+- 4. Finan, C. et al. (2017) The druggable genome and support for target identification and validation in drug development. Sci. Transl. Med. 9, eaag1166
+- 5. Guo, S. et al. (2021) Membrane-destabilizing ionizable lipid empowered imaging-guided siRNA delivery and cancer treatment. Exploration 1, 35 -49
+- 6. Hu, B. et al. (2020) Therapeutic siRNA: state of the art. Signal Transduct. Target. Ther. 5, 101
+- 7. Zhang, M. and Huang, Y. (2022) siRNA modification and delivery for drug development. Trends Mol. Med. 28, 892 -893
+- 8. Zogg, H. et al. (2022) Current advances in RNA therapeutics for human diseases. Int. J. Mol. Sci. 23, 2736
+- 9. Forgham, H. et al. (2022) Keeping up with the COVID ' s -could siRNA-based antivirals be a part of the answer? Exploration 2, 20220012
+- 10. Huang, S.A. et al. (2021) Safety and tolerability of ALN-AGT, an RNA interference therapeutic targeting hepatic angiotensinogen synthesis, in hypertensive patients during sodium depletion or irbesartan coadministration. Circulation 144, A11276
+- 11. Malick, W.A. et al. (2023) Clinical trial design for lipoprotein(a)lowering therapies: JACC Focus Seminar 2/3. J. Am. Coll. Cardiol. 81, 1633 -1645
+- 12. Weng, Y. et al. (2019) RNAi therapeutic and its innovative biotechnological evolution. Biotechnol. Adv. 37, 801 -825
+- 13. Lu, M. et al. (2022) Photoactivatable silencing extracellular vesicle (PASEV) sensitizes cancer immunotherapy. Adv. Mater. 34, e2204765
+- 14. Zhang, M. et al. (2022) Conscription of immune cells by lightactivatable silencing NK-derived exosome (LASNEO) for synergetic tumor eradication. Adv. Sci. (Weinh.) 9, e2201135
+- 15. Guo, S. et al. (2021) A novel polyethyleneimine-decorated FeOOH nanoparticle for efficient siRNA delivery. Chin. Chem. Lett. 32, 102 -106
+- 16. Hu, B. et al. (2023) Lipid-conjugated siRNA hitchhikes endogenous albumin for tumor immunotherapy. Chin. Chem. Lett. 34, 108210
+- 17. Li, C. et al. (2021) Core role of hydrophobic core of polymeric nanomicelle in endosomal escape of siRNA. Nano Lett. 21, 3680 -3689
+- 18. Yang, T. et al. (2021) Rolling microneedle electrode array (RoMEA) empowered nucleic acid delivery and cancer immunotherapy. Nano Today 36, 101017
+- 19. Hu, B. et al. (2022) Thermostable ionizable lipid-like nanoparticle (iLAND) for RNAi treatment of hyperlipidemia. Sci. Adv. 8, eabm1418
+- 20. Lu, M. et al. (2023) Extracellular vesicle-based nucleic acid delivery. Interdiscip. Med. 1, e20220007
+- 21. Shu, D. et al. (2011) Thermodynamically stable RNA three-way junction for constructing multifunctional nanoparticles for delivery of therapeutics. Nat. Nanotechnol. 6, 658 -667
+- 22. Zheng, Z. et al. (2019) Folate-displaying exosome mediated cytosolic delivery of siRNA avoiding endosome trapping. J. Control. Release 311 -312, 43 -49
+- 23. Mishra, N. et al. (2022) Role of siRNA-based nanocarriers for the treatment of neurodegenerative diseases. Drug Discov. Today 27, 1431 -1440
+- 24. Lipophilic siRNA conjugates yield durable silencing in extrahepatic tissues . Nat. Biotechnol. 40, 1439 -1440
+- 25. Gao, S. (2023) My 20 years together with JournalofOralPathology and Medicine . J. Oral Pathol. Med. 52, 324 -327
+- 26. Gao, S. et al. (2009) The effect of chemical modification and nanoparticle formulation on stability and biodistribution of siRNA in mice. Mol. Ther. 17, 1225 -1233
+- 27. Blanco, E. et al. (2015) Principles of nanoparticle design for overcoming biological barriers to drug delivery. Nat. Biotechnol. 33, 941 -951
+- 28. Pecot, C.V. et al. (2011) RNA interference in the clinic: challenges and future directions. Nat. Rev. Cancer 11, 59 -67
+- 29. Dowdy, S.F. (2017) Overcoming cellular barriers for RNA therapeutics. Nat. Biotechnol. 35, 222 -229
+- 30. Fakhr, E. et al. (2016) Precise and efficient siRNA design: a key point in competent gene silencing. Cancer Gene Ther. 23, 73 -82
+- 31. Juliano, R.L. (2016) The delivery of therapeutic oligonucleotides. Nucleic Acids Res. 44, 6518 -6548
+- 32. Brown, C.R. et al. (2020) Investigating the pharmacodynamic durability of GalNAc-siRNA conjugates. Nucleic Acids Res. 48, 11827 -11844
+- 33. Hou, K.K. et al. (2015) A role for peptides in overcoming endosomal entrapment in siRNA delivery -a focus on melittin. Biotechnol. Adv. 33, 931 -940
+- 34. Deyle, D.R. et al. (2014) A genome-wide map of adenoassociated virus-mediated human gene targeting. Nat. Struct. Mol. Biol. 21, 969 -975
+- 35. Zhu, H. et al. (2023) Nanoparticle-mediated corneal neovascularization treatments: toward new generation of drug delivery systems. Chin. Chem. Lett. 34, 107648
+- 36. Meraz, I.M. et al. (2014) Adjuvant cationic liposomes presenting MPL and IL-12 induce cell death, suppress tumor growth, and alter the cellular phenotype of tumors in a murine model of breast cancer. Mol. Pharm. 11, 3484 -3491
+- 37. Mohammapdour, R. and Ghandehari, H. (2022) Mechanisms of immune response to inorganic nanoparticles and their degradation products. Adv. Drug Deliv. Rev. 180, 114022
+- 38. Humphreys, S.C. et al. (2022) Considerations and recommendations for assessment of plasma protein binding and drug -drug interactions for siRNA therapeutics. Nucleic Acids Res. 50, 6020 -6037
+- 39. Pauli, C. et al. (2017) Personalized in vitro and in vivo cancer models to guide precision medicine. Cancer Discov. 7, 462 -477
+- 40. Khvorova, A. and Watts, J.K. (2017) The chemical evolution of oligonucleotide therapies of clinical utility. Nat. Biotechnol. 35, 238 -248
+- 41. Ge, Q. et al. (2010) Effects of chemical modificationonthe potency, serum stability, and immunostimulatory properties of short shRNAs. RNA 16, 118 -130
+- 42. Robbins, M. et al. (2007) 2 ' -O -methyl-modified RNAs act as TLR7 antagonists. Mol. Ther. 15, 1663 -1669
+- 43. Ray, K.K. et al. (2020) Two Phase 3 trials of inclisiran elevated LDL cholesterol. N. Engl. J. Med. 382, 1507 -1519
+- 44. Desai, A.S. et al. (2023) Zilebesiran, an RNA interference therapeutic agent for hypertension. N. Engl. J. Med. 389, 228 -238
+- 45. Fitzgerald, K. et al. (2016) A highly durable RNAi therapeutic inhibitor of PCSK9. N. Engl. J. Med. 376, 41 -51
+- 46. Jackson, A.L. and Linsley, P.S. (2010) Recognizing and avoiding siRNA off-target effects for target identification and therapeutic application. Nat. Rev. Drug Discov. 9, 57 -67
+- 47. Sun, Y. et al. (2017) Enhancing the therapeutic delivery of oligonucleotides by chemical modification and nanoparticle encapsulation. Molecules 22, 1724
+- 48. Egli, M. and Manoharan, M. (2023) Chemistry, structure and function of approved oligonucleotide therapeutics. Nucleic Acids Res. 51, 2529 -2573
+- 49. Jahns, H. et al. (2021) Small circular interfering RNAs (sciRNAs) as a potent therapeutic platform for gene-silencing. Nucleic Acids Res. 49, 10250 -10264
+- 50. Khvorova, A. et al. (2016) Fully Stabilized Asymmetric siRNA , University of Massachusetts
+- 51. Turanov, A.A. et al. (2018) RNAi modulation of placental sFLT1 for the treatment of preeclampsia. Nat. Biotechnol. 36, 1164 -1173
+- 52. Alterman, J.F. et al. (2019) A divalent siRNA chemical scaffold for potent and sustained modulation of gene expression throughout the central nervous system. Nat. Biotechnol. 37, 884 -894
+- 53. Kaushal, A. (2023) Innate immune regulations and various siRNA modalities. Drug Deliv. Transl. Res. 13, 2704 -2718
+- 54. Liu, R. et al. (2023) Advances of nanoparticles as drug delivery systems for disease diagnosis and treatment. Chin. Chem. Lett. 34, 107518
+- 55. Chernikov, I.V. et al. (2019) Current development of siRNA bioconjugates: from research to the clinic. Front. Pharmacol. 10, 444
+
+<!-- image -->
+
+<!-- image -->
+
+- 56. Wolfrum, C. et al. (2007) Mechanisms and optimization of in vivo delivery of lipophilic siRNAs. Nat. Biotechnol. 25, 1149 -1157
+- 57. Soutschek, J. et al. (2004) Therapeutic silencing of an endogenous gene by systemic administration of modified siRNAs. Nature 432, 173 -178
+- 58. Lorenz, C. et al. (2004) Steroid and lipid conjugates of siRNAs to enhance cellular uptake and gene silencing in liver cells. Bioorg. Med. Chem. Lett. 14, 4975 -4977
+- 59. Eguchi, A. et al. (2009) Efficient siRNA delivery into primary cells by a peptide transduction domain -dsRNA binding domain fusion protein. Nat. Biotechnol. 27, 567 -571
+- 60. Betts, C. et al. (2012) Pip6-PMO, a new generation of peptideoligonucleotide conjugates with improved cardiac exon skipping activity for DMD treatment. Mol. Ther. Nucleic. Acids 1, e38
+- 61. Ämmälä, C. et al. (2018) Targeted delivery of antisense oligonucleotides to pancreatic β -cells. Sci. Adv. 4, eaat3386
+- 62. Liu, X. et al. (2014) Tumor-targeted in vivo gene silencing via systemic delivery of cRGD-conjugated siRNA. Nucleic Acids Res. 42, 11805 -11817
+- 63. McNamara, J.O. et al. (2006) Cell type-specific delivery of siRNAs with aptamer -siRNA chimeras. Nat. Biotechnol. 24, 1005 -1015
+- 64. Song, E. et al. (2005) Antibody mediated in vivo delivery of small interfering RNAs via cell-surface receptors. Nat. Biotechnol. 23, 709 -717
+- 65. Klein, D. et al. (2021) Centyrin ligands for extrahepatic delivery of siRNA. Mol. Ther. 29, 2053 -2066
+- 66. Nair, J.K. et al. (2014) Multivalent N -acetylgalactosamineconjugated siRNA localizes in hepatocytes and elicits robust RNAi-mediated gene silencing. J. Am. Chem. Soc. 136, 16958 -16961
+- 67. Brown, K.M. et al. (2022) Expanding RNAi therapeutics to extrahepatic tissues with lipophilic conjugates. Nat. Biotechnol. 40, 1500 -1508
+- 68. Biscans, A. et al. (2021) Docosanoic acid conjugation to siRNA enables functional and safe delivery to skeletal and cardiac muscles. Mol. Ther. 29, 1382 -1394
+- 69. Biscans, A. et al. (2019) Diverse lipid conjugates for functional extra-hepatic siRNA delivery in vivo . Nucleic Acids Res. 47, 1082 -1096
+- 70. Prakash, T.P. et al. (2019) Fatty acid conjugation enhances potency of antisense oligonucleotides in muscle. Nucleic Acids Res. 47, 6029 -6044
+
+## Trends in Molecular Medicine
+
+- 71. Cuellar, T.L. et al. (2015) Systematic evaluation of antibody-mediated siRNA delivery using an industrial platform of THIOMAB -siRNA conjugates. Nucleic Acids Res. 43, 1189 -1203
+- 72. Malecova, B. et al. (2023) Targeted tissue delivery of RNA therapeutics using antibody-oligonucleotide conjugates (AOCs). Nucleic Acids Res. 51, 5901 -5910
+- 73. Springer, A.D. and Dowdy, S.F. (2018) GalNAc-siRNA conjugates: leading the way for delivery of RNAi therapeutics. Nucleic Acid Ther. 28, 109 -118
+- 74. Grijalvo, S. et al. (2018) Covalent strategies for targeting messenger and non-coding RNAs: an updated review on siRNA, miRNA and antimiR conjugates. Genes 9, 74
+- 75. Castro-Muñoz, L.J. et al. (2023) Modulating epigenetic modifications for cancer therapy (review). Oncol. Rep. 49, 59
+- 76. Ray, R.M. et al. (2019) Control of LDL uptake in human cells by targeting the LDLR regulatory long non-coding RNA BM450697. Mol. Ther. Nucleic. Acids 17, 264 -276
+- 77. Li, K. et al. (2021) Recent advances in photothermal and RNA interfering synergistic therapy. Chin. Chem. Lett. 32, 1010 -1016
+- 78. Tang, Y. et al. (2022) Advances in new antivirals for chronic hepatitis B. Chin. Med. J. 135, 571 -583
+- 79. Yuen, M.F. et al. (2022) Combination treatments including the smallinterfering RNA JNJ-3989 induce rapid and sometimes prolonged viral responses in patients with CHB. J. Hepatol. 77, 1287 -1298
+- 80. Devalaraja-Narashimha, K. et al. (2022) Pharmacokinetics and pharmacodynamics of pozelimab alone or in combination with cemdisiran in non-human primates. PLoS One 17, e0269749
+- 81. Huang, X. et al. (2022) Synthesis of siRNA nanoparticles to silence plaque-destabilizing gene in atherosclerotic lesional macrophages. Nat. Protoc. 17, 748 -780
+- 82. Yi, Y. et al. (2022) Transforming " cold " tumors into " hot " ones via tumor-microenvironment-responsive siRNA micelleplexes for enhanced immunotherapy. Matter 5, 2285 -2305
+- 83. Huang, X. et al. (2021) Intercalation-driven formation of siRNA nanogels for cancer therapy. Nano Lett. 21, 9706 -9714
+- 84. Tao, W. et al. (2020) siRNA nanoparticles targeting CaMKII γ in lesional macrophages improve atherosclerotic plaque stability in mice. Sci. Transl. Med. 12, eaay1063
+- 85. Zhang, P. et al. (2023) Cancer nanomedicine toward clinical translation: obstacles, opportunities, and future prospects. Med 4, 147 -167
+- 86. Yi, Y. et al. (2023) Peptide-based siRNA delivery system for tumor vascular normalization and gene silencing in 4T1 cells. STAR Protoc. 4, 102138

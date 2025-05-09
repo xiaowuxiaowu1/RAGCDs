@@ -1,0 +1,426 @@
+<!-- image -->
+
+published: 04 May 2022 doi: 10.3389/fendo.2022.873027
+
+<!-- image -->
+
+## Thyroid Cancer and COVID-19: Prospects for Therapeutic Approaches and Drug Development
+
+Na Qu 1,2,3 $^{†}$, Zongguang Hui 1,2 $^{†}$, Zhixin Shen $^{4}$, Chengxia Kan $^{1,2}$, Ningning Hou $^{1,2}$, Xiaodong Sun 1,2 * and Fang Han 1,2,3 *
+
+$^{1}$Department of Endocrinology and Metabolism, Affiliated Hospital of Weifang Medical University, Weifang, China, $^{2}$Clinical Research Center, Affiliated Hospital of Weifang Medical University, Weifang, China, $^{3}$Department of Pathology, Affiliated Hospital of Weifang Medical University, Weifang, China, $^{4}$Department of Breast and Thyroid Surgery, Affiliated Hospital of Weifang Medical University, Weifang, China
+
+Thyroid cancer is the most prevalent endocrine malignancy and the reported incidence of thyroid cancer has continued to increase in recent years. Since 2019, coronavirus disease 2019 (COVID-19) has been spreading worldwide in a global pandemic. COVID19 aggravates primary illnesses and affects disease management; relevant changes include delayed diagnosis and treatment. The thyroid is an endocrine organ that is susceptible to autoimmune attack; thus, thyroid cancer after COVID-19 has gradually attracted attention. Whether COVID-19 affects the diagnosis and treatment of thyroid cancer has also attracted the attention of many researchers. This review examines the literature regarding the influence of COVID-19 on the pathogenesis, diagnosis, and treatment of thyroid cancer; it also focuses on drug therapies to promote research into strategies for improving therapy and management in thyroid cancer patients with COVID-19.
+
+Keywords:thyroidcancer,COVID-19,immunotherapy,multikinaseinhibitors,drugtarget
+
+## INTRODUCTION
+
+Thyroid cancer is the most prevalent endocrine malignancy worldwide (1). The reported incidence of thyroid cancer is continually increasing because of advanced diagnostic imaging and frequent surveillance (2). According to tumor origin and differentiation characteristics, thyroid cancer is classified as differentiated thyroid cancer (DTC), medullary thyroid carcinoma (MTC), and anaplastic thyroid cancer (ATC). DTC [including papillary thyroid carcinoma (PTC) and follicular thyroid carcinoma] constitutes approximately 85% -95% of thyroid cancers (3). Patients with thyroid cancer often experience hoarseness, dysphagia, and dyspnea; they have a large, poorly mobile, painless mass that can be palpated in the thyroid area. Thyroid cancer metastases most often occur in the lymph nodes of the neck, followed by the lungs, brain, and bones (4). Notably, PTC has a better prognosis with reduced mortality. However, other types of thyroid cancer (e.g., ATC) have a worse prognosis (5). The main goal of thyroid cancer treatment is to improve both overall survival and quality of life. Nevertheless, the main challenges remain improving the rate of early diagnosis and choosing the most appropriate treatment; there is also a need to establish basic requirements for reducing unnecessary injury and improving the quality of life.
+
+## Edited by:
+
+Keng Po Lai, Guilin Medical University, China
+
+## Reviewed by:
+
+Mujib Ullah, Stanford University, United States Chenglin Sun, Jilin University, China Wenjun Huang, Guilin Medical University, China
+
+## *Correspondence:
+
+Fang Han fyhanfang@wfmc.edu.cn Xiaodong Sun xiaodong.sun@wfmc.edu.cn
+
+$^{†}$These authors have contributed equally to this work and sharefirst authorship
+
+## Specialty section:
+
+This article was submitted to Cancer Endocrinology, a section of the journal Frontiers in Endocrinology
+
+Received:
+
+10
+
+Accepted:
+
+Published:
+
+04 May 2022
+
+## Citation:
+
+Qu N, Hui Z, Shen Z, Kan C, Hou N, Sun X and Han F (2022) Thyroid Cancer and COVID-19: Prospects for Therapeutic Approaches and Drug Development. Front. Endocrinol. 13:873027. doi: 10.3389/fendo.2022.873027
+
+February 2022 04 April 2022
+
+In December 2019, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) began to spread worldwide; it has caused the coronavirus disease 2019 (COVID-19) global pandemic (6). The main features of COVID-19 include fever, fatigue, occasional headaches, and other influenza-like symptoms. While 5% of patients exhibit pneumonia or other severe illnesses, most patients only experience mild symptoms and have a good prognosis (7). Currently, most treatment is symptomatic and supportive because no specific treatment has been proven effective. Importantly, with increasing understanding of the disease and global vaccination efforts, the rates of COVID-19 morbidity and mortality have declined (8). Nevertheless, patients with chronic diseases (e.g., cancer) carry risks of additional complications. COVID-19 aggravates primary illnesses and affects disease management; relevant changes include delayed diagnosis and treatment (9). COVID-19 pathogenesis involves features of autoimmunity (10). The entry of SARS-CoV-2 into patients can induce a cytokine storm, which promotes viral entry and accelerates immune evasion (11). The thyroid is an endocrine organ that is susceptible to autoimmune attack; thus, thyroid cancer after SARS-CoV-2 infection has gradually attracted attention. This review focuses on clinical therapies to promote research into strategies for improving therapy and management in thyroid cancer patients with COVID-19.
+
+## MECHANISMS OF PATHOGENESIS IN THYROID CANCER AND COVID-19
+
+## The Pathogenesis of Thyroid Cancer
+
+The pathogenesis of thyroid cancer includes gene mutation, rearrangement and fusion, abnormal gene expression, and signaling pathway abnormalities (3). Most MTCs are sporadic and involve somatic rearrangement during transfection (RET) mutations. Only 25% of MTCs are hereditary and involve germline RET mutations (12).MutationsalsooccurinATC;the main mutation sites are in TP53, BRAF, and NRAS genes, but the incidences of such mutations are lower in ATC than in DTC (13). Gene rearrangement and fusion commonly involve BRAF, RET, NTRK1, NTRK3, and fibroblast growth factor (14). Abnormal gene expression patterns (e.g., involving vascular endothelial growth factor [VEGF]) can also lead to DTC progression (15). Signaling pathway abnormalities include overactivation of the phosphoinositide 3-kinase/Akt/mechanistic target of rapamycin (mTOR) and WNT/ b -catenin pathways (16, 17) (Figure 1) .
+
+## Comorbid COVID-19 and Thyroid Cancer
+
+The causative pathogen of COVID-19, SARS-CoV-2, is a singlestranded RNA b -coronavirus 2 with a length of 29.9 kb (18). Two main proteins expressed by SARS-CoV-2 have critical roles in
+
+FIGURE1 | Molecular pathogenesis and therapeutic drug targets of thyroid cancer. The molecular pathogenesis of thyroid cancer mainly involves the imbalanceof two classical signaling pathways: mitogen-activated protein kinase (MAPK) (right) and phosphatidylinositol-3 kinase (PI3K)/Akt (left). Ras can transmit receptor tyrosine kinase (RTK) signals to these two pathways. Common mutations in MAPK pathway include RET-PTC and NTPK rearrangement, RAS and BRAF mutations. Common changes in PI3K pathway include RAS mutation, PTEN mutation or deletion, PIK3CA mutation or amplification and AKT1 mutation. Inhibitor drugs that block these signals are also depicted.
+
+<!-- image -->
+
+the manifestations of COVID-19 (Figure 2) . The first protein is the SARS-CoV-2 main protease, conserved among coronaviruses with no human homolog; it is mainly responsible for viral transcription and replication (19). The second protein is the spike protein on the outer surface of SARS-CoV-2 viral particles; it is responsible for transmission of SARS-CoV-2 infection (20). There are two crucial steps in SARS-CoV-2 infection: initial recognition of the receptor angiotensin-converting enzyme 2 via S protein and effective fusion of the cell membrane via transmembrane protease serine 2 (21). Both angiotensinconverting enzyme 2 and transmembrane protease serine 2 are highly expressed in several endocrine tissues (e.g., thyroid, testicular, and adipose tissues) (22). These endocrine tissues may be susceptible to viral attack. SARS-CoV-2 RNA has been detected in the thyroid, implying that SARS-CoV-2 can infect the thyroid and alter the pituitary -thyroid axis (23).
+
+SARS-CoV-2 infection has been reported to induce thyroid disease, including subacute thyroiditis, Hashimoto ' s thyroiditis, thyrotoxicosis with thyroid dysfunction, and severe low triiodothyronine syndrome (24, 25). SARS-CoV-2 appears to influence thyroid function through multiple mechanisms. Thyroxinemayenhancetheinternalization of SARS-CoV-2 and worsen the prognosis of COVID-19. Furthermore, SARS-CoV-2 may induce an aggressive inflammatory response and cytokine storm, causing damage to the airway and thyroid (26). When the
+
+respiratory system experiences SARS-CoV-2 infection that triggers a cytokine storm, the thyroid is affected, particularly in patients with thyroid cancer (23). Additionally, the thyroid has direct effects on immunity because thyroid hormones serve as modulators of the immune response (27). The thyroid engages in complex interactions with viral infections through hormonal and immunoregulatory signaling molecules (28). Tumor cells usually induce immune system dysfunction, characterized by impaired T cell-mediated cytotoxicity and decreased T-cell proliferation. These changes make cancer patients more susceptible to SARS-CoV-2 infection (29). Thus, the severity of COVID-19 depends on inflammatory and immune responses to SARS-CoV-2 (10) (Table 1) .
+
+## STRATEGIES FOR SURVEILLANCE AND DIAGNOSIS DURING THE COVID-19 PANDEMIC
+
+Patients with thyroid cancer usually have no symptoms and occasionally find nodules during physical examinations. Cervical ultrasound and fine-needle aspiration are regarded as first-line methods for thyroid nodule evaluation, particularly in patients with thyroid microcarcinoma (30). Regular follow-up visits are essential for nodule alteration monitoring and the prevention of thyroid cancer recurrence.
+
+TABLE 1 | Correlation between COVID-19 and thyroid cancer.
+
+<!-- image -->
+
+|                | Relationship to COVID-19                                                                                                   | Relationship to thyroid cancer                                                               |
+|----------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| SARS-CoV-2     | the causative agent of COVID-19                                                                                            | SARS-CoV-2 RNA detected in thyroid                                                           |
+| ACE2           | the cell membrane receptor of SARS-COV-2, preliminary identification by S protein                                          | high expression in thyroid tissue, low expression in thyroid cancer                          |
+| TMPRSS2        | activates the interaction of the S protein of SARS-CoV-2 with ACE2, fuses with the cell membrane, and enters the host cell | highly expressed in thyroid tissue                                                           |
+| cytokine storm | caused by COVID-19 infection, accelerated immune evasion                                                                   | thyroid is vulnerable to viral and immune attack, especially in patients with thyroid cancer |
+
+ACE2, angiotensin-converting enzyme 2; COVID-19, coronavirus disease 2019; SARS-CoV-2, severe acute respiratory syndrome coronavirus 2; TMPRSS2, transmembrane protease serine 2.
+
+During the COVID-19 pandemic, there is a need to re-assess the protocols for surveillance and diagnosis of thyroid cancer. The procedures for diagnosis of thyroid nodules can be safely postponed (31); a few months of diagnostic delay during the COVID-19 pandemic has not negatively impacted most thyroid cancer patients or led to worse disease outcomes (32). However, patients with suspected MTC, ATC, or metastatic thyroid cancer (or a history of one or more of these diseases) should not delayfine-needle aspiration (31). There is an important infectious disease risk associated with fine-needle aspiration: the collection and fixation steps may generate aerosols and droplets that spread viral particles. Therefore, medical staff should wear personal protective masks with filter respirators and face masks to protect their eyes and fix cytology specimens with ethanol when smearing (33).
+
+Compared with non-cancer patients, cancer patients are more likely to experience multiple organ damage after SARS-CoV-2 infection (34). Regardless of active cancer status or treatment status, the risks of death and severe illness because of SARS-CoV2 infections are increased in cancer patients (35, 36). Therefore, the interaction between thyroid and COVID-19 is complex and bidirectional, further research and analysis are needed (37).
+
+## THERAPEUTIC APPROACHES DURING THE COVID-19 PANDEMIC
+
+## Surgical Resection
+
+Treatment of thyroid cancer includes surgical resection, radioiodine therapy (RAI), and pharmacotherapy. Surgical resection is often the first-line treatment approach. Total thyroidectomy is recommended for most DTCs, MTCs, macroscopic metastatic invasive PTCs, and follicular thyroid carcinomas with vascular infiltration (38). Most patients with ATC cannot undergo surgery. If the tumor is excessively large or compresses the trachea (thus causing dyspnea), tumor reduction surgery and tracheotomy can be performed to alleviate the associated symptoms.
+
+The spread of COVID-19 has brought unprecedented challenges to the surgical resection treatment of thyroid cancer. Both diagnostic and therapeutic procedures expose patients to the risk of COVID-19 infection. Moreover, conventional followup visits have been postponed in relation to the threat of COVID-19 infection. Because of social distancing restrictions and operating room shortages, all procedures that may nebulize breathing and digest secretions (e.g., endoscopy, tracheal intubation, non-invasive ventilation, and endoscopic surgery) are restricted because they will increase the risk of infection (39). Thus, during the COVID-19 pandemic, the selection of surgical treatment is more cautious (40). The choice to continue or postpone surgery remains controversial because some aspects of disease progression have not been fully elucidated. All surgical options should be carefully reviewed, and plans should be formulated to minimize the risks.
+
+Most DTCs and MTCs are slow-growing tumors; surgical treatment can be postponed or elective. There are no significant
+
+differences in tumor size and lymph node metastasis between patients with delayed treatment ≤ 180 days and those without delayed treatment (41). However, a timely, safe, protective environment is recommended for patients with aggressive lymph node metastasis or suspected extrathyroidal metastasis (42). These aggressive tumors can rapidly progress to metastatic disease or death (43).
+
+Preoperative considerations must be more comprehensive in a pandemic situation (44). Pulmonary function should be thoroughly evaluated in a multidisciplinary environment. Bronchoalveolar lavage is recommended during bacterial culture and antibiotic susceptibility testing to exclude residual SARS-CoV-2 infection (45). However, if surgery cannot be performed within an acceptable time frame, alternative treatments (e.g., RAI or pharmacotherapy) should be considered (46).
+
+## RAI Treatment
+
+$^{131}$I treatment is a vital tool for thyroid cancer treatment; it involves the irradiation of residual thyroid or unresectable/ incompletely resected thyroid cancer (47). For patients with advanced DTC, distant metastasis, or apparent extrathyroidal invasion, $^{131}$I treatment is the main first-line option. $^{131}$I treatment increases Treg count and decreases B lymphocyte count, leading to an immune imbalance (48). However, there has been no clinical confirmation of immunosuppressive status, implying that the clinical effects of toxicity are limited (49). $^{131}$I treatment does not enhance the risk, morbidity, or mortality of COVID-19 (50). Thus, $^{131}$I treatment should not be delayed in patients with suspected distant metastases.
+
+## MULTIKINASE INHIBITORS (MKIS) FOR THYROID CANCER DURING COVID-19 PANDEMIC
+
+Although the treatment of DTC has potential for good long-term survival, advanced DTCs and ATCs have poor prognoses because of distant metastasis or resistance to the standard treatment options. Targeted therapy has been a new therapeutic method; new drugs are also emerging. Thyroid cancer has high expression levels of VEGF and its receptor (VEGFR), as well as frequent mutations in genes such as RET, BRAF, and RAS. The phosphoinositide 3-kinase/Akt/mTOR and mitogen-activated protein kinase signaling pathways have critical roles in thyroid cancer; several MKIs block tyrosine kinase receptors, thus preventing angiogenesis and tumor growth through these two pathways (51). MKIs acting on these targets can prolong median progression-free survival (PFS) and reduce tumor size (52, 53) (Table 2).
+
+## FDA-Approved MKIs for Thyroid Cancer Vandetanib
+
+Vandetanib is the first FDA-approved drug for the treatment of advanced MTC. Vandetanib selectively blocks epidermal growth factor receptor, VEGFR, and RET-tyrosine kinase (113).
+
+5
+
+| Drug trade name             | Drug code             | Primary targets                         | FDA-approved therapeutic indications                                                                                         | Clinical trials applied in thyroid cancer                                                                                                                                          | Clinical trials                                                            | Relationship to COVID-19 treatment                                                                                                     |
+|-----------------------------|-----------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Anlotinib                   | AL3818                | VEGFR1 - 3 PDGFR FGFR1/2                | NSCLC                                                                                                                        | MTC: 57%PR (54, 55)                                                                                                                                                                | phase I clinical trials                                                    | -                                                                                                                                      |
+| Axitinib                    | AG-013736             | VEGFR1-3                                | RCC                                                                                                                          | DTC: 6%CR, 24%PR                                                                                                                                                                   | phase II clinical trials phase II clinical trials                          | -                                                                                                                                      |
+| Cabozantinib                | BMS-907351            | VEGFR2, MET, RET                        | MTC, RCC, HCC                                                                                                                | MTC: 68%PR, 41%SD ≥ 6 months DTC: 53%PR (59 - 62)                                                                                                                                  | phase I clinical trials phase II clinical trials phase III clinical trials | experts recommend that people without obvious contraindications continue to use in the treatment of advanced renal cell carcinoma (58) |
+| Dabrafenib combination with | GSK2118436 GSK1120212 | Dabrafenib: BRAF V600E Trametinib: MAPK | BRAF-mutated ATC, melanoma, NSCLC                                                                                            | ATC: 63%overall response 60weeks PSF (63)                                                                                                                                          | phase II clinical trials                                                   | bind tightly to 6lu7 of SARS-CoV-2, inhibit the replication of SARS-CoV-2 (64 - 66)                                                    |
+| Trametinib Dovitinib        | TKI258                | VEGFR FGFR                              | metastatic NSLCL                                                                                                             | DTC: 21%PR MTC: 17%PR (67)                                                                                                                                                         | phase II clinical trials                                                   | -                                                                                                                                      |
+| Entrectinib                 | RXDX-101              | NTPK, BRAF ALK, ROS1                    | solid tumors with NTRK fusion proteins,                                                                                      | ROS1-fused DTC: peri-aortic nodules, liver metastases disappeared (68)                                                                                                             | phase II clinical trials                                                   | antiviral activity against SARS-CoV-2 in human lung tissue (69, 70)                                                                    |
+| Everolimus                  | RAD001                | mTOR                                    | ROS1-positive NSCLC HER2(-) breast cancers, pancreatic, neuroendocrine tumors, RCC, angiomyolipomas, subependymal giant cell | 12.9 months PSF DTC: 3% PR MTC: 10% PR                                                                                                                                             | phase II clinical trials                                                   | reduce conventional T lymphocyte proliferation, attenuate cytokine storm, maintain regulatory T                                        |
+| Larotrectinib               | LOXO-101              | NTRK gene fusions                       | astrocytomas solid tumors with NTRK fusion proteins                                                                          | ATC: 14% PR (73, 74) PTC: iodine uptake was reactivated after three weeks (75)                                                                                                     | phase I clinical trials                                                    | cell growth and activity (71, 72) through high-throughput virtual screening and docking mode, potential drug candidates of             |
+| Lenvatinib                  | AK175809              | VEGFR1 - 3 FGFR1 - 4 PDGFR, RET         | DTC, RCC (combination with Everolimus)                                                                                       | DTC: 64.8%(PR+CR) 18.3months PSF phase III clinical trials MTC: 36%PR, 44%SD, 9 months PSF ATC (combination with pembrolizumab): 66%CR, 16% SD,16%PD, 16.5months PSF (53, 79 - 83) | phase II clinical trials,                                                  | significant synergy with remdesivir to inhibit SARS-CoV-2 replication (77, 78)                                                         |
+| Pazopanib                   | GW786034              | VEGFR1 - 3 PDGFR FGFR1/2                | RCC, soft tissue sarcomas                                                                                                    | DTC:49% PR MTC: 57% SD, 9.4 months PSF (85 - 87)                                                                                                                                   | phase II clinical trials                                                   | may disrupt the binding of SARS-CoV-2 to csBiP, may be drug candidates for COVID-19 (84)                                               |
+| Pralsetinib                 | BLU-667               | RET                                     | RET fusion-positive NSCLC                                                                                                    | MTC:4% CR, 36% PR PTC (1): achieved PR, the tumor shrunk by 70% (88)                                                                                                               | phase I clinical trials                                                    | \_                                                                                                                                      |
+| Selpercatinib               | LOXO-292              | RET                                     | RET-mutated MTC, RET fusion-positive NSCLC                                                                                   | MTC: with extensive metastases and inoperable, after selpercatinib was administered, surgery was performed                                                                         | neoadjuvant therapy                                                        | bind strongly to four isolated SARS-CoV-2 proteins (90)                                                                                |
+| Sorafenib                   | BAY 43-9006           | VEGFR1 - 3 PDGFR, RET                   | DTC, RCC, HCC                                                                                                                | (89) DTC:23%PR,53%SD, 79 weeks PSF MTC: 47% PR, 40% SD (52, 93 - 97)                                                                                                               | animal experiment phase II clinical trials                                 | may be associated with differentially expressed genes identified in SARS-CoV-2 infection (77,                                          |
+| Sunitinib                   | SU11248               | VEGFR1 - 3 PDGFR, RET                   | GIST, pancreatic neuroendocrine tumors, RCC                                                                                  | DTC: response (22%) ATC:38%PR (100, 101)                                                                                                                                           | phase II clinical trials                                                   | effective antiviral properties against SARS-CoV- 2(98, 99)                                                                             |
+
+(Continued)
+
+Relationship to COVID-19 treatment
+
+Clinical trials
+
+Clinical trials applied in thyroid cancer
+
+FDA-approved therapeutic indications
+
+Primary targets
+
+Drug code
+
+Drug trade name
+
+TABLE 2 | Continued
+
+reduce infl ammatory cytokines and pulmonary infi ltration in animal models of SARS-CoV-2 infection and A549-ACE2 cells (102) may hinder viral attachment and replication by locking the SBD in a closed conformation triggering apoptosis in infected cells (84, 111, 112)
+
+phase II clinical trials phase III clinical trials
+
+phase II clinical trials
+
+MTC:44%PR, 30.5 months PSF DTC:8.3%PR,11.3 months PSF (103 -109) PTC: 38.5% PR, 57.5% SD,18.2 months PFS (110)
+
+MTC
+
+VEGFR2/3 EGFR, RET
+
+ZD6474
+
+Vandetanib
+
+BRAF V600E melanomas
+
+BRAF V600E
+
+PLX-4032
+
+Vemurafenib
+
+(Clinical trials applied in thyroid cancer: choose the best experimental results). ALK, anaplastic lymphoma kinase; ATC, anaplastic thyroid cancer; BRAF, B-raf proto-oncogene, serine/threonine kinase; DTC, differentiated thyroid cancer; EGFR, epidermal growth factor receptor; GIST, gastrointestinal stromal tumors; HCC, hepatocellular carcinomas; HER2, human epidermal growth factor receptor-2; MAPK, mitogen-activated protein kinases; MTC, medullary thyroid carcinoma; mTOR, mechanistic target of rapamycin; NTRK, neurotrophic tropomyosin receptor kinase; NSCLC, non-small cell lung cancers; PDGFR, platelet-derived growth factor; RET, rearrangement during transfection; RCC, renal cell carcinomas;ROS1, ros oncogene1 kinase; VEGFR, vascular endothelial growth factor.
+
+Hereditary MTCs and half of sporadic MTCs have RET mutations (114). Vandetanib can inhibit tumor cell proliferation in a wide range of preclinical models and phase II clinical trials (103). Wells et al. found that in MTC patients who received vandetanib treatment, 20% had partial remission (PR), while 53% had stable disease (SD) for more than 24 weeks (104). In another cohort of MTC patients, Robinson et al. found that 16% had PR and 53% had SD for at least 24 weeks after vandetanib treatment (105). In a phase III clinical trial of vandetanib for the treatment of MTC, Wells et al. found PR in 44% of patients and a median PFS of 30.5 months (106). Additionally, vandetanib was effective in adolescents with hereditary MTC and ectopic Cushing ' s syndrome caused by progressive MTC (107, 108). In a phase II clinical trial, Leboulleux et al. found that vandetanib prolonged the median PFS to 11.1 months and led to PR in 8.3% of patients with advanced RAI-refractory DTC (109).
+
+COVID-19 is often associated with a cytokine storm response involving inflammatory cytokines, which leads to multiple organ dysfunction. Importantly, MKIs have anti-inflammatory and cytokine inhibitory activities. They may be used for broader spectrum antiviral therapy and can reduce the possibility of lifethreatening diseases caused by respiratory virus infection-related lung injury (115). MKIs may be useful as treatment for COVID19 (115). Puhl et al. evaluated the efficacy of vandetanib in an animal model and A549 -angiotensin-converting enzyme 2 cells that had been infected with SARS-CoV-2. The treatment significantly reduced inflammatory cytokines and immune cell infiltration in the lungs, suggesting that vandetanib can be used for treatment of COVID-19 (102).
+
+## Cabozantinib
+
+Cabozantinib blocks VEGFR, c-MET, and RET; it is the second FDA-approved drug for the treatment of progressive and symptomatic MTC (116). Compared to vandetanib, cabozantinib has more potent antiangiogenic activity (117). Bentzien et al. demonstrated that cabozantinib effectively inhibited the growth of MTC tumors (59). In a phase I study of cabozantinib for the treatment of advanced MTC, 41% of patients had SD for 6 months, while 68% of patients had confirmed PR (60). The selection of vandetanib or cabozantinib is made according to the patient ' s age, comorbidities, disease manifestations, and progression. Thus far, clinical evidence suggests that vandetanib is better tolerated, compared to cabozantinib. Patients with a poor constitution and older patients may prefer vandetanib. However, patients receiving cabozantinib may experience few or no side effects (61). Similar to vandetanib, cabozantinib has not yet been approved for the treatment of DTC. However, in a study of 15 patients with DTC who had not responded to standard RAI therapy, Cabanillas et al. found that eight patients (53%) experienced PR after treatment with cabozantinib (62).
+
+The COVID-19 pandemic has required more careful selection of targeted drugs. Experts recommend continued use of cabozantinib in patients without obvious contraindications (58). Thus far, there remains no relevant research concerning the use of cabozantinib in the treatment of thyroid cancer.
+
+## Sorafenib
+
+Sorafenib is approved for the treatment of RAI-refractory DTC. It blocks VEGFR, platelet-derived growth factor, fibroblast growth factor, and RET receptors (118). Three prospective trials had shown that sorafenib was effective against metastatic thyroid cancer, including PTC and RAI-refractory DTC (52, 93, 94). In a clinical trial of sorafenib by Abramson et al., 23% of patients had PR and 53% of patients had SD; the median PFS was 79 weeks (93). Additional studies had shown that sorafenib was effective for the treatment of MTC (95). Sorafenib had also been shown to inhibit the growth of orthotopic ATC xenografts and improve survival in experimental animals with ATC (96). However, Ito et al. reported that sorafenib was not effective for treating ATC (97).
+
+Sorafenib has been reported to exhibit antiviral effects. It prevents viral egress by Rift Valley fever virus through the inhibition of valosin-containing protein function (91). A new computational approach has suggested that sorafenib treatment interacts with genes that are differentially expressed during SARS-CoV-2 infection, offering a potential therapeutic candidate for COVID-19 (92). Additionally, a drug interaction has been reported between MKIs and medications used for COVID-19 treatment; the interaction causes QT prolongation and CYP3A4 inhibition. Therefore, sorafenib should be discontinued during chloroquine/hydroxychloroquine treatment. If symptoms such as hypokalemia and fever occur, MKIs should be stopped immediately and a cardiology consultation should be conducted (77).
+
+Similarly, lopinavir/ritonavir should be used with caution in patients receiving sorafenib. Patients with thyroid cancer who received MKIs reportedly experienced more COVID-19 virus infections, compared to patients who did not receive MKIs (119). Among patients with thyroid cancer, a greater risk of COVID-19 complications is associated with MKI treatment or external beam radiation therapy, the presence of lung metastases, older age, and the presence of other comorbidities (37).
+
+## Lenvatinib
+
+Similar to other MKIs, lenvatinib exerts its actions by targeting tumor angiogenesis (120). It is mainly approved for RAIrefractory DTC treatment. Tohyama et al. reported that lenvatinib exhibited significant antitumor and antiangiogenic activity in a DTC xenograft model (79). Schlumberger et al. found that the median PFS was 18.3 months, and the response rate was 64.8% in the lenvatinib group (53). In contrast, Brose et al. conducted a phase III trial concerning the effect of age ( ≤ 65 or >65 years) on the efficacy of lenvatinib in patients with RAIrefractory DTC. The results showed a median PFS of 20.2 vs. 3.2 months and 16.7 vs. 3.7 months; elderly patients treated with lenvatinib had better overall survival. In contrast, younger patients had a significantly higher objective response rate than did older patients (72% vs. 55%) (80). Lenvatinib is also effective for the treatment of MTC. In a preclinical study conducted by Tohyama et al., lenvatinib showed significant antitumor activity in a model of MTC (79). In a phase II trial of lenvatinib for the treatment of advanced MTC, Schlumberger et al. showed that 36% of patients had PR, while 44% of patients had SD; the
+
+median PFS was 9 months (81). There is limited available data regarding lenvatinib for the treatment of ATC. In a preclinical study performed by Tohyama et al., lenvatinib had significant antitumor and antiangiogenic activity in an ATC xenograft model (79). However, Wirth et al. reported that lenvatinib monotherapy may not be an effective treatment for ATC (82). In a trial of lenvatinib combined with pembrolizumab for the treatment of ATC, Dierks et al. showed that 66% of patients had CR, while 16% had SD and 16% had PD; the median PFS was 16.5 months (83).
+
+Pohl et al. (78) screened 6000 compounds within the DrugBank library for their potential to inhibit the SARS-CoV2 3CL (i.e., 3C-like) main protease via high-throughput docking. They found that lenvatinib and remdesivir have obvious synergistic effects, which can inhibit SARS-CoV-2 replication. They validated this finding with cellular experiments; importantly, this synergistic inhibition was not caused by blocking interactions with VEGFR or platelet-derived growth factor receptor. The synergistic effect may be related to more efficient inhibition of viral transcription and replication processes, rather than any effect on early stages of the viral replication cycle. Locantore et al. reported the first case of a lenvatinib-treated thyroid cancer patient who developed COVID-19. The patient was diagnosed with DTC and had bilateral lung metastases; the patient was administered lenvatinib and exhibited partial response to treatment, along with reduction of lung metastases. Subsequently, the patient had a positive SARS-CoV-2 test result during treatment; the disease was initially asymptomatic, then progressed to cough and diarrhea after a few days. However, it did not progress to anosmia or fever; the patient continued lenvatinib and underwent daily monitoring of vital signs. Twenty-one days later, SARS-CoV-2 test results were negative, and no additional adverse events occurred (77). These findings suggest that continued lenvatinib treatment is safe during the COVID-19 pandemic, but there remains a need to monitor the safety profile and associated complications of continued cancer treatment in COVID-19 patients through larger studies and longer followup periods.
+
+## Dabrafenib and Trametinib
+
+Dabrafenib is a selective BRAFV600E-mutant kinase inhibitor, and trametinib is a mitogen-activated protein kinase inhibitor. The FDA has approved the two drugs for combination therapy for ATC with the BRAFV600E mutation (121). Subbiah et al. reported a 63% overall response rate and median PFS of 60 weeks in patients who had ATC with the BRAFV600E mutation (63). Islam et al. analyzed publicly available transcriptomic RNA-Seq data from patients with COVID-19 to identify differentially expressed genes using bioinformatics and network biology; they also performed drug retargeting analysis of hub genes. The computer analysis showed that dabrafenib was validated as the highest-scoring repurposed drug, suggesting its use as a potential treatment for COVID-19 (64). Through cell-based experiments, Wan et al. confirmed that dabrafenib could inhibit SARS-CoV-2 replication for potential treatment of COVID-19 (65). Chtita et al. performed virtual screening of
+
+approved drugs, then used virtual screening and molecular docking studies to evaluate the active site of the major protease (6lu7) of SARS-CoV-2; they showed that trametinib binds tightly to 6lu7, indicating that this drug may be effective for the treatment of COVID-19 (66).
+
+## Selpercatinib
+
+Selpercatinib is a selective RET receptor inhibitor approved by the FDA for the treatment of RET-mutated MTC (122). Jozaghi et al. reported the use of neoadjuvant therapy with selpercatinib in a patient who had RET-mutated MTC with extensive metastases (89). Al-Zaqri et al. evaluated the structural and electronic characteristics of selpercatinib through computational studies, various quantum mechanical analyses, and docking studies. They found that selpercatinib strongly binds to four isolated SARS-CoV-2 proteins; the results suggested that selpercatinib may mimic the activity of a SARSCoV-2 protein, thus blocking SARS-CoV-2 protein function and offering a potential treatment for COVID-19 (90).
+
+In addition to these FDA-approved kinase inhibitors for the treatment of thyroid cancer, other kinase inhibitors are used for clinical treatment of thyroid cancer.
+
+## Neurotrophic Tyrosine Receptor Kinase (NTRK) Inhibitors Entrectinib
+
+Entrectinib is a novel, potent inhibitor of anaplastic lymphoma kinase, c-ros oncogene 1 kinase ( ROS1), and important NTRK that treats tumors harboring oncogenic forms of these proteins (123). Liu et al. reported the use of entrectinib in a patient with ROS1-fused DTC who had DTC with metastases; they showed favorable treatment outcomes with peri-aortic nodules and the disappearance of liver metastases (68). El-aarag et al. used bioinformatics analysis to identify differentially expressed genes related to COVID-19, then used the Drug-Gene Interaction Database to search for promising drugs; they suggested that entrectinib could serve as a novel treatment for COVID-19 (69). Peralta-Garcia et al. reported the antiviral activity of entrectinib against SARS-CoV-2 in human lung tissue and in an antiviral assay involving human lung tissue cells (70).
+
+## Larotrectinib
+
+Larotrectinib is a selective NTRK inhibitor approved by the FDA for the treatment of solid tumors with NTRK gene fusions (124). Groussin et al. described a patient with PTC and lung metastases who did not respond to RAI treatment. That patient ' s PTC exhibited a fusion gene (EML4-NTRK3) and iodine uptake was reactivated after 3 weeks of larotrectinib therapy, suggesting that retreatment with RAI should be considered in patients receiving larotrectinib (75). Abhithaj et al. identified larotrectinib as a potential drug candidate for the treatment of COVID-19 through high-throughput virtual screening, as well as ultra-precision and standard precision docking models (76).
+
+## BRAF Inhibitors
+
+Vemurafenib is an inhibitor of the mutant serine-threonine kinase BRAF; it potently inhibits ERK phosphorylation and
+
+cell proliferation only in BRAF mutant cell lines (125). In a phase II trial of vemurafenib for the treatment of BRAFV600Emutated PTC, Brose et al. showed that 38.5% of patients had PR and 57.5% of patients had SD; the median PFS was 18.2 months (110). Cell surface-bound immunoglobulins include a substratebinding domain (SBD) that binds to polypeptides and a nucleotide-binding domain (111) that initiates exogenous caspase-dependent apoptosis. In contrast, cell surface-bound immunoglobulins can bind to SARS-CoV-2 (112). Zhang et al. used in silico analyses to identify 10 nucleotide-binding domainbinding candidates, including vemurafenib and nucleotidebinding domain-binding drugs that may hinder viral attachment and replication by locking the SBD in a closed conformation that triggers apoptosis in infected cells; t hefindings suggest that vemurafenib can be used for the treatment of COVID-19 (84).
+
+## Antiangiogenic Inhibitors
+
+Angiogenesis is the primary pathogenesis pathway in thyroid cancer. Some antiangiogenic MKIs (e.g., pazopanib, sunitinib, anlotinib, axitinib, and dovitinib) are effective for the treatment of thyroid cancer, mainly through the inhibition of VEGFR,fibrob last growth factor 1/2, platelet-derived growth factor receptor, and RET receptors (126). In a phase II clinical trial, Bible et al. showed that pazopanib has a therapeutic effect in patients with DTC or MTC (85, 86). They also conducted clinical trials involving patients with ATC, but the drug showed minimal activity in such patients (87). In a phase II clinical trial, Carrd et al. showed that sunitinib was effective for the treatment of DTC and MTC (100). Ravaud et al. also showed that sunitinib was effective for the clinical treatment of DTC but not ATC (101). Anlotinib has encouraging efficacy and a manageable and tolerable safety profile in many malignancies, including MTC (54). Sun et al. conducted a phase II clinical trial to confirm the antitumor activity of anlotinib in patients with advanced or metastatic MTC; they reported PR in 57% of patients (55). Capdevila et al. performed clinical trials of treatments for advanced RAI-resistant DTC and refractory MTC. They found better outcomes with first-line axitinib; the objective response rate was 53% and the median PFS was 13.6 months (56). Cohen showed that axitinib had significant antitumor activity in all histological subtypes of advanced thyroid cancer (57). Lim et al. demonstrated moderate activity and manageable toxicity of dovitinib in the treatment of locally advanced or metastatic TC, with PR in 21% of patients with DTC and 17% of patients with MTC (67).
+
+During the COVID-19 pandemic, there have been attempts to identify the potential effects of these drugs on patients with COVID-19. Kinase inhibitors have clear roles in reducing the infectivities of viruses such as Ebola and hepatitis C, suggesting that drugs such as sunitinib may be effective against SARS-CoV2( 98). Girgis et al. performed chemical modifications of sunitinib, then verified the antiviral properties of the products against SARS-CoV-2; they reported that sunitinib may be effective for the treatment of COVID-19 (99). Zhang et al. identified 10 SBD-binding drug candidates (including pazopanib); the predicted SBD-binding drugs may disrupt
+
+SARS-CoV-2 binding interactions with cell surface-bound immunoglobulins, suggesting that pazopanib can be used for the treatment of COVID-19 (84).
+
+## RET Inhibitors
+
+Pralsetinib is a selective RET receptor inhibitor approved by the FDA for the treatment of RET fusion-positive non-small cell lung cancer (127) .S u b i a he ta l .f o u n dt h a ta m o n gM T C patients, 4% had CR and 36% had PR, while the single PTC patient in the study also achieved PR and the tumor shrunk by 70%; the results suggest that pralsetinib is suitable for the treatment of RET-altered TC (88).
+
+## Serine-Threonine Kinase Inhibitors of mTOR
+
+Everolimus is an inhibitor of the mTOR serine/threonine kinase signal transduction pathway (128). The FDA has approved it for the treatment of HER2(-) breast cancers, pancreatic neuroendocrine tumors, and angiomyolipomas (129). Lim et al. conducted a phase II trial of everolimus in locally advanced or metastatic thyroid cancer; the results showed limited activity and low response rates (73). Hanna et al. found PR in 3% of patients with DTC, 10% of patients with MTC, and 14% of patients with ATC; the median PFS was 12.9 months (74).
+
+Everolimus-mediated mTOR inhibition may help to manage COVID-19 by reducing conventional T lymphocyte proliferation, attenuating the cytokine storm phenomenon, and maintaining regulatory T cell growth and activity (71). However, the dosage, safety, and adverse reactions of everolimus for the treatment of COVID-19 require further research (72).
+
+## IMMUNOTHERAPY
+
+The development and approval of cancer-specific immunotherapy has led to new avenues and methods for the treatment of malignant tumors (130). Thus far, few immunotherapy trials have focused on TC. Pembrolizumab is a humanized monoclonal anti-PD-1 antibody approved by the FDA for the treatment of advanced melanoma and NSCLC (131). Mehnert et al. conducted a clinical trial of pembrolizumab in patients with advanced PD-L1-positive DTC. The results showed that the median overall survival was not reached, while two patients (9%) achieved PR, indicating that pembrolizumab has antitumor activity in a few patients with advanced DTC (132). Spartalizumab is an immunoglobulin-4 monoclonal antibody that binds PD-1, thereby blocking its interactions with PD-L1 and PD-L2 (133). Capdevila et al. conducted a clinical trial of the therapeutic effect of spartalizumab in ATC. The results showed that 7% of patients had
+
+## REFERENCES
+
+- 1. Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer Statistics, 2021. CA Cancer J Clin (2021) 71:7 -33. doi: 10.3322/caac.21654
+- 2. Seib CD, Sosa JA. Evolving Understanding of the Epidemiology of Thyroid Cancer. Endocrinol Metab Clin North Am (2019) 48:23 -35. doi: 10.1016/ j.ecl.2018.10.002
+
+CR, while 12% of patients had CR; the 1-year survival rate in the PD-L1-positive population was 52.1%. These findings indicate that spartalizumab has a therapeutic effect in patients with PD-L1positive ATC (134). Loretelli et al. analyzed the immunological characteristics of patients who recovered from COVID-19; they found that PD-1 blockade normalized the immune phenotype and restored T-cell function, thereby improving immune abnormalities after COVID-19. This treatment approach can also stimulate an anti-SARS-CoV-2 immune response (135). Thus, pembrolizumab and spartalizumab may be effective for the treatment of COVID-19.
+
+## CONCLUSION
+
+The impact of COVID-19 on thyroid cancer is unprecedented. It affects the diagnosis, treatment, and management of thyroid cancer. Diagnosis is delayed and treatment requires more careful choices. However, in the case of the gradual normalization of the epidemic situation, the treatment of thyroid cancer should continue. Compared to surgery and RAI treatment, drug therapy appears to be a safer option. Some targeted therapies (e.g., MKIs and immunotherapy) have demonstrated robust effects on thyroid cancer, and some drugs are also effective in treating COVID-19. If appropriate drugs and safe doses can be selected, it will be better for patients with thyroid cancer combined with COVID-19. However, the drug dosage and safety must be validated in future studies.
+
+## AUTHOR CONTRIBUTIONS
+
+FH and XS: Conceptualization, Writing - Review and Editing. NQ, ZH, and ZS: Methodology, Software, Visualization, Writing - Original Draft. CK and NH: Visualization, Writing- Review. All authors contributed to the article and approved the submitted version.
+
+## FUNDING
+
+This study was supported by grants from National Natural Science Foundation of China (81870593, 82170865), Natural Science Foundation of Shandong Province (ZR2020MH106), Shandong Province Higher Educational Science and Technology Program for Youth Innovation (2020KJL004), and Doctor Startup Fund of Affiliated Hospital of Weifang Medical University (2020BSQD01).
+
+- 3. Wells SA Jr. Progress in Endocrine Neoplasia. Clin Cancer Res (2016) 22:4981 -8. doi: 10.1158/1078-0432.CCR-16-0384
+- 4. Cabanillas ME, McFadden DG, Durante C. Thyroid Cancer. Lancet (2016) 388:2783 -95. doi: 10.1016/S0140-6736(16)30172-6
+- 5. Zhang H, Zhao YC, Wu Q, Wang L, Sun S. The Prognostic Value of Lymph Node Metastasis and the Eighth Edition of AJCC for Patients With Anaplastic Thyroid Cancer. Clin Endocrinol (Oxf) (2021) 95:498 -507. doi: 10.1111/cen.14482
+
+- 6. Gorbalenya AE, Baker SC, Baric RS, de Groot RJ, Drosten C, Gulyaeva A, et al. The Species Severe Acute Respiratory Syndrome-Related Coronavirus: Classifying 2019-Ncov and Naming It SARS-CoV-2. Nat Microbiol (2020) 5:536 -44. doi: 10.1038/s41564-020-0695-z
+- 7. Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA (2020) 323:1239 -42. doi: 10.1001/jama.2020.2648
+- 8. Agrawal U, Katikireddi SV, McCowan C, Mulholland RH, Azcoaga-Lorenzo A, Amele S, et al. COVID-19 Hospital Admissions and Deaths After BNT162b2 and ChAdOx1 Ncov-19 Vaccinations in 2·57 Million People in Scotland (EAVE II): A Prospective Cohort Study. Lancet Respir Med (2021) 9:1439 -49. doi: 10.1016/S2213-2600(21)00380-5
+- 9. Maringe C, Spicer J, Morris M, Purushotham A, Nolte E, Sullivan R, et al. The Impact of the COVID-19 Pandemic on Cancer Deaths Due to Delays in Diagnosis in England, UK: A National, Population-Based, Modelling Study. Lancet Oncol (2020) 21:1023 -34. doi: 10.1016/S1470-2045(20)30388-0
+- 10. Tay MZ, Poh CM, Re ́ nia L, MacAry PA, Ng L. The Trinity of COVID-19: Immunity, Inflammation and Intervention. Nat Rev Immunol (2020) 20:363 -74. doi: 10.1038/s41577-020-0311-8
+- 11. Pillalamarri N, Abdullah, Ren G, Khan L, Ullah A, Jonnakuti S, et al. Exploring the Utility of Extracellular Vesicles in Ameliorating Viral Infection-Associated Inflammation, Cytokine Storm and Tissue Damage. Transl Oncol (2021) 14:101095. doi: 10.1016/j.tranon.2021.101095
+- 12. Castellone MD, Santoro M. Dysregulated RET Signaling in Thyroid Cancer. Endocrinol Metab Clin North Am (2008) 37:363 -74, viii. doi: 10.1016/ j.ecl.2008.02.006
+- 13. Landa I, Ibrahimpasic T, Boucai L, Sinha R, Knauf JA, Shah RH, et al. Genomic and Transcriptomic Hallmarks of Poorly Differentiated and Anaplastic Thyroid Cancers. JC l i nI n v e s t (2016) 126:1052 -66. doi: 10.1172/JCI85271
+- 14. Agrawal N, Akbani R, Aksoyet BA, Ally A, Arachchi H, Asa SL, et al. Integrated Genomic Characterization of Papillary Thyroid Carcinoma. Cell (2014) 159:676 -90. doi: 10.1016/j.cell.2014.09.050
+- 15. Klein M, Vignaud JM, Hennequin V, Toussaint B, Bresler L, Ple ́ nat F, et al. Increased Expression of the Vascular Endothelial Growth Factor is a Pejorative Prognosis Marker in Papillary Thyroid Carcinoma. JC l i n Endocrinol Metab (2001) 86:656 -8. doi: 10.1210/jcem.86.2.7226
+- 16. Kurihara T, Ikeda S, Ishizaki Y, Fujimori M, Tokumoto N, Hirata Y, et al. Immunohistochemical and Sequencing Analyses of the Wnt Signaling Components in Japanese Anaplastic Thyroid Cancers. Thyroid (2004) 14:1020 -9. doi: 10.1089/thy.2004.14.1020
+- 17. Xing M. Genetic Alterations in the Phosphatidylinositol-3 Kinase/Akt Pathway in Thyroid Cancer. Thyroid (2010) 20:697 -706. doi: 10.1089/ thy.2010.1646
+- 18. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus From Patients With Pneumonia in China, 2019. N Engl J Med (2020) 382:727 -33. doi: 10.1056/NEJMoa2001017
+- 19. van Boheemen S, de Graaf M, Lauber C, Bestebroer TM, Raj VS, Zaki AM, et al. Genomic Characterization of a Newly Discovered Coronavirus Associated With Acute Respiratory Distress Syndrome in Humans. mBio (2012) 3(6):e00473 -12. doi: 10.1128/mBio.00473-12
+- 20. Frieman M, Yount B, Heise M, Kopecky-Bromberg SA, Palese P, Baric RS. Severe Acute Respiratory Syndrome Coronavirus ORF6 Antagonizes STAT1 Function by Sequestering Nuclear Import Factors on the Rough Endoplasmic Reticulum/Golgi Membrane. JV i r o l (2007) 81:9812 -24. doi: 10.1128/JVI.01012-07
+- 21. Hoffmann M, Kleine-Weber H, Schroeder S, Krüger N, Herrler T, Erichsen S, et al. SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. Cell (2020) 181:271 -80.e8. doi: 10.1016/j.cell.2020.02.052
+- 22. Han T, Kang J, Li G, Ge J, Gu J. Analysis of 2019-Ncov Receptor ACE2 Expression in Different Tissues and its Significance Study. Ann Transl Med (2020) 8:1077. doi: 10.21037/atm-20-4281
+- 23. Li MY, Li L, Zhang Y, Wang XS. Expression of the SARS-CoV-2 Cell Receptor Gene ACE2 in a Wide Variety of Human Tissues. Infect Dis Poverty (2020) 9:45. doi: 10.1186/s40249-020-00662-x
+
+- 24. Giovanella L, Ruggeri RM, Ovc ̌ aric ̌ ek PP, Campenni A, Treglia G, Deandreis D. Prevalence of Thyroid Dysfunction in Patients With COVID-19: A Systematic Review. Clin Transl Imaging (2021) 9:233 -40. doi: 10.1007/ s40336-021-00419-y
+- 25. Trimboli P, Cappelli C, Croce L, Scappaticcio L, Chiovato L, Rotondi M. COVID-19-Associated Subacute Thyroiditis: Evidence-Based Data From a Systematic Review. Front Endocrinol (Lausanne) (2021) 12:707726. doi: 10.3389/fendo.2021.707726
+- 26. Wong CK, Lam CW, Wu AK, Ip WK, Lee NL, Chan IH, et al. Plasma Inflammatory Cytokines and Chemokines in Severe Acute Respiratory Syndrome. Clin Exp Immunol (2004) 136:95 -103. doi: 10.1111/j.13652249.2004.02415.x
+- 27. De Vito P, Incerpi S, Pedersen JZ, Luly P, Davis FB, Davis PJ. Thyroid Hormones as Modulators of Immune Activities at the Cellular Level. Thyroid (2011) 21:879 -90. doi: 10.1089/thy.2010.0429
+- 28. Scappaticcio L, Pitoia F, Esposito K, Piccardo A, Trimboli P. Impact of COVID-19 on the Thyroid Gland: An Update. Rev Endocr Metab Disord (2021) 22:803 -15. doi: 10.1007/s11154-020-09615-z
+- 29. Dai M, Liu D, Liu M, Zhou F, Li G, Chen Z, et al. Patients With Cancer Appear More Vulnerable to SARS-CoV-2: A Multicenter Study During the COVID-19 Outbreak. Cancer Discovery (2020) 10:783 -91. doi: 10.1158/ 2159-8290.CD-20-0422
+- 30. Li J, Wang Q, Wang L, Wang J, Wang D, Xin Z, et al. Diagnostic Value of Fine-Needle Aspiration Combined With Ultrasound for Thyroid Cancer. Oncol Lett (2019) 18:2316 -21. doi: 10.3892/ol.2019.10584
+- 31. Spartalis E, Plakopitis N, Theodori MA, Karagiannis SP, Athanasiadis DI, Spartalis M, et al. Thyroid Cancer Surgery During the Coronavirus Disease 2019 Pandemic: Perioperative Management and Oncological and Anatomical Considerations. Future Oncol (2021) 17:4389 -95. doi: 10.2217/fon-2021-0585
+- 32. Bellevicine C, Vigliar E, Troncone G. Thyroid FNA in the Time of Coronavirus: The Interventional Cytopathologist Point of View. Cancer Cytopathol (2020) 128:589. doi: 10.1002/cncy.22294
+- 33. Vigliar E, Iaccarino A, Bruzzese D, Malapelle U, Bellevicine C, Troncone G. Cytology in the Time of Coronavirus Disease (COVID-19): An Italian Perspective. J Clin Pathol (2021) 74:261 -3. doi: 10.1136/jclinpath-2020206614
+- 34. Pathania AS, Prathipati P, Abdul BA, Chava S, Katta SS, Gupta SC, et al. COVID-19 and Cancer Comorbidity: Therapeutic Opportunities and Challenges. Theranostics (2021) 11:731 -53. doi: 10.7150/thno.51471
+- 35. Kuderer NM, Choueiri TK, Shah DP, Shyr Y, Rubinstein SM, Rivera DR, et al. Clinical Impact of COVID-19 on Patients With Cancer (CCC19): A Cohort Study. Lancet (2020) 395:1907 -18. doi: 10.1016/S0140-6736(20) 31187-9
+- 36. Wang Q, Berger NA, Xu R. Analyses of Risk, Racial Disparity, and Outcomes Among US Patients With Cancer and COVID-19 Infection. JAMA Oncol (2021) 7:220 -7. doi: 10.1001/jamaoncol.2020.6178
+- 37. Duntas LH, Jonklaas J. COVID-19 and Thyroid Diseases: A Bidirectional Impact. J Endocr Soc (2021) 5:bvab076. doi: 10.1210/jendso/bvab076
+- 38. Filetti S, Durante C, Hartl D, Leboulleux S, Locati LD, Newbold K, et al. Thyroid Cancer: ESMO Clinical Practice Guidelines for Diagnosis, Treatment and Follow-Up † . Ann Oncol (2019) 30:1856 -83. doi: 10.1093/ annonc/mdz400
+- 39. Ferrari M, Paderno A, Giannini L, Cazzador D, Ciardiello C, Carretta G, et al. COVID-19 Screening Protocols for Preoperative Assessment of Head and Neck Cancer Patients Candidate for Elective Surgery in the Midst of the Pandemic: A Narrative Review With Comparison Between Two Italian Institutions. Oral Oncol (2021) 112:105043. doi: 10.1016/j.oraloncology. 2020.105043
+- 40. Abahuje E, Abbas A, Abd El Aziz Abd El Maksoud M, Abdelhady A, Abdelhamid S, Abdelkarem Ahmed Faraj H, et al. BJS Commission on Surgery and Perioperative Care Post-COVID-19. Br J Surg (2021) 108:1162 -80. doi: 10.1093/bjs/znab307
+- 41. Liu H, Zhan L, Guo L, Yu X, Li L, Feng H, et al. More Aggressive Cancer Behaviour in Thyroid Cancer Patients in the Post-COVID-19 Pandemic Era: A Retrospective Study. Int J Gen Med (2021) 14:7197 -206. doi: 10.2147/ IJGM.S339998
+
+- 42. Lombardi CP, D ' Amore A, Grani G, Ramundo V, Boscherini M, Gordini L, et al. Endocrine Surgery During COVID-19 Pandemic: Do We Need an Update of Indications in Italy. Endocrine (2020) 68:485 -8. doi: 10.1007/ s12020-020-02357-7
+- 43. Tsamakis K, Gavriatopoulou M, Schizas D, Stravodimou A, Mougkou A, Tsiptsios D, et al. Oncology During the COVID-19 Pandemic: Challenges, Dilemmas and the Psychosocial Impact on Cancer Patients. Oncol Lett (2020) 20:441 -7. doi: 10.3892/ol.2020.11599
+- 44. Medas F, Ansaldo GL, Avenia N, Basili G, Boniardi M, Bononi M, et al. The THYCOVIT (Thyroid Surgery During COVID-19 Pandemic in Italy) Study: Results From a Nationwide, Multicentric, Case-Controlled Study. Updates Surg (2021) 73:1467 -75. doi: 10.1007/s13304-021-01051-1
+- 45. Piazza C, Filauro M, Dikkers FG, Nouraei S, Sandu K, Sittel C, et al. LongTerm Intubation and High Rate of Tracheostomy in COVID-19 Patients Might Determine an Unprecedented Increase of Airway Stenoses: A Call to Action From the European Laryngological Society. Eur Arch Otorhinolaryngol (2021) 278:1 -7. doi: 10.1007/s00405-020-06112-6
+- 46. Mehanna H, Hardman JC, Shenson JA, Abou-Foul AK, Topf MC, AlFalasi M, et al. Recommendations for Head and Neck Surgical Oncology Practice in a Setting of Acute Severe Resource Constraint During the COVID-19 Pandemic: An International Consensus. Lancet Oncol (2020) 21:e350 -350e359. doi: 10.1016/S1470-2045(20)30334-X
+- 47. Gosain R, Alexander JS, Gill A, Perez C. Radioactive Iodine-Refractory Differentiated Thyroid Cancer in the Elderly. Curr Oncol Rep (2018) 20:82. doi: 10.1007/s11912-018-0736-4
+- 48. Jiang L, Zhan Y, Gu Y, Ye Y, Cheng Y, Shi H. Changes of Regulatory T and B Cells in Patients With Papillary Thyroid Carcinoma After 131I Radioablation: A Preliminary Study. BioMed Res Int (2013) 2013:683768. doi: 10.1155/2013/683768
+- 49. Barsegian V, Müller SP, Horn PA, Bockisch A, Lindemann M. Lymphocyte Function Following Radioiodine Therapy in Patients With Thyroid Carcinoma. Nuklearmedizin (2011) 50:195 -203. doi: 10.3413/nukmed04241108
+- 50. Sahin M, Haymana C, Demirci I, Tasci I, R ı fat E, Unluturk U, et al. The Clinical Outcomes of COVID-19 Infection in Patients With a History of Thyroid Cancer: A Nationwide Study. Clin Endocrinol (Oxf) (2021) 95:628 -37. doi: 10.1111/cen.14486
+- 51. Ancker OV, Krüger M, Wehland M, Infanger M, Grimm D. Multikinase Inhibitor Treatment in Thyroid Cancer. Int J Mol Sci (2019) 21(1):10. doi: 10.3390/ijms21010010
+- 52. Brose MS, Nutting CM, Jarzab B, Elisei R, Siena S, Bastholt L, et al. Sorafenib in Radioactive Iodine-Refractory, Locally Advanced or Metastatic Differentiated Thyroid Cancer: A Randomised, Double-Blind, Phase 3 Trial. Lancet (2014) 384:319 -28. doi: 10.1016/S0140-6736(14)60421-9
+- 53. Schlumberger M, Tahara M, Wirth LJ, Robinson B, Brose MS, Elisei R, et al. Lenvatinib Versus Placebo in Radioiodine-Refractory Thyroid Cancer. N Engl J Med (2015) 372:621 -30. doi: 10.1056/NEJMoa1406470
+- 54. Gao Y, Liu P, Shi R. Anlotinib as a Molecular Targeted Therapy for Tumors. Oncol Lett (2020) 20:1001 -14. doi: 10.3892/ol.2020.11685
+- 55. Sun Y, Du F, Gao M, Ji Q, Li Z, Zhang Y, et al. Anlotinib for the Treatment of Patients With Locally Advanced or Metastatic Medullary Thyroid Cancer. Thyroid (2018) 28:1455 -61. doi: 10.1089/thy.2018.0022
+- 56. Capdevila J, Trigo JM, Aller J, Manzano JL, Adria ́ n SG, Llopis CZ, et al. Axitinib Treatment in Advanced RAI-Resistant Differentiated Thyroid Cancer (DTC) and Refractory Medullary Thyroid Cancer (MTC). Eur J Endocrinol (2017) 177:309 -17. doi: 10.1530/EJE-17-0243
+- 57. Cohen EE, Rosen LS, Vokes EE, Kies MS, Forastiere AA, Worden FP, et al. Axitinib is an Active Treatment for All Histologic Subtypes of Advanced Thyroid Cancer: Results From a Phase II Study. J Clin Oncol (2008) 26:4708 -13. doi: 10.1200/JCO.2007.15.9566
+- 58. Miller K, Bergmann L, Doehn C, Grünwald V, Gschwend JE, Ivanyi P, et al. [Interdisciplinary Recommendations for the Treatment of Advanced Metastatic Renal Cell Carcinoma]. Aktuelle Urol (2020) 51:572 -81. doi: 10.1055/a-1252-1780
+- 59. Bentzien F, Zuzow M, Heald N, Gibson A, Shi Y, Goon L, et al. In Vitro and In Vivo Activity of Cabozantinib (XL184), an Inhibitor of RET, MET, and VEGFR2, in a Model of Medullary Thyroid Cancer. Thyroid (2013) 23:1569 -77. doi: 10.1089/thy.2013.0137
+
+- 60. Kurzrock R, Sherman SI, Ball DW, Forastiere AA, Cohen RB, Mehra R, et al. Activity of XL184 (Cabozantinib), an Oral Tyrosine Kinase Inhibitor, in Patients With Medullary Thyroid Cancer. J Clin Oncol (2011) 29:2660 -6. doi: 10.1200/JCO.2010.32.4145
+- 61. Cabanillas ME, Hu MI, Jimenez C. Medullary Thyroid Cancer in the Era of Tyrosine Kinase Inhibitors: to Treat or Not to Treat -and With Which Drug -Those are the Questions. J Clin Endocrinol Metab (2014) 99:4390 -6. doi: 10.1210/jc.2014-2811
+- 62. Cabanillas ME, Brose MS, Holland J, Ferguson KC, Sherman SI. A Phase I Study of Cabozantinib (XL184) in Patients With Differentiated Thyroid Cancer. Thyroid (2014) 24:1508 -14. doi: 10.1089/thy.2014.0125
+- 63. Subbiah V, Kreitman RJ, Wainberg ZA, Cho JY, Schellens J, Soria JC, et al. Dabrafenib and Trametinib Treatment in Patients With Locally Advanced or Metastatic BRAF V600-Mutant Anaplastic Thyroid Cancer. J Clin Oncol (2018) 36:7 -13. doi: 10.1200/JCO.2017.73.6785
+- 6 4 .I s l a mT ,R a h m a nM R ,A y d i nB ,B e k l e nH ,A r g aK Y ,S h a j a m a nM . Integrative Transcriptomics Analysis of Lung Epithelial Cells and Identification of Repurposable Drug Candidates for COVID-19. Eur J Pharmacol (2020) 887:173594. doi: 10.1016/j.ejphar.2020.173594
+- 65. Wan W, Zhu S, Li S, Shang W, Zhang R, Li H, et al. High-Throughput Screening of an FDA-Approved Drug Library Identifies Inhibitors Against Arenaviruses and SARS-CoV-2. ACS Infect Dis (2021) 7:1409 -22. doi: 10.1021/acsinfecdis.0c00486
+- 66. Chtita S, Belhassan A, Aouidate A, Belaidi S, Bouachrine M, LakhlifiT. Discovery of Potent SARS-CoV-2 Inhibitors From Approved Antiviral Drugs via Docking and Virtual Screening. Comb Chem High Throughput Screen (2021) 24:441 -54. doi: 10.2174/1386207323999200730205447
+- 67. Lim SM, Chung WY, Nam KH, Kang SW, Lim JY, Kim HG, et al. An Open Label, Multicenter, Phase II Study of Dovitinib in Advanced Thyroid Cancer. Eur J Cancer (2015) 51:1588 -95. doi: 10.1016/j.ejca.2015.05.020
+- 68. Liu SV, Macke LA, Colton BS, Imran SS, Christiansen J, Chow-Maneval E, et al. Response to Entrectinib in Differentiated Thyroid Cancer With a ROS1 Fusion. JCO Precis Oncol (2017) 1:PO.17.00105. doi: 10.1200/PO.17.00105
+- 69. El-Aarag SA, Mahmoud A, ElHefnawi M. Identifying Potential Novel Insights for COVID-19 Pathogenesis and Therapeutics Using an Integrated Bioinformatics Analysis of Host Transcriptome. Int J Biol Macromol (2022) 194:770 -80. doi: 10.1016/j.ijbiomac.2021.11.124
+- 70. Peralta-Garcia A, Torrens-Fontanals M, Stepniewski TM, Grau-Expo ́ sito J, Perea D, Ayinampudi V, et al. Entrectinib-A SARS-CoV-2 Inhibitor in Human Lung Tissue (HLT) Cells. Int J Mol Sci (2021) 22(24):13592. doi: 10.3390/ijms222413592
+- 71. Procaccini C, De Rosa V, Galgani M, Abanni L, Calì G, Porcellini A, et al. An Oscillatory Switch in mTOR Kinase Activity Sets Regulatory T Cell Responsiveness. Immunity (2010) 33:929 -41. doi: 10.1016/j.immuni. 2010.11.024
+- 72. Terrazzano G, Rubino V, Palatucci AT, Giovazzino A, Carriero F, Ruggiero G. An Open Question: Is It Rational to Inhibit the Mtor-Dependent Pathway as COVID-19 Therapy. Front Pharmacol (2020) 11:856. doi: 10.3389/ fphar.2020.00856
+- 73. Lim SM, Chang H, Yoon MJ, Hong YK, Kim H, Chung WY, et al. A Multicenter, Phase II Trial of Everolimus in Locally Advanced or Metastatic Thyroid Cancer of All Histologic Subtypes. Ann Oncol (2013) 24:3089 -94. doi: 10.1093/annonc/mdt379
+- 74. Hanna GJ, Busaidy NL, Chau NG, Wirth LJ, Barletta JA, Calles A, et al. Genomic Correlates of Response to Everolimus in Aggressive RadioiodineRefractory Thyroid Cancer: A Phase II Study. Clin Cancer Res (2018) 24:1546 -53. doi: 10.1158/1078-0432.CCR-17-2297
+- 75. Groussin L, Clerc J, Huillard O. Larotrectinib-Enhanced Radioactive Iodine Uptake in Advanced Thyroid Cancer. N Engl J Med (2020) 383:1686 -7. doi: 10.1056/NEJMc2023094
+- 76. Abhitag J, Francis D, Sharanya CS, Arun KG, Sadasivan C, Variyar EJ. Repurposing Simeprevir, Calpain Inhibitor IV and a Cathepsin F Inhibitor Against SARS-CoV-2 and Insights Into Their Interactions With M(pro). J Biomol Struct Dyn (2022) 40:325 -36. doi: 10.1080/07391102.2020.1813200
+- 77. Locantore P, Del Gatto V, Corsello A, Pontecorvi A. Lenvatinib Treatment for Thyroid Cancer in COVID Era: Safety in a Patient With Lung Metastases and SARS-CoV-2 Infection. Anticancer Drugs (2021) 32:1116 -7. doi: 10.1097/CAD.0000000000001097
+
+- 78. Pohl MO, Busnadiego I, Marrafino F, Wiedmer L, Hunziker A, Fernbach S, et al. Combined Computational and Cellular Screening Identifies Synergistic Inhibition of SARS-CoV-2 by Lenvatinib and Remdesivir. J Gen Virol (2021) 102(7):001625. doi: 10.1099/jgv.0.001625
+- 79. Tohyama O, Matsui J, Kodama K, Hata-Sugi N, Kimura T, Okamoto K, et al. Antitumor Activity of Lenvatinib (E7080): An Angiogenesis Inhibitor That Targets Multiple Receptor Tyrosine Kinases in Preclinical Human Thyroid Cancer Models. J Thyroid Res (2014) 2014:638747. doi: 10.1155/2014/ 638747
+- 80. Brose MS, Worden FP, Newbold KL, Guo M, Hurria A. Effect of Age on the Efficacy and Safety of Lenvatinib in Radioiodine-Refractory Differentiated Thyroid Cancer in the Phase III SELECT Trial. J Clin Oncol (2017) 35:2692 -9. doi: 10.1200/JCO.2016.71.6472
+- 81. Schlumberger M, Jarzab B, Cabanillas ME, Robinson B, Pacini F, Ball DW, et al. A Phase II Trial of the Multitargeted Tyrosine Kinase Inhibitor Lenvatinib (E7080) in Advanced Medullary Thyroid Cancer. Clin Cancer Res (2016) 22:44 -53. doi: 10.1158/1078-0432.CCR-15-1127
+- 82. Wirth LJ, Brose MS, Sherman EJ, Licitra L, Schlumberger M, Sherman SI, et al. Open-Label, Single-Arm, Multicenter, Phase II Trial of Lenvatinib for the Treatment of Patients With Anaplastic Thyroid Cancer. J Clin Oncol (2021) 39:2359 -66. doi: 10.1200/JCO.20.03093
+- 83. Dierks C, Seufert J, Aumann K, Ruf J, Klein C, Kiefer S, et al. Combination of Lenvatinib and Pembrolizumab Is an Effective Treatment Option for Anaplastic and Poorly Differentiated Thyroid Carcinoma. Thyroid (2021) 31:1076 -85. doi: 10.1089/thy.2020.0322
+- 84. Zhang Y, Greer RA, Song Y, Praveen H, Song Y. In Silico Identification of Available Drugs Targeting Cell Surface BiP to Disrupt SARS-CoV-2 Binding and Replication: Drug Repurposing Approach. Eur J Pharm Sci (2021) 160:105771. doi: 10.1016/j.ejps.2021.105771
+- 85. Bible KC, Suman VJ, Molina JR, Smallridge RC, Maples WJ, Menefee ME, et al. Efficacy of Pazopanib in Progressive, Radioiodine-Refractory, Metastatic Differentiated Thyroid Cancers: Results of a Phase 2 Consortium Study. Lancet Oncol (2010) 11:962 -72. doi: 10.1016/S14702045(10)70203-5
+- 86. Bible KC, Suman VJ, Molina JR, Smallridge RC, Maples WJ, Menefee ME, et al. A Multicenter Phase 2 Trial of Pazopanib in Metastatic and Progressive Medullary Thyroid Carcinoma: MC057H. J Clin Endocrinol Metab (2014) 99:1687 -93. doi: 10.1210/jc.2013-3713
+- 87. Bible KC, Suman VJ, Menefee ME, Smallridge RC, Molina JR, Maples WJ, et al. A Multiinstitutional Phase 2 Trial of Pazopanib Monotherapy in Advanced Anaplastic Thyroid Cancer. J Clin Endocrinol Metab (2012) 97:3179 -84. doi: 10.1210/jc.2012-1520
+- 88. Subbiah V, Hu MI, Wirth LJ, Schuler M, Mansfield AS, Curigliano G, et al. Pralsetinib for Patients With Advanced or Metastatic RET-Altered Thyroid Cancer (ARROW): A Multi-Cohort, Open-Label, Registrational, Phase 1/2 Study. Lancet Diabetes Endocrinol (2021) 9:491 -501. doi: 10.1016/S22138587(21)00120-0
+- 89. Jozaghi Y, Zafereo M, Williams MD, Gule-Monroe MK, Wang J, Grubbs EG, et al. Neoadjuvant Selpercatinib for Advanced Medullary Thyroid Cancer. Head Neck (2021) 43:E7 -12. doi: 10.1002/hed.26527
+- 90. Al-Zaqri N, Pooventhiran T, Alharthi FA, Bhattacharyya U, Thomas R. Structural Investigations, Quantum Mechanical Studies on Proton and Metal Affinity and Biological Activity Predictions of Selpercatinib. J Mol Liq (2021) 325:114765. doi: 10.1016/j.molliq.2020.114765
+- 91. Brahms A, Mudhasani R, Pinkham C, Kota K, Nasar F, Zamani R, et al. Sorafenib Impedes Rift Valley Fever Virus Egress by Inhibiting ValosinContaining Protein Function in the Cellular Secretory Pathway. J Virol (2017) 91(21):e00968 -17. doi: 10.1128/JVI.00968-17
+- 92. Taguchi YH, Turki T. A New Advanced in Silico Drug Discovery Method for Novel Coronavirus (SARS-CoV-2) With Tensor Decomposition-Based Unsupervised Feature Extraction. PloS One (2020) 15:e0238907. doi: 10.1371/journal.pone.0238907
+- 93. Gupta-Abramson V, Troxel AB, Nellore A, Puttaswamy K, Redlinger M, Ransone K, et al. Phase II Trial of Sorafenib in Advanced Thyroid Cancer. J Clin Oncol (2008) 26:4714 -9. doi: 10.1200/JCO.2008.16.3279
+- 94. Kloos RT, Ringel MD, Knopp MV, Hall NC, King M, Stevens R, et al. Phase II Trial of Sorafenib in Metastatic Thyroid Cancer. J Clin Oncol (2009) 27:1675 -84. doi: 10.1200/JCO.2008.18.2717
+
+- 95. Lam ET, Ringel MD, Kloos RT, Prior TW, Knopp MV, Liang J, et al. Phase II Clinical Trial of Sorafenib in Metastatic Medullary Thyroid Cancer. J Clin Oncol (2010) 28:2323 -30. doi: 10.1200/JCO.2009.25.0068
+- 96. Kim S, Yazici YD, Calzada G, Wang ZY, Younes MN, Jasser SA, et al. Sorafenib Inhibits the Angiogenesis and Growth of Orthotopic Anaplastic Thyroid Carcinoma Xenografts in Nude Mice. Mol Cancer Ther (2007) 6:1785 -92. doi: 10.1158/1535-7163.MCT-06-0595
+- 97. Ito Y, Onoda N, Ito KI, Sugitani I, Takahashi S, Yamaguchi I, et al. Sorafenib in Japanese Patients With Locally Advanced or Metastatic Medullary Thyroid Carcinoma and Anaplastic Thyroid Carcinoma. Thyroid (2017) 27:1142 -8. doi: 10.1089/thy.2016.0621
+- 98. Stebbing J, Phelan A, Griffin I, Tucker C, Oechsle O, Smith D, et al. COVID19: Combining Antiviral and Anti-Inflammatory Treatments. Lancet Infect Dis (2020) 20:400 -2. doi: 10.1016/S1473-3099(20)30132-8
+- 99. Girgis AS, Panda SS, Srour AM, Abdelnaser A, Nasr S, Moatasim Y, et al. 3Alkenyl-2-Oxindoles: Synthesis, Antiproliferative and Antiviral Properties Against SARS-CoV-2. Bioorg Chem (2021) 114:105131. doi: 10.1016/ j.bioorg.2021.105131
+- 100. Carr LL, Mankoff DA, Goulart BH, Eaton KD, Capell PT, Kell EM, et al. Phase II Study of Daily Sunitinib in FDG-PET-Positive, Iodine-Refractory Differentiated Thyroid Cancer and Metastatic Medullary Carcinoma of the Thyroid With Functional Imaging Correlation. Clin Cancer Res (2010) 16:5260 -8. doi: 10.1158/1078-0432.CCR-10-0994
+- 101. Ravaud A, de la Fouchardière C, Caron P, Doussau A, Do Cao C, Asselineau J, et al. A Multicenter Phase II Study of Sunitinib in Patients With Locally Advanced or Metastatic Differentiated, Anaplastic or Medullary Thyroid Carcinomas: Mature Data From the THYSU Study. Eur J Cancer (2017) 76:110 -7. doi: 10.1016/j.ejca.2017.01.029
+- 102. Puhl AC, Gomes GF, Damasceno S, Fritch EJ, Levi JA, Johnson NJ, et al. Vandetanib Reduces Inflammatory Cytokines and Ameliorates COVID-19 in Infected Mice. bioRxiv (2021) 12.16.472155. doi: 10.1101/2021.12.16.472155
+- 103. Vidal M, Wells S, Ryan A, Cagan R. ZD6474 Suppresses Oncogenic RET Isoforms in a Drosophila Model for Type 2 Multiple Endocrine Neoplasia Syndromes and Papillary Thyroid Carcinoma. Cancer Res (2005) 65:3538 -41. doi: 10.1158/0008-5472.CAN-04-4561
+- 104. Wells SA Jr, Gosnell JE, Gagel RF, Moley J, Pfister D, Sosa JA, et al. Vandetanib for the Treatment of Patients With Locally Advanced or Metastatic Hereditary Medullary Thyroid Cancer. JC l i nO n c o l (2010) 28:767 -72. doi: 10.1200/JCO.2009.23.6604
+- 105. Robinson BG, Paz-Ares L, Krebs A, Vasselli J, Haddad R. Vandetanib (100 Mg) in Patients With Locally Advanced or Metastatic Hereditary Medullary Thyroid Cancer. J Clin Endocrinol Metab (2010) 95:2664 -71. doi: 10.1210/jc.2009-2461
+- 106. Wells SA Jr, Robinson BG, Gagel RF, Dralle H, Fagin JA, Santoro M, et al. Vandetanib in Patients With Locally Advanced or Metastatic Medullary Thyroid Cancer: A Randomized, Double-Blind Phase III Trial. J Clin Oncol (2012) 30:134 -41. doi: 10.1200/JCO.2011.35.5040
+- 107. Fox E, Widemann BC, Chuk MK, Marcus L, Aikin A, Whitcomb PO, et al. Vandetanib in Children and Adolescents With Multiple Endocrine Neoplasia Type 2B Associated Medullary Thyroid Carcinoma. Clin Cancer Res (2013) 19:4239 -48. doi: 10.1158/1078-0432.CCR-13-0071
+- 108. Nella AA, Lodish MB, Fox E, Balis FM, Quezado MM, Whitcomb PO, et al. Vandetanib Successfully Controls Medullary Thyroid Cancer-Related Cushing Syndrome in an Adolescent Patient. J Clin Endocrinol Metab (2014) 99:3055 -9. doi: 10.1210/jc.2013-4340
+- 109. Leboulleux S, Bastholt L, Krause T, de la Fouchardiere C, Tennvall J, Awada A, et al. Vandetanib in Locally Advanced or Metastatic Differentiated Thyroid Cancer: A Randomised, Double-Blind, Phase 2 Trial. Lancet Oncol (2012) 13:897 -905. doi: 10.1016/S1470-2045(12)70335-2
+- 110. Brose MS, Cabanillas ME, Cohen EE, Wirth LJ, Riehl T, Yue H, et al. Vemurafenib in Patients With BRAF(V600E)-Positive Metastatic or Unresectable Papillary Thyroid Cancer Refractory to Radioactive Iodine: A non-Randomised, Multicentre, Open-Label, Phase 2 Trial. Lancet Oncol (2016) 17:1272 -82. doi: 10.1016/S1470-2045(16)30166-8
+- 111. Lindquist S, Craig EA. The Heat-Shock Proteins. Annu Rev Genet (1988) 22:631 -77. doi: 10.1146/annurev.ge.22.120188.003215
+- 112. Ibrahim IM, Abdelmalek DH, Elshahat ME, Elfiky AA. COVID-19 SpikeHost Cell Receptor GRP78 Binding Site Prediction. J Infect (2020) 80:554 -62. doi: 10.1016/j.jinf.2020.02.026
+
+- 113. Cabanillas ME, Ryder M, Jimenez C. Targeted Therapy for Advanced Thyroid Cancer: Kinase Inhibitors and Beyond. Endocr Rev (2019) 40:1573 -604. doi: 10.1210/er.2019-00007
+- 114. Marsh DJ, Mulligan LM, Eng C. RET Proto-Oncogene Mutations in Multiple Endocrine Neoplasia Type 2 and Medullary Thyroid Carcinoma. Horm Res (1997) 47:168 -78. doi: 10.1159/000185461
+- 115. Weisberg E, Parent A, Yang PL, Sattler M, Liu Q, Liu Q, et al. Repurposing of Kinase Inhibitors for Treatment of COVID-19. Pharm Res (2020) 37:167. doi: 10.1007/s11095-020-02851-7
+- 116. Haddad RI. How to Incorporate New Tyrosine Kinase Inhibitors in the Treatment of Patients With Medullary Thyroid Cancer. J Clin Oncol (2013) 31:3618 -20. doi: 10.1200/JCO.2013.51.5098
+- 117. Elisei R, Schlumberger MJ, Müller SP, Schöffski P, Brose MS, Shah MH, et al. Cabozantinib in Progressive Medullary Thyroid Cancer. J Clin Oncol (2013) 31:3639 -46. doi: 10.1200/JCO.2012.48.4659
+- 118. Fallahi P, Ferrari SM, Santini F, Corrado A, Materazzi G, Ulisse S, et al. Sorafenib and Thyroid Cancer. BioDrugs (2013) 27:615 -28. doi: 10.1007/ s40259-013-0049-y
+- 119. Prete A, Falcone M, Bottici V, Giani C, Tiseo G, Agate L, et al. Thyroid Cancer and COVID-19: Experience at One Single Thyroid Disease Referral Center. Endocrine (2021) 72:332 -9. doi: 10.1007/s12020-021-02650-z
+- 120. Matsui J, Funahashi Y, Uenaka T, Watanabe T, Tsuruoka A, Asada M. MultiKinase Inhibitor E7080 Suppresses Lymph Node and Lung Metastases of Human Mammary Breast Tumor MDA-MB-231 via Inhibition of Vascular Endothelial Growth Factor-Receptor (VEGF-R) 2 and VEGF-R3 Kinase. Clin Cancer Res (2008) 14:5459 -65. doi: 10.1158/1078-0432.CCR-07-5270
+- 121. PuszkielA,Noe ́ G,BellesoeurA,KramkimelN,PaludettoMN,Thomas-Schoemann A, et al. Clinical Pharmacokinetics and Pharmacodynamics of Dabrafenib. Clin Pharmacokinet (2019) 58:451 -67. doi: 10.1007/s40262-018-0703-0
+- 122. Markham A. Selpercatinib: First Approval. Drugs (2020) 80:1119 -24. doi: 10.1007/s40265-020-01343-7
+- 123. Ardini E, Menichincheri M, BanfiP, Bosotti R, De Ponti C, Pulci R, et al. Entrectinib, A Pan-TRK, ROS1, and ALK Inhibitor With Activity in Multiple Molecularly Defined Cancer Indications. Mol Cancer Ther (2016) 15:628 -39. doi: 10.1158/1535-7163.MCT-15-0758
+- 124. Federman N, McDermott R. Larotrectinib, a Highly Selective Tropomyosin Receptor Kinase (TRK) Inhibitor for the Treatment of TRK Fusion Cancer. Expert Rev Clin Pharmacol (2019) 12:931 -9. doi: 10.1080/17512433.2019.1661775
+- 125. Jang S, Atkins MB. Treatment of BRAF-Mutant Melanoma: The Role of Vemurafenib and Other Therapies. Clin Pharmacol Ther (2014) 95:24 -31. doi: 10.1038/clpt.2013.197
+- 126. Miyamoto S, Kakutani S, Sato Y, Hanashi A, Kinoshita Y, Ishikawa A. Drug Review: Pazopanib. Jpn J Clin Oncol (2018) 48:503 -13. doi: 10.1093/jjco/hyy053
+- 127. Markham A. Pralsetinib: First Approval. Drugs (2020) 80:1865 -70. doi: 10.1007/s40265-020-01427-4
+
+- 128. Hasskarl J. Everolimus. Recent Results Cancer Res (2018) 211:101 -23. doi: 10.1007/978-3-319-91442-8\_8
+- 129. Roskoski RJr. Properties of FDA-Approved Small Molecule Protein Kinase Inhibitors: A 2020 Update. Pharmacol Res (2020) 152:104609. doi: 10.1016/ j.phrs.2019.104609
+- 130. Emens LA, Ascierto PA, Darcy PK, Demaria S, Eggermont A, Redmond WL, et al. Cancer Immunotherapy: Opportunities and Challenges in the Rapidly Evolving Clinical Landscape. Eur J Cancer (2017) 81:116 -29. doi: 10.1016/ j.ejca.2017.01.035
+- 131. Kwok G, Yau TC, Chiu JW, Tse E, Kwong YL. Pembrolizumab (Keytruda). Hum Vaccin Immunother (2016) 12:2777 -89. doi: 10.1080/ 21645515.2016.1199310
+- 132. Mehnert JM, Varga A, Brose MS, Aggarwal RR, Lin CC, Prawira A, et al. Safety and Antitumor Activity of the Anti-PD-1 Antibody Pembrolizumab in Patients With Advanced, PD-L1-Positive Papillary or Follicular Thyroid Cancer. BMC Cancer (2019) 19:196. doi: 10.1186/s12885-019-5380-3
+- 133. Naing A, Gainor JF, Gelderblom H, Forde PM, Butler MO, Lin CC, et al. A First-in-Human Phase 1 Dose Escalation Study of Spartalizumab (PDR001), an Anti-PD-1 Antibody, in Patients With Advanced Solid Tumors. J Immunother Cancer (2020) 8(1):e000530. doi: 10.1136/jitc-2020-000530
+- 134. Capdevila J, Wirth LJ, Ernst T, Ponce Aix S, Lin CC, Ramlau R, et al. PD-1 Blockade in Anaplastic Thyroid Carcinoma. J Clin Oncol (2020) 38:2620 -7. doi: 10.1200/JCO.19.02727
+- 135. Loretelli C, Abdelsalam A, D ' Addio F, Ben Nasr M, Assi E, Usuelli V, et al. PD-1 Blockade Counteracts Post-COVID-19 Immune Abnormalities and Stimulates the Anti-SARS-CoV-2 Immune Response. JCI Insight (2021) 6 (24):e146701. doi: 10.1172/jci.insight.146701
+
+Conflict of Interest: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher ' s Note: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Copyright © 2022 Qu, Hui, Shen, Kan, Hou, Sun and Han. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.

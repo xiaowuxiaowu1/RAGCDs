@@ -1,0 +1,174 @@
+Author affiliations and support information (if applicable) appear at the end of this article.
+
+Accepted on January 26, 2022 and published at
+
+ascopubs.org/journal/ jco on February 24, 2022: DOI https://doi. org/10.1200/JCO.21. 02166
+
+SPECIAL SERIES: STATISTICS IN ONCOLOGY
+
+## Balancing Risk and Efficiency in Drug Development for Rare and Challenging Tumors: A New Paradigm for Glioma
+
+Ingo K. Mellinghoff, MD 1 and Timothy F. Cloughesy, MD 2
+
+The process of developing cancer therapies is well established and has enabled the incorporation of many new drugs and classes of agents into the standard of care for common cancers. Clinical drug development is fundamentally different for rare and difficult-to-treat solid tumors, such as glioma or pancreatic cancer. The failure to develop effective new agents for the latter diseases has discouraged the development of therapeutics for these cancers. Using glioma as an example, we describe a process toward obtaining more reliable early-stage signals of drug activity and a process toward translating those signals into clinical benefits with more efficient late-stage development. If linked together, these processes should increase the likelihood of benefit in late-stage settings at a lower cost and encourage more drug development for patients with rare and difficult-to-treat cancers.
+
+J Clin Oncol 40:3510-3519. © 2022 by American Society of Clinical Oncology
+
+## INTRODUCTION
+
+The WHO Classification of Tumors of the CNS distinguishes more than 100 different types and subtypes of brain and spinal cord tumors arising from cells that make up the CNS. 1 The term glioma comprises a heterogenous group of tumors, including tumors that primarily occur in adults (adult-type) and those that primarily occur in children (pediatric-type). CNS WHO grade 2-4 gliomas widely infiltrate the brain and are not curable with currently available therapies.
+
+Failure to develop effective new agents for diffuse glioma and particularly glioblastoma (GBM; CNS WHO grade 4) has discouraged the development of therapeutics for these cancers and, instead, attracts developers looking to expand the indications of their already approved therapy without adequate early-stage development. Other developers look to cut costs and use poorly designed early-stage evaluations that provide unreliable results. Both settings lead to poorly informed decisions regarding late-stage development and likely account for many late-stage failures in these cancers. 2 Diseasespecific factors likely contribute to the failure to develop new therapies for rare aggressive cancers, including inadequate exposure to target in the tumor tissue, cancer cell -intrinsic resistance mechanisms, and the tumor microenvironment (TME). 3 These mechanisms remain poorly defined and require thoughtful consideration before advancing to or excluding agents from late-stage drug development.
+
+<!-- image -->
+
+## WINDOW-OF-OPPORTUNITY TRIALS IN ONCOLOGY
+
+Assessment of preliminary antitumor activity in earlyphase clinical trials relies on documentation of radiographic response and effects on patient survival. Once a new drug is deemed promising, it advances to late-stage development without further addressing the following questions: Does the drug engage its molecular target in tumor tissue? Is the target engagement in tumor tissue associated with molecular changes that would be expected to occur with meaningful target engagement? Are these molecular effects associated with changes in tumor cell proliferation and cell death or changes in the TME? Are these changes in tumor tissue closely associated with the clinical effect as determined with radiographic response and effects on progression-free survival (PFS) and overall survival (OS; Fig 1 )? Addressing these questions is increasingly important as cancer drug development is moving toward drugs that target highly specific molecular targets (eg, third-generation kinase inhibitors), cellular interactions (eg, bispecific T-cell engagers), and mechanism-based combination therapies. Addressing these questions is also critical to weed out ineffective agents from further development.
+
+These questions can be answered with a window-ofopportunity trial design that exploits the window of time between cancer diagnosis (usually by tumor biopsy) and tumor resection to perform detailed pharmacodynamic evaluations in tumors that are unperturbed by prior treatment 4 ( Fig 2A ). The period of administering the investigational treatment is kept short (usually 2-4
+
+<!-- image -->
+
+## CONTEXT
+
+## Key Objective
+
+Rare, difficult-to-treat cancers require additional levels of evidence before transitioning from early to late stages of drug development. Key stakeholders include patients and their families, advocates, academic investigators, drug developers, capital markets that fund the drug developers, and regulators.
+
+## Knowledge Generated
+
+We share examples of strategies to develop these additional levels of evidence. Although this requires additional resources, this financial risk is mitigated by the efficiencies during later stages of development. This is particularly evident in the setting of adaptive platform trial where the late-stage development including obtaining preliminary data of clinical benefit can be combined with the ability to confirm evidence of benefit in the trial, seamlessly, with a well-controlled investigation.
+
+## Relevance
+
+Better integration of early and late drug development reduces risk and increases efficiency in developing drugs for these cancers. Alignment on core principles and goals is critical and must address the concerns of all stakeholders.
+
+weeks) to avoid delay in standard treatment. In contrast to window-of-opportunity trials, neoadjuvant trials may permit administration of the investigational agent for a longer time, even after surgery, and typically focus on documenting a measurable pathologic or clinical response. For example, a recent trial examined whether neoadjuvant and adjuvant pembrolizumab results in pathologic tumor response and reduced relapse rates in patients with squamous cell carcinoma of the head and neck (HNSCC). 5
+
+The goal of a window trial is to identify biomarkers of treatment response that might refine future development of the agent or a class of agents. Cetuximab, a monoclonal antibody against the epidermal growth factor receptor (EGFR), for example, improves locoregional control and reduces mortality in combination with concomitant radiotherapy in patients with locoregionally advanced HNSCC, but only a subset of patients respond to this treatment. Subsequent window-of-opportunity trials have sought to identify predictors of treatment response to cetuximab and other EGFR-directed therapies. 6 -11 Similarly, antibodies targeting the programmed cell death protein 1 (PD-1) immune checkpoint have shown activity in patients with recurrent or metastatic HNSCC and window trials are now examining the molecular and cellular response to various immunomodulatory drugs in this disease. 12 In non -small-cell lung cancer, ipilimumab has been shown to improve clinical outcomes when combined with nivolumab in the metastatic setting and a window study was subsequently designed in patients with operable non -small-cell lung cancer to determine the ability of single-agent nivolumab versus the combination of nivolumab and ipilimumab to achieve pathologic complete response rates, reduce viable tumor, and enhance the abundance of tissue-resident T cells. 13 Many agents and combination therapies have been evaluated using window-of-opportunity and neoadjuvant trial designs in breast cancer. 14 -22
+
+Before embarking on the design of a window trial, the investigators should carefully weigh how the trial will direct the clinical development of an investigational agent. Important considerations include potential delays in providing other effective therapies to the study participants and the level of certainty that informative and biologically meaningful results will indeed be obtained through the proposed pharmacodynamic evaluations. 23 -26 The latter will heavily depend on the incorporation of relevant controls into the experimental design and on the performance characteristics of the pharmacodynamic assays (eg, linearity, reproducibility, stability of the analyte, etc). In breast cancer, for example, considerable effort has been devoted to validating Ki67 staining to assess tumor cell proliferation in tumor tissue. $^{27}$A common challenge during the design of a window study is to estimate the degree of target engagement that might be required to achieve the intended biologic effect and to select the time point(s) after drug administration for the most critical pharmacodynamic evaluation. Preclinical studies in diseaserelevant models can be very helpful to set pharmacokinetic and pharmacodynamic goals.
+
+Window-of-opportunity trials need to be distinguished from phase 0 trials, which are positioned between preclinical and phase I stages of drug development. Phase 0 trials use subtherapeutic microdosing to establish human pharmacokinetics and suitability of drug candidates to advance to a phase I dose-escalation study. 28 -30 By contrast, window studies are performed after completion of phase I evaluations.
+
+## PERIOPERATIVE TRIALS FOR CNS TUMORS
+
+In neuro-oncology, drugs are often advanced to late-stage clinical testing after showing signs of antitumor activity in single-arm phase Ib or II trials, typically tumor shrinkage in at least some patients and an extension of PFS or OS compared with historical controls. 31 Although the evaluation of novel agents uses standardized response
+
+FIG 1. Incorporating pharmacodynamic evaluations into early drug development. See the text for details. MRI, magnetic resonance imaging; OS, overall survival; PET, positron emission tomography; PFS, progression-free survival; QoL, quality of life; RANO, response assessment in neuro-oncology; TME, tumor microenvironment.
+
+<!-- image -->
+
+assessment in neuro-oncology (RANO) criteria, 32 the overarching framework is clearly unable to weed out inactive agents or identify active agents as evidenced by the lack of new drug approvals for GBM and the considerable number of negative phase III clinical trials in this disease. 33 -40 Over the past 40 years, the median survival of patients with GBM has improved only by a few months and has remained below two years. The majority of patients with GBM still die within five years of diagnosis and more than half succumb to the disease within the first 15 months after diagnosis. 41 Lower-grade gliomas are also not curable with current treatment approaches and are associated with considerable morbidity and premature death. 42
+
+For most patients with a brain tumor, the diagnostic tumor biopsy and safe maximal tumor resection occur within the
+
+same neurosurgical procedure, leaving no window for the abovementioned pharmacodynamic evaluations. On the other hand, many patients with a brain tumor undergo a second tumor resection at the time of tumor recurrence and, since most recurrent brain tumors lack effective therapies at recurrence, perioperative trials with investigational agents are typically conducted in the recurrence setting. Patients typically resume the investigational agent after recovery from surgery, and this opportunity provides an important incentive for study participation and the ability to evaluate efficacy signals such as PFS and OS.
+
+The primary objective of perioperative studies in patients with CNS tumors is to document adequate penetration of the investigational agent across the blood-brain barrier and to determine if that level of exposure is adequate for target
+
+FIG 2. General design of perioperative clinical trials in oncology: (A) window-of-opportunity trial and (B) perioperative trial design often used to evaluate investigational agents for glioblastoma. inv. drug, investigational drug; S1, surgery 1; S2, surgery 2.
+
+<!-- image -->
+
+engagement and related molecular and cellular effects in tumor tissue. This includes determination of drug concentrations in tumor, and -whenever possible -the measurements of free drug concentrations. 43 , 44 For example, standard daily dosing of both gefitinib and lapatinib was found to be inadequate to robustly block the EGFR signaling pathway in recurrent GBM despite reaching the reasonable drug concentration in the brain. 45 , 46 Similarly, the phosphatidylinositol 3-kinase (PI3K) inhibitor buparlisib failed to robustly inhibit activation of distal PI3K pathway members in patients with recurrent GBM. 47
+
+The incorporation of controls is critical to achieve informative results from perioperative studies in neurooncology. Options for controls include the comparison with an earlier tumor resection from the same patient, the inclusion of external archival recurrent GBM samples (typically retrieved from institutional tumor banks), the inclusion of a placebo or no drug control arm into a randomized perioperative trial design, or a combination of these controls ( Fig 2B ). The comparison with earlier tumor biopsies from the same patient, which is the foundation of pharmacodynamic evaluations in traditional window trials (see above), is problematic in the recurrence setting because most patients would have received multiple other therapies between their first and second tumor surgeries. The comparison with archival tumor samples can also be problematic because these samples were usually not processed and stored under the same conditions, which can result in batch artifacts in pharmacodynamic assays.
+
+Given these limitations, perioperative trials in neurooncology are moving toward a randomized design, which includes patients who receive placebo or no drug before their recurrence surgery. For example, a recent perioperative study examined the ability of the PD-1 checkpoint inhibitor pembrolizumab to enhance the number and function of tumor-infiltrating lymphocytes in patients with recurrent GBM. 48 This study used a twoarm randomized approach, with one arm using PD-1 antibody and the other control during the neoadjuvant portion of the study followed by single-agent drug in both arms during the postsurgery setting ( Fig 3A ). This design had two distinct advantages. By using a random assignment during the presurgical neoadjuvant component, we ensure that patients not only have the same inclusion and exclusion criteria but also are treated in a similar fashion before surgery regarding corticosteroid use and timing of surgery. Since the primary objectives were tissue-based comparisons between the two arms, random assignment provided an added level of confidence in the results despite the relatively small sample size. The second advantage is that random assignment allowed for the opportunity to compare a clinical efficacy end point. Given the small sample size planned for such studies, the effect size would need to be quite large to see
+
+a statistical difference. In this study, not only was there evidence of impact of PD-1 antibody therapy systemically and in the TME, but also the postoperative efficacy evaluations showed a doubling of survival in the arm receiving PD-1 monoclonal antibody in the neoadjuvant setting.
+
+Another perioperative study performed a side-by-side comparison of two different inhibitors of mutant isocitrate dehydrogenase (mIDH; ivosidenib and vorasidenib) in patients with mIDH1 lower-grade glioma. Both agents had shown promising antitumor activity in phase I trials. 49 , $^{50}$The goal of this perioperative study was to determine the ability of each agent to penetrate the CNS, to reduce tumor concentrations of 2-hydroxyglutarate (2HG, which is the direct product of the mutant enzyme), to restore DNA 5hydroxymethylcytosine (5hmC, which is competitively inhibited by 2HG), to reverse gene expression programs typically associated with mIDH function, and to reduce tumor cell proliferation. 51 The clinical trial design included internal and external controls, ie, trial patients who received no drug before surgery and archival tumor samples from patients with IDH mutant or IDH wild-type recurrent glioma ( Fig 3B ).
+
+It will be critical to use these types of designs for future single-agent and combination approaches in GBM. For drug combinations, we are suggesting a factorial design so that we can understand the attribution of each therapy and the combination on the TME. This might save the need to perform late-stage efficacy evaluations that include ineffective single-agent treatment arms in addition to combination. We are also suggesting that double-blind placebo is used during the neoadjuvant period to minimize the likelihood that tissue-based primary study end points are biased by clinical variables, such as concurrent corticosteroid use, neurologic status, or tumor-related variables (tumor size, tumor location, and tumor growth rates). The postsurgery design can be either single-agent or combination on the basis of the likelihood of clinical response for the single-agent target. For instance, it is unlikely that targeting the myeloid population alone will translate into a clinical effect. In such a setting, postoperative combination might be preferred. Given that the multitude of therapies likely requiring combinations to target the immune suppressive TME and/or driving activated T cells to the tumor (vaccines, bispecific T-cell engager viruses, and adoptive T cells) using a neoadjuvant clinical trial platform approach should be considered to speed evaluations, share controls, and harmonize not only inclusion and exclusion criteria but tissue-based evaluations as well. Although considerable investments are needed to develop and validate the pharmacodynamic assays, carefully conducted perioperative trials can rapidly weed out drugs that do not penetrate into the tumor or fail to robustly engage their molecular target(s). Conversely, perioperative studies can markedly enhance the enthusiasm to develop a new agent
+
+FIG 3. Examples for randomized perioperative clinical trial design in glioma: (A) pembrolizumab versus placebo in recurrent GBM and (B) vorasidenib versus ivosidenib versus placebo in recurrent nonenhancing mIDH LGG ( NCT03343197 ). GBM, glioblastoma; mIDH LGG, mutant isocitrate dehydrogenase low-grade gliomas.
+
+<!-- image -->
+
+(and accelerate ultimate market uptake) by rigorously documenting target engagement and additional molecular and cellular effects.
+
+## EMERGING APPROACHES TO AUGMENT SIGNAL FINDING DURING EARLY-STAGE DEVELOPMENT
+
+Other early-stage evaluations that can increase the likelihood of success in later-stage evaluations include longitudinal anatomic tumor imaging. 52 During the early clinical evaluation of the mIDH inhibitor ivosidenib, 49 , 53 for example, one study cohort required the collection of magnetic resonance imaging scans before initiation of study drug to understand the pretreatment growth trajectory. Subsequent scans revealed gradual but sustained shrinkage or stabilization of tumor, sometimes in the absence of meeting the threshold for response per response assessment in neuro-oncology criteria. Vorasidenib, a dual inhibitor of mIDH1 and mIDH2, similarly reduced tumor growth rates in individual patients. 50 Determination of tumor growth rates before study enrollment and throughout the study
+
+significantly increased the enthusiasm to advance mIDH inhibitors toward later-stage drug development, but has not been incorporated into the routine evaluation of novel agents for glioma. Using pretreatment growth trajectories in any solid tumor setting may increase the sensitivity for identifying the treatment impact and may provide better decision making regarding dose, schedule, and patient subgroup.
+
+Functional imaging with positron emission tomography (PET) and other modalities provides an opportunity to characterize specific aspects of tumor biology and noninvasively interrogate pharmacodynamic effects of investigational agents. 54 , 55 A reduction in fluorodeoxyglucose-PET signals, for example, has been associated with response to inhibitors of growth factor receptor pathways in GBM models and patients. 56 , $^{57}$PET radiotracers targeting specificimmune cells may also be able to monitor antitumor immunity on an organismal scale. 58 , 59
+
+Finally, there has also been considerable interest in the development of methods to monitor the presence of tumor
+
+cells or tumor-derived DNA in peripheral blood and cerebrospinal fluid (CSF). Although it has remained challenging to detect circulating tumor DNA (ctDNA) in the blood of patients with GBM, 60 several studies have reported the detection of tumor-derived ctDNA in CSF from patients with glioma. 61 -65 As CSF-ctDNA profiling has moved past the feasibility stage and is being used more widely, it seems likely that the repertoire of CSF-derived analytes will grow substantially (eg, cytokines and distinct immune cells) in the next few years.
+
+## IMPROVING EFFICIENCY IN LATE-STAGE CLINICAL DRUG DEVELOPMENT
+
+Once early-phase studies have clarified safety and adequate drug exposures and identified clinical or biologically based signals of the therapeutic effect, using approaches described above, later-stage trials aim to solidify thesefindings into clinical benefit. This refinement might include further investigation into schedule, dose, biomarker subtype, and/or combinations (novel-novel or novel-standard of care). The final step is a well-controlled investigation that demonstrates evidence of effectiveness in the population studied, traditionally in the context of a randomized controlled trial (RCT; Fig 4A ). This last step is particularly inefficient in rare, difficult-to-treat cancers. For example, the recent clinical development of nivolumab in GBM using a standard RCT (recurrent, first-line methylated, and first-line unmethylated; ClinicalTrials identifier: NCT02667587 , NCT02617589 , and NCT02017717 ) involving the use of more than 1,700 patients and 850 patients as controls took over 6 years to report negative results at an estimated cost of more than $250 million US dollars. This example illustrates the need for efficiency in GBM in particular with regard to the efficient use of the control population, as with most rare, difficult-to-treat cancers.
+
+In a poorly executed response to limit the use of controls, drug developers and GBM investigators have, in the past, developed or endorsed underpowered single-arm phase II studies or used phase I expansion cohorts to provide preliminary support of activity and used bulk data from historical controls without applying statistical methodologies to adequately account for prognostic covariates. 66 The result was either an overestimation or underestimation of the true effect of the therapy. Studies that showed an overestimation of effect provided misguided rationale for definitive RCT, 67 -69 and those that underestimated the effect meant that certain treatments were not further tested and still remain unknown with regard to late-stage efficacy.
+
+Through encouragement from patients, advocacy groups, and policy makers, the US Food and Drug Administration and European Medicines Agency recognized the need for innovations in late-stage drug development to achieve improved efficiencies. 70 -72 This includes complex innovative trial designs providing opportunities for using
+
+appropriate statistical approaches to use external or historical data to create external controls (ECs) or synthetic controls and adaptive platform trial (APT) designs. 73 , 74 The later part of this review will focus on innovative ways of using controls and other statistical efficiencies toward the latestage development of therapies for rare, difficult-to-treat cancers like GBM.
+
+## Synthetic (external) Controls
+
+Single-arm trials compared against ECs are often used to provide preliminary evidence of activity and are favored because of cost, rapid enrollment, and patient preference. To mitigate the concern that ECs could create unintended prognostic biases, investigators are using strategies with patient-level data from prior trials or clinical settings and providing statistical balancing of baseline characteristics with the investigational arm to facilitate a reasonable estimation of the treatment effect similartoaRCT 75 , $^{76}$(Fig 4B ). RCT has a high likelihood of balancing covariates that are unknown or unmeasured, and external controls are unable to account for these covariates highlighting some areas of concerns with the use of external control. Nevertheless, attempts are underway to determine the feasibility of ECs to assist with go-no-go decisions for subsequent RCTs in GBM. 77 -79 ECs may also be useful in the regulatory development of therapies for even rarer subtypes of malignant glioma (eg, H3K27M, BRAFv600e, etc), on the basis of examples of therapies achieving regulatory approval with studies using an EC. 76 Finally, ECs may augment interim analysis associated with randomized trials by both increasing the probability of early stopping of ineffective treatment and decreasing the probability of early discontinuation of effective therapies. 80 Further research is needed to ascertain the advantages and disadvantages of such approaches.
+
+## Combined Internal Control and EC
+
+A hybrid approach may be able to prospectively evaluate bias that can be introduced by EC while still taking advantage of the efficiency offered by EC. 75 In this setting, an external data set is used to create an EC on the basis of the expected population of the planned study and using best methods for adjustments. The study then runs as a typical randomized study with an internal control (IC). After some predetermined level of enrollment, an interim analysis is performed comparing the external control with the IC using predetermined parameters for likeness. If the controls are found to be comparable (ie, similarly adjusted primary outcome distributions), this affords the opportunity to initiate the use of external controls and adjust the random assignment ratios, leading to a smaller number of ICs needed moving forward. If not comparable, the random assignment ratios remain the same as they did from the initiation of the study until enrollment is completed ( Fig 4C ). This approach is particularly helpful when critical features
+
+FIG 4. Design of various clinical trials using IC and EC. (A) Typical randomized clinical trial using IC compared with the experimental treatment. (B) External patient-level data with known covariates are obtained from previous clinical trials or medical records. Prospective adjustments are made to the data to best match the expected population from the experimental treatment to create the EC. (C) For this hybrid design, external patient-level data are obtained with known covariates from previous clinical trials or medical records. Adjustments are made to prospectively match the expected population from the internally controlled trial. Initially, the study randomly assigns the IC against the experimental treatment only. After a predetermined time, an interim evaluation of the comparability of the EC and IC. If not comparable, the random assignment continues without integrating the EC. If comparable, the random assignment ratio now strongly favors the experimental treatment and the IC and EC are combined to represent the control arm to be compared against the experimental treatment. (D) A perpetual APT using a master protocol using the same enrollment criteria in which arms initiate and complete enrollment over the course of the study randomly assigned against other contemporaneous arms and the IC. Overall random assignment ratios strongly favor the treatment arms over IC. (E) APT provides the opportunity to increase power in the efficacy evaluation of arm E first by including the ICs from the beginning of the study until the last patient is randomly assigned in arm E. Power can be further increased by adding prior negative arm populations from within the study to the longitudinal IC. Although statistical adjustments will be made to account for temporal drift, creating an environment using data from the longitudinal ICs or part of all the data from within the study can provide great efficiencies. APT, adaptive platform trial; EC, external control; IC, internal control.
+
+<!-- image -->
+
+in the decision for enrollment are not adequately represented in eligibility criteria. 81
+
+## Longitudinal ICs and APT
+
+RCTs and their use of concurrent ICs are the gold standard for generating evidence for drug evaluations in cancer. But as stated earlier, cancers that are rare and deadly, like GBM, have a difficult time garnering the attention of drug developers for RCT. Even when incorporating different advances such as random assignment ratios or adaptive seamless phase II/III trials, 82 the magnitude of efficiency is not substantial enough to attract drug developers (high cost, long time frame, and low success rate). Rare, difficultto-treat cancers therefore need improved efficiencies while maintaining the acceptability of a well-controlled trial using
+
+ICs. This recognition provides the impetus to explore other approaches to gain efficiency while limiting bias. APT evaluates multiple interventions in a single disease in a perpetual manner. 73 This design element, along with the use of Bayesian adaptive approaches, allows for ongoing preplanned interim evaluations to answer different questions in the same setting with statistical rigor. 73 There are two active APTs in GBM: INSIGhT and GBM AGILE. 83 , 84 INSIGhT was developed as a phase II screening study for multiple biomarker subtypes of first-line unmethylated GBM, and GBM AGILE was developed as a registration study to evaluate three subtypes of GBM (recurrent, firstline unmethylated, and first-line unmethylated). Given its registration capabilities, we will focus our discussion on the GBM AGILE APT.
+
+GBM AGILE includes two stages. In stage I, preplanned, simulation-validated, Bayesian approaches, such as response adaptive random assignment, bring particular efficiencies including providing random assignment preference to biomarker subtypes that are performing better. In addition, efficiencies include utilization of a decision algorithm to support the addition or cessation of study arms ( Fig 4D ) and to identify success, allowing for t h es e a m l e s st r a n s i t o nt oas m a l ls e c o n ds t a g e(fixed random assignment) for further confirmation of the beneficial study arm effect. If a study arm is successful through the second phase, the total data can be used for market approval application. The multiple study arms and perpetual nature allow the control arm be fixed at 20% compared with the study arms and to build over time, with adjustments of the effect of time on the control arm increasing the power comparison with the study arms. There is also an opportunity to further increase power by including prior (published or evaluated) study arms with appropriate adjustments to the control for the evaluation of the current study arms ( Fig 4E ). In addition, the infrastructure allows for the update of the control arm on the basis of positive data from internal and/or external data. Through the course of this trial, patients are enrolled
+
+## AFFILIATIONS
+
+$^{1}$Department of Neurology and Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY $^{2}$Department of Neurology, Ronald Reagan UCLA Medical Center, University of California, Los Angeles, CA
+
+## CORRESPONDING AUTHOR
+
+Timothy F. Cloughesy, MD, Department of Neurology, Ronald Reagan UCLA Medical Center, University of California, Los Angeles, 710 Westwood Plaza, Suite 1-230, Los Angeles, CA 90095; e-mail: TCloughesy@mednet.ucla.edu.
+
+## SUPPORT
+
+Supported in part by NIH NINDS R35 NS105109-01 (I.K.M.), NIH 5U54CA196519-05 (I.K.M.), P30 CA08748 (I.K.M.), Cycle for Survival (I.K.M.), NIH NCI P50CA211015 (T.F.C.), and the National Brain Tumor Society (I.K.M. and T.F.C.).
+
+with the same eligibility criteria regardless of random assignment determination, thus providing an opportunity for both continuously reducing bias and increasing power.
+
+Advantages to APTs including more coordinated operational efforts, improved efficiencies, and time and cost savings. 85 , 86 With INSIGhT and GBM AGILE, efficiencies create an environment for well-conducted, randomized, late-stage development that is faster, cheaper, and with fewer patients. When considering the three phase III trials of nivolumab, the same evaluation in GBM AGILE might have required as few as 1 of 10 patients. APTs like GBM AGILE can more accurately and efficiently explore preliminary evidence for effect (typically done with single-arm studies) and more efficiently evaluate for market approval (typically done with standard RCT) by being able to ask multiple questions in the same trial at the same time and over time. The impact of this reality on drug developers has led to an increased interest to pursue not only late-stage development in GBM but also, given the efficiencies, multiple subtypes within the disease, additional study arms as combinations, different dosing and schedules, and inclusion of multiple assets. All of this is a benefit to patients with GBM.
+
+## AUTHORS ' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Disclosures provided by the authors are available with this article at DOI https://doi.org/10.1200/JCO.21.02166 .
+
+## AUTHOR CONTRIBUTIONS
+
+Conception and design: All authors
+
+Collection and assembly of data: All authors
+
+Data analysis and interpretation: All authors
+
+Manuscript writing: All authors
+
+Final approval of manuscript: All authors
+
+Accountable for all aspects of the work: All authors
+
+## ACKNOWLEDGMENT
+
+We thank Meredith Buxton, PhD, and Donald Berry, PhD, for their helpful discussion regarding the concepts of this review.
+

@@ -1,0 +1,299 @@
+pubs.acs.org/JACS
+
+Article
+
+## Scalable Synthesis of Bilayer Graphene at Ambient Temperature
+
+Xiaolong Zhu, # Zhikang Su, # Ran Tan, Cunlan Guo, * Xinping Ai, and Jiangfeng Qian *
+
+Cite This: https://doi.org/10.1021/jacs.4c00975
+
+## ACCESS
+
+Metrics & More
+
+Article Recommendations
+
+ABSTRACT: In this work, we develop for the first time a facile chemical lithiation-assisted exfoliation approach to the controllable and scalable preparation of bilayer graphene. Biphenyl lithium (Bp-Li), a strong reducing reagent, is selected to realize the spontaneous Li-intercalation into graphite at ambient temperature, forming lithium graphite intercalation compounds (LiGICs). The potential of Bp-Li (0.11 V vs Li/Li$^{+}$), which is just lower than the potential of stage-2 lithium intercalation (0.125 V), enables the precise lithiation of graphite to stage-2 Li-GICs (LiC$_{12}$). Intriguingly, the exfoliation of LiC$_{12}$ leads to the bilayer-favored production of graphene, giving a high
+
+Supporting Information
+
+selectivity of 78%. Furthermore, the mild intercalation - exfoliation procedure yields high-quality graphene with negligible structural deterioration. The obtained graphene exhibits ultralow defect density ( I$_{D}$ / I$_{G}$ ∼ 0.14) and a considerably high C/O ratio ( ∼ 29.7), superior to most current state-of-the-art techniques. This simple and scalable strategy promotes the understanding of chemical Liintercalation methods for preparing high-quality graphene and shows great potential for layer-controlled engineering.
+
+## ■ INTRODUCTION
+
+■ G raphene, a perfect two-dimensional crystal structure composed of sp$^{2}$-hybridized carbon atoms, exhibits exceptional thermal, 1 , 2 electrical, 3 , 4 optical, 5 , 6 and mechanical properties. 7 , 8 Since its first discovery in 2004, it has been a promising candidate for the next generation of optoelectronic and energy devices due to its superior characteristics. 9 - 13 Accordingly, achieving efficient and mass preparation of highquality graphene also becomes a huge challenge. Hummer's method has successfully demonstrated the potential for the large-scale production of graphene in solution ( Scheme 1 a). 14 , 15 This method utilizes strong acids (H$_{2}$SO$_{4}$, HNO$_{3}$) and oxidants (KMnO$_{4}$, NaNO$_{3}$) to convert graphite to graphene oxide (GO), followed by the reduction process to obtain reduced graphene oxide (rGO). 16 , 17 However, the functional groups ( - OH, - COOH) and defects (sp$^{3}$) unavoidably introduced during this process destroy its longrange conjugated structure, resulting in a considerable decrease in product quality. 18 , 19 To avoid these drawbacks, researchers have proposed various improvement approaches, such as chemical vapor deposition, 20 - 22 epitaxial growth, 23 , 24 ball milling, 25 - 27 and direct liquid exfoliation, 28 - 32 which have all made significant progress.
+
+Alternatively, ion intercalation-assisted exfoliation has emerged as a representative method for the scalable preparation of graphene due to its controllability and high efficiency. 33 - 35 This method involves the fabrication of graphite intercalation compounds (GICs) by inserting guest ions into carbon layers, thereby increasing the interlayer spacing and weakening van der Waals forces between layers. The ion-intercalated sample reacts with water to produce hydrogen, which further promotes the delamination of graphite
+
+layers. 36 , 37 Typically, Zeng et al. pioneered the electrochemical lithium-ion intercalation method ( Scheme 1 b). 38 Lithium ions are driven into the graphite layer by electrochemical force during the battery discharge process, forming lithium graphite intercalation compounds (Li-GICs). By finely regulating the number of intercalated lithium ions and the intercalation rate, this method can theoretically achieve controllable and efficient exfoliation of graphene. 39 Similarly, Loh et al. obtained fewlayer graphene in high yield (>70%) by intercalating lithium ions into graphite electrodes in lithium salt and propylene carbonate electrolytes (30 mg/mL LiClO$_{4}$ in PC). 40 However, as pointed out in Zhang's research group, 11 this electrochemical lithium intercalation method necessitates a tedious battery assembly and disassembly process. Moreover, the addition of conductive additives (acetylene black) and binders (PVDF) inevitably leads to difficulties in product purification and separation, which hinder large-scale production.
+
+In addition to electrochemical lithiation methods, chemical lithiation methods have also been explored by some researchers to achieve Li-intercalation for their simple operation. 41 These chemical methods employ a variety of lithium sources, such as Li/liquid ammonia 42 - 44 and LiOH. 45 However, due to the extremely low lithium intercalation potential of graphite ( ∼ 0.2 V vs Li/Li$^{+}$), it is challenging to achieve rapid intercalation under ambient conditions. These
+
+Scheme 1. Illustrations of the (a) Conventional Hummer's Method, (b) Electrochemical Li-Intercalation Method, and (c) Our Chemical Lithiation-Assisted Exfoliation Method for the Preparation of Bilayer Graphene
+
+Figure 1. Feasibility of the chemical lithiation reaction enabled by the Bp-Li reagent. (a) GITT curves of the Li/graphite half-cell and corresponding open circuit potential. (The inset is the schematic diagram of differently staged Li-GICs.) (b) In situ XRD patterns of graphite during the lithiation process. (c) EPR spectra of the pristine Bp and Bp-Li reagent. (The insets are optical photographs of Bp solution before and after adding lithium metal.) (d) $^{7}$Li NMR spectrum of Bp-Li solution. (e) Cyclic voltammograms of the Bp-Li reagent at a scan rate of 200 mV s - $^{1}$. (f) XRD patterns of lithiated graphite synthesized by the reaction of Bp-Li and graphite with different molar ratios.
+
+methods require either harsh temperature conditions (< - 33 ° C for Li/NH$_{3}$) or a hydrothermal environment (220 ° C in an autoclave for LiOH). Consequently, while the lithium intercalation method is prevalent for the exfoliation of transition-metal dichalcogenide nanosheets (such as MoS$_{2}$, WS$_{2}$, and TiS$_{2}$), 39 , 46 - 49 its potential in graphene preparation has yet to be fully realized and exploited. Moreover, ion insertion holds the potential of staging intercalation, which will preferentially yield the corresponding monolayer or bilayer
+
+graphene. 36 , 50 Owing to the unique electronic band structures, the physiochemical properties of graphene are sensitive to its layer numbers. For example, monolayer graphene exhibits a zero band gap, 3 whereas bilayer graphene possesses a consistently adjustable band gap of up to 250 mV with a perpendicular electric field, which is of importance for highly efficient electronic and photonic devices. 51 , 52
+
+Herein, we propose a mild chemical lithiation-assisted exfoliation approach, enabled by a strongly reducing lithiation
+
+Figure 2. Structural characterizations of graphite before and after lithiation. (a) Illustration of the precise lithiation reaction via Bp-Li reagent. (b, c) SEM images, (d) XPS spectra of Li 1s, (e) EPR spectra (insets are optical photographs of graphite before and after lithiation), (f) XRD patterns, and (g) Raman spectra of pristine graphite and lithiated graphite (LGr). (h) $^{7}$Li NMR spectra and (i) ICP-AES result for lithiated graphite.
+
+reagent (biphenyl lithium), to realize the facile preparation of high-quality bilayer graphene under ambient temperature and pressure, as illustrated in Scheme 1 c. The Li-intercalation process occurs through the spontaneous reaction between graphite and the biphenyl lithium (Bp-Li) reagent at room temperature, benefiting from the strong reducing ability of BpLi. Notably, given that the redox potential of Bp-Li (0.11 V) is lower than that of stage-2 Li-GICs (0.125 V), it is capable of achieving a precise second-order lithiation of graphite, resulting in the formation of stage-2 Li-GICs (LiC$_{12}$). The distinctive structure of LiC$_{12}$ subsequently leads to the preferential production of bilayer graphene with a high selectivity of 78%. Moreover, the exfoliated bilayer graphene exhibits exceptionally high quality with remarkable structural integrity ( I$_{D}$ / I$_{G}$ ≈ 0.14) and significantly low oxygen content (C/O ≈ 29.7).
+
+## ■ RESULTS AND DISCUSSION
+
+Feasibility of Chemical Li-Intercalation Reaction. It is well known that lithium ions can be intercalated in graphite to form graphite intercalation compounds (GICs). 53 - 55 The stepwise lithium intercalation ultimately leads to the generation of various staged Li-GICs. 56 , 57 To develop an appropriate chemical lithiation method, we first investigated the lithium intercalation mechanism of graphite. Figure 1 a shows a typical curve of the galvanostatic intermittent titration technique (GITT) applied to graphite during the electrochemical Li-intercalation process, with the red dotted line representing the equilibrium potential. The red line exhibited a slope above 0.2 V and three subsequent plateaus at 0.200, 0.125, and 0.085 V, suggesting multiple complicated phase
+
+transitions of the lithiated graphite ( Figure S1 ). The in situ XRD patterns in Figure 1 b further give the structural evolution during the lithiation process. The interlayer spacing of graphite expands with lithium intercalation, corresponding to the lowerangle shift of the (002) peaks ( Figure S2 ). In addition, it shows four obvious stages along with the formation of differently staged Li-GICs. The original graphite started significant lithium intercalation from 0.200 V and then went through a phase transition from stage 4 to stage 3. The stage-2 Li-GICs (LiC$_{12}$) was formed at 0.125 V, which eventually evolved into the final stage 1 at 0.085 V.
+
+This complex Li-intercalation process makes it crucial to explore a suitable lithiation reagent to achieve the chemical lithiation of graphite. In our previous work, we developed a novel solution, biphenyl-lithium/2-methyl tetrahydrofuran (Bp-Li/2-MTHF), to realize the successful prelithiation of a graphite electrode while avoiding solvent co-intercalation. 58 It is a kind of organolithium reagent made by the dissolution of biphenyl and lithium metal in 2-MTHF ( eq 1 ).
+
+Preparation of the Bp-Li reagent:
+
+The conjugated aromatic ring of biphenyl will stabilize the electron transferred from lithium metal, thus spontaneously forming biphenyl anion radicals and lithium ions. 59 , 60 The newly emerged radicals (Bp * $^{-}$) in the Bp-Li complex exhibited a sharp Dysonian peak in Figure 1 c (blue line), while no distinctive signal was observed for the pristine Bp solution (black line). The characteristic absorption peaks of free radicals can also be observed in the UV - vis spectra ( Figure S3 ). 61 Correspondingly, there was a visible color change of the
+
+Figure 3. Morphology and layer number analysis of the exfoliated graphene. (a) UV - vis spectrum of as-prepared graphene (Inset: Digital photograph of graphene dispersion with a distinct Tyndall effect). (b) SEM image, (c) TEM image, (d) AFM image of the exfoliated graphene. (e) Height profiles of lines in (d). (f) AFM image of graphene from part of the area in (d). (g) Statistical thickness analysis of the exfoliated graphene based on 200 nanosheets. (h) HR-TEM image of the edge of bilayer graphene. (i) Electron diffraction pattern of the bilayer graphene.
+
+solution from colorless to deep blue-green after dissolution. The new peak in $^{7}$Li NMR ( Figure 1 d and Figure S4 ) further provides evidence for the distinct solvation structure of Li + in the Bp-Li reagent. 59 Moreover, we also found that Bp-Li holds a redox potential of 0.11 V ( Figure 1 e), much lower than the lithiation potential of graphite (0.200 V), providing a sufficient potential difference to drive the lithium-insertion process. In addition, the potential is between stage 2 (0.125 V) and stage 1 (0.085 V) of lithiated graphite. Based on the potential-matched principle we proposed in previous work, 48 we believe that BpLi can finally realize stage-2 Li-intercalation in theory.
+
+It is noted that in the practical chemical lithiation process we found that the molar ratio of Bp-Li to graphite (C$_{6}$) significantly influenced the degree of lithiation. As shown in Figure 1 f, when the molar ratio was 1:1, corresponding to graphite reacting fully with an equivalent amount of Bp-Li, only a mixed phase of stage-3 Li-GICs and a small amount of original graphite could be obtained. When the ratio increased to 2:1, the products still contained some of the original graphite phase. It was not until Bp-Li was present in 4-fold excess that the phase of the original graphite completely disappeared, presenting perfectly pure stage-2 Li-GICs. However, as the ratio continued to increase to 10:1 and 20:1 ( Figure S5 ), the lithiated products remained in the second stage. Only when the ratio reached 40:1 did a minimal amount of stage-1 Li-GICs appear, but pure-phase LiC$_{6}$ could still not be synthesized. Given the unnecessary expenditure of lithium and chemical reagents, persisting with an increased ratio for producing a limited amount of first-order Li-GICs had no
+
+practical significance. Consequently, the molar ratio of 4:1 was adopted in subsequent experiments to achieve highly efficient chemical lithiation.
+
+Structural Investigation of Stage-2 Li-GICs. The pristine graphite powder was immersed in a Bp-Li solution with mild stirring, where a homogeneous and precise lithiation reaction occurred at room temperature ( eq 2 ). As depicted in Figure 2 a, Bp-Li donated its lithium ions and electrons to graphite spontaneously due to the potential gap of Δ E = 0.09 V ( Δ G = - 8.68 kJ/mol) between each other, resulting in the formation of stable stage-2 Li-GICs, as expected from the prior discussion.
+
+Li-intercalation reaction of graphite enabled by Bp-Li:
+
+The microscopic morphology of lithiated graphite (LGr) was investigated by scanning electron microscopy (SEM). Compared with the compactly stacked graphite, the lithiated graphite shows distinct expansion accompanied by some delamination ( Figure 2 b,c, Figures S6 and S7 ), signifying ion insertion among interlayers. X-ray photoelectron spectroscopy (XPS) and electron paramagnetic resonance (EPR) measurements were further performed to detect ionic and electronic transitions during the lithiation reaction. A new peak appeared in the Li 1s spectra of lithiated graphite ( Figure 2 d), indicating the successful lithium intercalation. Significant changes were also observed in the EPR spectrum ( Figure 2 e). Lithiated graphite exhibited a strong resonance signal at g = 2.003, which
+
+Figure 4. Structural characterizations of the exfoliated graphene. (a) XRD patterns of pristine graphite and exfoliated graphene. (b) Typical Raman spectra of (i) pristine graphite and (ii) exfoliated graphene. Raman mappings of (c) D and (d) G bands of a graphene sheet. (e) Distribution of the I$_{D}$ / I$_{G}$ ratio, (f) XPS survey, and (g) high-resolution C 1s spectra of (i) pristine graphite and (ii) exfoliated graphene. (h) Comparison of I$_{D}$ / I$_{G}$ and carbon content for graphene oxide (GO), reduced graphene oxide (RGO), chemical vapor grown graphene (CVD), liquid-phase exfoliated graphene (LEG), and electrochemically exfoliated graphene (EEG). (i) Mass production of graphene dispersions. (j) Cross-sectional SEM image of the graphene film. (k) Graphene film serving as a connecting conductor in the electric circuit to light up the LED.
+
+is the characteristic feature of conducting electrons. 62 The simultaneous acceptance of ion and electron transfer induced a visible color change in lithiated graphite, 63 from gray to purplered, as shown in the Figure 2 e inset. Figure 2 f shows powder XRD patterns of graphite before and after lithiation. The (002) peak shifted from 26.5 ° to the lower angle of 25.2 ° , which exactly corresponds to stage-2 Li-GICs. 64 Moreover, other diffraction peaks at 38.3, 42.0, 49.6, and 51.9 ° align well with (003), (110), (112), and (004) reflections of LiC$_{12}$, 64 confirming the formation of LiC$_{12}$.
+
+This stage transition was also verified by the Raman spectra in Figure 2 g. After intercalation, the G band split into two peaks on both sides of the original peak, which were attributed to stage-2 Li-GICs reported previously in the literature. 58 , 65 $^{7}$Li NMR can be used to distinguish the different stages of GICs through the chemical shift of Li. 66 , 67 As shown in Figure 2 h, the dominant peak at ∼ 42 ppm was assigned to LiC$_{12}$ and the small peak at ∼ 4 ppm was presumably related to the lithium signals from the residual Bp-Li reagent. 67 Furthermore, ICPAES ( Figure 2 i) was conducted to quantify the composition of the as-prepared lithiated graphite. The molar ratio of Li/C was calculated to be 1:12.1, providing unequivocal evidence of LiC$_{12}$. All of these qualitative and quantitative results demonstrate that the pure stage-2 Li-GICs have been successfully synthesized via our potential-matched lithiation reaction.
+
+Morphological Characterization of Bilayer Graphene. The exfoliation process was performed by simply putting Ligraphite powder in water under mild sonication (50 W) for 30
+
+min. A massive amount of H$_{2}$ was generated within layers, weakening the interlayer's van der Waals forces and significantly facilitating graphene exfoliation. 37 , 39 After centrifugation and purification, we obtained a homogeneous graphene dispersion ( Figure 3 a inset) at a concentration of up to 0.12 mg/mL, and the mass yield was calculated to be 1.5%. The graphene dispersion exhibited an absorption peak at 268 nm in Figure 3 a, indicating that the π -plasmon resonance within the graphene remains after our mild intercalation and exfoliation process. 35 , 68 SEM of as-prepared graphene shows its wrinkled, flexible, and translucent structure ( Figure 3 b and Figure S8 ), which is significantly different from that of the pristine well-stacked graphite. In addition, transmission electron microscopy (TEM) of graphene sheets in Figure 3 c and Figure S9 further reveals their ultrathin and transparent features, demonstrating the high effectiveness of our exfoliation method.
+
+To investigate the thickness of the obtained graphene, we performed atomic force microscopy (AFM) measurements in Figure 3 d - f and Figure S10 . To our surprise, most of these graphene sheets give a uniform apparent AFM height of ∼ 1.6 nm. Considering that it is challenging to directly connect the measured height with the actual layer number due to the sample/probe interaction and the residual solvent, we performed step height analysis to precisely determine the layer number of the exfoliated graphene. 28 , 47 , 69 The results in Figure S11 show that the step height of the monolayer is ∼ 0.75 nm, and the thinnest apparent thickness we can find is ∼ 0.83 nm, which reveals that the 1.6 nm thickness of our sample
+
+corresponds to the bilayer graphene. The statistical analysis based on 200 nanosheets showed that our exfoliation exhibited a high bilayer selectivity of up to ∼ 78% ( Figure 3 g) and produced nanosheets with an average lateral size of ∼ 0.9 μ m ( Figure S12 ). In addition, we also observed many step heights of multiples of 1.5 nm (bilayer step height) from incompletely exfoliated flakes in Figure S13 , further confirming our bilayer exfoliation process. We believe that this bilayer-favored exfoliation exactly originated from the unique structure of LiC$_{12}$ and can be well explained via staging intercalation and exfoliation theory. 36 , 47 , 50 , 70 The lithium ions occupied the interlayers of every two carbon layers in stage-2 Li-graphite; thus, H$_{2}$ is produced only between every two layers, preferentially leading to the delamination of double-layer graphene.
+
+High-resolution TEM (HRTEM) further provides unambiguous evidence by examining the edges of these graphene sheets carefully. 71 As shown in Figure 3 h, a well-defined bilayer structure was clearly identified from the two dark lines at the edge. More bilayer evidence observed at the folded edge is provided in Figure S14 . The electron diffraction of the typical hexagonal symmetric pattern ( Figure 3 i) suggests the highly crystalline nature of the exfoliated graphene. 72 Moreover, the (1-210) diffraction spot shows higher intensity than the (0110) spot, which is the characteristic feature of bilayer graphene. 40 , 73 , 74 In addition, the Raman spectrum of the 2D band of the exfoliated graphene ( Figure S15 ) can be fitted with four Lorentzian curves, which is consistent with the bilayer graphene reported in the literature. 75
+
+Quality Evaluation of Bilayer Graphene. To further evaluate the structural quality of our exfoliated bilayer graphene, we performed XRD and Raman spectroscopy and XPS measurements. As shown in Figure 4 a, pristine graphite displays an obvious (002) peak at 26.5 ° . In contrast, the intensity of this peak was significantly decreased in exfoliated graphene ( Figure S16 ), which suggests that our exfoliation method is highly efficient. Meanwhile, the (002) peak position of graphene remained unchanged after exfoliation, indicating the maintained interlayer spacing and structural integrity of exfoliated graphene. 19 Raman spectroscopy is a powerful tool for characterizing the quality of graphene. 74 The Raman spectrum of pristine graphite ( Figure 4 b,i) gives three typical bands: the defect-induced D band at 1337 cm - $^{1}$, G band at 1580 cm - $^{1}$, and 2D band at 2700 cm - $^{1}$. Among them, the D/G band intensity ratio ( I$_{D}$ / I$_{G}$ ) is an important measure of the defect level in carbon materials. 71 As shown in Figure 4 b,ii, the exfoliated graphene has an I$_{D}$ / I$_{G}$ ratio of ∼ 0.14, which is as low as that of pristine graphite ( ∼ 0.11). Raman mappings of D and G bands ( Figure 4 c,d) of an isolated graphene sheet further show the low defect nature of our exfoliated graphene. Considering that laser Raman spectroscopy is sensitive to the local environment, we arbitrarily selected Raman spectra of 30 different spots on the graphene film ( Figures S17 - S19 ), and statistical analysis of the I$_{D}$ / I$_{G}$ ratio was collected in Figure 4 e. It can be seen that the I$_{D}$ / I$_{G}$ ratio of graphene increases only slightly due to the reduced lateral size after exfoliation, 74 revealing no significant structural defects generated during our mild process.
+
+The oxidation degree of graphene sheets is another important factor in determining the quality of graphene. 68 , 76 The XPS results ( Figure 4 f,ii and Table S1 ) show that the oxygen percentage of the exfoliated graphene is ∼ 3.3%, with a high C/O molar ratio of ∼ 29.7, which is comparable to that of
+
+pristine graphite (C/O ratio ∼ 31.2, Figure 4 f,i), demonstrate the good quality of the as-prepared graphene sheets. The corresponding high-resolution C 1s spectra of the pristine graphite and exfoliated graphene ( Figure 4 g) are similar to one another, suggesting that few functionalities were introduced during our chemical intercalation-exfoliation process. In addition, the 291.1 eV peak related to the π - π * transition of the aromatic C - C was still clearly visible in the exfoliated graphene, which is characteristic in high-concentration sp 2 carbon material. 76 Figure 4 h compares the carbon content and I$_{D}$ / I$_{G}$ ratio of graphene prepared by our method and other state-of-the-art methods. It is visually observed that the quality of our exfoliated graphene is much higher than that of GO and RGO and resembles that of EEG, LEG, and CVD graphene, demonstrating the competitive advantage of our approach in the preparation of high-quality graphene. The detailed comparison is available in the Supporting Information ( Table S2 ).
+
+This solution-based method offers the advantage of easy scalability for production. Figure 4 i shows a photograph of a batch of as-prepared graphene dispersions, which were further utilized to fabricate a graphene film via vacuum filtration. The top-view SEM images ( Figure S20 ) of the graphene film reveal typical wrinkled and curved features of ultrathin graphene. The cross-sectional view further shows that the film possesses a thickness of ∼ 16.8 μ m and a well-stacked layered hierarchy structure ( Figures 4 j and S21 ). The electrical conductivity was measured to be 1.33 × 10 4 S m - 1 using the four-point probe technique. 72 This value is quite high compared with that of graphene prepared by liquid-phase exfoliation reported previously (<7000 S m - $^{1}$). 29 , 30 This superior conductivity arises from our nonoxidation exfoliation methodology and the high-quality properties of as-prepared graphene. As illustrated in Figure 4 k, a light-emitting diode (LED) could work normally when connected to the electrical circuit composed of a graphene film, which is a testament to its excellent electrical properties. Future work will focus on a deeper investigation of the physical and chemical characteristics of bilayer graphene, with the aim of broadening its applications in the realm of photonics, electronics, and energy devices.
+
+## ■ CONCLUSIONS
+
+A novel chemical lithiation-assisted exfoliation approach is developed for the facile and scalable synthesis of high-quality bilayer graphene nanosheets. Benefiting from the well-matched potential of Bp-Li, it can realize the spontaneous lithium intercalation of graphite and finally achieve precise secondorder lithiation to stage-2 Li-GICs. The subsequent exfoliation based on stage-2 Li-GICs surprisingly results in the preferential production of bilayer graphene with a high selectivity rate of 78%. Furthermore, this nondestructive exfoliation strategy yields high-quality graphene almost without structural deterioration. The exfoliated graphene exhibits an ultralow defect density ( I$_{D}$ / I$_{G}$ ≈ 0.14) and an ultrahigh carbon-tooxygen ratio ( ∼ 29.7), which is comparable to and even better than that of other state-of-the-art methods ( Table S2 ). This solution-based approach paves the way for the scalable production of high-quality graphene and enhances our comprehensive understanding of intercalation-based exfoliation strategies for layered materials.
+
+## ASSOCIATED CONTENT
+
+## * sı Supporting Information
+
+■
+
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/jacs.4c00975 .
+
+Experimental details including chemicals, methods, and characterization; additional figures and tables to support the main text ( PDF )
+
+## ■ AUTHOR INFORMATION
+
+## ■ Corresponding Authors
+
+Cunlan Guo - College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, China; orcid.org/0000-0001-7706-5230 ; Email: cunlanguo@ whu.edu.cn
+
+Jiangfeng Qian - Hubei Key Laboratory of Electrochemical Power Sources, College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, China; orcid.org/0000-0002-6758-9337 ; Email: jfqian@ whu.edu.cn
+
+## Authors
+
+Xiaolong Zhu - Hubei Key Laboratory of Electrochemical Power Sources, College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, China; Pritzker School of Molecular Engineering, The University of Chicago, Chicago, Illinois 60637, United States
+
+Zhikang Su - Hubei Key Laboratory of Electrochemical Power Sources, College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, China
+
+Ran Tan - Hubei Key Laboratory of Electrochemical Power Sources, College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, China
+
+Xinping Ai - Hubei Key Laboratory of Electrochemical Power Sources, College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, China; orcid.org/ 0000-0002-8280-0866
+
+Complete contact information is available at: https://pubs.acs.org/10.1021/jacs.4c00975
+
+## Author Contributions
+
+$^{#}$X.Z. and Z.S. contributed equally to this work. Notes
+
+The authors declare no competing financial interest.
+
+## ACKNOWLEDGMENTS
+
+This work was financially supported by the National Natural Science Foundation of China (grant nos. 22075216 and 22279093), the Natural Science Foundation of Hubei Province, China (grant no. 2022CFB096), the Key Research and Development Program of Hubei Province, China (2023BAB108), and the Young Top-Notch Talent Cultivation Program of Hubei Province. We would like to thank the Core Research Facility of CCMS (WHU) for providing access to analytical equipment, Shiyan Laboratory (www.shivaniia.com) for XPS characterization, and Beijing Scistary Co., Ltd for conducting in situ XRD measurements.
+
+■
+
+## ■ REFERENCES
+
+■ (1) Balandin, A. A. Thermal properties of graphene and nanostructured carbon materials. Nat. Mater. 2011 , 10 (8), 569 - 81.
+
+(2) Ghosh, S.; Bao, W.; Nika, D. L.; Subrina, S.; Pokatilov, E. P.; Lau, C. N.; Balandin, A. A. Dimensional crossover of thermal transport in few-layer graphene. Nat. Mater. 2010 , 9 (7), 555 - 8.
+
+(3) Novoselov, K. S.; Geim, A. K.; Morozov, S. V.; Jiang, D.; Zhang, Y.; Dubonos, S. V.; Grigorieva, I. V.; Firsov, A. A. Electric field effect in atomically thin carbon films. Science 2004 , 306 (5696), 666 - 9.
+
+(4) Zhang, Y.; Tan, Y. W.; Stormer, H. L.; Kim, P. Experimental observation of the quantum Hall effect and Berry's phase in graphene. Nature 2005 , 438 (7065), 201 - 4.
+
+(5) Kim, K. S.; Zhao, Y.; Jang, H.; Lee, S. Y.; Kim, J. M.; Kim, K. S.; Ahn, J. H.; Kim, P.; Choi, J. Y.; Hong, B. H. Large-scale pattern growth of graphene films for stretchable transparent electrodes. Nature 2009 , 457 (7230), 706 - 10.
+
+(6) Nair, R. R.; Blake, P.; Grigorenko, A. N.; Novoselov, K. S.; Booth, T. J.; Stauber, T.; Peres, N. M.; Geim, A. K. Fine structure constant defines visual transparency of graphene. Science 2008 , 320 (5881), 1308.
+
+(7) Lee, C.; Wei, X.; Kysar, J. W.; Hone, J. Measurement of the Elastic Properties and Intrinsic Strength of Monolayer Graphene. Science 2008 , 321 (5887), 385 - 388.
+
+(8) Chen, H.; Mu ̈ ller, M. B.; Gilmore, K. J.; Wallace, G. G.; Li, D. Mechanically Strong, Electrically Conductive, and Biocompatible Graphene Paper. Adv. Mater. 2008 , 20 (18), 3557 - 3561.
+
+(9) Huang, X.; Qi, X.; Boey, F.; Zhang, H. Graphene-based composites. Chem. Soc. Rev. 2012 , 41 (2), 666 - 686.
+
+(10) Geim, A. K.; Novoselov, K. S. The rise of graphene. Nat. Mater. 2007 , 6 (3), 183 - 191.
+
+(11) Tan, C.; Cao, X.; Wu, X.-J.; He, Q.; Yang, J.; Zhang, X.; Chen, J.; Zhao, W.; Han, S.; Nam, G.-H.; Sindoro, M.; Zhang, H. Recent Advances in Ultrathin Two-Dimensional Nanomaterials. Chem. Rev. 2017 , 117 (9), 6225 - 6331.
+
+(12) Liao, J.; Zhao, Y.; Hu, Z.; Bu, S.; Lu, Q.; Shang, M.; Jia, K.; Qiu, X.; Xie, Q.; Lin, L.; Liu, Z. Crack-Free Transfer of Graphene Wafers via Photoresist as Transfer Medium. Acta Phys.-Chim. Sin. 2023 , 39 (10), 2306038.
+
+(13) Liu, F.; Fan, Z. Defect engineering of two-dimensional materials for advanced energy conversion and storage. Chem. Soc. Rev. 2023 , 52 (5), 1723 - 1772.
+
+(14) Hummers, W. S.; Offeman, R. E. Preparation of Graphitic Oxide. J. Am. Chem. Soc. 1958 , 80 (6), 1339 - 1339.
+
+(15) Stankovich, S.; Dikin, D. A.; Piner, R. D.; Kohlhaas, K. A.; Kleinhammes, A.; Jia, Y.; Wu, Y.; Nguyen, S. T.; Ruoff, R. S. Synthesis of graphene-based nanosheets via chemical reduction of exfoliated graphite oxide. Carbon 2007 , 45 (7), 1558 - 1565.
+
+(16) Cote, L. J.; Cruz-Silva, R.; Huang, J. Flash reduction and patterning of graphite oxide and its polymer composite. J. Am. Chem. Soc. 2009 , 131 (31), 11027 - 32.
+
+(17) Stankovich, S.; Dikin, D. A.; Dommett, G. H. B.; Kohlhaas, K. M.; Zimney, E. J.; Stach, E. A.; Piner, R. D.; Nguyen, S. T.; Ruoff, R. S. Graphene-based composite materials. Nature 2006 , 442 (7100), 282 - 286.
+
+(18) Pei, S.; Cheng, H. M. The reduction of graphene oxide. Carbon 2012 , 50 (9), 3210 - 3228.
+
+(19) Nakajima, T.; Mabuchi, A.; Hagiwara, R. A new structure model of graphite oxide. Carbon 1988 , 26 (3), 357 - 361.
+
+(20) Chen, Z.; Ren, W.; Gao, L.; Liu, B.; Pei, S.; Cheng, H. M. Three-dimensional flexible and conductive interconnected graphene networks grown by chemical vapour deposition. Nat. Mater. 2011 , 10 (6), 424 - 8.
+
+(21) Shi, L.; Chen, K.; Du, R.; Bachmatiuk, A.; Rummeli, M. H.; Xie, K.; Huang, Y.; Zhang, Y.; Liu, Z. Scalable Seashell-Based Chemical Vapor Deposition Growth of Three-Dimensional Graphene Foams for Oil-Water Separation. J. Am. Chem. Soc. 2016 , 138 (20), 6360 - 3.
+
+(22) Zhang, Y.; Zhang, L.; Zhou, C. Review of chemical vapor deposition of graphene and related applications. Acc. Chem. Res. 2013 , 46 (10), 2329 - 39.
+
+(23) Lee, J. H.; Lee, E. K.; Joo, W. J.; Jang, Y.; Kim, B. S.; Lim, J. Y.; Choi, S. H.; Ahn, S. J.; Ahn, J. R.; Park, M. H.; Yang, C. W.; Choi, B. L.; Hwang, S. W.; Whang, D. Wafer-scale growth of single-crystal
+
+monolayer graphene on reusable hydrogen-terminated germanium. Science 2014 , 344 (6181), 286 - 9.
+
+(24) Sutter, P. W.; Flege, J. I.; Sutter, E. A. Epitaxial graphene on ruthenium. Nat. Mater. 2008 , 7 (5), 406 - 11.
+
+(25) Yi, M.; Shen, Z. A review on mechanical exfoliation for the scalable production of graphene. J. Mater. Chem. A 2015 , 3 (22), 11700 - 11715.
+
+(26) Shi, D.; Yang, M.; Chang, B.; Ai, Z.; Zhang, K.; Shao, Y.; Wang, S.; Wu, Y.; Hao, X. Ultrasonic-Ball Milling: A Novel Strategy to Prepare Large-Size Ultrathin 2D Materials. Small 2020 , 16 (13), 1906734.
+
+(27) Wang, Z.; Yan, X.; Hou, Q.; Liu, Y.; Zeng, X.; Kang, Y.; Zhao, W.; Li, X.; Yuan, S.; Qiu, R.; Uddin, M. H.; Wang, R.; Xia, Y.; Jian, M.; Kang, Y.; Gao, L.; Liang, S.; Liu, J. Z.; Wang, H.; Zhang, X. Scalable high yield exfoliation for monolayer nanosheets. Nat. Commun. 2023 , 14 (1), 236.
+
+(28) Paton, K. R.; Varrla, E.; Backes, C.; Smith, R. J.; Khan, U.; O'Neill, A.; Boland, C.; Lotya, M.; Istrate, O. M.; King, P.; Higgins, T.; Barwich, S.; May, P.; Puczkarski, P.; Ahmed, I.; Moebius, M.; Pettersson, H.; Long, E.; Coelho, J.; O'Brien, S. E.; McGuire, E. K.; Sanchez, B. M.; Duesberg, G. S.; McEvoy, N.; Pennycook, T. J.; Downing, C.; Crossley, A.; Nicolosi, V.; Coleman, J. N. Scalable production of large quantities of defect-free few-layer graphene by shear exfoliation in liquids. Nat. Mater. 2014 , 13 (6), 624 - 630.
+
+(29) Hernandez, Y.; Nicolosi, V.; Lotya, M.; Blighe, F. M.; Sun, Z.; De, S.; McGovern, I. T.; Holland, B.; Byrne, M.; Gun'Ko, Y. K.; Boland, J. J.; Niraj, P.; Duesberg, G.; Krishnamurthy, S.; Goodhue, R.; Hutchison, J.; Scardaci, V.; Ferrari, A. C.; Coleman, J. N. High-yield production of graphene by liquid-phase exfoliation of graphite. Nat. Nanotechnol. 2008 , 3 (9), 563 - 8.
+
+(30) Lotya, M.; King, P. J.; Khan, U.; De, S.; Coleman, J. N. Highconcentration, surfactant-stabilized graphene dispersions. ACS Nano 2010 , 4 (6), 3155 - 62.
+
+(31) Ciesielski, A.; Haar, S.; El Gemayel, M.; Yang, H.; Clough, J.; Melinte, G.; Gobbi, M.; Orgiu, E.; Nardi, M. V.; Ligorio, G.; Palermo, V.; Koch, N.; Ersen, O.; Casiraghi, C.; Samorì, P. Harnessing the liquid-phase exfoliation of graphene using aliphatic compounds: A supramolecular approach. Angew. Chem., Int. Ed. 2014 , 53 (39), 10355 - 10361.
+
+(32) Zhang, W.; Cao, Y.; Tian, P.; Guo, F.; Tian, Y.; Zheng, W.; Ji, X.; Liu, J. Soluble, exfoliated two-dimensional nanosheets as excellent aqueous lubricants. ACS Appl. Mater. Interfaces 2016 , 8 (47), 32440 - 32449.
+
+(33) Zhang, Q.; Mei, L.; Cao, X.; Tang, Y.; Zeng, Z. Intercalation and exfoliation chemistries of transition metal dichalcogenides. J. Mater. Chem. A 2020 , 8 (31), 15417 - 15444.
+
+(34) Zhao, Y.; Su, Y.; Guo, Y.; Wu, C. Intercalation-assisted Exfoliation Strategy for Two-dimensional Materials Preparation. Chem. Res. Chin. Univ. 2020 , 36 (4), 518 - 524.
+
+(35) Bepete, G.; Anglaret, E.; Ortolani, L.; Morandi, V.; Huang, K.; Penicaud, A.; Drummond, C. Surfactant-free single-layer graphene in water. Nat. Chem. 2017 , 9 (4), 347 - 352.
+
+(36) Yang, R.; Fan, Y.; Mei, L.; Shin, H. S.; Voiry, D.; Lu, Q.; Li, J.; Zeng, Z. Synthesis of atomically thin sheets by the intercalation-based exfoliation of layered materials. Nat. Synth. 2023 , 2 (2), 101 - 118.
+
+(37) Huang, H.; Xia, Y.; Tao, X.; Du, J.; Fang, J.; Gan, Y.; Zhang, W. Highly efficient electrolytic exfoliation of graphite into graphene sheets based on Li ions intercalation-expansion-microexplosion mechanism. J. Mater. Chem. 2012 , 22 (21), 10452.
+
+(38) Zeng, Z.; Yin, Z.; Huang, X.; Li, H.; He, Q.; Lu, G.; Boey, F.; Zhang, H. Single-layer semiconducting nanosheets: high-yield preparation and device fabrication. Angew. Chem., Int. Ed. 2011 , 50 (47), 11093 - 7.
+
+(39) Yang, R.; Mei, L.; Zhang, Q.; Fan, Y.; Shin, H. S.; Voiry, D.; Zeng, Z. High-yield production of mono- or few-layer transition metal dichalcogenide nanosheets by an electrochemical lithium ion intercalation-based exfoliation method. Nat. Protoc. 2022 , 17 (2), 358 - 377.
+
+(40) Wang, J.; Manga, K. K.; Bao, Q.; Loh, K. P. High-yield synthesis of few-layer graphene flakes through electrochemical expansion of graphite in propylene carbonate electrolyte. J. Am. Chem. Soc. 2011 , 133 (23), 8888 - 91.
+
+(41) Zhou, K.; Shi, Y.; Jiang, S.; Song, L.; Hu, Y.; Gui, Z. A facile liquid phase exfoliation method to prepare graphene sheets with different sizes expandable graphite. Mater. Res. Bull. 2013 , 48 (9), 2985 - 2992.
+
+(42) Cano-Márquez, A. G.; Rodríguez-Macías, F. J.; CamposDelgado, J.; Espinosa-González, C. G.; Tristán-López, F.; RamírezGonzález, D.; Cullen, D. A.; Smith, D. J.; Terrones, M.; Vega-Cantu ́ , Y. I. Ex-MWNTs: Graphene sheets and ribbons produced by lithium intercalation and exfoliation of carbon nanotubes. Nano Lett. 2009 , 9 (4), 1527 - 1533.
+
+(43) Kelly, K. F.; Billups, W. E. Synthesis of soluble graphite and graphene. Acc. Chem. Res. 2013 , 46 (1), 4 - 13.
+
+(44) Xu, M.; Sun, H.; Shen, C.; Yang, S.; Que, W.; Zhang, Y.; Song, X. Lithium-assisted exfoliation of pristine graphite for few-layer graphene nanosheets. Nano Res. 2015 , 8 (3), 801 - 807.
+
+(45) Cheng, Z.-L.; Kong, Y.-C.; Liu, Z. Li+/Na+ Co-Assisted Hydrothermal Exfoliation for Graphite into Few-Layer Graphene Nanosheets and Their Excellent Friction-Reducing Performance. ACS Sustain. Chem. Eng. 2019 , 7 (24), 19770 - 19778.
+
+(46) Zheng, J.; Zhang, H.; Dong, S.; Liu, Y.; Nai, C. T.; Shin, H. S.; Jeong, H. Y.; Liu, B.; Loh, K. P. High yield exfoliation of twodimensional chalcogenides using sodium naphthalenide. Nat. Commun. 2014 , 5 , 2995.
+
+(47) Fan, X.; Xu, P.; Li, Y. C.; Zhou, D.; Sun, Y.; Nguyen, M. A. T.; Terrones, M.; Mallouk, T. E. Controlled Exfoliation of MoS2 Crystals into Trilayer Nanosheets. J. Am. Chem. Soc. 2016 , 138 (15), 5143 - 5149.
+
+(48) Zhu, X.; Su, Z.; Wu, C.; Cong, H.; Ai, X.; Yang, H.; Qian, J. Exfoliation of MoS2 Nanosheets Enabled by a Redox-PotentialMatched Chemical Lithiation Reaction. Nano Lett. 2022 , 22 (7), 2956 - 2963.
+
+(49) Peng, J.; Wu, J.; Li, X.; Zhou, Y.; Yu, Z.; Guo, Y.; Wu, J.; Lin, Y.; Li, Z.; Wu, X.; Wu, C.; Xie, Y. Very Large-Sized Transition Metal Dichalcogenides Monolayers from Fast Exfoliation by Manual Shaking. J. Am. Chem. Soc. 2017 , 139 (26), 9019 - 9025.
+
+(50) Shih, C. J.; Vijayaraghavan, A.; Krishnan, R.; Sharma, R.; Han, J. H.; Ham, M. H.; Jin, Z.; Lin, S.; Paulus, G. L.; Reuel, N. F.; Wang, Q. H.; Blankschtein, D.; Strano, M. S. Bi- and trilayer graphene solutions. Nat. Nanotechnol. 2011 , 6 (7), 439 - 45.
+
+(51) Zhang, Y.; Tang, T. T.; Girit, C.; Hao, Z.; Martin, M. C.; Zettl, A.; Crommie, M. F.; Shen, Y. R.; Wang, F. Direct observation of a widely tunable bandgap in bilayer graphene. Nature 2009 , 459 (7248), 820 - 3.
+
+(52) Yan, J.; Kim, M. H.; Elle, J. A.; Sushkov, A. B.; Jenkins, G. S.; Milchberg, H. M.; Fuhrer, M. S.; Drew, H. D. Dual-gated bilayer graphene hot-electron bolometer. Nat. Nanotechnol 2012 , 7 (7), 472 - 8.
+
+(53) Dahn, J. R. Phase diagram of LixC6. Phys. Rev. B: Condens. Matter 1991 , 44 (17), 9170 - 9177.
+
+(54) Liu, X.; Yin, L.; Ren, D.; Wang, L.; Ren, Y.; Xu, W.; Lapidus, S.; Wang, H.; He, X.; Chen, Z.; Xu, G. L.; Ouyang, M.; Amine, K. In situ observation of thermal-driven degradation and safety concerns of lithiated graphite anode. Nat. Commun. 2021 , 12 (1), 4235.
+
+(55) Liu, Y.; Shi, H.; Wu, Z.-S. Recent status, key strategies and challenging perspectives of fast-charging graphite anodes for lithiumion batteries. Energy Environ. Sci. 2023 , 16 (11), 4834 - 4871.
+
+(56) Hofmann, U.; Ru ̈ dorff, W. The formation of salts from graphite by strong acids. Trans. Faraday Soc. 1938 , 34 (0), 1017 - 1021.
+
+(57) Andersen, H. L.; Djuandhi, L.; Mittal, U.; Sharma, N. Strategies for the Analysis of Graphite Electrode Function. Adv. Energy Mater. 2021 , 11 (48), 2102693.
+
+(58) Shen, Y.; Shen, X.; Yang, M.; Qian, J.; Cao, Y.; Yang, H.; Luo, Y.; Ai, X. Achieving Desirable Initial Coulombic Efficiencies and Full Capacity Utilization of Li Ion Batteries by Chemical Prelithiation of Graphite Anode. Adv. Funct. Mater. 2021 , 31 (24), 2101181.
+
+(59) Choi, J.; Jeong, H.; Jang, J.; Jeon, A. R.; Kang, I.; Kwon, M.; Hong, J.; Lee, M. Weakly Solvating Solution Enables Chemical Prelithiation of Graphite-SiOx Anodes for High-Energy Li-Ion Batteries. J. Am. Chem. Soc. 2021 , 143 (24), 9169 - 9176.
+
+(60) Shen, H.; An, Y.; Man, Q.; Liu, D.; Zhang, X.; Ni, Z.; Dai, Y.; Dong, M.; Xiong, S.; Feng, J. Chemical Prelithiation/Presodiation Strategies Toward Controllable and Scalable Synthesis of Microsized Nanoporous Tin at Room Temperature for High Energy Sodium Ion Batteries. Adv. Funct. Mater. 2023 , 34 , 2309834.
+
+(61) Ma, Y. J.; Hu, J. X.; Han, S. D.; Pan, J.; Li, J. H.; Wang, G. M. Manipulating On/Off Single-Molecule Magnet Behavior in a Dy(III)Based Photochromic Complex. J. Am. Chem. Soc. 2020 , 142 (5), 2682 - 2689.
+
+(62) Wang, B.; Le Fevre, L. W.; Brookfield, A.; McInnes, E. J. L.; Dryfe, R. A. W. Resolution of Lithium Deposition versus Intercalation of Graphite Anodes in Lithium Ion Batteries: An In Situ Electron Paramagnetic Resonance Study. Angew. Chem., Int. Ed. 2021 , 60 (40), 21860 - 21867.
+
+(63) Maire, P.; Evans, A.; Kaiser, H.; Scheifele, W.; Novák, P. Colorimetric Determination of Lithium Content in Electrodes of Lithium-Ion Batteries. J. Electrochem. Soc. 2008 , 155 (11), A862 - A865.
+
+(64) Missyul, A.; Bolshakov, I.; Shpanchenko, R. XRD study of phase transformations in lithiated graphite anodes by Rietveld method. Powder Diffr. 2017 , 32 (S1), S56 - S62.
+
+(65) Inaba, M.; Yoshida, H.; Ogumi, Z.; Abe, T.; Mizutani, Y.; Asano, M. In Situ Raman Study on Electrochemical Li Intercalation into Graphite. J. Electrochem. Soc. 1995 , 142 (1), 20 - 26.
+
+(66) Letellier, M.; Chevallier, F.; Morcrette, M. In situ 7Li nuclear magnetic resonance observation of the electrochemical intercalation of lithium in graphite; 1st cycle. Carbon 2007 , 45 (5), 1025 - 1034.
+
+(67) Mei, W.; Jiang, L.; Liang, C.; Sun, J.; Wang, Q. Understanding of Li plating on graphite electrode: detection, quantification and mechanism revelation. Energy Storage Mater. 2021 , 41 , 209 - 221.
+
+(68) Chen, X.; Zhu, Y.; Peng, W.; Li, Y.; Zhang, G.; Zhang, F.; Fan, X. Direct exfoliation of the anode graphite of used Li-ion batteries into few-layer graphene sheets: a green and high yield route to highquality graphene preparation. J. Mater. Chem. A 2017 , 5 (12), 5880 - 5885.
+
+(69) Backes, C.; Smith, R. J.; McEvoy, N.; Berner, N. C.; McCloskey, D.; Nerl, H. C.; O'Neill, A.; King, P. J.; Higgins, T.; Hanlon, D.; Scheuschner, N.; Maultzsch, J.; Houben, L.; Duesberg, G. S.; Donegan, J. F.; Nicolosi, V.; Coleman, J. N. Edge and confinement effects allow in situ measurement of size and thickness of liquidexfoliated nanosheets. Nat. Commun. 2014 , 5 , 4576.
+
+(70) Wang, H.; Wan, Q.; Lu, Z.; Wang, Y.; Jiang, G.; Shen, J.; Zeng, Q.; Zhang, S.; Chen, Z.; Wang, J. Bilayer-favored intercalation induced efficient and selective liquid phase production of bilayer graphene. J. Mater. Chem. A 2022 , 10 (27), 14381 - 14391.
+
+(71) Matsumoto, M.; Saito, Y.; Park, C.; Fukushima, T.; Aida, T. Ultrahigh-throughput exfoliation of graphite into pristine 'single-layer' graphene using microwaves and molecularly engineered ionic liquids. Nat. Chem. 2015 , 7 (9), 730 - 736.
+
+(72) Zhang, Y.; Xu, Y. Simultaneous Electrochemical Dual-Electrode Exfoliation of Graphite toward Scalable Production of High-Quality Graphene. Adv. Funct. Mater. 2019 , 29 (37), 1902171.
+
+(73) Parvez, K.; Li, R.; Puniredd, S. R.; Hernandez, Y.; Hinkel, F.; Wang, S.; Feng, X.; Mu ̈ llen, K. Electrochemically exfoliated graphene as solution-processable, highly conductive electrodes for organic electronics. ACS Nano 2013 , 7 (4), 3598 - 3606.
+
+(74) Islam, A.; Mukherjee, B.; Pandey, K. K.; Keshri, A. K. UltraFast, Chemical-Free, Mass Production of High Quality Exfoliated Graphene. ACS Nano 2021 , 15 (1), 1775 - 1784.
+
+(75) Ferrari, A. C.; Meyer, J. C.; Scardaci, V.; Casiraghi, C.; Lazzeri, M.; Mauri, F.; Piscanec, S.; Jiang, D.; Novoselov, K. S.; Roth, S.; Geim, A. K. Raman spectrum of graphene and graphene layers. Phys. Rev. Lett. 2006 , 97 (18), 187401.
+
+(76) Yang, S.; Ricciardulli, A. G.; Liu, S.; Dong, R.; Lohe, M. R.; Becker, A.; Squillaci, M. A.; Samori, P.; Mullen, K.; Feng, X. Ultrafast
+
+Delamination of Graphite into High-Quality Graphene Using Alternating Currents. Angew. Chem., Int. Ed. 2017 , 56 (23), 6669 - 6675.

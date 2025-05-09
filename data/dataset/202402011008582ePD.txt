@@ -1,0 +1,247 @@
+## 1 Introduction
+
+More than half of the world's known coal reserves are lowrank coal (LRC). LRC, which usually includes lignite and non-stick coal, plays an important role in global energy supply and chemical production [1, 2]. LRC belongs to low metamorphic coal, indicating that it contains abundant hydrophilic functional groups, strong hydrophilicity,
+
+and many surface pores [1]. Therefore, froth flotation is a common beneficiation method for LRC, which uses different surface properties to separate minerals. However, the hydrophobic properties of the mineral of interest affect its separation performance [3]. In the case of LRC, the surface characteristics favor interactions between water molecules and hydrophilic surface sites, thus forming a hydration layer, preventing coal particles from adhering to bubbles and reducing hydrophobicity [4], and this seriously affects the flotation of LRC. Therefore, in order to obtain better flotation efficiency of LRC, a range of treatment processes have been proposed, such as pyrolysis, flotation pretreatment, and the use of flotation agents [5-7]. For example, the use of microwave radiation successfully increased the fixed carbon content and combustion calorific value of the LRC [7, 8]. Furthermore, pyrolysis changes the organic macromolecular structure of LRC during heating, permanently removing some hydrophilic functional groups and increasing the degree of condensation of the aromatic
+
+Vol.:(0123456789)
+
+rings [9-11]. However, pyrolysis produces waste gases, pollutes the environment, and increases treatment costs. Consequently, microwave radiation and pyrolysis are not widely used because of their high energy requirements and low environmental friendliness. Therefore, there is demand for alternative methods to enhance flotation.
+
+Concerning studies in this area, Zhang et al. [21] compared the sedimentation of particles in a coal pulp with that of coal foam in brine. The results indicate that the type and concentration of inorganic salts have key effects on the performance of flotation systems, and the addition of brine enhanced the ability of the frothing agents to produce small bubbles and stabilized the froth [22]. Kurniawan et al. [23] investigated the flotation of LRC in MgCl$_{2}$, NaCl, and NaClO$_{3}$ solutions without a strong foaming agent and found that flotation behavior was strongly dependent on the type and concentration of the inorganic salt. Ozdemir et al. [19] studied the flotation response of lignite in various salt solutions, including NaCl, KCl, CaCl$_{2}$, and MgCl$_{2}$, and also found that, at low salt concentrations, Mg$^{2+}$, Ca$^{2+}$, and La$^{3+}$ obviously improved the flotation effect of coal and graphite.
+
+In addition, in the flotation, freshwater is typically used; however, a complex mixture containing dissolved solutes is inevitably formed during coal feeding, and these solutes can affect the flotation process [12]. For example, a range of ions, including Na$^{+}$, K$^{+}$, Mg$^{2+}$, Ca$^{2+}$, Al$^{3+}$, SO$_{4}$$^{2+}$, Cl$^{-}$, and HCO$_{3}$$^{-}$, can change the appearance characteristics of the minerals, interact with the reagent, and change the characteristics of the pulp [13-15]. Thus, the ions in water resources have a key effect on mineral separation via froth flotation. In fact, in the early 1930s, it was found that the use of salt solutions can promote the flotation of hydrophobic mineral particles. This phenomenon has been concerned and studied by scholars. Some scholars have put forward several theories to explain this phenomenon [9-11, 16-19]. Crucially, flotation requires a large amount of water, but freshwater resources are often scarce, whereas saltwater resources are abundant, especially in the vicinity of mining operations [11]. Therefore, because of the shortage of freshwater and strict policies concerning the discharge of brine as well as the intriguing effects of ions on flotation, studying the effect of brine on flotation process is of great significance, which has attracted extensive attention [20].
+
+Bubble coalescence in salt solutions is also an important factor for coal flotation in saltwater, and Paulson and Pugh proposed [24] several mechanisms to account for the effects of inorganic salts on flotation. For example, the electrolyte ions can disrupt the hydration layer on the particle surface, thus enhancing the bubble's capture of the particles, reducing electrostatic interactions, and enhancing the charge on the bubble surface to hinder bubble coalescence. However, these proposed mechanisms to not explain the experimental
+
+phenomena satisfactorily and the specific content of the mechanism are still unclear.
+
+The interaction between the chemical reagents used for flotation and the salt ions in water also influences the froth stability, ash content, and concentrate recovery in coal flotation. For example, the combination of 4-methyl-2-amyl alcohol and salt ions has been shown to produce more stable foams and reduce concentrate recovery, whereas the combination of diesel oil and salt ions reduces the ash content [35]. In addition, since fine mineral particles possess large specific surface areas, the increase in cation concentration compresses the double electric layer around the particles [36, 37].
+
+As mentioned, inorganic salts can inhibit the flotation effect of hydrophobic particles. For example, Suyantara et al. [25] found that molybdenite and chalcopyrite were hydrophilic when pH was 11 and the mineral surface had Mg(OH)$_{2}$. Kurniawan et al. [23] and An et al. [26] also reported similar findings for coal and graphite flotation, respectively. Thus, the flotation process in salt water is extremely complicated, and the reasons for the different flotation performance are also different. For example, many inorganic salts inhibit bubble coalesce [27-33]. Firouzi and Nguyen [34] reported that the type and concentration of salt will affect the stability of the film and the effect of inhibiting the film rupture. In addition, they reported that both cations and anions affect bubble coalescence.
+
+Jeldres et al. [38] found that the high salinity of seawater reduces the size of the flotation foam bubbles, increases foam stability, and compresses the double electric layer around the bubbles, thus increasing the floatability of hydrophobic particles. Paulson and Pugh [24] studied the flotation of graphite in obvious electrolyte solutions and found that the addition of an electrolyte compresses the electric double-layer on the surface of the particles and significantly reduces the electrostatic repulsion between mineral particles to promote the flocculation of hydrophobic coal particles.
+
+In recent years, molecular dynamics (MD) simulations have been widely used to understand the interactions between mineral surfaces and processing agents from a microscopic perspective. Yuan et al. [41] studied the adsorption of the fatty alcohol polyoxyethylene ether-9 (AEO$_{9}$) on the surface of lignite through MD simulations and found that the lignite samples were wetted well after AEO$_{9}$ adsorption. Jin et al. [42] studied a lignite-surfactant-water system using MD simulations to analyze the wettability of the surfactant on the lignite surface at the molecular level. Zhang et al. [43] investigated the strengthening effect of a mixed
+
+The effect of cations on flotation is also affected by the pH. Specifically, at certain pH values, the zeta potential on the surface of negatively charged oxidized minerals can be reversed [39]. Thus, the flotation behavior of oxide minerals having negatively charged surfaces can be enhanced by the addition of anionic collectors [40].
+
+collector consisted of dodecane and tetraethylene monododecyl ether (C$_{12}$EO$_{4}$) on LRC flotation using MD simulations, finding that the ratio of dodecane to C$_{12}$EO$_{4}$ has a strong effect on the flotation recovery. MD simulations can also be used to study the effect of monovalent cations on the adsorption behavior of different collectors on LRC surfaces and to explore the related microscopic mechanisms.
+
+In this study, we aimed to understand the flotation behavior of LRC in the addition of sodium chloride (NaCl) and potassium chloride (KCl). Kerosene, oleic acid (OA), methyl linoleate (ML), hexadecyltrimethylammonium chloride (CTAC), and ricinoleic acid (RA) were used as collectors, and X-ray photoelectron spectroscopy (XPS) was conducted to analyze the effect of the adsorption of the collectors on the surface chemical structure of LRC. Moreover, density functional theory (DFT) calculations were used to determine the charge distribution and intermolecular interactions between LRC and the collector molecules and to explore the mechanism by which the collector affects the hydrophobic properties of LRC at the molecular/atomic level. Furthermore, using MD simulations and zeta potential measurements, the effects of different inorganic salt ions on the surface properties of LRC particles were studied, and the mechanism of interaction between the inorganic salt ions and LRC particle surfaces was investigated.
+
+## 2 Experimental
+
+## 2.1 Materials and Reagents
+
+Coal samples collected from Daluta Coal preparation plant in Shanxi province, China, were used as test samples. The size fraction of the LRC samples was not greater than 0.500 mm. The proximate analysis showed that the moisture and ash contents were 9.96% and 3.98%, respectively, and the volatile matter and the fixed carbon contents were 28.80% and 57.26%, respectively. The coal sample has high volatile content, low metamorphism, and high content of carbonaceous components, so it has high sorting value.
+
+2-Octanol was used as the frother for the flotation process. Kerosene, OA, ML, CTAC, and RA were selected as flotation collectors. OA, ML, and RA are octadecane derivatives. All reagents were provided by Aladdin Biochemical Technology Co., Ltd. (Shanghai, China).
+
+## 2.2 Flotation Experiments
+
+## 2.2.1 Flotation Experiments in Deionized Water Solution
+
+The LRC flotation experiments in deionized water were carried out in a flotation machine (XFDIII-0.5L). And the stirring speed was set to 1900 rpm. During the flotation process,
+
+the collector (kerosene, OA, ML, CTAC, and RA) dosages were 1.0, 1.5, 2.0, and 2.5 kg/t, and the dosage of the frother was 0.1 kg/t.
+
+First, the coal sample (40 g) and deionized water were poured into the flotation cell and stirred for 2 min at room temperature. After mixing well, add the collector to the pulp and stir for 2min, then add the frother and stir again for 2min. Subsequently, aeration was performed at a constant airflow rate of 100 L/min, and the foamed concentrate and flotation tailings were collected simultaneously. After filtering, the concentrate and tailings were dried at 60 °C and weighed. The effects of the different collectors on LRC flotation were compared by calculating the concentrate coal yield using Eq. (1).
+
+here, γ is the yield of clean coal (%), M$_{c}$ is the weight of clean coal (g), and M$_{t}$ is the weight of the tailings (g).
+
+## 2.2.2 Flotation Experiments in Inorganic Salt Solutions
+
+Before studying the effect of monovalent cations on LRC flotation, the optimal collector dosage was determined from the flotation results obtained in deionized water (see Section 2.2.1). Specifically, this was the dosage at which the highest flotation yield was obtained. The flotation procedures were performed following the same procedure as that used for deionized water but with solutions of KCl and NaCl (5, 10, 15, and 20 mM).
+
+## 2.3 Bubble-Particle Attachment Experiments
+
+To distinguish the degrees of hydrophobicity of LRC particles pretreated with four kinds of collectors, bubble-particle adhesion tests were conducted. A schematic of the bubble-particle attachment setup is shown in Fig. 1. The carrying capacity of a bubble for coal particles/flocs was evaluated using the particle carrying index (PBAI) [44], which was calculated using Eq. (2).
+
+here, S 2$_{(b-p)}$ is the outer arc length of the attached particle, S 1$_{(b)}$ is the arc length of the contact part between the fixed bubble and the particles, and θ represents the warp angle.
+
+For each bubble-particle attachment test, coal (2 g) having a particle size of 0.074-0.125 mm was mixed with the different collectors in deionized water and agitated for 30 min using a magnetic stirrer. A collector dosage of 2.5 kg/t was used. At the end of stirring, the pulp was transferred into the square quartz cells. Placed for a period of time to
+
+Fig. 1 Schematic of bubble-particle attachment system [44]
+
+precipitate all the coal particles and clarify the upper solution, in order to monitor the behavior of the aggregate of bubble particles. The bubble-particle attachment tests were performed using an induction time tester (BPAD-2, China). The contact times of the coal particles attached to the bubbles were fixed at 1, 3, 5, 10, and 15 s, respectively.
+
+## 2.4 XPS
+
+XPS was conducted to investigate the surface changes of coal samples treated with different chemicals and salt solutions. The XPS instrument used was a Thermo Scientific K-Alpha (Thermo Scientific, USA). The excitation source was an Al K$_{α}$ ray with a spot size of 400 μm. The wide-scan energy was 50 eV at a resolution of 1 eV. The narrow-scan energy was 20 eV and the resolution is 0.05 eV. Peak fitting of the narrow-scan spectra was carried out using XPS peak 4.1, and the relative contents of different hydrophilic and hydrophobic functional groups on the surface of the samples were, thus, calculated. The C1s peak (284.8 eV) was used as the benchmark to measure the narrow scan binding energies.
+
+## 2.5 MD Simulations
+
+Materials Studio (version 8.0) was used to perform MD simulations with the COMPASS II force field. The molecular models and MD simulation systems were created according to the chemical structure and properties of
+
+coal samples and experimental agents. After building each molecular model, the molecular structure was optimized in the Forcite module, and the optimized models are shown in Fig. 2. In order to obtain better results, the optimization method adopted the "Smart" algorithm, and the quality was medium. The "Amorphous Cell Tools" was used to place 20 lignite, 20 collector, and 1000 water molecules into the cells, and geometric optimization was then performed. The "Build Layer" tool was used to combining the models of the collector, water, and lignite molecules. A vacuum layer of 60 Å was added along the z -axis, and the size of the rectangular simulation unit was 40 × 40 × 130 Å (length × width × height). Finally, structural optimization and MD simulations of the system were performed. To get better results during simulation, two-thirds of the lignite molecule was fixed. You et al. [45] argues that the operation has little influence on the accuracy of the calculation. The MD calculation parameters are listed in Table 1.
+
+## 3 Results and Discussion
+
+## 3.1 Flotation Results
+
+## 3.1.1 Flotation Behavior in Deionized Water
+
+First, the effects of the collectors kerosene, CTAC, OA, ML, and RA on the flotation of LRC in deionized water
+
+Light source
+
+Fig. 2 Molecular models
+
+Table 1 MD simulation parameters
+
+| Project               | Parameter      |
+|-----------------------|----------------|
+| Ensemble              | NVT            |
+| Temperature           | 298.0 K        |
+| Time step             | 1.0 fs         |
+| Total simulation time | 300 ps         |
+| Thermostat            | Nosé           |
+| Cutoff distance       | 12.5 Å         |
+| Accuracy              | 0.001 kcal/mol |
+
+were assessed. Figure 3 shows the results of flotation experiment. As shown, as the amount of RA and kerosene increased, the flotation yield increased correspondingly from 13.85% and 13.05% to 26.96% and 19.28%, respectively. Compared to those of the other three collectors, CTAC, OA, and ML, the flotation recoveries obtained using RA and kerosene are lower, probably because the high viscosity of RA affects its diffusion onto the LRC surface. In LRC flotation, OA and ML exhibited better
+
+Fig. 3 Flotation of LRC following the addition of different collectors
+
+collecting abilities than the other three collectors. It was also found that the flotation yield increased from 33.55 to 96.77% as the amount of OA was increased. For ML,
+
+in contrast, the flotation yield increased from 46.02 to 72.67% and then decreased to 67.04% with the increase in collector dosage. Similar to ML, for CTAC, the flotation yield increased significantly from 8.50 to 41.24% as the dose increased but then decreased slightly to 31.16% at higher dosages. The highest flotation yield obtained with CTAC (41.24%) was achieved at a dosage of 2.0 kg/t, whereas the lowest flotation performance obtained with ML (46.02%) was achieved at a dosage of 1.0 kg/t. These results indicate that the collection efficiency of ML is much higher than that of CTAC. This may be a result of the formation of hydrogen bonds and van der Waals forces between ML and the LRC particle surfaces. These results indicate that the flotation of LRC can be enhanced by ester surfactants.
+
+At an OA dosage of 1.0 kg/t, the flotation yield (33.55%) was inferior to that of ML at the same dosage (46.02%). However, when adding 1.5 kg/t OA, the flotation yield of LRC steeply increased from 33.55 to 92.83%. This is significantly higher than that (62.59%) of ML when the added amount is 1.5 kg/t. Thus, it can be concluded that OA promoted the flotation of LRC at high dosages. Overall, at dosages higher than 1.0 kg/t, the collection capacities of the studied collectors decreased in order OA > ML > CTAC > RA > kerosene. Furthermore, even when the amount of kerosene was at the highest dosage of 2.5 kg/t, the flotation yield of LRC was the lowest of all tested collectors, only 19.28%. Thus, it is difficult to improve the flotation performance of LRC using kerosene alone. Therefore, kerosene was not used in the bubble-particle attachment and flotation experiments in inorganic salt solutions.
+
+## 3.1.2 Flotation Behavior in Inorganic Salt Solutions
+
+The results of LRC flotation experiments in inorganic salt solutions are shown in Fig. 4. Compared with those obtained in deionized water, the collection efficiencies of OA, ML, and RA were significantly lower, whereas that of CTAC was improved. When the concentration of the Na$^{+}$ solution was 10 mmol/L, the flotation yields obtained with OA, ML, and RA decreased to 74.00%, 64.50%, and 21.33%, respectively. However, the flotation yield obtained with OA slightly increased to 80.95% when the Na$^{+}$ concentration was 20 mmol/L. With increasing K$^{+}$ concentration, the flotation yield achieved with ML and CTAC showed an overall upward trend, whereas that with OA first decreased significantly and then slightly increased, possibly because the hydrophobic end of the collector can interact with the polar organic groups on the LRC surface and because the ionic compression of the electric double-layer at low of inorganic salt concentrations reduces the thickness of the diffusion layer and the interfacial energy [46]. At the same time, at higher inorganic salt concentrations, the electrostatic
+
+force of the electric double-layer was reduced. CTAC was not adsorbed well on the LRC surface. Therefore, the use of solutions having lower concentrations of Na$^{+}$ and K$^{+}$ reduced the flotation performance of both anionic and nonionic surfactants.
+
+When the Na$^{+}$ concentration was increased to 10 mmol/L, the flotation yield obtained with CTAC first increased from 41.24% to the maximum 87.03% but then decreased to 78.81%. Meanwhile, when the K$^{+}$ concentration was increased from 5 to 10 mmol/L, the flotation yield obtained with CTAC decreased slightly from 76.91 to 68.45%. This may be because the addition of a monovalent cation reduces the bubble size and improves froth stability [47]. Moreover, CTAC has foaming properties. Therefore, the flotation yield obtained when using CTAC increased significantly after the addition of Na$^{+}$ and K$^{+}$ solutions. In summary, the flotation yield ranges obtained when using OA, ML, CTAC, and RA were 74.00-93.45%, 55.12-68.95%, 67.40-87.03%, and 17.28-26.78%, respectively. Therefore, OA and CTAC exhibited the best flotation recovery in Na$^{+}$ and K$^{+}$ solutions.
+
+## 3.2 Particle-Bubble Attachment Analyses
+
+In the flotation process, mineral particles and bubbles collide first. The liquid film then drains between the particles and the bubble and breaks. Finally, particle-bubble attachment is achieved [48]. Enhancing the hydrophobicity of mineral particles is crucial for improving particle attachment and, thus, their floatability and the flotation recovery. Thus, bubble-particle adhesion experiments were conducted to explore the effects of different collectors on the surface hydrophobicity of coal particles. As shown in Fig. 5, with increasing contact time, the number of coal particles attached to bubbles increased. Furthermore, the coal particles pretreated with OA, ML, and RA adhered to each other, and more coal particles attached to the bubble surface. However, the coal particles treated with CTAC were more evenly attached to the bubble surface, and there was no significant particle agglomeration. This result implies that the flotation pretreatment of LRC with OA, ML, RA, and CTAC can enhance the hydrophobicity of the coal samples and, thus, increase the conglutination of LRC particles to bubbles. This also suggests that the improved flotation yield achieved when using CTAC may be due to its foaming ability and froth carryover.
+
+As shown in Fig. 6, with increasing contact time after OA, CTAC, and RA pretreatment, the PBAI values of the LRC particles increased from 19.44, 12.59, and 30.72 to 66.97%, 65.72%, and 74.02%, respectively. However, after ML pretreatment, the PBAI value increased first from 56.89 to 85.57% and then decreased to 66.83%, which is the same as the flotation results in Fig. 3. When the contact
+
+Fig. 4 LRC flotation results in Na$^{+}$ and K$^{+}$ solutions for LRC pretreated with ( a ) OA, ( b ) ML, ( c ) CTAC, and ( d ) RA
+
+Fig. 5 The adhesion of LRC particles to bubble surfaces for LRC pretreated with ( a ) OA, ( b ) ML, ( c ) CTAC, and ( d ) RA
+
+time was fixed at 10 s, the PBAI value of ML reached the maximum of 85.57%, possibly because of the obvious agglomeration of LRC particles after ML treatment, as shown in Fig. 5(b). In addition, owing to the effect of gravity and bubble vibration, the LRC particles slid to the bottom of the bubble, and the agglomerates of LRC particles on the external bubble surface fell off. Therefore, the surface hydrophobicity of the LRC samples treated with ML, RA, OA, and CTAC increased in that order. Furthermore, the improvement in the surface hydrophobicity of LRC treated with CTAC was the lowest in deionized water.
+
+## 3.3 XPS Results
+
+XPS was used to analyze the effects of the collectors containing different hydrophilic groups on the surface functional groups of the LRC. Figure 7 shows the result of fitting the C1s spectra of the LRC samples pretreated with five collectors when the dosage is 2.5 kg/t. The peaks at
+
+Fig. 6 PBAI values of LRC particles treated with OA, ML, CTAC, and RA for different contact periods
+
+binding energies of 284.6, 285.8-286.3, 287.3-287.6, and 289.0-289.2 eV correspond to C-C/C-H, C-O, C=O, and COOH groups, respectively [49, 50]. The relative contents of functional groups were acquired by comparing the fitted peak area. As shown in Fig. 7, the relative contents of C-C/C-H and C-O groups were 73.68% and 14.51%, respectively. The relative contents of C=O and COOH functional groups were 4.50% and 7.31%, respectively. C-C/C-H functional groups are hydrophobic. The oxygen-containing functional groups are hydrophilic. Thus, hydrophilic groups were easy to interact with water, which increased the surface hydrophilicity of the mineral and deteriorated the flotation effect. By interacting with oxygen-containing functional groups, the hydrophobic collector improves the surface hydrophobicity of coal samples. Therefore, the adsorption effect can be inferred according to the change of the content of oxygen-containing functional groups on the surface of the sample [51]. After pretreatment with OA, ML, CTAC, and RA, the relative contents of C-C/C-H groups increased from 73.68 to 81.05%, 76.62%, 76.36%, and 79.97%, respectively, relative increases of 7.37%, 2.94%, 2.68%, and 6.29%, respectively, in relation to that of raw LRC. Therefore, the relative contents of C-C/C-H groups in the treated samples decreased in order OA > RA > ML > CTAC > raw LRC. In addition, the relative contents of the C-O-C/C-OH groups reduced by 4.01%, 5.55%, 1.78%, and 3.86%, respectively. Furthermore, when LRC was treated with RA, the relative contents of C=O and COOH functional groups increased by 2.48% and 0.13%, respectively. Therefore, these results indicate that RA was strongly adsorbed on the surfaces of the LRC particles.
+
+Therefore, the XPS results manifest that the floatability of LRC was significantly improved by the adsorption of OA,
+
+ML, CTAC, and RA. The relative content of the hydrophobic C-C/C-H groups increased, whereas that of the hydrophilic oxygen-containing functional groups decreased. Crucially, the oxygen-containing functional groups in OA, ML, and RA easily form hydrogen bonds with the LRC particle surface, whereas the hydrophilic groups of CTAC are only adsorbed on the LRC particle surface by electrostatic forces.
+
+## 3.4 Simulation Results
+
+## 3.4.1 LRC-Collector-Water Interactions and Microscopic Adsorption Structure
+
+The adsorption behavior of OA, ML, CTAC, RA, and dodecane, which was used as a model for kerosene, on the LRC surface in the presence of monovalent cations was studied using MD simulations, and the concentration distribution of each collector was obtained. Figure 8(a) shows the initial structures, and Fig. 8(b) shows the equilibrium structures of the collectors modeled in an environment containing K$^{+}$. Moreover, Fig. 8(c) and (d) show the initial configuration and equilibrium structures, respectively, in an environment containing Na$^{+}$. In the initial configuration shown in Fig. 8, the collector molecules are uniformly distributed on the lignite surface in imbalanced and precarious conditions. After the MD simulation, the potential energy, non-bonding energy, kinetic energy, and total energy were stable, indicating that the adsorbed system was at equilibrium. Unlike in the initial structures, the oxygen-containing functional groups of the collector are adsorbed on the polar regions of the LRC surface by hydrogen bonds and van der Waals forces, which could significantly enhance the flotation of LRC [52-55]. Thus, the collector forms a layer covering the hydrophilic part of the LRC, which improves its hydrophobicity and floatability. As shown in Fig. 8, the high concentration of dodecane molecules in the equilibrium configuration does not enhance the surface hydrophobicity of LRC. In contrast, in the two inorganic salt environments, the ML and CTAC molecules are evenly distributed and interleaved, resulting in the formation of a network structure and a large contact area with the LRC.
+
+In the K$^{+}$-containing system, the OA molecules tended to aggregate toward the edges of the system, whereas the RA molecules tended to cluster toward the center. However, when Na$^{+}$ was present, the OA molecules tended to aggregate toward the center of the system, whereas RA molecules tended to cluster toward the edges. Compared with dodecane, OA tended to be clustered and, thus, occupy less space. In addition, the area of RA not in contact with the lignite surface was larger in the presence of potassium ions. Therefore, these results indicate that the ability of RA to modify the surface properties of LRC is weaker than those of OA, ML, and CTAC in a monovalent cationic environment.
+
+Fig. 7 Fitted C1s spectra of the LRC particle surface for ( a ) raw coal and LRC pretreated with ( b ) OA, ( c ) ML, ( d ) CTAC, and ( e ) RA
+
+Fig. 8 Top-views of the collector configurations: ( a ) initial and ( b ) final configurations in potassium salt solution and ( c ) initial and ( d ) final configurations in sodium salt solution. C, gray; O, red; H, green; and N, blue
+
+## 3.4.2 Electrostatic Surface Potential
+
+The electrostatic potentials shown in Fig. 9 intuitively reflect the charge distribution and charge-related properties of the Wender model of lignite and the collector molecules. Crucially, the electrostatic surface potential affects the interaction between the LRC (lignite model) and collector. Therefore, the ability of the different collectors on the wetting of LRC can be analyzed using the electrostatic surface potential. In Fig. 9, the electrostatic potentials from small to large are shown in blue, white, and red, respectively. Thus, blue areas have a high electrostatic potential and high electron density, whereas red areas have a low electrostatic potential and lower electron density.
+
+Figure 9(a) presents the charge distribution of Wender model lignite. As shown, the negative potential is mostly
+
+around the oxygen-containing functional groups. The electrostatic potential of lignite is greater than that of water, which makes water easily adsorbed by lignite, resulting in high wettability. As shown in Fig. 9(b)-(e), dodecane has an evenly distributed electron density and an electrostatic potential neared to zero, resulting in a relatively stable structure that limits intermolecular interactions. However, the presence of double bonds, chloride ions, and oxygencontaining functional groups in the collectors result in negative electrostatic potentials, and the ammonium group results in a positive electrostatic potential. As shown, compared to that of dodecane, the intensity of the colors in collector models is higher, demonstrating their greater electron density. Therefore, in relation to dodecane, these four surfactants are more likely to become adsorbed on the LRC particle surfaces.
+
+Fig. 9 Electrostatic surface potentials of ( a ) Wender lignite, ( b ) OA, ( c ) ML, ( d ) CTAC, ( e ) RA, and ( f ) dodecane
+
+## 3.4.3 Radial Concentration Distributions
+
+Using the Forcite module, the distribution of the LRC/ collector/inorganic salt solution system along the zaxis was analyzed, and the resulting relative concentration distributions are illustrated in Figs. 10, 11, 12, 13, 14. Each peak in the relative concentration distribution denotes the concentration of a molecule, group, or atom. Figures 10, 11, 12, 13, 14 show that the distribution of LRC molecules remained fairly constant at 0-20 Å. The relative concentration distribution of kerosene in Fig. 14(a) and (b) was 0-23 Å, whereas that of water was 0-40 Å. This suggests that water molecules penetrated the entire system, whereas kerosene only penetrated the pores in the LRC. Consequently, kerosene is unsatisfactory as a flotation collector. In contrast, for the other four collectors, the point at which the water concentration increased moved to higher values along the z -axis, indicating an enhancement in the hydrophobicity of the coal surface in relation to that observed with kerosene.
+
+The peak relative concentrations of OA, CTAC, RA, and dodecane were primarily distributed between 10 and 13 Å, and the peak concentration of ML is distributed between 13 and 15 Å. This result suggests that the ML
+
+molecules are highly aggregated. However, this aggregation is not favorable for the infiltration and absorption of water, which is in accord with the results of the adhesion experiments shown in Figs. 5 and 6. Additionally, as shown in Figs 10(a), 13(a), 14(a) and (b), the monovalent cations were distributed at the overlap between the collector and LRC, indicating that the monovalent cations were partially adsorbed on the coal surface. This result suggests that these cations may affect the efficiency of adsorption of the collectors on the LRC surfaces. As shown in Figs. 10, 11, 12, 13, 14, the monovalent cations were primarily located at the outer end of the collector molecules and partially overlapped, indicating that the hydrophobic end of the collector absorbed the majority of the cations.
+
+## 3.4.4 Mean Square Displacement
+
+The mean square displacement (MSD) is a useful measure for tracking particle displacement over time and can be used to determine whether particles undergo free diffusion, transport, or aggregation. In addition, the MSD can provide approximations of motion parameters such as the diffusion coefficient for particles undergoing free diffusion. The adsorption of the collector onto the surface of LRC affects the diffusion of water
+
+Fig. 10 Relative concentration distribution of the LRC-OA-salt system along the z -axis
+
+molecules on the coal surface, as evidenced by changes in the MSD and self-diffusion coefficient ( D ) values. Therefore, the MSD can be used to quantify the degree of diffusion of water molecules on the coal surface with time [56-58]. The specific formula is as follows.
+
+here, N is the amount of diffused molecules, $^{r$_{i}$}$(t) and r$_{i}$ (0) are the radius vectors of the molecules at times t and t = 0, successively, and K$_{MSD}$ is the slope of the MSD curve.
+
+Fig. 11 Relative concentration distribution of the LRC-ML-salt system along the z -axis
+
+As shown by Eq. (5), D is obtained by dividing the gradient of the MSD curve by 6. Therefore, the gradient of the MSD curve is an alternative to D for the comparison of the magnitudes of the diffusion coefficients regardless of the exact value of D . According to Fig. 15(a), the MSD curves of water in the systems containing potassium ions have different gradients that decrease in order dodecane > RA > CTAC > ML > OA. Therefore, for dodecane, the diffusion coefficient was the highest, indicating the greater diffusion of water molecules and suggesting a high degree of wetting of the LRC surface. In contrast, when OA was used as the collector, a strong interaction between OA and the LRC surface formed, increasing the surface hydrophobicity of the LRC, which reduced the diffusion of water molecules. Similar results were also obtained in the addition of Na$^{+}$, as shown in Fig. 15(b). Hence, the presence of monovalent
+
+Fig. 12 Relative concentration distribution of the LRC-CTAC-salt system along the z -axis
+
+cations does not affect collector performance, except in the case of CTAC.
+
+## 3.4.5 Interaction Energy
+
+The "Energy" tool in the Forcite module was employed to compute the interaction energy ( E$_{int}$ ) between the collector and the LRC molecules. This value represents the strength of interaction between these species. E$_{int}$ is given by Eq. (6).
+
+here, $^{E$_{coal+collector}$}$ is the overall energy of the combined LRC and collector system, E$_{coal}$ is the total energy of the LRC, and E$_{collector}$ signifies the total energy of the collector. A negative E$_{int}$ value indicates favorable adsorption. The more negative the E$_{int}$ value is, the stronger the adsorption of the
+
+collector on the LRC surface is, and the more stable the structure is. E$_{int(0)}$ , E$_{int}$ (K$^{+}$), and E$_{int}$ (Na$^{+}$) correspond to the interaction energies between the collector molecules and LRC in pure water and KCl and NaCl solutions, respectively.
+
+As summarized in Table 2, E$_{int(0)}$ for OA, ML, RA, and CTAC were -254.60, -308.64, -283.85, and -251.00 kcal/ mol, respectively, and these values are more negative than that of dodecane (-249.21 kcal/mol), indicating that the former collectors form stronger interactions with LRC than dodecane, demonstrating the superiority of polar collectors to nonpolar collectors such as dodecane for the recovery of LRC. Moreover, the E$_{int(0)}$ values for OA, ML, RA, and dodecane systems are lower than those in the presence of K$^{+}$ and Na$^{+}$ (i.e., E$_{int}$ (K$^{+}$) and E$_{int}$ (Na$^{+}$), respectively), with some systems exhibiting almost equal values. These findings suggest that the adsorption of OA, ML, RA, and dodecane on the LRC surface was only slightly weakened by the presence of the monovalent
+
+Fig. 13 Relative concentration distribution of the LRC-RA-salt system along the z -axis
+
+Fig. 15 MSDs of water molecules in systems containing LRC, collector, and ( a ) Na$^{+}$ and ( b ) K +
+
+Fig. 14 Relative concentration distributions of the LRC-dodecanesalt system along the z -axis
+
+cations. However, the absolute values of E$_{int}$ (K$^{+}$) and E$_{int}$ (Na$^{+}$) in the presence of CTAC were found to be 255.50 and 325.96 kcal / mol, respectively, higher than E$_{int(0)}$ (251.00 kcal/mol)). This indicates that the monovalent cations promote the adsorption of CTAC on the LRC surface.
+
+## 4 Conclusions
+
+In this study, we investigated the effects of monovalent cations on the surface properties of LRC particles using dodecane, OA, ML, CTAC, and RA as collectors. The findings were as follows:
+
+(1) Compared with flotation was carried out in deionized water, when using OA, ML, and RA for flotation in solutions of inorganic salt cations, the flotation yield is obviously lower. However, when using CTAC, the
+
+Table 2 Interaction energies of different collector-LRC systems in different solution environments
+
+| System       | Interaction energy (kcal/mol)   | Interaction energy (kcal/mol)   | Interaction energy (kcal/mol)   |
+|--------------|---------------------------------|---------------------------------|---------------------------------|
+|              | E$_{int(0)}$                    | E$_{int}$ (K$^{+}$)             | E$_{int}$ (Na$^{+}$)            |
+| LRC+OA       | -254.60                         | -254.39                         | -251.32                         |
+| LRC+ML       | -308.64                         | -306.53                         | -272.47                         |
+| LRC+CTAC     | -251.00                         | -255.50                         | -325.96                         |
+| LRC+RA       | -283.85                         | -243.95                         | -270.18                         |
+| LRC+Dodecane | -249.21                         | -234.08                         | -186.68                         |
+
+flotation yield was improved at low concentrations (10 mmol/L) of inorganic salt cations but inhibited at high concentrations (15 or 20 mmol/L).
+
+(2) Flotation pretreatment with OA, ML, RA, and CTAC increased the ability of the bubbles to capture LRC particles and enhanced the hydrophobicity of the LRC
+
+samples. Moreover, OA, ML, and RA induced the agglomeration of the LRC particles. In contrast, CTAC was mainly adsorbed on the LRC surface through electrostatic interactions.
+
+(4) Compared to the reference interaction energy ( E$_{int(0)}$ =-251.00 kcal/mol), the interaction energies obtained in the presence of K$^{+}$ and Na$^{+}$ for the collector CTAC were higher, increasing by 4.50 and 74.96 kcal/mol, respectively, whereas those obtained for the other collectors were lower. In other words, K$^{+}$ and Na$^{+}$ ions enhanced the flotation capability of CTAC but suppressed those of OA, ML, and RA.
+
+(3) The relative content of the hydrophobic C-C/C-H groups decreased after pretreatment with the collectors in order OA > RA > ML > CTAC > raw LRC. This is because OA, ML, and RA have oxygen-containing functional groups that can readily form hydrogen bonds with the LRC particle surface, whereas the hydrophilic groups of CTAC are only adsorbed on the LRC particle surface through electrostatic interactions.
+
+Acknowledgements The authors would like to thank Dr. Hu from Shiyanjia Lab (https://www.shiyanjia.com) for support of XPS and FTIR analysis and all the reviewers who participated in the review, as well as MJ Editor (https://www.mjeditor.com) for providing English editing services during the preparation of this manuscript.
+
+Funding This research was supported by the National Natural Science Foundation of China (No. 52264032).
+
+Data Availability The data that support the findings of this study are available on request from the corresponding author upon reasonable request.
+
+## Declarations
+
+Conflict of Interest The authors declare no competing interests.
+

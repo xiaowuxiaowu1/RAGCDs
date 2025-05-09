@@ -1,0 +1,283 @@
+## 1 | INTRODUCTION
+
+Cancer is one of the most pressing health challenges, being the second leading cause of death worldwide. In 2018, 18.0 million people were diagnosed with cancer leading to 9.6 million deaths globally. 1 The dimensions and impact of cancer are becoming severe and significant. The estimated global cancer cost was approximately $1.16 trillion in 2010. 2 In the United States, this cost is projected to be $173 billion in 2020. 3 The median cost of cancer drugs has increased from <$100 per month in the 1990s to approximately $10,000 per month from 2011. 4 This rising cost of new cancer drugs imposes significant pressures on both cancer patients and global health care systems.
+
+Moreover, traditional cancer drug development faces higher attrition rates than all other therapeutic areas. 5,6 Currently, only 5% of the anti-cancer drugs which undergo Phase I clinical trials usually secure approval by the US Food and Drug Administration (FDA). 7,8 The low efficiency of traditional drug development coupled with the limitations of novel anti-cancer drugs, including high cost, lengthy development phases, poor survival outcomes, adverse side effects and the emergence of therapy resistance, has forced drug developers to think of alternative drug development approaches. 9 One such approach is drug repurposing, which refers to the use of existing approved or clinically advanced drugs in a similar or new dose, formulation, route or combination for a new indication. 10
+
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes. © 2021 The Authors. British Journal of Clinical Pharmacology published by John Wiley & Sons Ltd on behalf of British Pharmacological Society.
+
+|
+
+Nikola Bowden 2
+
+|
+
+Jennifer Martin 2
+
+|
+
+To date, most oncology repurposed drug discoveries involve a degree of serendipity. However, the advent of new advanced technologies and ample data resources has fuelled the interest in drug or targetcentric repurposing approaches. Kinases have emerged as the largest therapeutic targets for anti-cancer drug development over the last three decades. 11,12 Dysregulation of kinases has been firmly demonstrated to play critical roles in almost all of the hallmarks of cancer.$^{13}$An important feature of kinase targeted drug discovery is a critical understanding of the specificity and utility of kinase inhibition. Kinases have highly conserved binding sites in the catalytic domain and most inhibitors targeting these sites promiscuously inhibit multiple kinases. Comprehensive kinase profiling of known and clinical kinase inhibitors can reveal diverse and unexpected interactive patterns. 14 This barrier to specificity can be viewed as an advantage as it provides opportunities for identifying multi-targeted inhibitors and thus facilitates repurposing of specific diverse kinases. This also has a potential advantage in seeking novel kinase inhibitors for new indications based on structural similarity with existing therapeutics because the promiscuous nature of kinase binding sites will increase the probability of identifying undiscovered kinase inhibitors from the portfolio of existing therapeutics.
+
+This review outlines the widespread interest in repurposing in modern drug development. In addition, we discuss the general advantages of repurposing and explain the rationale of using this approach for oncology drug development as well as illustrating some of the potential barriers. Finally, we discuss and explore the reasons for targeting kinases for repurposing in oncology and include examples of kinase-targeted repurposed drugs.
+
+## 2 | REPURPOSING: AN IMPORTANT APPROACH IN DRUG DEVELOPMENT WORLDWIDE
+
+There are many paths to drug development, from historical identification of bioactives in plants (pharmacognosy), to the serendipitous observations of undiscovered actions of existing drugs, to the design of new chemical entities based upon structure -activity relationships (SAR). Regardless of the path taken in drug development, what is common to all approaches has been the need to establish efficacy for the therapeutic target. Likewise, the SAR approach yields valuable information on the specificity of the putative therapeutic for that target. However, when one considers the number of proteins within a single mammalian cell and with it the enormous number of permutations and combinations displayed as amino acid sequences, it is not surprising that low molecular weight drugs will have the potential for protein interactions beyond that for which the drug was designed. Moreover, some of those interactions may have biological consequences that in disease states could be beneficial. In the absence of empirical experimentation, this potential remains elusive. The process of repurposing allows what was otherwise invisible to be revealed, namely novel new actions and new indications for existing approved therapeutics. Interest in this area has accelerated in the last decade in cancer research and most recently dramatically in anti-viral identification in response to the COVID-19 pandemic, where we have outlined potential avenues for
+
+<!-- image -->
+
+the use of repurposed drugs. 15 In addition, new pharmacological technologies, particularly high-throughput screening and recent advances in pharmacogenomics, have enabled us to explore more complicated drug effects beyond those apparent with a single " target " approach. 16
+
+This widespread interest in repurposing is evident from the current initiatives taken by government agencies, research organizations, academic researchers and pharmaceutical companies. For example, the " Discovering new therapeutic uses of existing molecules " initiative by the NIH-National Centre for Advancing Translational Sciences (NIHNCATS) in partnerships with eight pharmaceutical companies (Abbie Vie, AstraZeneca, Bristol Myers Squibb, Lilly, GlaxoSmithKline, Janssen, Sanofi-Aventis and Pfizer) in the USA, the AstraZeneca and Medical Research Council (MRC) partnerships in the UK, the AstraZeneca and the National Research Program for Biopharmaceuticals (NRPB) in Taiwan are all examples of large public-private partnerships to maximize repurposing research and development. 4,10 The repurposed drugs and their development status under these initiatives have been well described elsewhere. 10,17 Additionally, pharmaceutical companies have created dedicated units on their own for systematic scanning of repositioning opportunities including Novartis (New Indications Discovery Unit), TEVA (New Therapeutic Entity initiative) and Bayer Healthcare Pharmaceuticals (Common Mechanism Research group). 18 Several non-profit organizations including Cures Within Reach, the Alzheimer's Drug Foundation and the Michael J. Fox Foundation also provide funding for repurposing programmes. Cures Within Reach is a UK-based non-profit organization that has funded 85 repurposing projects to date, and from these projects 13 drugs are either in use by patients or have advanced to Phase III clinical trials. 19
+
+The positive impact of repurposing has created a flurry of new activity. Data from PubMed indicates an exponential increase in the number of publications related to drug repurposing since 2004. Approximately 30 articles related to drug repurposing research are being published every month in scientific journals. 20,21 In addition, a dedicated journal, Drug Repurposing, Rescue and Repositioning was launched in 2015. A special focused section on drug repurposing is available in the December 2017 issue of ASSAY and Drug Development Technologies . Likewise, the British Journal of Pharmacology devoted a themed section on repurposing, entitled " Inventing New Therapies Without Reinventing the Wheel: The Power of Drug Repurposing " in the January 2018 issue. 21 The potential translation from research to regulation is also now evident. Some estimates indicate that repurposed drugs could account for about 30% of all drugs approved every year. 20 From 2012 to 2017, almost 170 repurposed drugs entered the drug development pipeline. Most of the drugs (72%) are in clinical phases, in particular Phase II, 7% are in PoC (Proof of Concept) clinical trials, 8% are in preclinical phases, 3% are in research and development, and 10% have been approved. 22 Collectively, all these advancements place repurposing as a key element of modern and future drug development.
+
+## 3 | ADVANTAGES OF REPURPOSING
+
+Two drugs approved by the US FDA for new indications illustrate the scale of impact with successful repurposing and it is against that
+
+13652125, 2022, 1, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14964, Wiley Online Library on [04/12/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+<!-- image -->
+
+background that the advantages of repurposing can be assessed. The most well-known example is the drug thalidomide , a drug that was originally developed in 1957 as a sedative to relieve morning sickness during pregnancy. Tragically, this drug caused serious skeletal defects of over 15,000 newborns and was withdrawn from the market in 1961. 23 This abandoned drug found a new application when physician Jacob Seshkin discovered its use in treating erythema nodosum leprosum in 1964. 24 Subsequently, two key properties of thalidomide, namely inhibition of tumour-necrosis factorα (TNFα ) and the antiangiogenic effects, were discovered. 8,25 These findings made it an attractive drug for treating multiple myeloma and the annual sales of this drug were reaching over $200 million per year. 25,26 Later it was shown that thalidomide inhibits other components in cancerassociated pathways including IkB kinase (IKK ) which results in the inhibition of nuclear factor-kappa light chain enhancer of activated B cells (NF-kB) activation. 8 A second successful example is the drug sildenafil , developed by Pfizer Inc. as a phosphodiesterase-5 (PDE5) inhibitor in the 1980s originally for an application in angina. PDE5 plays a key role in inactivating cyclic GMP (cGMP) which is normally stimulated by nitric oxide mediating vasodilation. 27 Based on this role, sildenafil was repurposed for the treatment of erectile dysfunction and in 2012 had worldwide sales of $2.05 billion. 28
+
+There are two fundamental components that relate to the advantages of repurposing. The first is exploring the otherwise hidden potential of an existing drug to meet patients' demand and unmet needs. This is well illustrated by the two examples described above and can be viewed as exploring the intrinsic value of the therapeutic portfolio. Regarding the advantages of repurposing, several considerations are important. Firstly, the advent of new technologies has enabled a thorough systematic approach to identify new indications for existing drugs. Secondly, the starting point of a novel repurposed drug is a portfolio of well-characterized molecules that have already been tested, approved and used in humans, albeit in different doses, routes of administration or formulations. Moreover, there would appear to be no reason why a repurposed drug cannot achieve the same success profile as an NCE (new chemical entity). Finally, it should be noted that the potential exists for studies on a repurposed drug aimed at a new indication to inform the development of novel NCEs, thereby providing additional advantages to the concept of exploring repurposing.
+
+The second component of repurposing advantages relates to a comparison of the steps involved in bringing an NCE to the market with those involved in bringing a repurposed drug to regulatory acceptance for its new indication. It is apparent that there are at least three key considerations: the overall probability of success, the time to reach the clinic and the costs.
+
+- GLYPH<129> In terms of probability of success, the advantage of a repurposed drug is that it is associated with an extensive portfolio of knowledge relating to human pharmacokinetics, bioavailability and toxicology and this acts to mitigate risk. 25,29 Moreover, the information available on the repurposed drug is far more extensive and potentially at lower risk than that at the commencement of the development of an NCE. 29
+
+- GLYPH<129> A faster path to reach the clinic is a potential advantage for a repurposed drug and this feature has been discussed previously. 4,25,30 Estimates of up to 17 years have been made for the drug cycle of an NCE compared to 3 -12 years for a repurposed drug. 30,31 In another measure, Naylor et al. provided an estimate of 6.5 years and acknowledged an example of a shorter drug cycle time of 4 years. 18 What is emerging is the generalized view that the time to reach the clinic for a repurposed drug is significantly shorter than that based on a novel NCE. However, this is very much dependent on the dose characteristics for the drug's new indication and subsequent toxicity profile at that dose.
+- GLYPH<129> The estimates for the costs of developing a new drug range from $1.778 -3.0 billion compared to about $300 million for a repurposed drug, assuming the repurposed drug must undergo Phase II and Phase III trials. 10,18 As pointed out by Naylor et al., this could reflect a saving of approximately 85% when the costs associated with the development of an NCE are compared with those of a repurposed drug. 18
+
+## 4 | BARRIERS AND OPPORTUNITIES FOR REPURPOSING
+
+A key focus in repurposing existing drugs is to have them available for cancer patients using a regulatory framework relevant for that purpose. In doing so, an existing need is to understand how this translation to clinical practice will occur with products out of patent or regulatory protection. 32 In a detailed review on drug repurposing, Pushpakom et al. summarized the key barriers and a series of responses to capture the full potential of repurposed drugs. 10 They discussed the possibility that while the potential may exist to protect a known drug for a new repurposed use, it must be non-obvious in an inventive sense and there exists the chance that the repurposed use has been described previously in the scientific literature or is known in clinical practice. By way of summary, they highlighted the need to address the patent and regulatory barriers to incentivize drug repurposing. 10 In a similar fashion, Bertolini et al. also highlighted the lack of financial incentives for drug developers and the preference for drug development projects with stronger legal protection. 4 In addressing these challenges, Verbaanderd et al. suggested to focus on repurposing as a complementary activity of de novo drug development rather than a replacement of this and encouraged the use of collaborative frameworks. 32 Important additional responses to these challenges were highlighted by Pushpakom et al. and included the need for newer safety liabilities to be studied and further funding opportunities for drug repurposing initiatives. 10
+
+## 5 | WHY USE REPURPOSING FOR ONCOLOGY?
+
+The fundamental driver for the use of repurposing in oncology is to increase the portfolio of available effective cancer chemotherapeutic agents for patients. An additional reason relates to the fact that drugs that interfere with cell proliferation may have low tumour specificity
+
+and high toxicity. 33 The underlying reasons for this need in a chemotherapeutic portfolio increase are complex and outlined immediately below and conveniently grouped in three domain areas.
+
+## 5.1 | Cancer complexity with disease progression
+
+Cancer is a complex and variable chronic disorder (summarized in Figure 1) in humans with a large potential preventable component. Many cancers are not of hereditary origin and may be linked to the relationship between lifestyle and cellular inflammation. 34 As highlighted by Loud and Murphy, cancer screening has decreased the morbidity and mortality of cancer, particularly where it leads to the identification of precursor lesions. 35 However, a comparison with cardiovascular disease (CVD), the other major high-profile chronic disorder in humans, is insightful. In CVD, the focus is on detecting the very early origins of the disease with well-established biomarkers and subsequently intervening with therapeutics that prevent the progression of the disease to a complex advanced state. As a consequence, there are remarkably few classes of very effective therapeutic drugs needed to achieve that purpose in CVD. In the absence of a comprehensive battery of early biomarkers for the early detection of cancer, a great deal of cancer therapy is needed to be directed to the treatment of the established disease.
+
+## 5.2 | Tumour heterogeneity and diversity
+
+With advanced disease comes heterogeneity, diversity, differentiation and abrogation of the cellular processes regulating cellular
+
+FIGURE 1 therapeutics
+
+<!-- image -->
+
+growth and division. Prostate cancer illustrates well the nature of heterogeneous cancer. It is a cancer with high levels of inter- and intraheterogeneity. As highlighted by Boyd et al., it is likely that distinct pathways for prostate carcinogenesis exist and they are of the view that genomic instability is responsible for genomic alterations which in combination determine the response to standard chemotherapies. 36 The heterogeneity of cancer is also illustrated, for example, with cancer relapse and therapy-resistant leukaemia and demonstrates the need to understand genomic abnormalities at diagnosis and at relapse. 37 Much of our understanding in this complex area has come from appreciating the gene basis of the disease and its role in contributing to the malignant phenotype. 38 In all likelihood, the processes that contribute to this transformed state also overlap with those that dictate drug sensitivity and resistance. 38 Recently, it has been suggested that drug resistance is the result of a generation of resistant genotypes that undergo extreme selection and ultimately result in the fixation of a stably resistant genomic configuration. Moreover, drug resistance driven by enhanced adaption is undetectable by most preclinical assays of anti-cancer activity. 39 We have described the relationship between hypermutation and DNA repair with cellular-based drug resistance previously. 40 Not surprisingly, this high-level complexity in cancer, unlike the other major chronic disorder of CVD, drives a need not for fewer but for an expanded portfolio of cancer chemotherapeutics.
+
+Traditionally, cancer therapeutics have come from NCEs. While this discovery process must continue, increasingly there is a growing appreciation that the entire portfolio may be increased by identifying novel chemotherapeutics, including those drugs that potentially
+
+<!-- image -->
+
+<!-- image -->
+
+overcome drug resistance, from existing drugs approved for noncancer indications and that have been used safely for many years in populations.
+
+## 5.3 | Tumour heterogeneity and pharmaceutical pleiotropy
+
+In 2019 Pushpakom et al. highlighted 14 therapeutic agents that have been successfully repurposed for new indications. 10 The basis for repurposing is enshrined in the pleiotropic nature of the pharmaceutical portfolio. We have highlighted previously that many pharmaceuticals exhibit a diversity of actions. Looking at reported invitro influences of existing drugs that may impair the pathological processes of gliomagenesis, we identified seven existing classes of therapeutic agents where the proposed antineoplastic effect was different from the primary indication. 41
+
+There is a close interaction between pharmaceutical pleiotropy and tumour heterogeneity. For example, in solid tumours there may exist subpopulations of cells with distinct genomic changes within the same tumour in a process referred to as intratumour heterogeneity. A single drug may not be sufficient to treat a genetically heterogeneous tumour because cancer subclones may have resistance mutations that contribute to poor outcomes. 42 Simultaneous multiple targeting is of importance when addressing complex disorders, for often diseases are multifactorial conditions, possessing compensatory mechanisms that are resilient to single point targeting and can transform to robust disease conditions. 43 The potential advantages of repurposing focusing on oncology with tumour heterogeneity fall largely into two domains: combination of existing therapies with repurposed drugs and multiple targets for each repurposed drug.
+
+## 5.4 | Oncology and costs
+
+It has been suggested that in 2017 there were 4006 randomized clinical trials worldwide for cancer drugs reflecting about half of all pharmaceutical trials. 44 The failures in Phase I trials are high and the efficiency of discovery is low. 22 Additionally, biopharmaceutical companies have a high research development expenditure in the manufacturing subsector. 4 From drug products launched between 2007 and 2011, 15% came from oncology and immunomodulators. 45 Not surprisingly and as indicated by Bertolini et al., the worldwide spend on oncology drugs was $91 billion, with sales of the top 10 drugs being of the order of $43 billion. 4 This figure may not include the costs of academia and those to the hospitals where the research is undertaken.
+
+There are three drivers related to cost underpinning the discussions on repurposing in cancer. The first is that the existing portfolio of therapeutic agents could benefit from screening of compounds that have already undergone pharmacokinetic and safety testing at substantially lower cost than the development of NCEs. 22 The second is that combination therapies containing repurposed drugs may be
+
+effective in increasing overall survival for advanced neoplastic lesions. 4 The third is the prevalence of poor survival benefits and chemoresistance, despite the rapid increase in new therapeutics in the last decade, which is stimulus for repurposing. 22
+
+## 6 | WHY KINASES AS REPURPOSING TARGETS IN ONCOLOGY?
+
+Kinases are phosphotransferases that catalyse the transfer of the outermost phosphate (the gamma phosphate) from adenosine triphosphate (ATP) onto the hydroxyl group of a serine, threonine or tyrosine residue of a target protein. 46,47 This phosphorylation process can alter the conformation of the target protein or substrate causing a change in biological function, cellular location, or interactions with a range of proteins. The number of kinases encoded by the human genome is greater than 518, which affords enormous flexibility and control from the genome. 48 While this array of kinases affords great scope for regulation and order in virtually all cellular processes, dysregulation of these enzymes leads to abnormal control and growth manifested as cancer.
+
+Accumulating evidence suggests that various cancers are associated with deregulated activation of kinases due to genetic alterations. 49 Thus, the human kinome has become of enormous interest in cancer drug development. Additionally, the high success rate and favourable safety profile are the reason why kinases are highly sought-after drug targets in the oncology area.$^{48}$Approval of 62 kinase inhibitors along with more than 250 ongoing clinical trials also supports kinase targeting as a validated approach for cancer drug development. 50,51 A distinctive feature of kinase inhibitors is that they have the potential for target promiscuity, which makes them highly attractive for repurposing. Kinases normally bind to a common substrate ATP and there exists high sequence similarity around the ATP-binding pockets of kinases which causes these ATP mimics to often crossreact with many different off-targets. 49 Such off-target activities may provide opportunities to treat multiple clinical indications with a single drug. In fact, several large-scale screens revealed numerous off-target interactions for both experimental and clinical kinase inhibitors. 52 -57 Therefore, comprehensive profiling of compounds against the human kinome has enormous potential for showing diverse interaction patterns and new biological activities to create repurposing opportunities. 57 This is well illustrated by the kinase inhibitor sunitinib , which inhibits at least 79 kinases at low micromolar concentrations. 14
+
+A combination of many protein kinases together with substrate promiscuity drives the possibility of numerous combinations of drug interactions. For example, if one drug has the potential to target multiple kinases, then a similar drug directed to another kinase target can also exhibit effects on multiple overlapping targets. Moreover, there are many kinase targets that should be accessible but remain undiscovered or understudied. Therefore, there is an important emerging opportunity to discover new kinase inhibitors with unrecognized biological activities. 14
+
+Finally, kinase signalling has been implicated not only in cancer but also in many other indications including inflammatory diseases,
+
+13652125, 2022, 1, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14964, Wiley Online Library on [04/12/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CNS disorders, cardiovascular disease and diabetes. 58,59 Accordingly, drugs used for these non-cancer indications may have potential applications in the field of cancer. This is exemplified by the approval of the drugs tofacitinib for rheumatoid arthritis, everolimus for organ rejection of the heart and kidney, nintedanib for idiopathic pulmonary fibrosis and fasudil for cerebral vasospasm. 49 Most of the kinase targets of these drugs are also associated with cancer and create further opportunity for repurposing them in the oncology area.
+
+## 7 | REPURPOSING OF NON-CANCER DRUGS WORKING THROUGH KINASE TARGETS IN CANCER
+
+Given that kinases play a major role in cancer pathogenesis, kinasemediated signalling pathways have been successfully targeted for cancer therapy. Though kinase inhibitor drug discovery is centric to NCE-based traditional oncology drug discovery and development, there are examples of non-cancer drugs that have been repurposed for treating cancer and either directly or indirectly work through kinase inhibition as at least one of their reported anti-cancer mechanisms. Many of these drugs are summarized in Table 1, which are in different phases of oncology drug development. In addition, the potential pathways for repurposing non-cancer non-kinase drugs to kinase targets in cancer are summarized in Figure 2.
+
+<!-- image -->
+
+Several features of this summary are evident. In particular, the original indications of the drugs approved for new indications are varied across disease states. Secondly, the kinase targets through which these repurposed drugs act are equally varied across the kinome. These features are predictable consequences of a large number of targets in the human kinome and the promiscuous nature of the protein kinases' active sites. It can be predicted that repurposed drugs that act directly on a kinase target may share a strong homology with known kinase inhibitors. In contrast, drugs that act indirectly through a molecular intermediate may not necessarily share homology with a known kinase inhibitor. Collectively, this summary illustrates the scope for the repurposing of non-cancer compounds to new kinase targets in cancer.
+
+## 8 | REPURPOSING OF EXISTING KINASE INHIBITORS TO NEW KINASE TARGETS OR NEW INDICATIONS IN CANCER
+
+In addition to non-cancer non-kinase drugs acting on kinase targets, there is the opportunity for existing kinase inhibitors to act on new kinase targets. Examples of repurposing within the same kinome portfolio are shown in Table 2. Potential approaches for repurposing existing kinase drugs to new targets within the kinome in oncology are shown in Figure 2.
+
+TABLE 1 Examples of repurposing non-cancer drugs with kinase targets
+
+| Drug name    | Original indication   | New indication (cancer)      | Original mechanism (target)   | Kinase target(s)         | Highest development status   | Reference   |
+|--------------|-----------------------|------------------------------|-------------------------------|--------------------------|------------------------------|-------------|
+| Thalidomide  | Morning sickness      | Multiple myeloma             | TNF- α                        | IkB                      | Approved                     | 8           |
+| Metformin    | Type 2 diabetes       | Prostate, breast, colorectal | AMPK                          | mTOR , HER2              | Phase III                    | 7           |
+| Rapamycin    | Immunosuppressant     | Breast, prostate             | mTOR signalling               | mTOR signalling          | Phase III                    | 7           |
+| Leflunomide  | Rheumatoid arthritis  | Prostate                     | DHODH                         | PDGFR, EGFR, FGFR        | Phase III                    | 8           |
+| Vesnarinone  | Cardioprotective      | Oral cancer                  | PDE 3                         | VEGF                     | Preclinical                  | 8           |
+| Nelfinavir   | HIV                   | Various cancers              | Protease                      | CDK2 , AKT               | Phase II                     | 60          |
+| Itraconazole | Fungal infections     | Prostate, lung               | 14- α demethylase             | mTOR, VEGRF2             | Phase II                     | 7           |
+| Ribavirin    | Hepatitis C           | AML, breast                  | RNA polymerase                | AKT/mTOR                 | Phase II                     | 10          |
+| Adapalene    | Acne                  | Colorectal                   | Retinoic acid                 | CDK2                     | Preclinical                  | 61          |
+| Auranofin    | Rheumatoid arthritis  | Leukaemia                    | Thioredoxin reductase         | PI3K/AKT/mTOR signalling | Phase II                     | 62          |
+| Tigecycline  | Antibiotic            | Melanoma, Leaukaemia         | 30S ribosomal subunit         | CDK2                     | Phase I                      | 63          |
+| Fluspirilene | Antipsychotic         | HCC, GBM                     | Dopamine D2                   | CDK2, STAT3              | Preclinical                  | 64, 65      |
+
+Abbreviations: TNFα , tumour necrosis factorα ; AMPK, AMP-activated protein kinase; mTOR, mammalian target of rapamycin; DHODH, dihydroorotate dehydrogenase; HER2, human epidermal receptor 2; PDGFR, platelet-derived growth factor receptor; EGFR, epidermal growth factor receptor; FGFR, fibroblast growth factor receptor; VEGF, vascular endothelial growth factor; CDK2, cyclin-dependent kinase 2; HCC, hepatocellular carcinoma; GBM, glioblastoma; STAT3, signal transducer and activator of transcription 3.
+
+13652125, 2022, 1, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14964, Wiley Online Library on [04/12/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+<!-- image -->
+
+FIGURE 2 Possible pathways for identifying repurposed candidate drugs that target kinases in cancer. Shown are the potential approaches for the repurposing of non-kinase drugs to kinase targets and the repurposing of existing kinase drugs to new targets within the kinome
+
+<!-- image -->
+
+TABLE 2 Examples of repurposing existing kinase inhibitors with new kinase targets
+
+| Drug name    | Original indication                                     | New indication                                       | Original kinase target   | New kinase target   | Development status   | Reference   |
+|--------------|---------------------------------------------------------|------------------------------------------------------|--------------------------|---------------------|----------------------|-------------|
+| Imatinib     | Chronic myeloid leukaemia                               | Gastrointestinal stromal tumours                     | BCR-ABL                  | C-kit,              | Approved             | 66          |
+| Cabozantinib | Medullary thyroid cancer, advanced renal cell carcinoma | FLT3-ITD positive acute myeloid leukaemia            | MET/ VEGFR               | FLT3-ITD            | Phase II             | 50, 67      |
+| Golvatinib   | Hepatocellular carcinoma, non- small cell lung cancer   | FLT3-ITD positive acute myeloid leukaemia            | c-MET                    | FLT3-ITD            | Preclinical          | 50, 68      |
+| Tozasertib   | Various solid tumours                                   | Chronic myeloid leaukaemia with ABL1(T3151) mutation | Aurora kinases           | ABL1 (T3151)        | Preclinical          | 56          |
+
+Abbreviations: BCR, breakpoint cluster region; VEGFR, vascular endothelial growth factor; FLT3-ITD, fms-like tyrosine kinase 3-internal tandem duplication.
+
+There is also a second possibility relating to an opportunistic change in the cancer indications with no change in the specific kinase target. For example, repurposing of VEGF inhibitor bevacizumab from colorectal cancer to platinum-sensitive ovarian cancer or multi-kinase inhibitor dasatinib from chronic myelogenous leukaemia to acute lymphoblastic leukaemia. 58,69 These different indications can arise from a variety of cellular expressions and mutational changes. This summary illustrates the scope for existing kinase inhibitors to new kinase targets or new indications with the same kinase target in cancer.
+
+## 9 | FUTURE DIRECTIONS
+
+Earlier in this review, we identified the advantages of repurposing which, by way of summary, included exploring the hidden potential of existing drugs, the higher probability of success, faster path to reach the clinic and lower costs associated with repurposed drug development. It can be anticipated that these advantages will also be a fundamental component of future approaches to drug repurposing. In addition, a key goal for using repurposing in oncology is to increase the available portfolio of drugs for cancer patient treatment. It follows
+
+that the future directions in the repurposing of kinase-targeted drugs will focus upon approaches that will increase the efficiency of the discovery of new candidate drugs as well as the pathways for evaluation for use in patients (summarized in Figure 3). To that extent the future directions and current limitations of kinase-targeted repurposing research are: (1) overcoming regulatory challenges that impede the clinical use of cancer therapeutics based on repurposing; (2) the shift to large-scale repurposing approaches; (3) utilizing the emerging power and capacity of data analysis (computational repurposing); and (4) using combination therapy to enhance the utilization of repurposed drug candidates. These four areas are elaborated further below.
+
+## 9.1 | Frameworks for candidate classification and regulation
+
+In a comprehensive review, Pushpakom et al. highlighted the organizational and regulatory challenges that could impede the advancement of drug repurposing. 10 We have recently described a potential framework for the identification of repurposed therapeutics. 70 At its core,
+
+13652125, 2022, 1, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14964, Wiley Online Library on [04/12/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+- Serendipity
+
+## Unmet need
+
+- Clinical observations
+- Epidemiological analysis
+
+## Ongoing
+
+Repurposing:
+
+## Repurposing:
+
+Historicalapproaches
+
+Current and future challenges and opportunities
+
+this approach involved several principles including a strong mapping on to the disease target, including the known pathophysiology of the disease and knowledge of the pharmacological and toxicological properties of the repurposed drug. 70 Pushpakom et al. have emphasized the importance of the regulatory processes and pathways for repurposed drugs and summarized those processes existing in the US and Europe. 10 It is noteworthy that there are examples of national regulators that have provided stimulus with the registration of novel orphan and paediatric indications for existing drugs. 71 In highlighting ideas to improve drug discovery and repurposing, the development of streamlined worldwide regulatory processes has been suggested. 72
+
+## 9.2 | Scale
+
+This is well illustrated in two recent publications. In experimentation designed to identify antiviral drugs through large-scale repurposing, a library of approximately 12,000 clinical-stage or FDA-approved small molecules was profiled. 73 Consistent with this move to scale, Corsello et al. used systematic viability profiling, where they examined inhibition of growth by testing 4518 drugs tested across 578 cancer cell lines. 74 Several examples of systematic high throughput kinase profiling of compound collections have also been published. 53,56,75 There is every indication that such datasets on larger scales will become more common in the future.
+
+## 9.3 | Computational repurposing
+
+This area is based upon the ability of data-based activities to provide lead drugs for testing as repurposed candidates. This has been driven by the generation of vast amounts of data that are now available together with advances in techniques for data interrogation and analysis. The data inputs can be quite varied, ranging from observational data such as electronic health records, drug surveillance records with a focus on adverse events or based on transcriptomic, proteomic or chemical structure-based data. The approaches of computational methods in use are well summarized in two recent publications by Park 76 and Pushpakom et al. 10 Park highlights the very useful distinction between in silico drug repurposing (computational pharmacology) of drug-centric approaches and disease-centric approaches. 76 It seems reasonable to anticipate that approaches using computational repurposing will increase in the immediate future.
+
+## 9.4 | Combination therapy
+
+Drug combination therapies usually target multiple mechanisms, including downstream off-targets, parallel pathways or compensatory signalling that contribute to tumorigenesis with a view to enhancing efficacy. The attractiveness of using repurposed drugs in combination with established chemotherapeutic agents relates to the portfolio of
+
+FIGURE 3 A summary depicting the shift in focus with repurposing of existing drugs for new indications. The significance of the technical impacts with data generation and handling, contributing to technological scale as an approach to increase the portfolio of therapeutic agents for patients is illustrated
+
+<!-- image -->
+
+- Increased portfolio of drugs with patient utility
+- Serendipitous and clinical observations
+- Target-based and disease-based
+
+## Opportunities and challenges, technicall frameworks
+
+- Observational data (health records), pharmacosuveillance data and text mining
+- Structural biologylmolecular modellinglchemistry-based stucture activity relationships
+- Omics data, signature matching and gene commonality
+- High throughput screening combined with computational data
+- Machine leamning
+
+## Opportunities and challenges, translationaVframeworks
+
+- Intellectual property considerations
+- Pharmacokinetics of the original andnew indication
+- Regulatory environment
+- Organizational arangements to facilitate utility
+
+<!-- image -->
+
+- Enhanced computing technologies
+- Enhanced omics capabilities
+- Enhanced data handling and analysis
+
+<!-- image -->
+
+known pharmacological, pharmacokinetic and toxicological properties of the repurposed drugs. In this context, kinase targeting with combination approaches is of potential importance, especially for tackling emerging drug resistance. 12 As indicated by Li et al., 14 of 46 FDAapproved drugs targeting the human kinome are approved for use in combination with other drugs. 77 It is conceivable that in the future focus will be upon the rational design of repurposed drugs in combination with known chemotherapeutics.
+
+As mentioned earlier, the number of kinases encoded by the human genome provides significant flexibility and devolved control from the genome as well as vital regulation and order in virtually all cellular processes. It follows that the application of the changes described above to the kinase field in repurposing could emerge as a vital approach to offsetting the dysregulation of these enzymes and their abnormal control and growth in cancer.
+
+## 10 | CONCLUSION
+
+The need to increase the portfolio of effective therapeutics for cancer treatment is very strong and demands evaluation of both traditional and non-traditional pathways. There are many factors underpinning this growing need including the high degree of complexity of this disease, the ability for transformed cells to develop resistance to cancer chemotherapeutics, and the time and costs associated with bringing a new agent to the clinic. There is growing interest in drug repurposing. As a generalization, repurposing is becoming a recognized field in drug development due to several inherent advantages including wellcharacterized toxicology and pharmacokinetics and they often have been used widely in the community for many years. While there are many potential target areas for determining if repurposed drugs have utility as novel cancer therapeutics, we have focused on the potential of repurposed kinase inhibitors for several reasons. First, kinases play a fundamental role in normal cell regulation as well as in cancer cells where usually mutations and enhanced expressions are seen. Second, kinases are extremely numerous in human biology and represent a druggable target. Third, due to the promiscuous nature of kinases, targeting this enzyme using the principles of repurposing is a viable approach. In this context, there are now examples of non-cancer compounds illustrating experimentally new kinase targets in cancers as well as of existing kinase inhibitors focused on new kinase targets in cancer. It can be anticipated that the number of kinase-targeted drugs will increase with the confluence of sophisticated approaches to observation-based data, in silico analysis and enhanced in-vitro techniques, further strengthening the view that repurposing in the context of kinases is a crucial component of drug development for the treatment of cancer.
+
+## 10.1 | Nomenclature of targets and ligands
+
+Key protein targets and ligands in this article are hyperlinked to corresponding entries in http://www.guidetopharmacology.org and
+
+are permanently archived in the Concise Guide to PHARMACOLOGY 2019/20. 78,79
+
+## ACKNOWLEDGEMENTS
+
+S.I. acknowledges the support from an Australian Government Research Training Program Scholarship.
+
+## COMPETING INTERESTS
+
+The authors declare no conflict of interest.
+
+## CONTRIBUTORS
+
+S.I. and R.H. conceived and wrote the initial draft for this manuscript. S.W., N.B. and J.M. critically revised the content on their areas of expertise. All authors carefully reviewed, edited and approved the final version of this manuscript.
+
+## ORCID
+
+Saiful Islam https://orcid.org/0000-0003-0047-1411
+
+Shudong Wang
+
+https://orcid.org/0000-0001-6225-5525
+
+Nikola Bowden
+
+https://orcid.org/0000-0002-6047-1694
+
+Jennifer Martin
+
+https://orcid.org/0000-0002-8614-0199
+
+Richard Head https://orcid.org/0000-0002-1196-0926
+

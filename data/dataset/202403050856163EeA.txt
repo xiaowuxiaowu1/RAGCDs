@@ -1,0 +1,188 @@
+## ABSTRACT
+
+Transition metal double hydroxide (TMDH) materials have the advantages of low cost, simple preparation, wide variety, and tunable physical and chemical properties, which have broad research prospects in developing and applying high-performance electrode materials. Herein, molybdenum-doped nickel-cobalt double hydroxides (NiCoDH-Mo) were prepared by a rapid one-step microwave hydrothermal method in tens of minutes. Extensive investigations have been conducted on the morphology, crystal structure, and electrochemical properties of nickel -cobalt double hydroxides with varying concentrations of Mo doping. The incorporation of Mo dopants into NiCoDH-Mo0.50 has yielded the formation of hierarchical cauliflower-like microspheres, which exhibit a significantly enhanced specific surface area of 91.7 m$^{2 }$g GLYPH<0> $^{1 }$along with an improved electrical conductivity of 0.0233 μ S cm GLYPH<0> $^{1}$. Thus, the optimized NiCoDH-Mo0.50 electrode has a high specific capacity of 160.5 mAh g GLYPH<0> $^{1 }$at a current density of 1 A g GLYPH<0> $^{1 }$and can maintain a high specific capacity of 115.3 mAh g GLYPH<0> $^{1 }$when the current density increases by 20 times. Finally, the NiCoDH-Mo cathode and mango seed-derived activated carbon anode were assembled into a hybrid supercapacitor with an energy density of 41.3 Wh kg GLYPH<0> $^{1 }$at a power density of 850 W kg GLYPH<0> $^{1}$, which also exhibits a capacity retention of 84 % after 8000 cycles. Therefore, we provide a facile and efficient strategy to prepare TMDH electrode materials with excellent performance for energy storage systems.
+
+## 1. Introduction
+
+Currently, green and environmental protection has become an inevitable trend of national social development, for which China has proposed the goals of carbon peak and neutrality in response [1]. Developing new energy conversion and storage systems is essential for green and sustainable development [2,3]. As a new type of energy storage device, supercapacitors have advantages over traditional capacitors and secondary batteries, such as high power density, fast charging and discharging, and long lifespan, making them an ideal energy storage device for efficient and energy-saving applications [2,4 -6]. The electrode material is a critical factor affecting the performance of supercapacitors. According to the energy storage mechanism of the electrode material, supercapacitors can be divided into carbon-based electric double-layer capacitors (EDLCs) and pseudocapacitors based on transition metal compounds. The former stores energy by forming a positive and negative charge separation double layer on the electrode
+
+surface. In contrast, the latter stores charge through the redox reaction on/near the electrode surface [7]. The pseudocapacitive materials deliver more charge than carbon materials, thus enabling the development of high-capacity supercapacitors [8].
+
+Among the pseudocapacitive materials, nickel- and cobalt-based hydroxides have attracted extensive attention due to their high theoretical specific capacitance, large chemical composition, highly tunable properties, and simple preparation methods [9,10]. However, the low electrical conductivity of nickel-cobalt hydroxide poses a significant challenge to its electrochemical reactions, hindering electron transfer, ion diffusion, and rate performance. Presently, there exist three primary approaches for the modification of nickel-cobalt hydroxide [11 -14]. (1) Optimization of active metal ions. The precise ratio of nickel and cobalt in nickel-cobalt hydroxides is vital to their morphology, structure, crystalline phase, and capacitive behavior [15,16]. (2) Design of composite structures. The compositing of nickel-cobalt hydroxide with various other materials, including carbon foam [17], graphene [18],
+
+Journal of Energy Storage 81 (2024) 110393 Sun et al.
+
+metal sulfide nanostructures [19], and others [20], is an effective method for enhancing the electrical conductivity and specific surface area of the materials [21,22]. (3) Defect engineering. The electrical conductivity of nickel-cobalt hydroxide can be significantly improved by introducing oxygen vacancies and metal ion doping. Liang et al. prepared oxygen vacancy-rich NiCo-LDH by a chemical reduction method, which shows a specific capacity of 1563.1 F g GLYPH<0> $^{1 }$at 1 A g GLYPH<0> $^{1}$, much higher than that of the pristine electrode (995.4 F g GLYPH<0> GLYPH<0> $^{1}$) [23]. Wu et al. prepared V-doped NiCo-LDH nanosheet arrays using a hydrothermal method, which displays a specific capacity of 2960 F g GLYPH<0> $^{1 }$at 1 A g GLYPH<0> $^{1}$, much higher than that of the pristine electrode (1784 F g F g GLYPH<0> $^{1 }$at 1 A g GLYPH<0> $^{1}$) [24]. However, the multi-step reactions in the traditional modification strategies complicate the preparation process, thereby hindering their practical application. As a result, there is a pressing need to develop rapid and facile synthetic methods for modifying nickel-cobalt hydroxides to improve the material preparation efficiency, enhance the electrochemical performance, and reduce production costs.
+
+Herein, a rapid microwave-assistant hydrothermal method was utilized to prepare molybdenum-doped nickel-cobalt double hydroxides (NiCoDH-Mo). By adjusting the molybdenum doping amount, the changes in the physicochemical properties and electrochemical performance of NiCoDH-Mo were investigated. The optimized NiCoDHMo0.50 electrode shows excellent specific capacitance, rate capability, and cycling stability. Moreover, a hybrid supercapacitor assembled with NiCoDH-Mo0.50 cathode and mango seed-derived activated carbon anode exhibits excellent energy density, power density, and cycling stability.
+
+## 2. Experimental section
+
+## 2.1. Material synthesis
+
+All the reagents were purchased from Shanghai Aladdin Biochemical Technology Co., Ltd. and used without further purification.
+
+The preparation procedures of mango seeds-derived activated carbon (MASC) were illustrated in our previous work [25].
+
+Firstly, 12 mmol of urea, 4 mmol of NiCl$_{2}$ · 6H$_{2}$O, 2 mmol of CoCl · 6H$_{2}$O, and different molars of Na$_{2}$MoO$_{4}$ · 2H$_{2}$O were completely dissolved in 50 mL deionized (DI) water under stirring. Then, the solutions were transferred into 100 mL Teflon lined polytetrafluoroethylene (PTFE) microwave autoclaves (Beijing Xianghu Science and Technology Development Co., Ltd., XH-800SP), which were maintained at 190 · C for 5 min with a heat rate of 10 · C min GLYPH<0> $^{1}$. After being naturally cooled to room temperature, the precipitates were washed with DI water and ethanol and dried in a vacuum at 60 · C for 12 h. The molars of Na$_{2}$MoO$_{4}$ · 2H$_{2}$O were 0.25, 0.50, 0.75, 1.00, and the related product was termed NiCoDH-Mo0.25, NiCoDH-Mo0.50, NiCoDH-Mo0.75, NiCoDHMo1.00, respectively.
+
+## 2.2. Structure and morphology characterization
+
+The morphologies of the samples were characterized by fieldemission scanning electron microscopy (FESEM, Hitachi SU8010) equipped with X-ray energy dispersive spectroscopy (EDS, Oxford XMax$^{N}$) and transmission electron microscopy (TEM, JEM 2100F). The crystal structure of the products was measured by X-ray diffraction (XRD, PANalytical Empyrean) and Raman spectroscopy (Horiba LabRAM HR Evolution). The chemical composition and elemental environment of the samples were checked by X-ray photoelectron spectroscopy (XPS, Thermo K-Alpha). The exact content of metallic elements in the samples was characterized by an inductively coupled plasma optical emission spectrometer (ICP-OES, Agilent 5800). The specific surface area and pore size distribution of the samples were characterized by Micromeritics ASAP 2460. The electrical conductivity of the samples was analyzed by the four-probe method ST2722-SD high resistance instrument with ST2643.
+
+## 2.3. Electrochemical measurement
+
+For the preparation of the working electrode, 80 % wt. of as-prepared powder, 10 % wt. of acetylene black, and 10 % wt. of polyvinylidene fluoride were mixed with N -methylpyrrolidone to form a slurry, which was pasted on a nickel foam with a diameter of 1.0 cm$^{2}$. Then, the coated foam was dried in a vacuum at 60 · C for 12 h, where the mass of active materials was about 3 -4 mg. The electrochemical performance of the electrodes was carried out in a three-electrode system on a CHI760E electrochemical workstation with a 6 M KOH aqueous electrolyte, the platinum foil counter electrode, and the Hg/HgO reference electrode.
+
+The specific capacity ( C$_{s}$ , mAh g GLYPH<0> $^{1}$) of the electrode is calculated from the galvanostatic discharge curve by the following equation:
+
+where I , Δ t , and m are the current (A), discharge time (s), and loading mass (g), respectively.
+
+## 2.4. Assembly of hybrid supercapacitor
+
+The hybrid supercapacitor was assembled by NiCoDH-Mo cathode, mango seed-derived activated carbon (MSAC) anode, and 6 M KOH electrolyte. The charge storage in the cathode and anode materials was balanced by the following equation:
+
+where Q , C , Δ V , and m are the charge, specific capacitance (capacity), potential window, and mass loading of active material on the electrode, respectively.
+
+The energy density ( E , Wh kg GLYPH<0> $^{1}$) and power density ( P , W kg GLYPH<0> $^{1}$) of the device are calculated by the following equation:
+
+## 2.5. Computational details
+
+The first-principles spin-polarized density functional theory (DFT) calculations were performed using the Vienna ab initio simulation package (VASP). The Perdew-Burke-Ernzerhof (PBE) functional within the generalized gradient approximation (GGA) and the projectoraugmented wave (PAW) method were employed to describe the electron-electron and electron-ion interactions, respectively. A cutoff energy of 500 eV was used to achieve maximum valence electron accuracy. The size of the unit cell was set to a 2 × 3 × 1 supercell. The Monkhorst-Pack k-point grid of 12 × 10 × 12 was used. The convergence criterion for atomic forces was set to 0.02 eV Å GLYPH<0> $^{1}$, and the energy convergence criterion for electrons was set to 10 GLYPH<0> $^{5 }$eV. The lattice parameters of all crystal models were fully relaxed.
+
+## 3. Results and discussions
+
+The growth mechanism of nickel cobalt double hydroxides was investigated, whose morphology and crystal structure are displayed in Figs. S1 and S2 (see Support information). Fig. 1a shows that pure NiCoDH consists of numerous stacked nanosheets with diameters and thicknesses of hundreds and tens of nanometers, forming a spherical structure with a diameter of about 4 μ m. Fig. 1b -e illustrate the influence of different Mo doping concentrations on the microstructure of the samples. It can be observed that the size of the nanosheets decreases after the feed of sodium molybdate while they aggregate to form larger micrometer-sized sheets. These micrometer-sized sheets assemble into
+
+Journal of Energy Storage 81 (2024) 110393 Sun et al.
+
+Fig. 1. SEM images of Mo-doped NiCoDH: (a) pure NiCoDH, (b) NiCoDH-Mo0.25, (c) NiCoDH-Mo0.50, (d) NiCoDH-Mo0.75, (e) NiCoDH-Mo1.00, (f) SEM-EDS elemental atomic contents, and (g) elemental mapping of NiCoDH-Mo0.50.
+
+cauliflower-like microspheres. With the increase of sodium molybdate content, the size of the nanosheets becomes smaller, and the agglomeration becomes serious. Fig. 1f shows a bar chart of the Ni, Co, and Mo contents in the samples obtained by SEM-EDS analysis. The atomic ratio of Ni to Co in all samples is approximately 2:1, consistent with the ratio added during the microwave hydrothermal process. The increasing content of Mo in the samples indicates successful doping of Mo into the samples. Fig. 1g illustrates the SEM-EDS elemental mapping of NiCoDHMo0.50, where the doped Mo atoms are uniformly distributed in the microflowers.
+
+XRD characterizations were conducted to understand the effect of Mo doping on the crystal structure of the NiCoDH-Mo samples. Fig. 3a shows the XRD patterns of NiCoDH-Mo samples with different Mo doping concentrations. The diffraction peaks of all samples are almost identical, indicating that Mo doping does not affect the crystal structure of the product. The diffraction peaks at 12.3 · , 24.5 · , 33.5 · , and 59.7 · can be matched with the (001), (002), (110), and (300) crystal planes of hexagonal 3Ni(OH)$_{2}$ · 2H$_{2}$O (JCPDS no. 22-0444). With the increase in Mo concentration, the diffraction peak intensity weakens, indicating that Mo doping affects the crystallinity of NiCoDH-Mo. The (001) diffraction peaks of all the samples have slightly shifted towards higher
+
+angles compared to 3Ni(OH)$_{2}$ · 2H$_{2}$O, suggesting a contraction in the spacing due to fewer water molecules between the layers.
+
+Raman characterization in Fig. 3c was used to detect the vibrational modes of the functional groups in the samples. For pure NiCoDH, the peak at around 519 cm GLYPH<0> 1 belongs to the bending and symmetric stretching mode of the Co -O bond, while the peak at 1083 cm GLYPH<0> $^{1 }$belongs to the resonance mode of OH GLYPH<0> [29,30]. The peaks at 335 and ~906 cm GLYPH<0> $^{1 }$are attributed to the symmetric stretching of the Co-O-Mo and Mo -O bonds, respectively [31,32]. As the Mo doping concentration increases, the peak intensities of the Co -O bond gradually decrease, and the two peak intensities of Mo -O become strong.
+
+To investigate the detailed impact of different Mo doping concentrations on the crystal structure of NiCoDH, the enlarged XRD patterns of NiCoDH-Mo samples at 5 · - 20 · were conducted. As shown in Fig. 3b, the (001) crystal plane of NiCoDH is slightly shifted negatively after Mo doping. It could be attributed to the higher valence state of Mo 6 + , which induces stronger repulsive forces between the crystal layers, eventually widening the (001) crystal plane spacing. With increased Mo content, the (001) crystal plane of NiCoDH-Mo undergoes a slight positive shift and ultimately remains unchanged. Considering the difference in ionic radii of Mo 6 + (62 pm), Co 2 + (74 pm), and Co 3 + (63 pm), the smaller radius Mo 6 + ions replaced the Co 2 + or Co 3 + ions, resulting in lattice contraction [26 -28]. The Coulombic repulsion resulting from the elevated charge and the accompanying lattice contraction due to the diminished ionic radii of Mo 6 + have a combined effect on the structure of NiCoDH-Mo crystals at higher Mo doping concentrations.
+
+The atomic composition of transition metals in NiCoDH with varying ratios of Mo doping was accurately determined through the inductively coupled plasma optical emission spectrometer (ICP-OES), as illustrated in Fig. 3d. The atomic content of Mo in the samples increased with the addition of sodium molybdate during the hydrothermal reaction, indicating the successful doping of Mo into the samples.
+
+To investigate the surface states and chemical environment of NiCoDH-Mo0.50, X-ray photoelectron spectroscopy (XPS) characterization was performed. Fig. S4 illustrates the survey spectra of both
+
+The microstructure of NiCo-DH and NiCoDH-Mo0.50 was further analyzed using transmission electron microscopy (TEM). In Fig. 2a, microflowers composed of nanosheets are observed in NiCoDH-Mo0.50. The magnified TEM image in Fig. 2b reveals that the NiCoDH-Mo0.50 nanosheets have an approximate diameter of hundreds of nanometers and a thickness of 8 nm. The selected-area electron diffraction (SAED) pattern in Fig. 2c indicates that NiCoDH-Mo0.50 shows multiple concentric rings, implying it is polycrystalline. Additionally, Fig. 2d displays a high-resolution TEM image that showed distinct lattice patterns of the nanosheets with a crystal plane spacing of 0.214 nm, corresponding to the (103) plane of the 3Ni(OH)$_{2}$ · 2H$_{2}$O crystal structure. Fig. S3 demonstrates that the pure NiCoDH nanosheets possess a larger diameter of 1 μ m, a thickness of 9 nm, and a batter polycrystalline structure.
+
+Journal of Energy Storage 81 (2024) 110393 Sun et al.
+
+Fig. 2. TEM images of NiCoDH-Mo0.50: (a, b) low resolution, (c) SAED, and (d) high resolution.
+
+NiCoDH and NiCoDH-Mo0.50. In addition to the signals of Ni, Co, O, and C elements, NiCoDH-Mo0.50 exhibits the signal of Mo element than NiCoDH. In Fig. 4a, Ni 2p spectra can be deconvoluted into two pairs of spin-orbit doublets. For the NiCoDH, the two peaks at 855.78 and 873.43 eV correspond to the Ni 2 + 2p$_{3/2 }$ and 2p$_{1/2 }$ states, respectively [33]. The NiCoDH-Mo0.50 has similar binding energies of 855.82 and 873.47 eV, suggesting the electron density around Ni atoms almost maintains unchanged. The rest of the broad peaks at about 861 and 879 eV are related to the satellite peaks of Ni 2p. In Fig. 4b, the Co 2p spectra can be deconvoluted into three spin-orbit doublets [34,35]. The two peaks of NiCoDH observed at 780.72 and 796.43 eV correspond to the Co 3 + 2p$_{3/2 }$and 2p$_{1/2 }$states, respectively. The second peaks situated at 782.72 and 798.51 eV depict the Co 2 + 2p$_{3/2 }$ and 2p$_{1/2 }$ states, respectively. In contrast, NiCoDH-Mo0.50 demonstrates a positive binding energy shift of both Co 3 + (780.96 and 796.58 eV) and Co 2 + (782.75 and 798.54 eV) 2p peaks, implying the increase of electron density around Co atoms. The residual peaks, located at approximately 786 and 802 eV, exhibit the satellite peaks of Co 2p. In Fig. 4c of the Mo 3d spectra, the binding energies of two peaks are 231.94 and 235.07 eV, implying that a typical Mo 6 + state was present in NiCoDH-Mo0.50 [36]. In a short, the introduction of Mo doping in NiCoDH-Mo0.50 leads to an increase in electron density of cobalt atoms.
+
+split-type pores in the samples. Utilizing the Brunauer-Emmett-Teller (BET) model, the specific surface areas of NiCoDH and NiCoDHMo0.50 are determined to be 22.4 and 91.7 m$^{2 }$g GLYPH<0> $^{1}$, respectively. Subsequently, by employing the Barrett-Joyner-Halenda (BJH) model and desorption curves, the pore size distribution is displayed in Fig. 4e. The average pore sizes of NiCoDH and NiCoDH-Mo0.50 are calculated to be 4.97 and 6.26 nm, respectively.
+
+Figs. 5a and S5 shows the top and side views of the crystal structure model of Ni$_{17}$Co$_{8}$(OH)$_{50 }$ after structural relaxation, where the ratio of nickel to cobalt atoms was set to 17:8 (68,32), close to the ICP-OES results of NiCoDH (67,33). Fig. 5b presents the Ni$_{15}$Co$_{8}$Mo$_{2}$(OH)$_{50 }$ crystal structure models with a Ni:Co:Mo ratio of 60:32:8 obtained after structural relaxation by substituting two nickel atoms with two molybdenum atoms, consistent with the ICP-OES results of NiCoDH-Mo0.50 (61,31,8). In the differential charge density map of Fig. 5b, yellow indicates an increase in charge density, while green represents a decrease. In the Ni$_{15}$Co$_{8}$Mo$_{2}$(OH)$_{50 }$ model, the electrons from Mo atoms have transferred to Co atoms, leading to an increase in the electron density of Co. However, the charge density of nickel atoms remains nearly unchanged. It is consistent with the characterization results obtained from XPS. Fig. 5c displays the partial density of states (PDOS) of
+
+To investigate the impact of Mo doping on the electrical conductivity of the samples, the electrical conductivity of NiCoDH and NiCoDHMo0.50 powders under varying pressures was measured using the four-probe method at 100 V. As illustrated in Fig. 4f, the conductivity of NiCoDH-Mo0.50 is 2 -5 times higher than that of NiCoDH at the same pressure. Notably, the conductivity of NiCoDH-Mo0.50 can reach 0.0233 μ S cm GLYPH<0> $^{1 }$at 30 MPa.
+
+To investigate the specific surface area and pore size distribution of NiCoDH and NiCoDH-Mo0.50, nitrogen adsorption and desorption isotherms were conducted at 77 K. As shown in Fig. 4d, the isotherms of both samples can be classified as type-IV curves, indicating the presence of a substantial number of mesopores. Furthermore, an H3-type hysteresis loop is observed at higher relative pressures, suggesting many
+
+Journal of Energy Storage 81 (2024) 110393 Sun et al.
+
+Fig. 3. Crystal structure and elemental contents of Mo-doped NiCoDH: (a) XRD patterns, (b) enlarged XRD patterns, (c) Raman spectra, and (d) atomic elemental ratios by ICP-OES.
+
+Fig. 4. XPS spectra, porosity, and conductivity of NiCoDH and NiCoDH-Mo0.50: (a) Ni 2p spectra, (b) Co 2p spectra, (c) Mo 3d spectra, (d) nitrogen adsorptiondesorption isotherms, (e) pore distribution, and (f) electrical conductivity by the four-probe method.
+
+Ni$_{17}$Co$_{8}$(OH)$_{50 }$ and Ni$_{15}$Co$_{8}$Mo$_{2}$(OH)$_{50}$. Pure Ni$_{17}$Co$_{8}$(OH)$_{50 }$ exhibits a band gap of 0.236 eV near the Fermi level, while no band gap is observed for Ni$_{15}$Co$_{8}$Mo$_{2}$(OH)$_{50}$. Therefore, molybdenum doping improves the electrical conductivity of the nickel-cobalt double hydroxides.
+
+The electrochemical performance of NiCoDH-Mo electrodes in a 6 M
+
+KOH electrolyte was evaluated using a three-electrode system. Fig. 6a displays that the cyclic voltammetry (CV) curves of NiCoDH-Mo electrodes in the potential window of 0 -0.6 V at a scan rate of 1 mV s GLYPH<0> 1 exhibit a distinct pair of redox peaks. The CV curve of the NiCoDHMo0.50 electrode encloses the largest area, indicating its highest
+
+Journal of Energy Storage 81 (2024) 110393 Sun et al.
+
+Fig. 5. Relaxed structures and charge density difference of (a) Ni$_{17}$Co$_{8}$(OH)$_{50 }$and (b) Ni$_{15}$Co$_{8}$Mo$_{2}$(OH)$_{50 }$models. (c) Density of states. (For interpretation of the references to colour in this figure, the reader is referred to the web version of this article.)
+
+specific capacitance. Figs. 6b and S6 illustrate the CV curves of NiCoDHMo electrodes at different scan rates. As the scan rate increases, the oxidation peak shifts towards positive potential while the reduction peak shifts towards negative potential. It is mainly due to the influence of the mass transfer rate in the electrolyte on the electrochemical reactions at higher scan rates, leading to polarization and peak potential shifts.
+
+The oxidation/reduction peak current also increases with the scan rate. The electrochemical reaction kinetics can be determined by the following equation [37]:
+
+where i is the peak current of the oxidation-reduction reactions, v is the scan rate, and a and b are adjustment coefficients. When i and have a linear relationship (b = 1), the surface reaction mainly domains the electrochemical reaction, showing pseudocapacitance behavior. When b equals 0.5, the semi-infinite diffusion-controlled reaction is the primary rate-determining step for the electrochemical reactions. Fig. 6c reveals the logarithmic relationship between the peak current and the scan rate of the NiCoDH and NiCoDH-Mo0.50 electrodes. It can be seen that the slope ( b value) of the NiCoDH-Mo0.50 electrode ' s fitted line is larger than that of the NiCoDH electrode, indicating that the molybdenum doping introduces pseudocapacitance and can improve the rate performance and cycling stability of the material [37]. Fig. 6d shows the galvanostatic charge-discharge (GCD) curves of the NiCoDH-Mo electrodes at a current density of 1 A g GLYPH<0> $^{1}$, where the longest chargedischarge time of NiCoDH-Mo0.50 electrode indicates its highest specific capacitance. Both the charge and discharge curves exhibit a voltage plateau, consistent with the results of CV curves. Fig. 6e depicts the GCD curves of NiCoDH-Mo0.50 electrode at different current densities. The specific capacitance of NiCoDH-Mo electrode at different current densities can be calculated using the Eq. (1). As the current density increases, the insufficient diffusion of electrolyte ions to the interior of the electrode material results in incomplete redox reactions, leading to a gradual decline in specific capacitance. As shown in Figs. 6f, S7, and Table S1, the NiCoDH-Mo0.50 electrode possesses the highest specific
+
+capacitance at all current densities. Moreover, when the current density increases from 1 A g GLYPH<0> 1 to 20 A g GLYPH<0> $^{1}$, the specific capacitance of the NiCoDH-Mo0.50 electrode decreases from 160.5 mAh g GLYPH<0> $^{1 }$to 115.3 mAh g GLYPH<0> $^{1}$, with a rate performance of 71.8 %.
+
+Fig. 6h exhibits the cycling stability of the NiCoDH-Mo0.50 electrode at a current density of 5 A g GLYPH<0> $^{1}$. After 1500 charge-discharge cycles, the specific capacity of the NiCoDH-Mo0.50 electrode decreases from 129.6 to 107.2 mAh g GLYPH<0> $^{1}$, with a capacity retention of 82.7 %. Notably, the Coulombic efficiency remained above 99.7 % throughout the entire cycle. To determine the underlying reasons for the decrease in cycling capacity of the NiCoDH-Mo0.50 electrode, SEM and XRD analyses were conducted to examine the electrode ' s morphology and crystal structure before and after cycling. As shown in Fig. S8a -b, before cycling, the NiCoDH-Mo0.50 electrode retains the hierarchical microflower structure, which is consistent with the powder (Fig. 1c). After 1500 cycles, Fig. S8c -d reveals that the nanosheets that comprised the microflowers have lost their nanostructure and become thickened. The thickening of the nanosheets may contribute to the decrease in electrochemically active specific surface area of the electrode, leading to capacity decay. Fig. S9 displays that the diffraction peaks of NiCoDH-Mo0.50 are nearly
+
+The electrochemical impedance spectroscopy (EIS) was employed to measure the electrochemical properties of NiCoDH-Mo electrodes at open circuit voltage within the frequency range of 0.01 to 100 k Hz, as depicted in Fig. 6g. The Nyquist plots comprise a semicircle in the highfrequency region and a straight line in the low-frequency region. The curve ' s intercept with the x -axis indicates the solution impedance R$_{s}$ , which includes the electrode internal resistance, electrode-electrolyte contact impedance, and solution impedance. Notably, the NiCoDHMo0.50 electrode exhibits the smallest value of R$_{s }$ (0.763 Ω ), indicating its exceptional conductivity. The radius of the semicircle in the high-frequency region is representative of the charge transfer impedance R$_{ct}$ . It is observed that the NiCoDH-Mo0.50 electrode has the smallest value of R$_{ct}$ , thereby indicating that its Faradaic electrochemical reaction is more feasible. The slope of the diagonal line in the low-frequency region measures the solution diffusion (Warburg) impedance W . All the samples demonstrate negligible diffusion impedance.
+
+Journal of Energy Storage 81 (2024) 110393 Sun et al.
+
+Fig. 6. Electrochemical performance of Mo-doped NiCoDH electrodes: (a) CV curves at a scan rate of 1 mV s GLYPH<0> $^{1}$, (b) CV curves of NiCoDH-Mo0.50 at different scan rates, (c) determination of b value, (d) GCD curves at a current density of 1 A g GLYPH<0> $^{1}$, (e) GCD curves of NiCoDH-Mo0.50 at different current densities, (f) specific capacity versus current density, (g) Nyquist plots, and (h) cycling stability at a current density of 5 A g GLYPH<0> $^{1}$.
+
+non-existent after cycling, potentially indicating the conversion of crystal hydroxides to amorphous oxyhydroxides during the electrochemical processes [38].
+
+To elucidate the underlying charge storage mechanism, ex-situ XPS was employed to investigate the valence changes of the constituent elements of the NiCoDH-Mo0.50 electrodes during the charge and discharge processes. In Fig. 7a, the electrode ' s CV curves at a scan rate of
+
+The electrochemical properties of the as-prepared NiCoDH-Mo0.50 electrode are compared to those of previously reported transition metal hydroxide electrodes, as presented in Table 1.
+
+1 mV s GLYPH<0> $^{1 }$demonstrate a clear pair of redox peaks during charging and discharging, indicating the definite occurrence of a Faraday process. The electrode did not undergo an electrochemical reaction called the initial state, whose Ni 2p, Co 2p, and Mo 3d are depicted in Fig. 7b. The Ni 0 state observed in the Ni 2p spectrum originates from the nickel foam collector. Notably, the elemental valence states of the initial electrode align with those of the powder, as depicted in Fig. 4a -c. Upon charging the electrode to 0.6 V and initiating an oxidation process, the XPS spectra of each element are presented in Fig. 7c. Notably, the Ni 2p and Mo 3d spectra remain unaltered, indicating that Ni 2 + and Mo 6 + do not
+
+Table 1 Electrochemical performance of transition metal hydroxide electrodes.
+
+| Species                | Electrolyte   | Specific capacity                                                   | Rate performance       | Cycling stability              | Ref.      |
+|------------------------|---------------|---------------------------------------------------------------------|------------------------|--------------------------------|-----------|
+| NiCoDH-Mo0.50          | 6 M KOH       | 160.5 mAh g $^{1 }$(1 A g $^{1}$) or 1284 F g $^{1 }$(1 A g $^{1}$) | 71.8 % (20 A g $^{1}$) | 82.7 % (1500, 5 A g $^{1}$)    | This work |
+| Ni$_{3}$Co$_{1}$-OH@DE | 3             | 769.2 F g $^{1}$)                                                   | 82.9 % (15 A g         | -                              | [39]      |
+| MXene/NiCoZDH          | 6 M KOH       | 877 F g $^{1 }$(1 A g                                               | 79.1 % (5 A g $^{1}$)  | 90.9 % (30,000, 15 A g $^{1}$) | [40]      |
+| NiMnCr LDHs@CS/NF      | 2             | 569C g $^{1 }$(3 A g $^{1}$)                                        | 72.9 % (20 A g         | 83 % (5000, 20 A g $^{1}$)     | [41]      |
+| Ni-Co LDH@CNFs-rGO     | 6 M KOH       | 932 F g $^{1 }$(2 A g                                               | 42.5 $^{1}$)           | -                              | [42]      |
+| S-NiCo-LDH/SS          | 2             | 64.4 mAh g $^{1 }$(1 A g $^{1}$)                                    | 32.3 % (5 A g          | 95.7 % (5000, 2 A g $^{1}$)    | [43]      |
+| NiFe-LDH/MXene         | 1 M KOH       | 720.2 F g                                                           | 74.9 $^{1}$)           | 76 % (1000)                    | [24]      |
+| P@NiCo LDHs            | 6             | 536C g $^{1 }$(3 A g $^{1}$)                                        | 56 % (20 A g           | 99 % (5000, 10 A g $^{1}$)     | [44]      |
+| NiCo-LDH@graphene      | 1 M KOH       | 1489 F g $^{1 }$(1 A g                                              | 68 % (100 A g $^{1}$)  | 80 % (5000, 6 A g              | [45]      |
+
+Journal of Energy Storage 81 (2024) 110393 Sun et al.
+
+Fig. 7. Ex-situ XPS characterization of NiCoDH-Mo0.50 electrode: (a) CV curves at a scan rate of 1 mV s GLYPH<0> $^{1}$, (b) initial state, (c) charging to 0.6 V, (d) discharging to 0 V. The number on the fitted peak indicates its binding energy (eV).
+
+participate in the oxidation process. However, the Co 2 + 2p peaks in the Co 2p spectrum are eliminated, suggesting that Co 2 + is primarily oxidized to Co 3 + during the charging process. Upon discharging the electrode back to 0 V, the Ni 2p and Mo 3d spectra also remain
+
+unchanged. Additionally, the Co 2 + and Co 3 + 2p peaks emerge in the Co 2p spectrum, indicating that some Co 3 + is reduced to Co 2 + . Therefore, the electrochemical reaction of NiCoDH-Mo0.50 electrode can be expressed as follows [11]:
+
+Fig. 8. Electrochemical performance of the NiCoDH-Mo0.50//MSAC hybrid supercapacitor: (a) CV curves at a scan rate of 10 mV s GLYPH<0> $^{1 }$within different operating voltages, (b) CV curves at different scan rates, (c) GCD curves at different current densities, (d) specific capacitance versus current density, (e) Ragone plots, and (f) cycling stability at a current density of 7 A g GLYPH<0> $^{1}$.
+
+Journal of Energy Storage 81 (2024) 110393 Sun et al.
+
+Co ( OH )$_{2}$ + OH GLYPH<0> ↔ CoOOH + H$_{2}$O + e GLYPH<0>
+
+(6)
+
+To assess the practicality of NiCoDH-Mo0.50, it was assembled with mango seed-derived activated carbon (MSAC) anode into a hybrid supercapacitor (HSC) with a 6 M KOH electrolyte. As displayed in Fig. S10, the MSAC anode exhibits high specific capacitance (194 F g GLYPH<0> 1 at 1 Ag GLYPH<0> $^{1}$), superior rate performance (74 % at 20 A g GLYPH<0> $^{1}$), and excellent cycling stability (108 % capacitance retention after 4000 cycles at 5 A g GLYPH<0> $^{1}$). Fig. 8a shows the CV curves of the HSC at different working voltages, measured at a scan rate of 10 mV s GLYPH<0> $^{1}$. As the voltage increases, the area enclosed by the CV curves gradually increases, indicating an increase in specific capacitance. At a voltage of 1.8 V, a clear polarization peak appeared on the CV curve, indicating electrolyte decomposition. Therefore, a working voltage of 1.7 V was used for the HSC. Fig. 8b demonstrates the distorted rectangular shape of the CV curves at different scan rates, indicating that the electrical double-layer capacitance and the Faradaic redox reactions contribute to charge storage. Fig. 8c displays the GCD curves of the HSC at different current densities. As exhibited in Fig. 8d, the specific capacitance values of the HSC at current densities of 1, 2, 3, 5, 7, 10, 15, and 20 A g GLYPH<0> $^{1 }$were calculated as 102.9, 92.1, 80.3, 60.6, 52.3, 46.5, 39.7, and 29.4 F g GLYPH<0> $^{1}$. The Ragone plots (Fig. 8e) were used to evaluate the power density and energy density of the HSC. The HSC exhibited an energy density of 41.3 Wh kg GLYPH<0> $^{1 }$at a power density of 850 W kg GLYPH<0> $^{1 }$and maintained an energy density of 11.8 Wh kg GLYPH<0> $^{1 }$even at a power density of 17 kW kg GLYPH<0> $^{1}$. The electrochemical performance of the HSC was superior to that of some previously reported hydroxide materials, such as Ni(OH)$_{2}$/NCDs//3DGE (34.6 Wh kg GLYPH<0> $^{1 }$at 700 W kg GLYPH<0> $^{1}$) [46], NiMn-1//AC -RGO (18.9 Wh kg GLYPH<0> $^{1 }$at 5659 W kg GLYPH<0> $^{1}$) [47], L -Ni(OH)$_{2}$@PPy//G -30PPPy (34 Wh kg GLYPH<0> $^{1 }$at 756 W kg GLYPH<0> $^{1}$) [46], Ni$_{0.80}$V$_{0.20 }$LDH//AC (24 Wh kg GLYPH<0> $^{1 }$at 780 W kg GLYPH<0> $^{1}$) [48], NiCo-LDH@GNSs//AC (24 Wh kg GLYPH<0> $^{1 }$at 3575 W kg GLYPH<0> $^{1}$) [49], rGO@CoNi$_{2}$S$_{4}$@NiCo-LDH//AC (16.5 Wh kg GLYPH<0> 1 at 7165 W kg GLYPH<0> $^{1}$) [50], and Mo -NiS$_{2}$@NiCo-LDH//AC (38.1 Wh kg GLYPH<0> $^{1 }$at 800 W kg GLYPH<0> $^{1}$) [50]. Fig. 8f shows the cycling stability of the HSC at a current density of 7 A g GLYPH<0> $^{1}$. After 8000 charge-discharge cycles, the HSC maintained 84 % of its initial capacity, demonstrating excellent cycling stability. Notably, the Coulombic efficiency of the HSC maintains over 99 %.
+
+## 4. Conclusions
+
+In summary, Mo-doped nickel cobalt double hydroxide (NiCoDHMo) with hierarchical cauliflower-like microspheres consisting of nanosheets was successfully synthesized using a rapid microwaveassistant hydrothermal method in tens of minutes. The effect of Mo doping on the microstructure, crystal structure, porosity, and electrochemical performance of NiCoDH was investigated. The NiCoDHMo0.50 shows a high specific surface area of 91.7 m 2 g GLYPH<0> 1 and an improved electrical conductivity of 0.0233 μ S cm GLYPH<0> $^{1}$. The optimized NiCoDH-Mo0.50 electrode achieves excellent specific capacity (160.5 mAh g GLYPH<0> $^{1 }$at 1 A g GLYPH<0> $^{1}$), rate performance (71.8 % at 20 A g GLYPH<0> $^{1}$), and cycling stability (82.7 % remaining capacity after 1500 cycles). Furthermore, a hybrid supercapacitor (HSC) was assembled by combining the NiCoDHMo0.50 cathode with mango seed-derived activated carbon anode, which delivers an energy density of 41.3 Wh kg GLYPH<0> $^{1 }$at a power density of 850 W kg GLYPH<0> $^{1}$. The HSC also exhibits outstanding cycle stability, with a capacity retention of over 84 % after 8000 cycles. This work provides a facile, fast, low-cost, and efficient synthesis strategy for transition metal hydroxides, laying the technological foundation for developing highperformance supercapacitor cathode materials.
+
+## CRediT authorship contribution statement
+
+Zhenying Sun: Formal analysis, Investigation, Methodology. Zhenhua Wu: Data curation, Visualization. Junjun Hu: Validation, Visualization. Shengshang Lu: Data curation, Validation. Tong Guo: Resources. Wensheng Yang: Conceptualization, Methodology. Quan
+
+Xie: Funding acquisition, Software. Yunjun Ruan: Project administration, Supervision, Writing -original draft, Writing -review & editing.
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Data availability
+
+Data will be made available on request.
+
+## Acknowledgement
+
+This work was financially supported by the Scientific and Technological Plan Project of Guizhou Province (Grant No. [2021]060), Industry and Education Combination Innovation Platform of Intelligent Manufacturing and Graduate Joint Training Base at Guizhou University (Grant No. 2020-520000-83-01-324061), and Guizhou Engineering Research Center for smart services (Grant No. 2203-520102-04-04298868). The authors thank the Shiyanjia lab (www.shiyanjia.com) for the XPS and HRTEM tests. The authors also thank the computing support of the State Key Laboratory of Public Big Data at Guizhou University.
+
+## Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.est.2023.110393.
+

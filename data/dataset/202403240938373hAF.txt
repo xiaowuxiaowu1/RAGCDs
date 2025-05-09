@@ -1,0 +1,251 @@
+## ABSTRACT
+
+For human health and environment safety, it is of great significance to develop novel materials with high effectiveness for removal of lead from not only aqueous solutions but also human body and traditional Chinese medicines. Here, functional kiwi peel composite, manganese dioxide decorated kiwi peel powder (MKPP), is proposed for the removal of Pb 2 + effectively. The adsorption of Pb 2 + in aqueous solution is a highly selective and endothermic process and kinetically follows a pseudo-second-order model, which can reach equilibrium with the capacity of 192.7 mg/g within 10 min. Comprehensive factors of hydration energy, charge-to-radius ratio and softness of Pb 2 + make a stronger affinity between MKPP and Pb 2 + . The possible adsorption mechanism involves covalent bond, electrostatic force and chelation, etc. MKPP can be efficiently regenerated and reused with high adsorption efficiency after five cycles. Besides, MKPP can remove over 97% of Pb 2 + from real water samples. MKPP can also alleviate lead poisoning to a certain extent and make the Pb level of TCM extract meet the safety standard. This work highlights that MKPP is a promising adsorbent for the removal of Pb 2 + and provides an efficient strategy for reusing kiwi peel as well as dealing with the problem of Pb pollution.
+
+## 1. Introduction
+
+With the vigorous development of industry, water pollution has become a worldwide problem (Liu et al., 2015). Wastewater from various industrial activities usually contains plenty of lead ions (Pb 2 + ), which will induce severe contamination of environmental water. Worse still, Pb 2 + and its compounds can be absorbed into the human body through various pathways, such as respiration, food, water and skin, and may cause potential damage to the digestive, nervous, respiratory and immune systems, leading to toxic kidney disease, muscle paralysis, deformity, cancer and even death (Zou et al., 2016; Zhu et al., 2018). It is
+
+reported that when the lead concentration in human blood rises, about 75 -90% of Pb 2 + will be enriched in the skeleton through the antagonism with Ca 2 + (Charkiewicz and Backstrand, 2020); when the lead concentration in human blood decreases, Pb 2 + in bones will enter into the circulatory system again (Wan et al., 2019). Thus, it can more efficiently promote the excretion of Pb 2 + from human body by removing Pb 2 + from the blood and regulating the " bone-blood " dynamic balance. Besides, traditional Chinese medicines (TCMs), especially roots and rhizomes of TCMs, are commonly exposed in lead contamination, which has become a major factor affecting the quality and safety of TCM (Zuo et al., 2023). Therefore, it is of great significance to develop novel material and
+
+E-mail addresses: vikkigong@126.com (H. Gong), yycao@cdc.zj.cn (Y. Cao), z1437143688@126.com (W. Zeng), 19157722305@163.com (C. Sun), wy102799@ 163.com (Y. Wang), s15951135946@163.com (J. Su), hren@cdc.zj.cn (H. Ren), pwang@cdc.zj.cn (P. Wang), zhoulei0061@163.com (L. Zhou), guoyinkai1@126. com (G. Kai), qianjun_1116@163.com (J. Qian).
+
+Available online 5 February 2024 https://doi.org/10.1016/j.envres.2024.118360 Received 25 October 2023; Received in revised form 2 December 2023; Accepted 26 December 2023
+
+0013-9351/© 2024 Elsevier Inc. All rights reserved.
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+technique for efficient removal of Pb 2 + from aqueous solutions, blood and TCM extracts.
+
+Recent years, waste peels have been attracted more attentions due to their low cost and the concept of agricultural waste recycling. Various waste peels have been used for the removal of Pb 2 + , such as papaya, pomelo, banana, coconut and orange peels (Jaihan et al., 2022; Yu and He, 2018; Correia et al., 2018; Afolabi et al., 2022). Kiwi is a popular fruit owing to its juicy and sweet flesh. And it can be developed into dried kiwi, wine, jam, juice, etc. Along with the development of kiwi industry, plenty of waste kiwi peels have also been produced. As a kind of agricultural waste, the generation and decay of kiwi peel may cause pressure on the environment. On the other hand, kiwi peel contains a large amount of cellulose with quantities of functional groups such as hydroxyl (-OH) and carboxyl groups (-COOH), which may have the potential for the capture of heavy metal ions (Al-Qahtani, 2016). Thus, it is of importance to develop kiwi peel-based adsorbent from the standpoints of sewage treatment and recycle of agricultural wastes. However, up to now, there is no relevant report on the application of functional kiwi peel composites in the removal of Pb 2 + .
+
+So far, various methods, such as chemical precipitation (Chen et al., 2018), membrane filtration (Xu et al., 2021), solid phase extraction (adsorption) (Liu et al., 2023), have been developed to remove Pb 2 + from aqueous solution. Among them, adsorption is considered to be one of the most economical and effective approach due to its advantages of high effectiveness, simple operation, environmental friendliness and simple operation (Lian et al., 2020; Huang et al., 2022). In recent years, a large number of adsorbents used for Pb 2 + removal have been designed and developed, including activated carbon (Kharrazi et al., 2021), natural polymer (Li et al., 2019), microorganism (Wang et al., 2019), graphene-based material (Ubhi et al., 2023), nanoscale metal oxide (Lin and Chen, 2020a), waste peels (Praipipat et al., 2023), etc.
+
+In order to improve the adsorption performance of peel-based materials, various modification methods have been proposed, including acid or base treatment, hydrothermal process, and modification with metal oxides (Ahmad et al., 2016; Feng and Guo, 2012; Zhou et al., 2017; Herrera-Barros et al., 2020). Remarkably, nanoscale metal oxide, such as iron oxide (Fe$_{2}$O$_{3}$), aluminum oxide (Al$_{2}$O$_{3}$), cerium oxide (CeO$_{2}$), zinc oxide (ZnO), manganese oxide (MnO$_{2}$), are widely used to remove various heavy metal ions due to their large specific surface area and high reactivity (Hua et al., 2012; Shi et al., 2021a). Among them, MnO$_{2 }$ is considered as one of the most effective metal oxides for the adsorption of Pb 2 + due to its structural flexibility, low cost and environmental friendliness (Yang et al., 2021; Li et al., 2018; Lin and Chen, 2020b). Therefore, MnO$_{2 }$ is a good candidate for the modification of kiwi peel to enhance the adsorption of Pb 2 + .
+
+Motivated by the previous findings, we propose a strategy for effective removal of Pb 2 + from aqueous solutions by manganese dioxide decorated kiwi peel powder (MKPP). Specifically, kiwi peel powder (KPP) first interacted with Mn 2 + via multiple functional groups on the surface to form Mn 2 + -loaded kiwi peel powder (KPP -Mn 2 + ). Then, the redox reaction was occurred between the obtained materials and KMnO$_{4 }$ to get MKPP. Kiwi peel, as the matrix of adsorbent, can prevent the agglomeration of MnO$_{2 }$and the residual functional groups on the surface can adsorb Pb 2 + as well. Thus, the combination of kiwi peel and MnO$_{2 }$ can facilitate the adsorption performance. Besides, kiwi peel possesses the properties of antioxidant and anti-inflammatory, and shows a good biocompatibility (Chamorro et al., 2022), which makes MKPP have the potential for biological application. Therefore, it is expected that MKPP can be utilized for the removal of Pb 2 + from not only aqueous solutions but blood or TCM extracts. This work is a pioneering example of effective adsorption of Pb 2 + via functional kiwi peel composites and provides an efficient strategy for reusing kiwi peel along with solving the problem of Pb pollution.
+
+## 2. Experimental Section
+
+## 2.1. Reagents and characterizations
+
+Kiwi peel (peel of Actinidia chinensis Planch from Quzhou, Zhejiang Province, China) was washed to remove residual pulp and dried at 40 · C to constant weight. Manganese sulfate hydrate (MnSO$_{4}$$^{.}$H$_{2}$O), potassium permanganate (KMnO$_{4}$), lead nitrate (Pb(NO$_{3}$)$_{2}$), sodium hydroxide (NaOH), hydrogen chloride (HCl), ethylenediaminetetraacetic acid disodium salt (EDTA-2Na) of analytical reagent grade were provided by Sinopharm Chemical Reagent Co., Ltd. The detailed characterization methods for all the samples were shown in Supporting Information.
+
+## 2.2. Preparation of MnO$_{2}$-loaded kiwi peel powder (MKPP)
+
+Kiwi peel was first crushed to powder and passed by 200-mesh sieve to get kiwi peel powder (KPP). Then, MnSO$_{4}$$^{.}$H$_{2}$O (0.9230 g, 5.46 mmol) was dissolved in deionized water (50 mL). Afterwards, KPP (50 mg) was dispersed in the as-prepared solution under ultrasound. The mixture was stirred at 25 · C for 24 h and centrifugated to obtain KPP-Mn 2 + . Subsequently, KPP-Mn 2 + was dispersed in deionized water (30 mL) under ultrasound. Then, KMnO$_{4 }$solution (10 mmol/L, 20 mL) was added to the KPP-Mn 2 + suspension dropwise. The mixture was stirred at 25 · C for 24 h and centrifugated to obtain MKPP.
+
+## 2.3. Adsorption experiments
+
+In order to evaluate the adsorption behaviors of MKPP, the effects of adsorbent content, pH value of solution, contact time, adsorption temperature, initial concentration, competing ions, etc. on Pb 2 + adsorption performances were investigated. The typical adsorption experiment was operated as follows: 10 mL of Pb 2 + solution and 1.0 mg of MKPP were added into a 15 mL of polyethylene tube, and the pH value of solution was adjusted by HCl or NaOH solution with various concentrations. After sufficient time on the shaking table with rate of 220 rpm, MKPP was separated from the system by centrifugation. The concentration of Pb 2 + and other metal ions were measured by inductively coupled plasma-mass spectrometry (ICP-MS). The adsorption equilibrium amount ( q$_{e}$ , mg/g) and adsorption efficiency ( AE , %) of Pb 2 + were calculated according to equations below:
+
+Where c$_{0 }$ (mg/L), c$_{e }$ (mg/L) stand for the initial and equilibrium concentrations, respectively. V (L) is the volume of Pb 2 + solution, and m (g) represents the weight of adsorbent.
+
+## 2.4. Desorption and regeneration studies
+
+In order to estimate the reusability of MKPP, adsorption of Pb 2 + and elution of MKPP-Pb 2 + complex were repeated five times. HCl (0.5 mol/ L) was adopted as candidates of eluents for desorption studies. After saturated adsorption, MKPP-Pb 2 + complex was eluted with desorbing agent until Pb 2 + was almost removed, and then washed with deionized water three times and dried for reuse.
+
+## 2.5. Lead removal from real water samples
+
+Reservoir water, well water, tap water and deionized water were selected as the representatives of real water samples in this study. Among them, reservoir water was collected from Yunzhe Reservoir and Tiechang Reservoir, Cangnan, respectively. According to the related literatures, lead nitrate was chosen to be the source of Pb for real water
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+samples (Luo et al., 2015, 2020; Zhang et al., 2017; Rafie et al., 2023; Upreti et al., 2023). The real water samples were first treated with sand core filter to remove impurities such as water plants and algae. After that, lead nitrate was first dissolved in the treated real water samples to simulate lead-contaminated water. 1.0 mg of MKPP was mixed with 10 mL of the lead-contaminated water in a polyethylene tube. After contacting for 1 h, the adsorbents were separated from the mixture by centrifugation. Lead concentrations were measured by ICP-MS.
+
+## 2.6. Lead removal from blood
+
+In this work, blood collected from cows in slaughterhouse. Lead nitrate was first dissolved in blood to form a homogeneous leadcontaminated blood with the concentration of 1.0 ppm. And then, 1.0 mg of MKPP was mixed with 10 mL of the as-prepared lead-contaminated blood in a polyethylene tube. After 1 h, the adsorbents were separated from the mixture by centrifugation. Before ICP-MS analysis, organic components in each sample were removed by microwave digestion system. Lead concentrations were measured by ICP-MS.
+
+## 2.7. Lead removal from traditional Chinese medicine extract
+
+S alvia miltiorrhiza was selected as the representative of traditional Chinese medicine (TCM) which is commonly contaminated by lead. Decoction pieces of S alvia miltiorrhiza were crushed to powders. Then, 10 g of TCM powders were extracted with 50 mL of water and filtered to obtain extract of salvia miltiorrhiza . Subsequently, lead nitrate was dissolved in the extract above to form lead-contaminated TCM extract with the concentration of 1.0 ppm. The adsorption procedure was similar to Section 2.6.
+
+## 3. Results and discussion
+
+## 3.1. Characterization of MKPP
+
+The morphological features of KPP and MKPP were observed by
+
+scanning electron microscope (SEM). As depicted in Fig. 1A, the surface of KPP was almost smooth. On the contrary, numerous protuberant particles with irregular shape can be observed on the surface of MKPP (Fig. 1B), which may be the generated MnO$_{2}$. The macroscopic photos of the material before and after modification were also provided in Fig. S1. After decorating, the light brown powder turned to the black one, which may be ascribed to the existence of MnO$_{2}$. Additionally, two diffraction peaks of 2 θ = 37.1 · and 66.7 · in XRD pattern of MKPP can be indexed to MnO$_{2 }$ (JCPDS card No. 30 -0820) (Fig. 1C), revealing the existence of MnO$_{2 }$ with Akhtenskite phase (Wang et al., 2021). To determine the content of MnO$_{2}$, thermogravimetric analysis (TGA) of KPP and MKPP was conducted. As shown in Figs. 1D and 97.6% of KPP can be decomposed in the temperature range of 25 -800 · C and the residual substance showed thermal stability. As for MKPP, 47% of matter can be degraded, which belonged to the decomposable part of kiwi peel. The left part contained thermally stable impurity and MnO$_{2 }$ which is reported to be stable at 25 -800 · C (Mallakpour and Madani, 2016; Siddiqui et al., 2019). Thus, the content of MnO$_{2 }$in MKPP can be calculated as 51.8%.
+
+C 1s XPS spectra of both KPP and MKPP can be curve-fitted with four peaks attributed to O -C -O, C -O/C -O, C -N, C -C species (Fig. 2C). Binding energy for each peak shifted slightly after the decoration of MnO$_{2}$, which may be related to the interaction between MnO$_{2 }$ and
+
+Fig. 1. SEM images of (A) KPP and (B) MKPP. Scale bar: 3.00 μ m. (C) XRD patterns and (D) TGA curves of KPP and MKPP.
+
+The chemical structures of KPP and MKPP were characterized by Fourier transform infrared spectroscopy (FT-IR). As shown in FT-IR spectra (Fig. 2A), absorption peaks at 3428 cm GLYPH<0> $^{1}$, 1620 cm GLYPH<0> $^{1}$, 1442 cm GLYPH<0> $^{1 }$and 1044 cm GLYPH<0> $^{1 }$indicated that KPP may possess functional groups of -OH, -COOH, C -O, C -N. And the appearance of Mn -O bond at 528 cm GLYPH<0> $^{1 }$suggested that existence of MnO$_{2 }$in MKPP (Cao et al., 2016). In addition, element of Mn can be detected on the surface of MKPP by energy-dispersive X-ray (EDX), suggesting that the formation of the composite material included Mn (Fig. S2, Supporting Information). In the meantime, structures of materials were further investigated by X-ray photoelectron spectroscopy (XPS). In comparison with KPP, MKPP showed several peaks of Mn (2s, 2p, 3s, 3p, etc.) in XPS survey scan (Fig. 2B), indicating the successful grafting of MnO$_{2}$.
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+Fig. 2. (A) FT-IR spectra, (B) XPS survey, (C) C 1s, (D) O 1s, (E) N 1s XPS spectra of KPP and MKPP. (F) Mn 2p XPS spectrum of MKPP.
+
+functional groups of kiwi peel (-OH, -COOH, -NH$_{2}$, etc.). As depicted in Fig. 2D -a new peak occurred at 530.16 eV in O 1s XPS spectra of MKPP was attributed to Mn -O (Qiu et al., 2017), further verifying the formation of MnO$_{2}$. Besides, the binding energy shift of C -O indicated that the group of C -O involved the combination of MnO$_{2}$. In the N 1s XPS spectra, an obvious shift of N -H after modification further confirmed the participation of -NH$_{2 }$in the binding of Mn (Fig. 2E). In the Mn 2p XPS spectrum, one pair of peaks at 642.56 and 654.18 eV can be ascribed to Mn 2p$_{3/2 }$ and Mn 2p$_{1/2 }$ with a binding energy difference of 11.62 eV (Table S1, Supporting Information), indicating the existence of the MnO$_{2 }$phase (Tang et al., 2022).
+
+## 3.2. Adsorption performance of MKPP
+
+Adsorption conditions were first optimized by investigating the adsorption efficiency for Pb 2 + with varying the adsorbent content. As shown in Fig. 3A, the adsorption efficiency for Pb 2 + increased as the content of adsorbent increased, and reached over 99% at 0.1 g/L of adsorbent content, which can be viewed as the optimum dosage of adsorbent for Pb 2 + adsorption. Besides, the impact of pH value of solution on adsorption performance was investigated as well. The
+
+adsorption efficiency for Pb 2 + could reach over 95% in the range of pH 3 -8 with slight fluctuation (Fig. 3B). The distribution of Pb(II) species were simulated by Medusa program with a total ion concentration range of 0.5 -100 ppm under different pH conditions (Fig. 3C). Soluble Pb 2 + will begin to transform into Pb(OH)$_{2 }$when pH > 5.9. Solubility of Pb (OH)$_{2 }$is about 0.155 g per 100 g of water, which can be converted to 133 ppm of Pb element. The initial concentration of Pb 2 + in this study was set as 1 ppm, indicating that the formed Pb(OH)$_{2 }$was soluble state. Different Pb species in solution had no obvious effect on the adsorption performance of MKPP. In addition, the zeta potential of MKPP maintained negative at pH 3 -8 (Fig. 3D). For positive Pb 2 + species, electrostatic interaction played an important role during the adsorption process indeed. Considering the effect of pH value and the stability of Pb 2 + , pH 3.0 was set as the optimum pH value for next investigation in this work.
+
+Adsorption kinetics of functionalized adsorbents were carried out at pH 3.0 and 298.15 K with the initial Pb 2 + concentration of 1.0 ppm and the adsorbent content of 0.1 g/L. As shown in Fig. 3E, adsorption uptake of Pb 2 + ( q$_{t}$ , mg/g) onto both MKPP and KPP manifested a function of contact time ( t , min). The adsorption process of Pb 2 + onto MKPP was extremely fast in the first 5 min. And the adsorption reached equilibrium in about 10 min with the adsorption uptake of 5.79 mg/g. The rapid
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+Fig. 3. Effects of (A) adsorbent content and (B) pH value on Pb 2 + adsorption efficiency. (C) Distribution of Pb(II) species in aqueous solution with a total ion concentration range of 0.5 -100 ppm under different pH conditions. (D) Zeta potentials of MKPP at different pH values. (E) Effect of contact time on Pb 2 + adsorption performance of MKPP and KPP. (F) Weber-Morris intra-particle diffusion models of MKPP and KPP ( c$_{0 }$ = 1.0 ppm, pH = 3, V = 10 mL, m$_{adsorbent }$ = 1.0 mg, T = 298.15K). (G) Adsorption isotherm for the adsorption of Pb 2 + by MKPP and KPP (pH = 3, V = 10 mL, m$_{adsorbent }$ = 1.0 mg, T = 298.15K). (H) Effect of temperature on Pb adsorption by MKPP (pH = 3, adsorbent content = 0.075 g/L, c$_{0 }$ = 1 ppm), and (I) Van ' t Hoff plot of ln K$_{c }$ vs 1/T × 10 GLYPH<0> $^{3}$. Effects of competing ions on (J) adsorption efficiency ( AE ), (K) adsorption uptake ( q$_{e}$ ), (L) distribution coefficient ( K$_{d}$ ) and (M) concentration factor ( CF ) of MKPP (pH = 3, adsorbent content = 0.1 g/L, c$_{0 }$ for each metal ion = 2 ppm, T = 298.15K). (N) Recycling of MKPP in Pb 2 + adsorption. (O) FT-IR spectra of MKPP before adsorption (a), and MKPP after adsorption-desorption for five cycles (b).
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+adsorption may be related to well-dispersed MnO$_{2 }$nanoparticles on the surface and negative charges of MKPP. As for KPP, the adsorption equilibrium could be achieved in 40 min with a smaller adsorption capacity (3.08 mg/g) than MKPP, indicating the important role of MnO$_{2 }$in adsorption process.
+
+In addition, the diffusion behavior of Pb 2 + towards MKPP and KPP was investigated by intra-particle diffusion model (Supporting Information). The results were shown in Fig. 3F. The diffusion process roughly can be divided into three stages: external diffusion, intraparticle diffusion and adsorption equilibrium. The rates of adsorption for both MKPP and KPP were rather fast in the first stage (0 -5 min), representing the external diffusion of Pb 2 + onto adsorption sites of adsorbents. The second diffusion stage for MKPP (5 -10 min) was shorter than that for KPP (5 -40 min), which may be ascribed to the faster intraparticle diffusion process where adsorption occurred in well-dispersed MnO$_{2}$. The third diffusion stage for MKPP (10 -60 min) and KPP (40 -60 min) could be viewed as the process of adsorption equilibrium.
+
+The kinetics data of two adsorbents were fitted with pseudo-firstorder and pseudo-second-order models in detail, respectively (Supporting Information). The correlative fitting curves were depicted in Fig. 3E and the related parameters were listed in Table S2. The adsorption of Pb 2 + onto MKPP basically followed both pseudo-firstorder and pseudo-second-order models according to high regression correlation coefficients ( R 2 $_{>}$ 0.99). Notably, the adsorption uptake calculated from pseudo-second-order model was 5.76 mg/g, which was closer to the experimental value (5.79 mg/g) than that of pseudo-firstorder model (5.72 mg/g). The results indicated that pseudo-secondorder model was more suitable for describing the kinetic profiles, implying that chemisorption was the rate-limiting step for the adsorption of Pb 2 + towards MKPP. When it comes to KPP, it was more obvious that pseudo-second-order model could describe the adsorption behavior better due to the higher R $^{2}$. Besides, the second order rate constant ( k$_{2}$ ) of MKPP was much larger than that of KPP, suggesting the faster adsorption kinetics for MKPP. 2
+
+To explore the adsorption capacity and further understand the adsorption behavior of adsorbent for Pb 2 + , adsorption isotherm experiments were carried out with the initial Pb 2 + concentrations ranging from 50 to 600 mg/L at 298.15K. The experimental data were fitted and predicted with Langmuir and Freundlich isotherm models, respectively (Fig. 3G). From the correlative fitting parameters listed in Table S3, the adsorption processes of both MKPP and KPP can be better described by Langmuir model than Freundlich model due to the relatively larger correlation coefficients ( R $^{2}$). Therefore, adsorption of Pb2 + onto MKPP or KPP can be considered as monolayer adsorption ascribed to the homogenous distribution of active adsorption sites on the surface of materials. The maximum adsorption capacity ( q$_{max}$ ) of MKPP can reach 192.7 mg/g calculated according to the Langmuir model.
+
+2
+
+The impact of temperature (25 -55 · C) on Pb 2 + adsorption was investigated to understand the thermodynamic behavior of MKPP. Experiments were conducted with adsorbent dose of 0.075 g/L and initial Pb 2 + concentration of 1.0 ppm. The relationship between adsorption uptake ( q$_{e}$ ) and temperature is depicted in Fig. 3H. It could be observed that q$_{e }$ showed an increasing tendency with the rise of experimental temperature, suggesting that Pb 2 + adsorption by MKPP was an endothermic process. Thermodynamic study further revealed the details of the adsorption behavior with the change of temperature. Van ' t Hoff plot
+
+Table 1 showed a comparison of Pb + adsorption performance of MKPP with some other MnO$_{2}$-based and peel-based adsorbents. Generally, the adsorption capacity of MKPP was not obviously higher than others due to the existence of kiwi peel matrix with relatively poor ability of adsorption. However, it is precisely because of the presence of kiwi peel matrix that MnO$_{2 }$ nanoparticles can be uniformly dispersed without agglomeration, resulting in faster adsorption kinetics than other MnO$_{2}$-based adsorbents (shorter equilibrium time and larger k$_{2}$ ). Considering adsorption capacity and adsorption rate comprehensively, MKPP showed more promising for the effective removal of Pb 2 + . 2
+
+Table 1 Comparison of Pb 2 + adsorption performance of MKPP with some other MnO$_{2}$based and peel-based adsorbents.
+
+| Adsorbent                                                  | Capacity  (mg/g)   | Equilibrium  time (min)   | k$_{2 }$ (g/mg/  min)   | Ref.                       |
+|------------------------------------------------------------|--------------------|---------------------------|-------------------------|----------------------------|
+| 3D hierarchical  flower-like  NiFe$_{2}$O$_{4}$/MnO$_{2 }$ | 85.62              | > 30                      | 0.0088                  | Xiang et al.  (2017)       |
+| MnO$_{2}$/  polydopamine/  polyacrylonitrile               | 185.19             | 2880                      | 6.15  × 10 5            | Li et al.  (2018)          |
+| Epsilon-MnO$_{2 }$ Nanoflowers                             | 239.7              | 60                        | -                       | Lin and  Chen  (2020a)     |
+| MnO$_{2}$/  polydopamine/  Fe$_{3}$O$_{4 }$fibers          | 196.67             | 60                        | 0.00557                 | Shi et al.  (2021b)        |
+| Activated carbon  nanofiber/MnO$_{2 }$                     | 120.3              | -                         | -                       | Abdullah  et al. (2020)    |
+| 3D MnO$_{2 }$modified  biochar-based  porous hydrogels     | 70.90              | > 1200                    | -                       | Wu et al.  (2020)          |
+| Sepiolite-  Fe$_{3}$O$_{4}$ - MnO$_{2 }$                   | 131.58             | 60                        | 0.050                   | Fayazi et al.  (2019)      |
+| Native garlic peel                                         | 51.73              | > 40                      | 0.01593                 | Liu et al.  (2014)         |
+| Mercerized garlic  peel                                    | 109.05             | > 40                      | 0.002619                | Liu et al.  (2014)         |
+| Banana peel powder                                         | 89.286             | 120                       | -                       | Salim et al.               |
+| Pea peel                                                   | 140.845            | -                         | 0.031                   | (2016)  Haq et al.  (2017) |
+| Pitahaya peel                                              | 82.64              | 30                        | 0.21                    | Abatal et al.  (2022)      |
+| Ripened banana peel                                        | 39.32              | -                         | -                       | Afolabi  et al. (2021)     |
+| Breadfruit peel                                            | 85.4               | 100                       | 0.504                   | Priyantha  et al. (2019)   |
+| HClO$_{4 }$pretreated  Trapa bispinosa ' s  peel           | 158.48             | > 30                      | 0.0005                  | Zafar et al.  (2019)       |
+| Modified tangerine  peel                                   | -                  | 20                        | 0.6166                  | Abdic et al.  (2018)       |
+| Orange peel powder  doped iron (III)  oxide-hydroxide      | 2.303              | > 180                     | 0.028                   | Praipipat  et al. (2023)   |
+| Pomelo peel                                                | 2.139              | 210                       | 0.00159                 | Yu and He  (2018)          |
+| MKPP                                                       | 192.7              | 10                        | 6.84                    | This work                  |
+
+of ln K$_{c }$vs 1/T × 10 GLYPH<0> $^{3 }$for Pb2 + adsorption by MKPP is exhibited in Fig. 3I and the calculated thermodynamic parameters are listed in Table S5. The positive enthalpy change ( Δ H ) further confirmed the endothermic adsorption process. And the positive entropy change ( Δ S ) indicated an irregular increase of randomness at adsorbent-solution interface during the adsorption of Pb 2 + . Besides, the negative Gibbs free energy change ( Δ G ) meant the process of Pb 2 + adsorption was spontaneous and thermodynamically favorite.
+
+The interference of competing metal ions on Pb + adsorption was investigated to evaluate the selective behavior of MKPP. According to the related literatures, heavy metal ions (Cd 2 + , Co 2 + , Cr 3 + , Cu 2 + , Ni 2 + and Zn 2 + ) with initial concentration of 2 ppm were chosen as competing ions for this study (Qian et al., 2018; Wu et al., 2023). The adsorption performance of MKPP was estimated by adsorption efficiency ( AE , %), adsorption uptake ( q$_{e}$ , mg/g), distribution coefficient ( K$_{d}$ , mL/g), Pb 2 + separation factor relative to competing metal ions ( α ) and concentration factor ( CF , mL/g) according to equations below:
+
+2
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+As shown in Fig. 3, the values of AE , q$_{e}$ , K$_{d }$ and CF for Pb were significantly higher than other competing ions. Remarkably, the α values for interfering ions were far larger than 1 (319.60 -1475.64), indicating the outstanding adsorption selectivity of MKPP towards Pb 2 + (Table 2). The results may be ascribed to comprehensive influences of hydration energy, charge-to-radius ratio and softness of metal ions. Hydration energy of ion is a common index to estimate the binding ability when it comes to ion exchange: the lower the absolute value of hydration energy, the higher the selectivity (Abou-Mesalam, 2003). The hydration energy of Pb 2 + is GLYPH<0> 1504 kJ/mol (Table 2), which is the lowest one among the metal ions here. Besides, larger charge-to-size ratio is believed to be more favorable for adsorption process associated with electrostatic force (Qian et al., 2017). Though the charge-to-radius ratio of Pb 2 + is the second largest one, which is next to Cr 3 + , the hydration energy of Cr 3 + is much higher than that of Pb 2 + (Table 2). In addition, as for complexation interaction, it can be elaborated based on the hard and soft acids and bases (HSAB) principle (Wan et al., 2018). Pb 2 + possesses the largest ionic radius (1.32 Å), indicating that Pb 2 + is the softest Lewis acid (Table 2). MKPP could provide lone pair electrons due to the existence of MnO$_{2}$, which can be viewed as soft Lewis base (Wan et al., 2018). As a result, Pb 2 + with higher softness is more favorable for Lewis acid-base interaction with MKPP. Thus, Pb 2 + shows stronger comprehensiveness among all the competing ions, leading to stronger affinity to MKPP.
+
+Besides, the reusability of adsorbent is an important index for assessing whether an adsorbent is effective and economical. According to the investigation of adsorption selectivity, it can be inferred that H + shows the highest affinity to MKPP due to its largest charge-to-radius ratio (3.57) and lowest hydration energy ( GLYPH<0> 1058 kJ/mol). Additionally, MKPP shows a relatively poor adsorption performance for Pb 2 + in the condition of pH = 1 (Fig. 3B). Thus, five adsorption/desorption cycles were carried out to estimate the reusability of MKPP with HCl (0.5 M) as the desorbing agent in this work. The adsorption efficiency of MKPP for Pb 2 + had nearly no change ( < 4%) after five cycles (Fig. 3N), revealing that Pb 2 + could be desorbed from the MKPP by 0.5 M HCl effectively. Concentrated H + might exchange with Pb 2 + adsorbed on MKPP to realize the regeneration of the functional adsorbent. In addition, no discernible change can be observed in FT-IR spectra before adsorption and after desorption of Pb 2 + (Fig. 3O), suggesting that the chemical structure of MKPP was stable during the process of regeneration. Therefore, MKPP can be regenerated by 0.5 M HCl effectively and has a satisfactory reusability.
+
+## 3.3. Adsorption mechanism
+
+In order to figure out the adsorption mechanism of MKPP for Pb 2 + , XPS was employed to analyze the interactions between adsorbent and Pb 2 + . Several obvious peaks for lead (Pb 4f, 4d3, 4d5) can be detected in the XPS survey scan of MKPP-Pb (Fig. 4A), indicating that a significant amount of lead was bound to MKPP. Peaks at 138.64 and 143.50 eV in
+
+MKPP-Pb corresponded to Pb 4f$_{7/2 }$and Pb 4f$_{5/2 }$(Fig. 4B and Table S1), indicating the Pb 2 + adsorption occurred on the surface of the MKPP and the formation of Pb -O interaction and inner-sphere complexation (He et al., 2023; Zhang et al., 2020). Besides, both peaks for Pb 4f$_{7/2 }$ and 4f$_{5/2 }$in MKPP-Pb undergoes a remarkable decline compared to pure Pb (NO$_{3}$)$_{2 }$(139.6 and 144.5 eV) (Peng et al., 2014), indicating the strong affinity of MKPP for Pb. Peaks corresponding to O -C -O, C -O/C -O and C -N in XPS narrow scan of C 1s had slight shifts after the adsorption of Pb 2 + (Fig. 4C), indicating that kiwi peel participated in the adsorption process. Remarkably, peaks in O 1s had more obvious shifts after adsorption (Fig. 4D), revealing that there ' re interactions between Pb 2 + and functional groups of kiwi peel, such as -OH, -COOH, C -O, etc. Besides, binding energy of Mn -O in O 1s spectra also decreased after adsorption, ascribing that covalent bond may form between Mn -O and Pb during the adsorption. O atom attracts electrons from Pb due to the higher electronegativity. In other words, Pb shares electrons with O atom, leading to the increase of the electron cloud density of O atom. The results were consistent with the analysis of Pb 4f spectrum. Additionally, it can be inferred that -NH$_{2 }$of kiwi peel played a role in the adsorption of Pb 2 + according to the shifts of binding energy for N -H and N -C (Fig. 4E). As shown in Fig. 4F, peak of Mn 2p$_{3/2 }$shifted to lower binding energy after the adsorption of Pb 2 + , suggesting that MnO$_{2 }$ participated in Pb 2 + adsorption process. Besides, zeta potential of MKPP-Pb 2 + increased to 6.55 mV (Fig. S3), indicating the existence of electrostatic force between MKPP and Pb 2 + . In summary, the possible adsorption mechanism can be inferred as Fig. 4G. Covalent bond was formed between Pb atom and O atom in Mn -O. Besides, negatively charged -COO GLYPH<0> of kiwi peel showed electrostatic force to Pb 2 + . Chelation between Pb 2 + and the residual functional groups on the surface of kiwi peel, such as -COOH, -OH, -NH$_{2}$, etc., contributed to the adsorption as well.
+
+## 3.4. Lead removal from real water samples
+
+Considering the good adsorption performance towards Pb 2 + , MKPP was applied to remove Pb 2 + from real water samples in this study. Reservoir water (Yunzhe Reservoir and Tiechang Reservoir, Cangnan), well water, tap water and deionized water were chosen as the solvents to prepare Pb 2 + solutions (1 ppm). 10 mL of sample solutions and 1.0 mg of MKPP were added into a 15 mL of polyethylene tube. The results were listed in Table 3. No significant difference in adsorption efficiency was observed for different water samples, suggesting that salts and coexisting ions in these water samples have no effect on the adsorption performance of MKPP towards Pb 2 + . Therefore, MKPP is promising to be utilized to remove Pb 2 + from real water samples effectively.
+
+## 3.5. Lead removal from blood and traditional Chinese medicine extract
+
+Although MKPP showed a good performance in Pb 2 + removal from aqueous solution, the effects of adsorbent on blood should also be evaluated before the application on the Pb 2 + removal from blood. The cytotoxicity of MKPP on HUVEC cells was first investigated to estimate the possibility of biological application (Supporting Information). MKPP
+
+Table 2 Selectivity parameters of MKPP to Pb ion in the presence of competing metal ions and ion parameters of metal ions.
+
+| Metal  ions   |   AE  (%) |   q$_{e }$ (mg/  g) |   K$_{d }$ (mL/  g) |       α |   CF  (mL/g) |   Hydration energy (kJ/mol) (  Marcus, 1991) |   Ionic radius (Å) (  Nightingale, 1959) |   Stokes radius (Å) (  Nightingale, 1959) |   Charge-to-  radius ratio |
+|---------------|-----------|---------------------|---------------------|---------|--------------|----------------------------------------------|------------------------------------------|-------------------------------------------|----------------------------|
+| Pb 2 +        |     98.54 |               14.87 |              676.65 |    1    |         9.85 |                                         1504 |                                     1.32 |                                      2.83 |                       0.71 |
+| Cd 2 +        |      5.64 |                0.94 |                0.6  | 1129.95 |         0.56 |                                         1708 |                                     0.97 |                                      3.41 |                       0.59 |
+| Co 2 +        |      9.95 |                1.47 |                1.11 |  612.26 |         0.99 |                                         1992 |                                     0.72 |                                      3.35 |                       0.6  |
+| Cr 3 +        |     17.47 |                2.7  |                2.12 |  319.6  |         1.75 |                                         5007 |                                     0.64 |                                      4.12 |                       0.73 |
+| Cu 2 +        |      8.69 |                1.41 |                0.97 |  698.09 |         0.87 |                                         2030 |                                     0.72 |                                      3.25 |                       0.62 |
+| Ni 2 +        |      4.38 |                0.67 |                0.46 | 1475.64 |         0.44 |                                         2111 |                                     0.7  |                                      2.92 |                       0.68 |
+| Zn 2 +        |      4.52 |                0.83 |                0.47 | 1427.16 |         0.45 |                                         1992 |                                     0.74 |                                      3.49 |                       0.57 |
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+Fig. 4. (A) XPS survey, (B) Pb 4f, (C) C 1s, (D) O 1s, (E) N 1s, and (F) Mn 2p XPS spectra of MKPP-Pb. (G) The possible adsorption mechanism of MKPP adsorbing Pb 2 + .
+
+exhibited good biocompatibility with the cell viability of over 84.5% in the range of concentration 2.5 -200 μ g/mL.
+
+(Fig. S4). Hemolysis is also an important index to assess the biosafety of composites. As shown in Fig. S5, no significant hemolysis in
+
+MKPP suspension with the concentration range of 2.5 -200 μ g/mL. Besides, the hematological parameter of blood after contacting with MKPP for 2 h was also analyzed (Table S6, Supporting Information). There ' s no significant change in the parameters when the concentration of MKPP is
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+Table 3 Comparison of Pb 2 + adsorption performance in different real water samples.
+
+| Water samples  a                               |   Electrical  conductivity ( μ S/  cm) | c$_{added }$ (ppm)   |   AE  (%) |   RSD  (%) |
+|------------------------------------------------|----------------------------------------|----------------------|-----------|------------|
+| Reservoir water (Yunzhe  Reservoir, Cangnan)   |                                  0.575 | 1.0                  |      98.2 |        4   |
+| Reservoir water (Tiechang  Reservoir, Cangnan) |                                  0.407 | 1.0                  |      98.7 |        3.9 |
+| Well water (Cangnan)                           |                                  0.598 | 1.0                  |      97.6 |        2.6 |
+| Tap water                                      |                                319     |                      |      98.9 |        6.3 |
+| Deionized water                                |                                  0.012 | 1.0                  |      97.5 |        5.9 |
+
+10 and 20 μ g/mL. In the concentration range of 40 -80 μ g/mL, the number of white blood cells and lymphocytes increased slightly, which was in the normal range. When the concentration is over 80 μ g/mL, the number of white blood cells and lymphocytes showed a certain degree of increase, indicating that MKPP may lead to inflammatory response at high concentration. Importantly, nearly no Mn element can be detected and no obvious change in morphology and structure of MKPP can be observed after soaking in PBS for 24 h (Table S7 and Fig. S6, Supporting Information), indicating the good stability of composites under physiological conditions.
+
+In light of low toxicity and satisfactory adsorption performance, MKPP was applied to remove Pb 2 + from TCM extracts in this study as well. According to Chinese Pharmacopoeia (2020), the upper limit content of lead in TCM is 5 mg/kg. Thus, lead concentration in the extract of TCM with solid-liquid ratio of 1:5 cannot be over 1 ppm. In this study, extract of salvia miltiorrhiza was selected as the solvents to prepare Pb 2 + solution (1 ppm). Ascribing to the complicated environment in TCM extract and the strong interaction between Pb 2 + and certain active compound of TCM, MKPP can remove 24 and 57.1% of lead within 1 h from extract of salvia miltiorrhiza with adsorbent dose of 100 and 250 μ g/mL, respectively (Table 4). Though the adsorption efficiency was low, MKPP can still make the Pb level of TCM extract meet the safety standard. Besides, nearly no discrepancy can be observed in high performance liquid chromatography (HPLC) spectra for the extract before and after adsorption (Fig. S7, Supporting Information), indicating that MKPP had no effect on the components of TCM extract in this study. Therefore, MKPP can be utilized to decrease the Pb level of TCM extract.
+
+In consideration of good biocompatibility and adsorption performance, MKPP was a promising candidate for the application of lead removal from blood. The results were listed in Table 4. With the same adsorbent content and initial lead concentration, MKPP can remove 97.5 and 68.6% of lead within 1 h from water and blood, respectively. The lower adsorption efficiency in blood may be attributed to the influence of blood cells, proteins and viscosity of blood. The statistical range of lead concentration in blood is 0 -99 ppb for a healthy person (Burns and Gerstenberger, 2014). Additionally, when the concentration of lead is over 450 ppb, it can be identified as severe lead poisoning. Thus, in this study, 500 ppb was selected as initial lead concentration as well. And for safety, the adsorbent doses were set as 40 and 80 μ g/mL for lead removal, respectively. 24.5 and 79.2% of lead could be removed from blood. Due to the relatively large size, MKPP cannot enter into blood cells. Besides, lower initial concentration of lead may cause that fewer lead ions were free in plasma. Additionally, lower adsorbent dose may also have the influence on the adsorption performance. Thus, MKPP showed a low adsorption efficiency when lead initial concentration in blood was 500 ppb with adsorbent dose of 40 μ g/mL. With the increasing of adsorbent dose, the removal ratio of lead in blood can still be the satisfactory one. Considering the biocompatibility and adsorption performance, it can be expected that MKPP alleviates lead poisoning to a certain extent.
+
+Table 4 Adsorption efficiency ( AE ) for water, blood and TCM extract systems.
+
+| System   | c$_{added }$ (ppb)   |   c$_{e }$ (ppb) | Adsorbent dose ( μ g/mL)   |   AE  (%) |
+|----------|----------------------|------------------|----------------------------|-----------|
+| Water    | 1000                 |               25 | 100                        |      97.5 |
+| Blood    |                      |              314 |                            |      68.6 |
+|          | 500                  |              104 | 80                         |      79.2 |
+| Blood    |                      |              377 | 40                         |      24.5 |
+| TCM      | 1000                 |              429 | 250                        |      57.1 |
+|          |                      |              760 | 100                        |      24   |
+
+## 4. Conclusion
+
+In summary, a novel functional kiwi peel composite, manganese dioxide decorated kiwi peel powder (MKPP), was successfully prepared for the effective and selective adsorption of Pb 2 + . This work indicated that MKPP is a promising adsorbent for the removal of Pb 2 + from aqueous solutions and has the potential for alleviating lead level in blood or TCM extracts. This work also provides a new approach to recycle the agricultural waste, which can alleviate environmental pollution problem. The important findings are as follows:
+
+(1) The adsorption can reach equilibrium in about 10 min, which is relatively faster than other MnO$_{2}$-based or fruit peel-based adsorbents. And the adsorption process of Pb 2 + onto MKPP can be described by a pseudo-second-order model. 2
+
+(3) Pb adsorption by MKPP was an endothermic process in the temperature range of 25 -55 · C.
+
+(2) Adsorption capacity of MKPP for Pb 2 + calculated from Langmuir model was 192.7 mg/g, which is comparable with the reported adsorbents.
+
+(4) Due to the comprehensive influences of hydration energy, charge-to-radius ratio and softness of Pb 2 + , MKPP showed a higher selectivity for Pb 2 + .
+
+(6) MKPP showed a good adsorption performance in real water samples. And 79.2% of lead can be removed from blood with an initial concentration of 500 ppb and adsorbent dose of 80 μ g/mL within 1 h. MKPP can also make the Pb level of TCM extract meet the safety standard after treatment.
+
+(5) The possible adsorption mechanism includes: conversion of Pb 2 + to orthorhombic PbO, formation of covalent bond between Pb atom and O atom, electrostatic force between -COO GLYPH<0> and Pb 2 + , and chelation between the residual functional groups on the surface of kiwi peel and Pb 2 + .
+
+## CRediT authorship contribution statement
+
+Hangxin Gong: Investigation, Writing -original draft. Yiyao Cao: Data curation, Writing -original draft. Weihuan Zeng: Investigation, Writing -original draft. Chen Sun: Data curation, Investigation. Yue Wang: Investigation, Writing -review & editing. Jiajia Su: Investigation. Hong Ren: Writing -& Peng Wang: Data curation. Lei Zhou: Funding acquisition, Investigation, Writing -review & editing. Guoyin Kai: Supervision, Writing -review & editing. Jun Qian: Funding acquisition, Supervision, Writing -&
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Data availability
+
+Data will be made available on request.
+
+Environmental Research 249 (2024) 118360 Gong et al.
+
+## Acknowledgements
+
+This work was funded by National Natural Science Foundation of China (22208313), National " Ten-thousand Talents Program " for Leading Talents of Science and Technology Innovation in China, National Young Qihuang Scholars Training Program, Science Research Fund of Administration of Traditional Chinese Medicine of Zhejiang Province (2021ZQ026), Innovative Leading Talents Program for Zhejiang Provincial Universities, Zhejiang Health Science and Technology Plan (2023KY643), Project of South Zhejiang Institute of Radiation Medicine and Nuclear Technology (ZFY-2022-K-006). We appreciate the experimental support from the Public Platform of Medical Research Center and Public Platform of Pharmaceutical Research Center, Academy of Chinese Medical Science, Zhejiang Chinese Medical University. We are very grateful to Qiannan Ma from Shiyanjia Lab (www.shiyanjia. com) for the XPS analysis.
+
+## Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.envres.2024.118360.
+

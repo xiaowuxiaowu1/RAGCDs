@@ -1,0 +1,389 @@
+Check for updates
+
+## Accepted Article
+
+Title: Silica Confinement for Stable and Magnetic Co-Cu Alloy Nanoparticles in Nitrogen-Doped Carbon for Enhanced Hydrogen Evolution
+
+Authors:
+
+Chao Wan, Rong Li, Jiapei Wang, Dang-guo Cheng, Fengqiu Chen, Lixin Xu, Mingbin Gao, Yunqing Kang, Miharu Eguchi, and Yusuke Yamauchi
+
+This manuscript has been accepted after peer review and appears as an Accepted Article online prior to editing, proofing, and formal publication of the final Version of Record (VoR). The VoR will be published online in Early View as soon as possible and may be different to this Accepted Article as a result of editing. Readers should obtain the VoR from the journal website shown below when it is published to ensure accuracy of information. The authors are responsible for the content of this Accepted Article.
+
+## RESEARCH ARTICLE
+
+WILEY VCH
+
+## Silica Confinement for Stable and Magnetic Co-Cu Alloy Nanoparticles in Nitrogen-Doped Carbon for Enhanced Hydrogen Evolution
+
+Chao Wan,$^{[a,b,c]}$ Rong Li,$^{[a]}$ Jiapei Wang,$^{[a]}$ Dang-guo Cheng,*$^{[b]}$ Fengqiu Chen,$^{[b]}$ Lixin Xu,$^{[a]}$ Mingbin Gao,*$^{[d]}$ Yunqing Kang,*$^{[c,e]}$ Miharu Eguchi,$^{[f,g]}$ and Yusuke Yamauchi*$^{[g,h,i]}$
+
+[a]
+
+Dr. C. Wan, R. Li, J. Wang, Prof. L. Xu
+
+[b]
+
+Dr. C. Wan, Prof. D. Cheng, Prof. F. Chen
+
+[c]
+
+Dr. C. Wan, Dr. Y. Kang*
+
+[d]
+
+Dr. M. Gao*
+
+[e]
+
+Dr. Y. Kang
+
+[f]
+
+Dr. M. Eguchi
+
+[g]
+
+Dr. M. Eguchi, Prof. Y. Yamauchi*
+
+[h]
+
+Prof. Y. Yamauchi*
+
+[i]
+
+Prof. Y. Yamauchi*
+
+Department of Chemical and Biomolecular Engineering
+
+Yonsei University
+
+Seoul 03722, South Korea
+
+Supporting information for this article is given via a link at the end of the document.
+
+Abstract: Ammonia borane (AB) with 19.6 wt . % H$_{2}$ content is widely considered a safe and efficient medium for H$_{2}$ storage and release. Co-based nanocatalysts present strong contenders for replacing precious metal-based catalysts in AB hydrolysis due to their high activity and cost-effectiveness. However, precisely adjusting the active centers and surface properties of Co-based nanomaterials to enhance their activity, as well as suppressing the migration and loss of metal atoms to improve their stability, presents many challenges. In this study, mesoporous-silica-confined bimetallic Co-Cu
+
+nanoparticles embedded in nitrogen-doped carbon (Co$_{x}$Cu$_{1-}$ $_{x}$@NC@mSiO$_{2}$) were synthesized using a facile mSiO$_{2}$-confined thermal pyrolysis strategy. The obtained product, an optimized Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2 }$ catalyst, exhibits enhanced performance with a turnover frequency of 240.9 mol$_{H2}$·mol$_{metal}$·min -1 for AB hydrolysis at 298 K, surpassing most noble-metal-free catalysts. Moreover, Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ demonstrates magnetic recyclability and extraordinary stability, with a negligible decline of only 0.8% over 30 cycles of use. This enhanced performance was
+
+Department of Materials Process Engineering, Graduate School of Engineering
+
+Nagoya University
+
+Nagoya 464-8603, Japan
+
+Australian Institute for Bioengineering and Nanotechnology (AIBN)
+
+The University of Queensland
+
+Brisbane, Queensland, 4072 Australia
+
+E-mail: y.yamauchi@uq.edu.au
+
+Faculty of Science and Engineering
+
+Waseda University
+
+3-4-1 Okubo, Shinjuku, Tokyo, 169-8555 Japan
+
+Nanozyme Laboratory in Zhongyuan
+
+Henan Academy of Innovations in Medical Science
+
+Zhengzhou, Henan, China
+
+National Engineering Research Center of Lower-Carbon Catalysis Technology, Dalian National Laboratory for Clean Energy
+
+Dalian Institute of Chemical Physics, Chinese Academy of Sciences
+
+Dalian, 116023, China
+
+E-mail: mbgao@dicp.ac.cn
+
+Research Center for Materials Nanoarchitectonics (MANA)
+
+National Institute for Materials Science (NIMS)
+
+1-1 Namiki, Tsukuba, Ibaraki 305-0044, Japan
+
+E-mail: yqkang@toki.waseda.jp
+
+College of Chemical and Biological Engineering
+
+Zhejiang University
+
+866 Yuhangtang Road, Hangzhou 310058, China
+
+E-mail: dgcheng@zju.edu.cn
+
+School of Chemistry and Chemical Engineering
+
+Anhui University of Technology
+
+Ma'anshan 243002, China
+
+1
+
+attributed to the synergistic effect between Co and Cu, as well as silica confinement. This work proposes a promising method for constructing noble-metal-free catalysts for AB hydrolysis.
+
+## Introduction
+
+Hydrogen, with its significantly higher energy density (120 MJ·kg$^{-1}$) compared to gasoline (44 MJ·kg$^{-1}$), and its production of only water as a by-product when used, is considered the most promising and environmentally friendly alternative to traditional fossil fuels. [1-5] Despite its potential to address the growing energy crisis and environmental pollution concerns, as has been suggested by decades of extensive research, realizing a hydrogen economy based on fuel cells remains a major challenge, owing to concerns pertaining to the safe and efficient storage of hydrogen. [6-8] Ammonia borane (AB) has garnered considerable attention as a promising candidate for chemical storage of hydrogen owing to its remarkable hydrogen storage capacity of up to 19.6 wt.%.$^{[9-12]}$ Despite its promising attributes, the hydrogen evolution kinetics from AB hydrolysis are significantly hindered at room temperature, necessitating the use of suitable catalysts to facilitate this process.$^{ [13-16]}$ Therefore, the pursuit of cost-effective and earth-abundant catalysts with exceptional activity and remarkable stability is of paramount importance for the large-scale realization of a fuel-cell-based hydrogen economy.
+
+Metal-organic frameworks (MOFs), a crucial type of crystalline porous material constructed by coordinating organic molecules and metal ions, have emerged as promising templates/precursors for creating various porous functional materials, including metals, metal carbides/oxides/phosphides, metals/metal oxide nanoparticles (NPs), and carbon-supported metal nanoparticles catalysts. [17-22] Among these, Co-based catalysts derived from a Co-based zeolitic imidazolate framework (ZIF-67) through pyrolysis have recently shown promise for catalyzing hydrogen evolution from AB hydrolysis because of their controllable micro/nanomorphologies and porous architectures. [23-25] However, the performance of Cobased catalysts obtained via pyrolysis can be compromised by irreversible NPs fusion, aggregation, and structural collapse. [26] Therefore, the construction of high-activity and excellent stability of Co-based catalysts derived from ZIF-67 through a simple and efficient strategy remains highly desirable, yet challenging.
+
+In recent years, one of the most effective methods for enhancing the catalytic performance of Co-based catalysts has been the fabrication of bimetallic Co-based alloy catalysts by introducing other cost-effective and earth-abundant transition metals, such as Cu, Ni, and Fe $^{[27-31]}$. Among these, Co-Cu alloy catalysts have been considered ideal candidates for accelerating hydrogen evolution from AB hydrolysis, owing to the synergistic effects of their Co-Cu bimetallic components. [30-32] Previous studies have revealed that Co-Cu alloy catalysts can be synthesized either by following a step-by-step reduction strategy, or via MOFs pyrolysis  $^{[13,17,33]}$. Co-Cu alloy NPs derived from MOFs via pyrolysis have gained tremendous attention owing to their tunable porosity, chemically adjustable composition, high surface area, and organized structure  $^{[17]}$. However, during AB
+
+hydrolysis, the liquid nature of the reaction inevitably leads to the loss of the alloyed NPs, eventually impeding their initial high activity. [17] Thus, preventing the loss of metal NPs during the reaction is of utmost importance to maintain high catalysis kinetics. In addition, considering that AB hydrolysis involves water molecules, the hydrophilicity for the catalyst plays an important role. Specifically, the hydrophilicity of the catalyst's surface tends to decrease during MOFs pyrolysis, which is unfavorable for reactions involving water $^{[17, 34]}$. The fabrication of silica-confined CoCu-ZIF-derived into Co-Cu alloy catalysts addresses these challenges by not only preventing the loss of the active component, but also by improving the wettability of the catalyst, ultimately facilitating AB hydrolysis.$^{[34-38] }$
+
+Herein, we report a facile and scalable process for constructing Co$_{x}$Cu$_{1-x}$@nitrogen-doped carbon covered by mesoporous silica layers (Co$_{x}$Cu$_{1-x}$@NC@mSiO$_{2}$, where x represents the molar ratio of Co in the bimetallic Co-Cu) through the pyrolysis of silica-confined CoCu-ZIF. Our processing protocol involving Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ delivers outstanding hydrogen production performance, achieving a turnover frequency (TOF) value of up to 240.9 mol$_{H2}$ mol$_{metal}$$^{-1}$min$^{-1}$ at 298 K. During the stability test, the mSiO$_{2}$ shell prevented the loss of the nanoalloy, demonstrating impressive durability with a negligible decline of less than 0.8% for 30 cycles. The high activity and exceptional stability demonstrated by our catalyst notably surpass those of other noble-metal-free catalysts reported to date. These results reported here may open new avenues for designing stable catalysts using earth-abundant raw materials for hydrogen evolution reactions.
+
+## Results and Discussion
+
+The specific synthetic procedure for the Co$_{0.8}$Cu$_{0.2}$@NC catalyst is illustrated in Figure 1a . First, Co$_{0.8}$Cu$_{0.2}$ bimetallic zeolitic imidazolate frameworks (Co$_{0.8}$Cu$_{0.2}$-ZIF), serving as a representative sample, were synthesized using Co(NO$_{3}$)$_{2}$ · 6H$_{2}$O, Cu(NO$_{3}$)$_{2}$ · 3H$_{2}$O, hexadecyl trimethyl ammonium bromide (CTAB), and 2-methylimidazole (2-MeIM) in a facile one-pot solvothermal process, following a previously reported procedure. [39] Co$_{0.8}$Cu$_{0.2}$@NC was obtained by calcining Co$_{0.8}$Cu$_{0.2}$-ZIF at 600 °C under a N$_{2}$ atmosphere. Transmission electron microscopy (TEM) images of Co$_{0.8}$Cu$_{0.2}$@NC ( Figure 1b ) revealed uniformly anchored Co$_{0.8}$Cu$_{0.2}$ NPs on the nitrogendoped carbon (NC); similar results were observed for Co@NC ( Figure S1 ). However, Co@NC exhibited significant structural collapse and shrinkage, as shown in Figures S1 and S2 . Conversely, when Cu was incorporated into the framework, the nanocube morphology was maintained, confirming this approach as beneficial for morphology preservation during carbonization. This is consistent with previous reports wherein the introduction of a second metal effectively prevented collapse during carbonization. [39] High-resolution TEM (HRTEM) imaging showed lattice fringes with interplanar distances of ~0.207 nm ( Figures 1c , d ), located between those of the (111) planes of face-centered cubic ( fcc ) Co (0.205 nm) and Cu (0.209 nm),
+
+Figure 1. (a) Schematic illustration of the fabrication process for the Co 0.8 Cu 0.2 -ZIF-derived Co 0.8 Cu 0.2 @NC catalyst, RT: room temperature. (b-f) Morphological characterization of Co 0.8 Cu 0.2 @NC: (b) Transmission electron microscopy (TEM) image (scale bar, 100 nm). (c) High-resolution TEM (HRTEM) image (scale bar, 10 nm) and an enlarged HRTEM image with the corresponding Fourier transform pattern. (d) Line scan profile of the region marked in (c). (e) Particle size distribution of Co 0.8 Cu 0.2 . (f) High-angle annular dark-field scanning TEM image with the corresponding energy-dispersive X-ray spectroscopy maps (scale bars, 100 nm).
+
+confirming the formation of Co-Cu alloys. [39-43] In addition, the mean particle size of ~14.6 nm for Co$_{0.8}$Cu$_{0.2}$@NC ( Figure 1e ) was smaller than that of Co@NC (~18.5 nm) ( Figures S1b ), further verifying that the introduction of Cu reduced the Co particle size. High-angle annular dark-field scanning TEM (HAADF-STEM) images ( Figure 1f ) of Co$_{0.8}$Cu$_{0.2}$@NC, along with energy-dispersive X-ray spectroscopy (EDX) elemental mapping ( Figure S3 ), verified the homogeneous distribution of Co, Cu, N, and C elements in Co$_{0.8}$Cu$_{0.2}$@NC. Furthermore, inductively coupled plasma atomic emission spectrometry (ICPAES) ( Table S1 ) clearly revealed that the Co/Cu molar ratio in Co$_{0.8}$Cu$_{0.2}$@NC approximated 3.97:1.00, consistent with the designed value.
+
+Hydrogen evolution through AB hydrolysis using the synthesized catalysts was evaluated in an AB aqueous solution
+
+at 298 K. Figure 2a illustrates the time-dependent H$_{2}$ generation process through AB hydrolysis catalyzed by the Co-Cu@NC catalysts with varying Co/Cu molar ratios (10:0, 9:1, 8:2, and 7:3, under a constant total molar amount); the corresponding turnover frequency (TOF) values are presented in Figure 2b . At 298 K, H$_{2}$ evolution from AB hydrolysis was completed after 9.5 min using Co@NC, yielding a TOF of 28.3 mol$_{H2}$·mol$_{metal}$$^{-1}$·min$^{-1}$. The introduction of Cu into Co@CN significantly enhanced the activity of the resulting catalyst. However, with a further increase in the Cu content in the Co-Cu@NC catalysts, a noticeable decline in catalytic activity was observed. Among the investigated catalysts, Co$_{0.8}$Cu$_{0.2}$@NC demonstrated the highest activity for hydrogen release by manifesting the synergistic effect of the Co-Cu alloy NPs, accomplishing AB dehydrogenation in 2.4 min at 298 K with a TOF value of 97.5 mol$_{H2}$·mol$_{metal}$$^{-1}$·min$^{-1 }$
+
+Figure 2. (a) Reaction-time-dependent hydrogen evolution curve via AB hydrolysis catalyzed by the as-prepared Co@NC, Co 0.9 Cu 0.1 @NC, Co 0.8 Cu 0.2 @NC, and Co 0.7 Cu 0.3 @NC catalysts at 298 K. (b) Corresponding turnover frequency (TOF) for the different catalysts in (b). (c) XRD patterns of Co@NC and Co 0.8 Cu 0.2 @NC, with inset showing enlarge view of partial XRD patterns. (d) N 2 adsorption-desorption isotherms of Co@NC and Co 0.8 Cu 0.2 @NC; the inset shows the BJH pore size distributions of the samples. (e) High-resolution Co 2 p XPS spectra of Co@NC and Co 0.8 Cu 0.2 @NC. (f) High-resolution Cu 2 p XPS spectra of Cu@NC and Co 0.8 Cu 0.2 @NC.
+
+(3.4 times higher than that of Co@NC). Furthermore, the time dependence of hydrogen generation was measured at various temperatures, as shown in Figures S4a , b . The activation energies (E$_{a}$) for Co@NC, and Co$_{0.8}$Cu$_{0.2}$@NC were calculated to be 62.0, and 50.8 kJ·mol$^{-1}$, respectively ( Figures S4c , d ). These results further confirm that Co-Cu NPs can significantly
+
+lower the energy barrier for AB hydrolysis, thereby facilitating hydrogen evolution from AB hydrolysis.
+
+The X-ray diffraction (XRD) patterns were performed to investigate the crystal structures of the samples. The XRD patterns of Co$_{0.8}$Cu$_{0.2}$-ZIF demonstrated characteristic peaks similar to that of ZIF-67 ( Figure S5 ), suggesting minimal
+
+changes in the crystal structure of ZIF-67 after Cu addition. The XRD pattern of Co$_{0.8}$Cu$_{0.2}$@NC ( Figure 2c ) exhibited an obvious characteristic peak centered at 2 θ = 43.8°, attributed to the prominent (111) peak of the face-centered cubic ( fcc ) crystallized Co$_{0.8}$Cu$_{0.2}$ NPs. The position of this peak was slightly shifted to a lower angle than that of fcc Co (44.2°, d$_{111}$ = 0.205 nm) (PDF#15-0806), which was attributed to the incorporation of Cu atoms into the Co lattice, in accordance with the disordered alloy model. $^{[39-43]}$ Furthermore, N$_{2}$ adsorption-desorption measurements were conducted to explore the porous structures ( Figure 2d ). The pore size distribution curve ( Figure 2d ) clearly showed a mesoporous structure with the pore size of 3-4 nm for both Co$_{0.8}$Cu$_{0.2}$@NC and Co@NC. The estimated surface area of Co$_{0.8}$Cu$_{0.2}$@NC (244.7 m$^{2}$·g$^{-1}$) surpassed that of Co@NC (197.9 m$^{2}$·g$^{-1}$), which was theoretically ascribed to the effective prevention of morphology collapse after the introduction of Cu. Raman spectra was used to assess the degree of graphitization of the samples, as illustrated in Figure S6 . In all samples, two distinct bands were observed at 1594 cm -1 and 1328 cm$^{-1}$, corresponding to the hexagonally bonded carbon atoms inside the graphitic networks (G) and the distorted carbon structures at the defect sites (D), respectively. [39,41] The chemical states of
+
+the sample surfaces were studied by X-ray photoelectron spectroscopy (XPS). The XPS survey spectrum of Co$_{0.8}$Cu$_{0.2}$@NC ( Figure S7 ) showed peaks corresponding to Co, Cu, N, and C. The Co 2 p binding energies for Co$_{0.8}$Cu$_{0.2}$@NC exhibited a positive shift in comparison with those of Co@NC ( Figure 2e ). Conversely, the binding energies of the Cu 2 p peaks for Co$_{0.8}$Cu$_{0.2}$@NC shifted to lower values than those of Cu@NC ( Figure 2f ), indicating electron transfer from Co to Cu in the alloy structure of the Co$_{0.8}$Cu$_{0.2}$@NC catalyst, thus further confirming the formation of Co-Cu alloy NPs. $^{[39-43]}$
+
+To elucidate the synergistic effect of the Co-Cu alloy NPs on enhancing the hydrogen generation activity, comprehensive density functional theory (DFT) calculations were employed to determine the kinetic energy barriers in the water dissociation step (the cleavage of H$_{2}$O was the rate-determining step in this work  $^{[13,17]}$) using Co$_{0.8}$Cu$_{0.2}$ and Co as the model. The [1 1 1] surface of the Co$_{0.8}$Cu$_{0.2}$ catalyst exhibited a relative lower energy barrier for water dissociation (0.75 eV) than the corresponding surface of the Co catalyst (1.27 eV), indicating the higher affinity of the former for facilitating the water dissociation step ( Figure 3a ). The interaction mechanism
+
+Figure 3. Density functional theory (DFT) calculations. (a) Energy profiles of H 2 O dissociation on Co and Co 0.8 Cu 0.2 surfaces. Projected density of states (PDOS) of (b) Co [1 1 1] and (c) Co 0.8 Cu 0.2 [1 1 1] planes. (d) Calculated projected d -orbitals of Co at the first layer of Co and Co 0.8 Cu 0.2 .
+
+## RESEARCH ARTICLE
+
+between the water and Co sites of the Co or Co$_{0.8}$Cu$_{0.2}$ catalysts can be revealed through the projected density of states (PDOS) analysis using DFT calculations ( Figures 3b, c ). This analysis revealed an extended electron overlap (-2.6 to -0.8 eV) between the p -orbitals of water and d -orbitals of Co at the first layer of Co$_{0.8}$Cu$_{0.2}$, compared to the water molecules adsorbed at the first layer of Co layer, demonstrating a higher interaction strength for the first case. These interactions can be directly interpreted according to the difference in charge density, as shown in Figure S8 . Therefore, as illustrated in Figure 3a , the adsorption energy of water at the Co site of the first layer of Co$_{0.8}$Cu$_{0.2}$ (-0.25 eV) was below that at the Co site of the first layer of Co (-0.07 eV), implying that the [1 1 1] surface of Co$_{0.8}$Cu$_{0.2}$ was more favorable for capturing water molecules. In addition, the d -orbital peak of Co at the first layer of Co$_{0.8}$Cu$_{0.2}$ was significantly higher than that of Co at the first layer of Co, indicating that the electronic state in the d -orbitals of Co at the first layer of Co$_{0.8}$Cu$_{0.2}$ was more localized and closer to the Fermi level. In Figure 3d , the d -band center of Co at the first layer of Co$_{0.8}$Cu$_{0.2}$ (-1.07 eV) approached zero at a higher degree than that of Co at the first layer of Co (-1.16 eV), also indicating stronger water adsorption on the Co$_{0.8}$Cu$_{0.2 }$surface.
+
+Stability is a crucial parameters that determines the practical application of a catalyst in AB hydrolysis. Here, AB hydrolysis was consistently achieved using Co$_{0.8}$Cu$_{0.2}$@NC over 30 cycles at 298 K ( Figure S9 ). The reaction completion time for Co$_{0.8}$Cu$_{0.2}$@NC extended after 30 cycles, and the TOF decreased from 97.5 to 83.3 mol$_{H2}$·mol$_{Co}$$^{-1}$·min$^{-1}$, resulting in a catalytic activity that was 85.4% of the initial intrinsic activity. Moreover, a noticeable reduction in the Co and Cu contents, as indicated by the ICP-AES data displayed in Table S1, was observed in the reused Co$_{0.8}$Cu$_{0.2}$@NC catalyst. Therefore, exploring new strategies to improve the catalyst stability is of extremely importance for the application of AB hydrolysis technology.
+
+Based on the above analysis, a promising approach is encapsulating the catalysts in mSiO$_{2}$ to enhance their stability. A schematic of the fabrication strategy of CoCu@NC@mSiO$_{2}$ is shown in Figure 4a . A coating mSiO$_{2}$ shell was constructed through the classic Stӧber method using CTAB as a template, resulting in Co$_{0.8}$Cu$_{0.2}$-ZIF@mesoporous SiO$_{2}$ (designated as Co$_{0.8}$Cu$_{0.2}$-ZIF@mSiO$_{2}$). Subsequently, Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ was converted from Co$_{0.8}$Cu$_{0.2}$-ZIF@mSiO$_{2}$ by thermal treatment (typically 600 °C) under a N$_{2}$ atmosphere ( Figure 4a ). The color changes of the samples are shown in Figure S10 . As shown in Figure S11 , Co$_{0.8}$Cu$_{0.2}$-ZIF was successfully coated with uniform ~9.3 nm-thick mSiO$_{2}$ shells. The SEM images in Figure S12 reveal that Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ maintained a cubic structure similar to that of the Co$_{0.8}$Cu$_{0.2}$-ZIF@ mSiO$_{2}$. The HAADF-STEM images ( Figure 4b ) of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$, along with the EDX element mappings ( Figure S13 ), confirmed the formation of the SiO$_{2}$ confinement layer. [34] The average Co$_{0.8}$Cu$_{0.2 }$ NPs size in Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ was ~9.7 nm ( Figures 4c , d ), lower than that of both Co$_{0.8}$Cu$_{0.2}$@NC ( Figure 1e ) and Co@NC ( Figure S1b ), demonstrating that silica-confinement effectively reduced the particle size. As shown in Figure 4e , the XRD pattern of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2 }$ exhibited one broad peak
+
+centered at 2θ = 26.2°, corresponding to silica (PDF#47-1144), along with another peak ascribed to the CoCu alloy, consistent with that of Co$_{0.8}$Cu$_{0.2}$@NC. Evidently, the silica confinement shell plays a crucial role in modulating the structure of the MOFs. [17,34,44] Thermogravimetric analysis (TGA) was conducted under a nitrogen atmosphere over the temperature range 50-800 °C to assess the stability of Co$_{0.8}$Cu$_{0.2}$-ZIF and Co$_{0.8}$Cu$_{0.2}$-ZIF@mSiO$_{2}$. According to the TG results, the exothermic peak shifted from 548.0 °C for Co$_{0.8}$Cu$_{0.2}$-ZIF to 516.7 °C for Co$_{0.8}$Cu$_{0.2}$ZIF@mSiO$_{2 }$( Figure S14 ). For Co$_{0.8}$Cu$_{0.2}$-ZIF with the external mSiO$_{2}$ coated layer, mSiO$_{2}$ could induce an outward adsorption force, leading to the anisotropic thermal shrinkage of MOF precursors. This result was corroborated by TGA.$^{[34] }$Previous literature indicates that the pore size of the CTAB template with the same alkali chain used in this study is approximately 3-4 nm, which aligns with our data. [44] However, this size overlaps with the pore sizes for Co$_{0.8}$Cu$_{0.2}$@NC and Co@NC ( Figure 2b ). To examine the effect of mesoporous pores, we synthesized Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-N, where N represents the same synthesis process as Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ but without CTAB during the synthesis of mSiO$_{2}$. Consequently, after introducing mSiO$_{2}$, the estimated surface area of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2 }$ (404.6 m$^{2}$·g$^{-1}$, Figure S15a ) surpassed that of both Co$_{0.8}$Cu$_{0.2}$@NC (244.7 m$^{2}$·g$^{-1}$) and Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-N (299.8 m$^{2}$·g$^{-1}$). The surface area for Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ increases by 104.8 m$^{2}$·g$^{-1}$ compared to that of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-N ( Figure S15a ), indicating evidence of mesoporous formation. Figure S15b illustrates that the catalytic performance of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-N, with a TOF of 196.9 mol$_{H2}$·mol$_{metal}$$^{-1}$·min$^{-1}$, is lower than that of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2 }$(240.9 mol$_{H2}$·mol$_{metal}$$^{-1}$·min$^{-1}$). Thus, the excellent performance of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ may be attributed to a highly accessible surface area through the porous confinement layers, facilitating the transfer and diffusion of reactants and products. [44,45] The XPS survey spectrum of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ ( Figure S16 ) showed peaks corresponding to Co, Cu, C, N, Si, and O. The Si 2 p$_{3/2}$ peak at 103.6 eV is characteristic of Si(IV) ( Figure 4f ), confirming the presence of SiO$_{2}$ in the sample. The binding energies of Co 2 p and Cu 2 p for Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ displayed a positive shift compared to those of Co$_{0.8}$Cu$_{0.2}$@NC ( Figure S17 ), implying the presence of strong electron interactions and transfer between the SiO$_{2}$ and CoCu alloy.$^{ [46,47]}$
+
+To comprehensively investigate the mSiO$_{2}$ confinement effect, H$_{2}$ generation through AB hydrolysis using the Co$_{0.8}$Cu$_{0.2}$@NC, Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$, and
+
+Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-y (where y represents the amount of Tetraethyl orthosilicate (TEOS), y = 0.2 and 0.6) catalysts was conducted at 298 K ( Figures 5a , and S18 ). In Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$, continuous violent H$_{2}$ bubbling occurred ( Supporting Video S1 ). Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ achieved complete H$_{2}$ evolution through AB hydrolysis in only 1.2 min ( Figure 5a ). The thickness of the mSiO$_{2}$ shell (e.g. 5.7 nm, 9.3 nm, and 13.1 nm) can be controlled by increasing the amount of TEOS, as illustrated in Figures S11 and S19 . After thermal treatment, the thicknesses of the mSiO$_{2}$ shells of
+
+Figure 4. (a) Schematic illustration of the fabrication process for SiO 2 -confinement Co 0.8 Cu 0.2 -ZIF-derived Co 0.8 Cu 0.2 @NC@mSiO 2 catalyst. (b) High-angle annular dark-field scanning TEM image with corresponding energy-dispersive X-ray spectroscopy maps (scale bars: 100 nm). (c) Transmission electron microscopy (TEM) image (scale bar: 50 nm). (d) Particle size distribution of Co 0.8 Cu 0.2 NPs in Co 0.8 Cu 0.2 @NC@mSiO 2 catalyst. (e) XRD patterns of Co 0.8 Cu 0.2 @NC@mSiO 2 , with inset showing enlarge view of partial XRD patterns. (f) High-resolution Si 2 p XPS spectra of Co 0.8 Cu 0.2 @NC@mSiO 2 .
+
+Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-0.2, Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$, and Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-0.6 were 5.9, 9.1, and 13.3 nm, respectively ( Figures S20 and S21 ). These values were consistent with the thickness of the mSiO$_{2}$ shell in the precursor without thermal treatment. For Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-0.2, Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$, and Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$-0.6, the TOF showed a volcanic trend with respect to the shell thickness ( Figure S18 ). Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ demonstrated optimal catalytic performance for AB hydrolysis with a TOF of 240.9
+
+mol$_{H2}$·mol$_{metal}$$^{-1}$·min$^{-1}$  ( Figure S18) , which was 2.5-fold higher than that of Co$_{0.8}$Cu$_{0.2}$@NC (97.5 mol$_{H2}$·mol$_{metal}$$^{-1}$·min$^{-1}$); this was indicative of its remarkable mSiO$_{2}$ confinement effect. The counteractive effect was observed for AB hydrolysis when the shell thickness exceeded a critical value. This adverse effect was theoretically ascribed to the fact that a further increase in thickness is not conducive to increasing the reactant's transfer kinetics. [44,45] Further, the measure of time dependence for hydrogen generation at various temperatures was illustrated in
+
+7
+
+Figure 5. (a) Reaction-time-dependent volume of H 2 evolved through AB hydrolysis performed using Co 0.8 Cu 0.2 @NC, Co 0.8 Cu 0.2 @NC@mSiO 2 -0.2, Co 0.8 Cu 0.2 @NC@mSiO 2 , and Co 0.8 Cu 0.2 @NC@mSiO 2 -0.6 at 298 K. (b) Comparison between the TOFs of Co 0.8 Cu 0.2 @NC@mSiO 2 and previously reported ABhydrolyzing noble-metal-free catalysts operating at 298 K, originating from Table S2. (c) Relative intrinsic activity of Co 0.8 Cu 0.2 @NC@mSiO 2 subjected to cycling stability tests at 298 K. (d) Stability comparison between Co 0.8 Cu 0.2 @NC@mSiO 2 and previously reported AB-hydrolyzing catalysts (Relative intrinsic activity = he activity of the last cycle/the initial activity). (e) A plausible mechanism of AB hydrolysis catalyzed by Co 0.8 Cu 0.2 @NC@mSiO 2 catalyst.
+
+Figure S22a . The E$_{a}$ value for Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ was calculated to be 43.6 kJ · mol$^{-1}$ ( Figure S22b ), lower than that of Co$_{0.8}$Cu$_{0.2}$@NC. These results may be ascribed to the mSiO$_{2}$ confinement effect, which prevents the growth of NPs and facilitates hydrogen evolution via AB hydrolysis. The hydrogen evolution experiments with AB hydrolysis catalyzed by Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ is achieved as low as 268 K ( Figures 22a and S23 ), which will expand its practical application scenarios. As displayed in Figure 5b and Table S2 , the TOF of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ for AB hydrolysis surpassed those of most reported noble-metal-free catalysts.$^{[13,17,48-59]}$ Subsequently, the effect of AB concentration of and Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2 }$ amount on H$_{2}$ evolution performance was explored ( Figures S24 and S25 ). The slope of ln k versus ln [AB] concentration was calculated to be 0.14 ( Figure S24 ), indicating quasi-zeroorder kinetics with respect to the AB concentration. This revealed that the activation of AB was not involved in the ratedetermining step (RDS). Moreover, the slope of ln k plotted
+
+against ln [Catalyst] plot was determined to be 1.07 ( Figure S25 ), implying that AB hydrolysis followed first-order kinetics in terms of catalyst concentration.
+
+The recyclability of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ was assessed by repeating these experiments. AB hydrolysis was consistently achieved using Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ over 30 cycles at 298 K ( Figures 5c and S26 ). As a result, Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ exhibited a negligible decrease in activity, with a relative intrinsic activity decline of only 0.8% after 30 cycles in comparison with that of Co$_{0.8}$Cu$_{0.2}$@NC, underscoring its excellent reusability. As displayed in Figure 5d and Table S3 , the stability of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ exceeded that of the majority of reported catalysts.$^{[10-22,29-34,42,43,48-75]}$ A negligible loss was observed for Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$, as shown in Table S1 . Significantly, the morphologies and structures of the spent catalysts remained identical to those of the fresh catalysts based on XRD, SEM, and TEM measurements ( Figures S27 , S28 , and S29 ). Therefore, these results indicate that AB hydrolysis
+
+exhibits greater efficiency and stability over Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ compared to Co$_{0.8}$Cu$_{0.2}$@NC, potentially attributed to SiO$_{2}$ confinement, which effectively mitigated the loss of metals due to dissolution. According to our results and previous reports, [34,35,37] we can deduce that the silica-confined layer, as a protection layer, can stabilize metal nanoparticles/clusters by decreasing surface energy of metal atoms, thus stabilizing the metal NPs. Additionally, silica protection layer serves as oxide substrate to interact with metal NPs, which can increase migration energy barrier of metal NPs, thereby preventing their aggregation and loss. To elucidate the interaction between SiO$_{2}$ and metal NPs, force-field molecular dynamics (FFMD) analysis was employed to simulate the migration of CoCu-alloy NPs on the external surface of NC@mSiO$_{2 }$ and NC, respectively ( Figure S30 , Supporting Video S2 , and S3 ). As shown in Figure S31 , the spatial confinement imposed by the mSiO$_{2}$ shell on the Co-Cu-alloy NPs enhanced the interaction between the Co-Cu-alloy NPs and the NC surface. Figure S32 reveals that the interaction between the electronegative oxygen of the SiO$_{2}$ shell and Co-Cu-alloy NPs can prevent the migration of CoCu-alloy to the solution phase. Therefore, as shown in Figure S33 , the mean-square displacement of the Co-Cu-alloy in NC@mSiO$_{2}$ was almost undetectable compared to that in NC, directly illustrating that the mSiO$_{2}$ shell can effectively prevent the loss of Co-Cu-alloy NPs. Furthermore, both Co$_{0.8}$Cu$_{0.2}$@NC and Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2 }$ exhibited excellent magnetic recovery performance, which was beneficial for the separation and reuse of the catalyst ( Figure S34 ). The silica confinement layer did not affect the magnetism of the catalyst.
+
+The kinetic isotope effect (KIE) approach is of importance for identifying the RDS of the reactions. Herein, kinetic measurement were conducted using heavy and light isotopically substituted reactants ( i.e. , D$_{2}$O and H$_{2}$O) to investigate whether the activation of the O-H bonds in H$_{2}$O was involved in the RDS of AB hydrolysis ( Figure S35 ). [51,60] The KIE ( k$_{H}$ / k$_{D}$ ) values for Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ and Co$_{0.8}$Cu$_{0.2}$@NC were estimated to be 5.6 and 6.1, respectively ( Figure S35b ), further suggesting that the activation or conversion of H in H$_{2}$O was indeed involved in the RDS of the AB hydrolysis reaction. Enhancing the transport behavior of H$_{2}$O is vital for accelerating hydrogen evolution from AB hydrolysis. The introduction of a hydrophilic mSiO$_{2}$ layer during the synthesis of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ was expected to improve the transport and adsorption of H$_{2}$O. To investigate the effect of mSiO$_{2}$ on the wettability of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$, dynamic water contact angle measurements were performed on both Co$_{0.8}$Cu$_{0.2}$@NC and Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$. As illustrated in Figure S36 , distinct wetting behaviors were observed for each. Initially, Co$_{0.8}$Cu$_{0.2}$@NC exhibited a contact angle of 56.2°, which gradually decreased to 47.9° after 10 s. In contrast, Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ displayed hydrophilic characteristics with an initial contact angle of 22.6°, further decreased to 11.7° within 10 s. These results reveal the significantly higher hydrophilicity of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ compared to that of Co$_{0.8}$Cu$_{0.2}$@NC, consistent with the superior performance of the former. The improved hydrophilicity of Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$
+
+is expected to facilitate the transport of H$_{2}$O to the active sites, thus accelerating the hydrogen generation during AB hydrolysis. A probable reaction mechanism for the AB hydrolysis over Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ was proposed ( Figure 5e ). The AB in water diffused into the Co$_{0.8}$Cu$_{0.2}$ NPs surface, forming the activated species NH$_{3}$BH$_{2}$-H…H-OH on the Co$_{0.8}$Cu$_{0.2}$ NPs surface by the attack of H$_{2}$O. The H atoms in the hydridic B-H transferred to the Co$_{0.8}$Cu$_{0.2}$ NPs surface, driven by an oxidative addition process of this B-H bond, to release H$_{2}$ with the H atom in H$_{2}$O. B-H bonds have been revealed to elongate under the interaction between AB and NPs. [61-63] Further hydrolysis occurred because of the assault of H$_{2}$O to accomplish complete AB hydrolysis. The main product of AB hydrolysis was NH$_{4}$BO$_{2}$, which could be transformed into NaBO$_{2}$ by the addition of sodium hydroxide. Huang et al. reported that NaBO$_{2 }$in aqueous solution reacts with CO$_{2 }$ in air forming Na$_{2}$B$_{4}$O$_{7}$·10H$_{2}$O and Na$_{2}$CO$_{3}$ according to the following reaction: 4NaBO$_{2}$·xH$_{2}$O + CO$_{2}$ + (10-4x)H$_{2}$O → Na$_{2}$B$_{4}$O$_{7}$·10H$_{2}$O + Na$_{2}$CO$_{3}$, where Na$_{2}$B$_{4}$O$_{7}$ · 10H$_{2}$O is the main constituent of the naturally abundant borax mineral  $^{[76]}$. NaBH$_{4}$ can be produced by the reaction of Na$_{2}$B$_{4}$O$_{7}$ · 10H$_{2}$O with metal hydrides (e.g., MgH$_{2}$, NiH$_{2}$), or metal and H$_{2}$ at the designed conditions. [13,76,77] As NaBH$_{4}$ is a key material in AB synthesis, NaBH$_{4}$ and NH$_{4}$Cl were combined to regenerate NH$_{4}$BH$_{4}$. Finally, one molecule of H$_{2 }$was removed using reasonable measures to obtain regenerated NH$_{3}$BH$_{3}$.$^{[78]}$ However, despite the regeneration process of AB being straightforward, approaches to enhance the efficiency of this process are still worthy of investigation.
+
+## Conclusion
+
+In summary, we introduced a straightforward and facile method for fabricating magnetically recyclable Co-Cu@NC@mSiO$_{2}$ catalysts by utilizing mSiO$_{2}$-encapsulated Co-Cu-ZIF as a precursor through a thermal pyrolysis process. The optimized Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2 }$ catalyst demonstrated outstanding performance with a TOF of 240.9 mol$_{H2}$·mol$_{metal}$$^{-1}$·min$^{-1}$, surpassing the majority of noble-metal-free catalysts. More importantly, it exhibited remarkable stability, with a negligible decrease of less than 0.8% over 30 cycles. This enhanced performance originated primarily from the synergistic effects of the bimetallic alloy and silica confinement. This study not only presents a promising approach for constructing noble-metal-free catalysts with high activity and excellent stability for AB hydrolysis but also paves the way for the development of MOFsderived nanostructured materials with excellent recyclability across various applications, such as catalysis, separation, and energy conversion, using an mSiO$_{2}$-protected thermal pyrolysis strategy.
+
+## Acknowledgements
+
+Dr. Y. K. acknowledges the support of JSPS Postdoctoral Fellowships for Research in Japan. This work was financially supported by the National Natural Science Foundation of China (22108238, 22208337 , 21878259, 22278353, and U22A20408),
+
+## RESEARCH ARTICLE
+
+the Foundation of Zhejiang Provincial Key Laboratory of Advanced Chemical Engineering Manufacture Technology (ZJKL-ACEMT-1802), the China Postdoctoral Science Foundation (2019M662060, 2020T130580, PC2022046), and the JST-ERATO Yamauchi Materials Space Tectonics Project (JPMJER2003). The authors are also grateful to the Shiyanjia Lab (www.shiyanjia.com) for characterizing the materials used in this study. We express our gratitude for English editing software, such as Wiley Editing Services and ChatGPT, for refining language and checking grammatical errors in our manuscript. Additionally, this work used the Queensland node of the NCRISenabled Australian National Fabrication Facility (ANFF).
+
+Keywords: Ammonia borane hydrolysis · Cobalt-Copper alloy nanoparticles · Silica confinement · Hydrogen evolution · Metalorganic frameworks
+
+[1] L. Schlapbach, A. Züttel, Nature 2001 , 414 , 353-358 .
+
+[2] M. D. Allendorf, V. Stavila, J. L. Snider, M. Witman, M. E. Bowden, K. Brooks, B. L. Tran, T. Autrey, Nat. Chem . 2022 , 14 , 1214-1223.
+
+[3] Y. Tang, C. Yang, X. Xu, Y. Kang, J. Henzie, W. Que, Y. Yamauchi, Adv. Energy Mater . 2022 , 12 , 2103867.
+
+[4] T. He, P. Pachfule, H. Wu,Q. Xu, P. Chen, Nat. Rev. Mater. 2016 , 1 , 16059.
+
+[5] C. Wan, L. Zhou, L. Sun, L. Xu, D. Cheng, F. Chen, X. Zhan, Y. Yang, Chem. Eng. J. 2020 , 396 , 125229.
+
+[6] Y. Wang, G. Shen, Y. Zhang, L. Pan, X. Zhang, J.-J. Zou, Appl. Catal. B: Environ. 2020 , 260 , 118183.
+
+[7] C. Wan, L. Zhou, S. Xu, B. Jin, X. Ge, X. Qian, L. Xu, F. Chen, X. Zhan, Y. Yang, D. Cheng, Chem. Eng. J. 2022 , 429 , 132388.
+
+[8] C. Wang, D. Astruc, Chem. Soc. Rev. 2021 , 50 , 3437.
+
+[9] R. Tahawy, E. Doustkhah, E. A. Abdel-Aal, M. Esmat, F. E. Farghaly, H. El-Hosainy, N. Tsunoji, F. I. El-Hosiny, Y. Yamauchi, M. N. Assadi, Y. Ide, Appl. Catal. B: Environ. 2021 , 286 , 119854.
+
+[10] Y. Kang, B. Jiang, J. Yang, Z. Wan, J. Na, Q. Li, H. Li, J. Henzie, Y. Sakka, Y. Yamauchi, T. Asahi, ACS Nano 2020 , 14 , 17224-17232.
+
+[11] C. Wan, Y. Liang, L. Zhou, J. Huang, J. Wang, F. Chen, X. Zhan, D.-G. Cheng, Green Energy Environ. 2024 , 9 , 333-343.
+
+[12] H. Cheng, T. Kamegawa, K. Mori, H. Yamashita, Angew. Chem. Int. Ed. 2014 , 53 , 2910-2914.
+
+[13] S. Guan, Y. Liu, H. Zhang, R. Shen, H. Wen, N. Kang, J. Zhou, B. Liu, Y. Fan, J. Jiang, B. Li, Adv. Sci. 2023 , 2300726.
+
+[14] M. A. Khalily, H. Eren, S. Akbayrak, H. H. Susapto, N. Biyikli, S. Özkar, M. O. Guler, Angew. Chem. Int. Ed. 2016 , 55 , 12257-12261.
+
+[15] C. Wan, G. Li, J. Wang, L. Xu, D.-G. Cheng, F. Chen, Y. Asakura, Y. Kang, Y. Yamauchi, Angew. Chem. Int. Ed. 2023 , 62 , e202305371.
+
+[16] S. Chen, B. Gong, J. Gu, Y. Lin, B. Yang, Q. Gu, R. Jin, Q. Liu, W. Ying, X. Shi, W. Xu, L. Cai, Y. Li, Z. Sun, S. Wei, W. Zhang, J. Lu, Angew. Chem. Int. Ed. 2022 , 134 , e202211919.
+
+[17] Q. Yao, X. Zhang, Z.-H. Lu, Q. Xu, Coord. Chem. Rev. 2023 , 493 , 215302.
+
+[18] W. Chaikittisilp, M. Hu, H. Wang, H.-S. Huang, T. Fujita, K. C.-W. Wu, L.-C. Chen, Y. Yamauchi, K. Ariga, Chem. Commun. 2012 , 48 , 72597261.
+
+[19] Y. Wang, H. Lv, E. S. Grape, C. A. Gaggioli, A. Tayal, A. Dharanipragada, T. Willhammar, A. K. Inge, X. Zou, B. Liu, Z. Huang, J. Am. Chem. Soc. 2021 , 143 , 6333-6338.
+
+[20] Q.-L. Zhu, J. Li, Q. Xu, J. Am. Chem. Soc. 2013 , 135 , 10210-10213.
+
+[21] J. Song, X. Gu, J. Cheng, N. Fan, H. Zhang, H. Su, Appl. Catal. B: Environ. 2018 , 225 , 424-432.
+
+[22] M. Hu, J. Reboul, S. Furukawa, N. L. Torad, Q. Ji, P. Srinivasu, K. Ariga, S. Kitagawa, Y. Yamauchi, J. Am. Chem. Soc. 2012 , 134 , 28642867.
+
+[23] X. Ma, Y.-X. Zhou, H. Liu, Y. Li, H.-L. Jiang, Chem. Commun. 2016 , 52 , 7719-7722.
+
+[24] S. L. Zacho, J. Mielby, S. Kegnæ s, Catal. Sci. Technol. 2018, 8, 47414746.
+
+[25] M.-H. Fang, S.-Y. Wu, Y.-H. Chang, M. Narwane, B.-H. Chen, W.-L. Liu, D. Kurniawan, W.-H. Chiang, C.-H. Lin, Y.-C. Chuang, I.-J. Hsu, H.-T. Chen, T.-T. Lu, ACS Appl. Mater. Interfaces 2021 , 13 , 47465-47477.
+
+[26] Q. Wang, D. Astruc, Chem. Rev. 2019 , 120 , 1438-1511.
+
+[27] X. Qu, R. Jiang, Q. Li, F. Zeng, X. Zheng, Z. Xu, C. Chen, J. Peng, Green Chem. 2019 , 21 , 850-860.
+
+[28] C. D. Mboyi, D. Poinsot, J. Roger, K. Fajerwerg, M. L. Kahn, J.-C. Hierso, Small 2021 , 17 , 2102759.
+
+[29] W. Xu, S. Zhang, R. Shen, Z. Peng, B. Liu, J. Li, Z. Zhang, B. Li, Energy Environ. Mater . 2023 , 6 , e12279.
+
+[30] C. Wang, L. Li, X. Yu, Z. Lu, X. Zhang, X. Wang, X. Yang, J. Zhao, ACS Sustainable Chem. Eng. 2020 , 8 , 8256-8266.
+
+[31] Y. Yuan, X. Chen, X. Zhang, Z. Wang, R. Yu, Inorg. Chem. Front. 2020 , 7 , 2043-2049.
+
+[32] D. Liu, C. Zhou, Z. Yang, G. Wang, C. Kong, B. Liu, Mater. Chem. Front. 2023 , 7 , 4339-4371.
+
+[33] B. C. Filiz, A. K. Figen, S. Pişkin, Appl. Catal. B: Environ. 2018 , 238 , 365-380.
+
+[34] C.-C. Hou, L. Zou, L. Sun, K. Zhang, Z. Liu, Y. Li, C. Li, R. Zou, J. Yu, Q. Xu, Angew. Chem. Int. Ed. 2020 , 59, 7384-7389.
+
+[35] L. Jiao, R. Zhang, G. Wan, W. Yang, X. Wan, H. Zhou, J. Shui, S.-H. Yu, H.-L. Jiang, Nat. Commun. 2020 , 11 , 2831.
+
+[36] S. Bao, J. Li, B. Guan, M. Jia, O. Terasaki, J. Yu, Matter 2020 , 3 , 498508.
+
+[37] L. Shang, H. Yu, X. Huang, T. Bian, R. Shi, Y. Zhao, G. I. N. Waterhouse, L.-Z. Wu, C.-H. Tung, T. Zhang, Adv. Mater. 2016 , 28 , 1668-1674.
+
+[38] C. Wang, J. Kim, J. Tang, M. Kim, H. Lim, V. Malgras, J. You, Q. Xu, J. Li, Y. Yamauchi, Chem 2020 , 6 , 19-40.
+
+[39] J. Wang, C. Liu, J. Feng, D. Cheng, C. Zhang, Y. Yao, Z. Gu, W. Hu, J. Wan, C. Yu, J. Hazard. Mater. 2020 , 394 , 122567.
+
+[40] Y. Chen, K. Wang, K. Nie, J. Wang, S. Wang, K. Feng, J. Zhong, Chem. Eng. J. 2023 , 451 , 138931.
+
+[41] M. Zhang, C. Wang, R. Luo, W. Zhang, S. Chen, X. Yan, J. Qi, X. Sun, L. Wang, J. Li, J. Mater. Chem. A 2019 , 7 , 5173-5178.
+
+[42] M. Yurderi, A. Bulut, İ. E. Ertas, M. Zahmakiran, M.Kaya, Appl. Catal. B: Environ. 2015 , 165 , 169-175.
+
+[43] A. Bulut, M. Yurderi, İ. E. Ertas, M. Celebi, M. Kaya, M. Zahmakiran, Appl. Catal. B: Environ. 2016 , 180 , 121-129.
+
+[44] W. Li, A. Zhang, X. Jiang, C. Chen, Z. Liu, C. Song, X. Guo, ACS Sustainable Chem. Eng. 2017 , 5 , 7824-7831.
+
+[45] L. Yin, T. Zhang, K. Dai, B. Zhang, X. Xiang, H. Shang, ACS Sustainable Chem. Eng. 2021 , 9 , 822-832.
+
+[46] W.-F. Xiong, D.-H. Si, H.-F. Li, X. Song, T. Wang, Y.-B. Huang, T.-F. Liu, T. Zhang, R. Cao, J. Am. Chem. Soc. 2024 , 146 , 289-297.
+
+[47] L. Sun, M. Liu, T. Zhang, Y. Huang, H. Song, J. Yang, J. Dou, D. Li, X. Gao, Q. Zhang, S. Yao, Appl. Catal. B: Environ. 2024 , 343 , 123537.
+
+## RESEARCH ARTICLE
+
+[48] J.-M. Yan, X.-B. Zhang, H. Shioyama, Q. Xu, J. Power Sources 2010 , 195 , 1091-1094.
+
+[49] W. Gao, P. Wang, J. Guo, F. Chang, T. He, Q. Wang, G. Wu, P. Chen, ACS Catal. 2017 , 7 , 3654-3661.
+
+[50] J. Hu, Z. Chen, M. Li, X. Zhou, H. Lu, ACS Appl. Mater. Interfaces 2014 , 6 , 13191-13200.
+
+[51] Z. Li, T. He, L. Liu, W. Chen, M. Zhang, G. Wu, P. Chen, Chem. Sci. 2017 , 8 , 781-788.
+
+[52] P. Liu, X. Gu, K. Kang, H. Zhang, J. Cheng, H. Su, ACS Appl. Mater. Interfaces 2017 , 9 , 10759-10767.
+
+[53] K. Feng, J. Zhong, B. Zhao, H. Zhang, L. Xu, X. Sun, S.-T. Lee, Angew. Chem. Int. Ed. 2016 , 55 , 11950-11954.
+
+[54] H. Zhang, X. Gu, J. Song, N. Fan, H. Su, ACS Appl. Mater. Interfaces 2017 , 9 , 32767-32774.
+
+[55] W. Wang, Z. Dai, R. Jiang, Q. Li, X. Zheng, W. Liu, Z. Luo, Z. Xu, J. Peng, ACS Appl. Mater. Interfaces 2020 , 12 , 43854-43863.
+
+[56] D. Lu, J. Liao, H. Li, S. Ji, B. G. Pollet, ACS Sustain. Chem. Eng. 2019 , 7 , 16474-16482.
+
+[57] Y. Ge, X. Qin, A. Li, Y. Deng, L. Lin, M. Zhang, Q. Yu, S. Li, M. Peng, Y. Xu, X. Zhao, M. Xu, W. Zhou, S. Yao, D. Ma, J. Am. Chem. Soc. 2021 , 143 , 628-633.
+
+[58] Y. Chen, K. Feng, G. Yuan, Z. Kang, J. Zhong, Chem. Eng. J. 2022 , 428 , 131219.
+
+[59] Y. Xu, H. Zhang, J. Song, D. Wang, X. Gu, Chem. Eng. J. 2020 , 401 , 126068.
+
+[60] Z. Li, T. He, D. Matsumura, S. Miao, A. Wu, L. Liu, G. Wu, P. Chen, ACS Catal. 2017 , 7 , 6762-6769.
+
+[61] Y. Yang, L. Zhao, X. Gao, Y. Zhao, Nano Res. 2023 , 16 , 6687-6700.
+
+[62] H. Lv, R. Wei, X. Guo, L. Sun, B. Liu, J. Phys. Chem. Lett. 2021 , 12 , 696-703.
+
+[63] Y. Meng, Q. Sun, T. Zhang, J. Zhang, Z. Dong, Y. Ma, Z. Wu, H. Wang, X. Bao, Q. Sun, J. Yu, J. Am. Chem. Soc. 2023 , 145 , 5486-5495.
+
+[64] Ö . Metin, V. Mazumder, S. Özkar, S. Sun, J. Am. Chem. Soc. 2010 , 132 , 1468-1469.
+
+[65] W. Chen, J. Ji, X. Feng, X. Duan, G. Qian, P. Li, X. Zhou, D. Chen, W. Yuan, J. Am. Chem. Soc. 2014 , 136 , 16736-16739.
+
+[66] P. Li, R. Chen, Y. Huang, W. Li, S. Zhao, S. Tian, Appl. Catal. B: Environ. 2022 , 300 , 120725.
+
+[67] C. Wan, X. Liu, J. Wang, F. Chen, D.-G. Cheng, Nano Res. 2023 , 16 , 6260-6269.
+
+[68] W. Li, Y. Zhao, Y. Liu, M. Sun, G. I. N. Waterhouse, B. Huang, K. Zhang, T. Zhang, S. Lu, Angew. Chem. Int. Ed. 2021 , 60 , 3290-3298.
+
+[69] C. Wang, J. Tuninetti, Z. Wang, C. Zhang, R. Ciganda, L. Salmon, S. Moya, J. Ruiz, D. Astruc, J. Am. Chem. Soc. 2017 , 139 , 11610-11615. [70] P. Li, R. Chen, S. Zhao, W. Li, Y. Lin, Y. Yu, Appl. Catal. B: Environ. 2021 , 298 , 120523.
+
+[71] J. Li, Q. Guan, H. Wu, W. Liu, Y. Lin, Z. Sun, X. Ye, X. Zheng, H. Pan, J. Zhu, S. Chen, W. Zhang, S. Wei, J. Lu, J. Am. Chem. Soc. 2019 , 141 , 14515-14519.
+
+[72] A. Aijaz, A. Karkamkar, Y. J. Choi, N. Tsumori, E. Rönnebro, T. Autrey, H. Shioyama, Q. Xu, J. Am. Chem. Soc. 2012 , 134 , 13926-13929.
+
+[73] C.-Y. Peng, L. Kang, S. Cao, Y. Chen, Z.-S. Lin, W.-F. Fu, Angew. Chem. Int. Ed. 2015 , 54 , 15725-15729.
+
+[74] C. Han, P. Meng, E. R. Waclawik, C. Zhang, X.-H. Li, H. Yang, M. Antonietti, J. Xu, Angew. Chem. Int. Ed. 2018 , 57 , 14857-14861.
+
+[75] L. Wang, H. Li, W. Zhang, X. Zhao, J. Qiu, A. Li, X. Zheng, Z. Hu, R. Si, J. Zeng, Angew. Chem. Int. Ed. 2017 , 56 , 4712-4718.
+
+[76] Y. Zhu, L. Ouyang, H. Zhong, J. Liu, H. Wang, H. Shao, Z. Huang, M. Zhu, Angew. Chem. Int. Ed. 2020 , 132 , 8623-8629.
+
+[77] Y. Zhu, J. Li, L. Yang, Z. Huang, X.-S. Yang, Q. Zhou, R. Tang, S. Shen, L. Ouyang, J. Power Sources 2023 , 563 , 232833.
+
+[78] D. J. Heldebrant, A. Karkamkar, J. C. Linehan, T. Autrey, Energy Environ. Sci. 2008 , 1 , 156-160.
+
+(
+
+## RESEARCH ARTICLE
+
+## Entry for the Table of Contents
+
+A facile yet effective spatial confinement strategy is proposed to construct high-efficiency catalysts through carbonizing a mesoporous silica-confined Co-Cu bimetal-organic framework for hydrogen evolution from AB hydrolysis. The optimized Co$_{0.8}$Cu$_{0.2}$@NC@mSiO$_{2}$ catalyst exhibits superior activity, outstanding stability, and magnetic recyclability for hydrogen evolution from AB hydrolysis under extremely mild conditions.
+
+Institute and/or researcher Twitter usernames: EratoYamauchi
+
+NILEY
+
+WILEY
+
+VCH

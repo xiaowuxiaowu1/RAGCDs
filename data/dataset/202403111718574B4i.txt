@@ -1,0 +1,299 @@
+## 1. Introduction
+
+To address the growing necessity for high-performance energy conversion and storage applications, structural tuning of multifunctional nanostructures with various dimensions has been discovered as a reliable and efficient methodology, such as 1D nanoparticles (NPs), 2D nanosheets (NSs), and 3D graphene
+
+J. Guo, H. Zhao, Z. Yang, A. Wang, L. Ding, H. Liu, X. Yu Institute for Advanced Interdisciplinary Research (iAIR) School of Chemistry and Chemical Engineering
+
+University of Jinan
+
+Jinan 250022, P. R. China
+
+E-mail: bio_dinglh@ujn.edu.cn; ifc_yux@ujn.edu.cn
+
+J. Guo, L. Wang
+
+Beijing Institute of Nanoenergy and Nanosystems
+
+Chinese Academy of Sciences
+
+Beijing 101400, P. R. China
+
+E-mail: lfwang12@binn.cas.cn
+
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/adfm.202315714
+
+DOI: 10.1002/adfm.202315714
+
+networks. [1] Furthermore, the 2D hierarchical multi-porous nanosheets with small thicknesses of a few nanometers and several micrometers broad lateral dimensions exhibit exceptional physical/chemical properties considering the high specific surface area and ion transport effects. [2] Metalorganic frameworks (MOFs) serve as excellent templates and precursors with many properties derived from a variety of innovative nanostructures, such as structural porousness, pore volume adjustability, and structural sustainability. [3] Given its rich pore structure, a high specific surface area, and availability of active sites, more extensive research has illustrated that MOFderived 2D NSs morphologies are attractive and show promise for the construction of energy applications with performance improvement. So far, many materials have been prepared derived from MOFs, such as carbon materials, metal oxides /hydroxyl groups, metal sulfides, or their derived composite metal materials for electrochemical energy storage/conversion applications. [4]
+
+Notably, bimetallic sulfides (e.g., NiCo$_{2}$S$_{4}$,CuCo$_{2}$S$_{4}$,SnCoS$_{4}$, ZnCoS, Ni-Mn-S, etc.$^{[5]}$) are highly stable because of their various metal valence states, bimetallic synergistic reaction behavior, relatively short electron transport pathways, and enhanced electron conduction capabilities, compared to monometallic sulfides, corresponding showing superior electrochemical performance. [4g,6] The nickel-cobalt sulfides have been
+
+## L. Wang
+
+CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety & CAS Center for Excellence in Nanoscience National Center for Nanoscience and Technology of China University of Chinese Academy of Science
+
+Beijing 100190, P. R. China
+
+J. Zhang
+
+Division of Systems and Synthetic Biology Department of Life Sciences Chalmers University of Technology Göteborg 41296, Sweden
+
+H. Liu
+
+State Key Laboratory of Crystal Materials Shandong University
+
+Jinan 250100, P. R. China
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+distinguished from other bimetallic sulfides by their outstanding electrochemical performance and their wider range of applications in energy storage/conversion. [7] Electrochemical performance and cyclic stability of nickel-cobalt sulfides, however, demand further enhancement for their practical application. [5d,8] To tackle this issue, researchers have employed a series of novel designs to enhance the electron/ion transport kinetics of various electrode materials, such as the development of heterogeneous interfaces, design of unique structures, modification of multi-components, and application of vacancy defect engineering. Vacancy defect engineering has been demonstrated as an effective strategy to regulate the electronic structure of various materials, achieving enhanced electrochemical performance. [4g,9] Various approaches to vacancy defect modulation include bottom-up techniques such as target ablation, solvothermal synthesis, and doping induction, whereas top-down methods include intercalation-exfoliation, ion irradiation, electrochemical etching, liquid chemical etching, and thermal annealing. [10] For the vacancy fabrication strategies, the bottom-up path facilitates the in situ generation of vacancies during system synthesis but lacks control over the state of the vacancies. In contrast, the top-down approach has abundant degrees of freedom to control the generation of vacancies. [11] In previous work, we demonstrated introducing nitrogen vacancies with thermal annealing in 3D Ni$_{3}$N-CoN/NC heterojunction nanosheets could efficiently improve the intrinsic electronic conductivity, resulting in high-rate capability and good cycling stability. [12] Although considerable progress has been made in the generation of vacancies, the challenge of accurately and thoroughly regulating the state of vacancies remains a major issue.
+
+In the field of energy storage/conversion, hydrogen production through water splitting technology is considered an ideal new energy source as it does not cause pollution to the environment. [13] Water splitting involves two core redox reactions, and the rate of hydrogen production depends on the oxygen evolution reaction (OER) performance of the anode. [14] However, the high cost of noble metal-based catalysts makes them unsuitable for largescale production. Furthermore, efficient energy storage is also crucial in the field of energy storage/conversion. [15] Supercapacitors have gained attention due to their advantages in safety, cycling stability, and power density. Nickel-cobalt bimetallic sulfides have a series of advantages, including a unique electronic structure, high electronic conductivity, and high theoretical specific capacity that allows them to be used as electrode materials in supercapacitors and OER. [16]
+
+Here, we first constructed the NiCo-Sv-x model by DFT calculations to confirm the effect of different concentrations of sulfur vacancies on adsorbed OH * species and electrical conductivity. Then, we fabricated NiCo-Sv-x in situ on flexible carbon cloth (CC) by annealing NiCo-S under different concentrations of H$_{2}$/Ar atmosphere ( Scheme 1 ). The obtained NiCo-Sv-x has a multilevel pore structure, which promotes effective contact with the electrolyte and facilitates ion diffusion, and its vacancy concentration is relatively consistent with that predicted. These advantages result in the enhanced electrochemical performance of NiCo-Sv-x. The prepared NiCo-Sv-4.2% electrode has a high specific capacitance of 511.1 mA h g - 1 at a current density of 1 A g - 1 and exhibited 89.7% stability after 10 000 cycles at a high current density of 50 A g - $^{1}$. On the other hand, the NiCo-Sv-4.2%
+
+electrode showed excellent electrocatalytic activity with the lowest overpotential of 317 mV at a current density of 50 mA cm - $^{2}$. Moreover, the NiCo-Sv-4.2% electrode performed the smallest Tafel slope (125.1 mV dec - $^{1}$) and achieved promising OER activity over 32 h (1.567 V). These results could facilitate the use of defect engineering to derive bimetallic sulfides with fascinating and beneficial vacancy-rich properties for multifunctional applications.
+
+## 2. Results and Discussion
+
+## 2.1. DFT Calculations of Sulfur Vacancies
+
+We designed and predicted a novel structural model of NiCo-Sv-x using DFT calculations. The potential effect of different concentrations of sulfur vacancies on the electrochemical properties of NiCo-S was verified by DFT calculations. Considering each sulfur vacancy had the same chemical coordination environment in a cubic cell, we created models with various positions of sulfur vacancy, including top, bridge, and center, with sulfur vacancy concentrations of 3%, 6%, and 9%. Notably, we found that the sulfur vacancies on the outer surface layer are more stable. We then constructed the Ni-S lattice and Co-S lattice for comparison. To characterize their electronic properties, we calculated the band structure and density of state (DOS) distributions of Ni-S, CoS, NiCo-S, NiCo-Sv-3%, NiCo-Sv-6%, and NiCo-Sv-9% (Figure S2, Supporting Information). Figure 1 a-f shows that the DOS of Ni-S and Co-S lattice are mainly provided by Ni and Co atoms around Fermi energy levels, while the DOS of NiCo-Sv-6% has the highest peak adjacent to the Fermi energy level, suggesting a stronger orbital hybridization and a higher electron accumulation. From the projected density of states (PDOS), we demonstrated that the main contribution comes from the d orbitals of Ni and Co atoms (Figures S3 and S4, Supporting Information). Additionally, compared with the NiCo-S, the PDOS of NiCo-Sv3%, NiCo-Sv-6%, and NiCo-Sv-9% were enhanced near the Fermi energy level, implying that the presence of sulfur vacancy could lead to an enhancement of electrical conductivity.
+
+We further analyzed the charge transfer and distribution of Ni-S, Co-S, NiCo-S, NiCo-Sv-3%, NiCo-Sv-6%, and NiCo-Sv-9% lattices to the intermediate OH$^{*}$. First, different adsorption sites were established, and it was found that all OH * tended to adsorb on Ni and Co atoms on the surface layer (Figure S5, Supporting Information). Bader charge analysis revealed that in the Ni-S, Co-S, NiCo-S, NiCo-Sv-3%, NiCo-Sv-6%, and NiCo-Sv-9%, the amount of charge transfer for the metal sites is 0.435, 0.436, 0.449, 0.461, 0.481, and 0.464 e , respectively (Figure 1g-l). The differential charge density analysis showed that after OH * is adsorbed on the Ni atom, the electron interaction occurs between the p orbitals of the oxygen atom and the d orbitals of the Ni atom, and the electrons are hybridized and transferred between the two orbitals, resulting in a redistribution of the electron density distribution around Ni atom. Electron sharing occurs between the oxygen atom and the Ni atom, and a chemical bond is formed. Next, we calculated the adsorption energy of OH$^{*}$, and the negative adsorption energy implies that the adsorption process is stable (Figure 1m). The easy adsorption of OH * further demonstrates that NiCo-Sv-6% has relatively good electrochemical performance. The easy adsorption of OH * further
+
+Scheme 1. The illustrates synthesis process of NiCo-Sv-x electrode.
+
+demonstrates that NiCo-Sv-6% has relatively good electrochemical performance. Additionally, as can be seen from Figure 1n, all electrochemical performance of the prepared real sample NiCo-Sv-4.2% are superior to those of the other electrodes, which confirms our predicted and constructed model of the effect of vacancy modulation on electrochemical performance.
+
+## 2.2. Morphology and Structure
+
+To further the confirmation of the predicted model, we experimentally prepared electrodes with similar concentrations of model vacancies to confirm the excellent electrochemical performance of NiCo-Sv-x (NiCo-Sv-2.6%, NiCo-Sv-4.2% and NiCo-Sv7.7%). A process of synthesis of NiCo-Sv-4.2% ordered porous network structure is described in Scheme 1.F irst,theN iC o-
+
+MOF nanosheet arrays were uniformly grown on CC through a simple solvothermal method. Then, NiCo-MOF was converted to NiCo-S by sulfidation treatment with Na$_{2}$S. Finally, NiCo-Sv electrodes enriched with different concentrations of sulfur vacancies were constructed by annealing at different H$_{2}$ concentrations. The morphology of as-prepared materials was characterized by a scanning electron microscope (SEM). The surface of pristine CC is smooth and clean (Figure S6a, Supporting Information). As displayed in Figure S6b (Supporting Information) and Figure 2 a,b, 2D NiCo-MOF nanosheet arrays with a thickness ≈ 38 nm were vertically grown on CC with a high stacking density. After sulfidation, the NiCo-MOF nanosheets were etched, and the derived NiCo-S nanosheets were thinner ( ≈ 30 nm) after etching, with pores of different sizes and intertwined to form a multilayered porous network structure (Figure 2c,d). Whereas, it is observed in Figure 2e,f and Figure S7 (Supporting Information) that
+
+Figure 1. a-f) The schematic structures with the corresponding density of state, g-l) differential charge density maps and charge transfer of OH * adsorbed on the metal sites, m) adsorption energy of OH * adsorbed on the metal sites of Ni-S, Co-S, NiCo-S, NiCo-Sv-3%, NiCo-Sv-6%, and NiCo-Sv9%. n) The comparison of the real samples' electrochemical performance metrics of Ni-S, Co-S, NiCo-S, NiCo-Sv-2.6%, NiCo-Sv-4.2%, and NiCo-Sv7.7%.
+
+Figure 2. SEM images of a,b) NiCo-MOF, c,d) NiCo-S, and e,f) NiCo-Sv-4.2% at different magnifications. g) TEM and corresponding elemental mapping results, h,i) HRTEM images, and j) SAED pattern of NiCo-Sv-4.2%.
+
+NiCo-Sv with a thickness ≈ 17 nm still maintains a 2D nanosheet structure after annealing under different H$_{2}$/Ar atmospheres. As shown in Figure S8a (Supporting Information), we can see the successful growth of Ni-MOF, but it is not arranged on the carbon cloth in an orderly pattern like NiCo-MOF. Also, after sulfidation (Figure S8b, Supporting Information), the surface does not have a porous structure like NiCo-Sv. In contrast, Co-MOF (Figure S8c, Supporting Information) did not grow densely and stably on the carbon cloth and collapsed extensively after sulfidation (Figure S8d, Supporting Information), which led to unsatisfactory performance in the subsequent tests. Notably, the uniquely structured properties and sulfur vacancies of the nanosheets confer a sizable specific surface area and ion transport pathways in close contact with the electrolyte, thus reducing the diffusion distance and enabling efficient and fast ion transport on the carbon cloth surface, which is promising for improving the electrochemical performance.
+
+TEM and HRTEM images were further tested to identify the microstructure properties of NiCo-S and NiCo-Sv-4.2% with results displayed in Figure S9 (Supporting Information) and Figure 2g-j. The structure of NiCo-S was first analyzed to determine the successful sulfidation of NiCo-MOF. 2D nanosheets exhibit a corrugated network structure with transparent proper-
+
+ties, suggesting their thinness (Figure S9a-c, Supporting Information). As the lateral dimensions of the nanosheets are larger than the thickness of the sheets, the twisting, curling, and folding of the nanosheets can be observed. In the HRTEM image of Figure S9d (Supporting Information), two ordered and straight lattice stripes can be seen, which are attributed to the NiCo$_{2}$S$_{4}$ (311) crystal plane with a lattice spacing of 0.283 nm. The 2D nanosheet structure of NiCo-Sv-4.2% was also observed in the TEM image of Figure 2g. Furthermore, a distribution of Ni, Co, O, and S elements in NiCo-Sv-4.2% was observed uniformly in the corresponding EDS spectra. A lattice spacing of 0.231 nm attributed to the (400) crystalline plane of NiCo$_{2}$S$_{4}$ was observed in Figure 2h. It indicated that the main structure of NiCo$_{2}$S$_{4}$ was not changed after hydrogen annealing, while defects were introduced at the same time. Additionally, Figure 2i shows defects in the lattice, where the missing parts could be atomic vacancies. In the SAED spectrum of the NiCo-Sv-4.2% sample clear concentric rings could be seen (Figure 2j), which were attributed to the (400), (533), and (642) crystallographic facets of NiCo$_{2}$S$_{4}$.
+
+The structure of the material was further characterized and the XRD diffractograms of multiple electrodes grown on carbon cloth were demonstrated in Figure S10a,b (Supporting Information). A characteristic peak located at 10.5 ° before sulfidation
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+Figure 3. Characterization of different electrodes. a) The XRD patterns, b) N$_{2}$ adsorption-desorption isotherms, c) pore-size distribution, d) FT-IR spectra, e) Raman spectra, f) EPR spectra, g) Ni 2p spectra, h) Co 2p spectra and i) S 2p spectra.
+
+attributed to the 2-MI (112) crystal plane could be seen, indicating the successful preparation of the MOF precursor (Figure S10a, Supporting Information). [17] After sulfidation, the characteristic peak disappears and was observed on NiCo-S, NiCo-Sv2.6%, NiCo-Sv-4.2%, and NiCo-Sv-7.7% samples with the characteristic peak at 31.6 ° attributed to the (311) crystal plane of NiCo$_{2}$S$_{4}$ (JCPDS 20-0782). For single-metal MOF structures in Figure S10b (Supporting Information), they were transformed to NiS (JCPDS 02-1280) and Co$_{4}$S$_{3}$ (JCPDS 19-0363), respectively. However, the hydrothermal method may result in poorly crystallized samples due to the introduction of elemental sulfur. Therefore, the XRD diffractograms of the powder samples corresponding to each electrode are shown in Figures 3 a and S10c (Supporting Information). Similarly, it is obtained that the characteristic peaks belonging to the imidazole ligand disappear after sulfidation and the appearance of characteristic peaks at 31.6 ° and 38.3 ° , attributed to the (311) and (400) crystal planes of NiCo$_{2}$S$_{4}$, confirms the successful sulfidation of NiCo-MOF. Moreover, annealing in the H$_{2}$/Ar atmosphere did not change
+
+the structure of NiCo$_{2}$S$_{4}$ too much, but introduced sulfur vacancies. Subsequently, NiCo-Sv-4.2% was observed to exhibit the highest adsorption profile by the N$_{2}$ adsorption/desorption isotherms displayed in Figure 3b and Figure S11a (Supporting Information). The NiCo-Sv-4.2% sample (Table S1, Supporting Information) exhibited a higher Brunauer-Emmett-Teller (BET) specific surface area (39.45 m 2 g - $^{1}$) and higher pore volume (0.56 cm 3 g - $^{1}$) compared to other electrode materials. As shown in the pore size distribution curves (Figure 3c; Figure S11b,Supporting Information), NiCo-Sv-4.2% has a large number of mesoporous and macroporous structures, and these pore sizes are distributed between 4.3 and 162.3 nm. The high specific surface area and multi-level nanostructure of NiCo-Sv-4.2% could provide a large number of electrochemically active sites and electrolyte ion transport channels, which would facilitate the full utilization of the active material in electrochemical processes. Consequently, the successful growth of NiCo-Sv-4.2% on the surface of carbon cloth offered an effective source for the construction of a porous structure, which was helpful for the improvement of its
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+electrochemical performance. Fourier transform infrared spectroscopy (FT-IR) was used to investigate the molecular structure and chemical composition of the different electrode materials (Figure 3d; Figure S12a, Supporting Information). The spectra showed a broad peak at 3448 cm - 1 attributed to O-H. [18] While a characteristic peak at 1382 cm - 1 attributed to the imidazole component of the MOF structure disappeared after sulfidation. [19] In addition, the characteristic peaks at 1112, 619, and 513 cm - 1 were attributed to M-S bonds (M = Ni/Co). [20] Furthermore, the structure of the electrodes was analyzed by Raman spectroscopy in Figure 3e and Figure S12b (Supporting Information), which showed that characteristic peaks located at 464 cm - 1 belonging to the sulfur vacancies appeared only in NiCo-Sv-2.6%, NiCoSv-4.2%, and NiCo-Sv-7.7%. [9b,21] Then, the existence of different concentrations of sulfur vacancies was verified by electron paramagnetic resonance (EPR) spectroscopy in Figure 3f.Neither NiCo-MOF nor NiCo-S yielded almost no signal response in a continuously varying magnetic field. In contrast, NiCoSv-2.6%, NiCo-Sv-4.2%, and NiCo-Sv-7.7% generated signal responses with different intensities, which displayed a full peak signal with a g-value of 2.004 (Figure S13, Supporting Information), and were associated with unpaired electrons from the sulfur vacancies. [22] Such defects could lead to the rearrangement of atoms around the vacancies to form localized unstable regions, which enhance the active sites for electrochemical reactions. [23]
+
+The valence and composition of the elements on the surface of different electrode materials were investigated by X-ray photoelectron spectroscopy (XPS). As observed in the full XPS spectra of each electrode material in Figures S15a and S16a (Supporting Information), it could be noticed that the other sulfides electrodes produced S elements compared to Ni, Co, O, and C elements contained in NiCo-MOF, proving the successful sulfidation of both mono- and bimetallic MOF, and the elemental content of each electrode was also obtained in from the XPS spectra (Figure S14, Supporting Information). For simplified description, only the peak of 2p3/2 is discussed in this article, and detailed data are presented in Tables S2-S4 (Supporting Information). As shown in Figure 3g and Figure S16b (Supporting Information), the characteristic Ni 2p peak of NiCo-MOF located at 855 eV was attributed to Ni 2 $^{+}$. [24] While the deconvolution of the Ni 2p spectra of other electrodes could be classified into two pairs of spin-orbit peaks and satellite peaks, the characteristic peaks in Ni-S located at 856.2 and 858.1 eV were attributed to Ni 2 + and Ni 3 $^{+}$, respectively. [25] In contrast, the bimetallic sulfide NiCo-S is shifted to lower energies, located at 853.2 and 856.2 eV, respectively. Subsequently, the introduction of sulfur vacancies shifted NiCo-Sv-2.6%, NiCo-Sv-4.2%, and NiCo-Sv-7.7% to lower energies. The shift of the vacancy-rich electrode materials to lower energy levels indicates an increase in the electron density of the nickel species into the lower Ni 2 + valence state. [26] In Figure S16c (Supporting Information) and Figure 3h, the characteristic peaks of Co-S located at 781.1 and 783.1 eV were attributed to Co 3 + and Co 2 $^{+}$, respectively. The Co 2p peak of NiCo-MOF, on the other hand, contained only Co 2 + located at 780.5 eV. While the characteristic peaks of NiCo-S located at 777.7 and 780.6 eV were attributed to Co 3 + and Co 2 $^{+}$. NiCo-Sv2.6%, NiCo-Sv-4.2%, and NiCo-Sv-7.7% are shifted to higher energies and moved into lower Co 2 $^{+}$. [27] The alteration of the two redox pairs (Ni 2 $^{+}$/Ni 3 + and Co 2 $^{+}$/Co 3 $^{+}$) after defect modulation
+
+facilitated the redox reaction of the electrode and thus improved its electrochemical performance. [28] Whereas the Ni component enhanced the electrochemical activity of the electrode, the Co portion reduced the charge transfer resistance and improved the stability of the electrode. [29] As for S 2p, we observed in Figure S16d (Supporting Information) that the four characteristic peaks of Ni-S and Co-S could be classified from low to high energies as 2p3/2, 2p1/2, SO$_{4}$ 2 - and satellite peaks. [30] In particular, contrary to monometallic sulfides, bimetallic sulfides (Figure 3i) were categorized from low to high energies into 2p3/2, 2p1/2, M-S bonds (M = Ni /Co), and satellite peaks. [31] The higher-energy S 2p1/2 characteristic peaks were derived from low-coordinated sulfur vacancies. [9a,32] Compared to NiCo-S, the S 2p1/2 peak area ratios of the vacancy-rich NiCo-Sv-2.6%, NiCo-Sv-4.2%, and NiCoSv-7.7% were increased by 2.6%, 4.2%, and 7.7%, respectively, indicated that the concentration of sulfur vacancies in NiCo-Sv was higher. Whereas in this article we already confirmed the presence of vacancies by HRTEM, Raman, and EPR spectroscopy, we determined the content of sulfur vacancies by the area ratio value of S 2p1/2 from XPS. Using the S 2p1/2 area ratio value of NiCo-S as the basis value, the increased area ratio value contained in NiCoS reduced in H$_{2}$/Ar atmosphere compared to NiCo-S is the content of sulfur vacancies produced, which determined the content of sulfur vacancies in the electrode materials prepared at different H$_{2}$ concentrations (Table S5, Supporting Information). Consequently, in its C1s spectra (Figures S15b and S16e, Supporting Information) the three characteristic peaks of NiCo-MOF were assigned to C - C, C - N, and O - C ═ O bonds from low to high energies, respectively. In contrast to NiCo-MOF, monometallic sulfides, and bimetallic sulfides were allocated to C - C, C - S, and O - C ═ O bonds. In Figures S15c and S16f (Supporting Information), the O1s spectra of all electrode materials were classified into O1 ( - OH), O2 (O - C ═ O), and O3 (H$_{2}$O). [33]
+
+## 2.3. Electrochemical Performance
+
+Comparative research on seven electrodes, including Ni-S, Co-S, NiCo-MOF, NiCo-S, NiCo-Sv-2.6%, NiCo-Sv-4.2%, and NiCo-Sv7.7%, was performed by a three-electrode test system in 6 m KOH solution to assess the effects of composition, morphology, and enrichment of vacancies on the electrochemical performance of the electrodes ( Figure 4 ; Figure S17, Supporting Information). Cyclic voltammetry (CV) curves at a scan rate of 10 mV s - 1 were observed with a pair of symmetrical redox peaks, and typical CV curves were obtained for the Ni-S, NiCo-MOF, NiCo-S, NiCo-S, NiCo-Sv-2.6%, NiCo-Sv-4.2% and NiCo-Sv-7.7% electrodes in the window of a stable potential of 0-0.6 V (Figure 4a; Figure S17a, Supporting Information). [34] In contrast, the Co - Selectrode did not obtain a pair of redox peaks, but an intercalation pseudocapacitance similar to partial oxidation. [35] It is obvious that the NiCo-Sv-4.2% electrode is superior to other materials for the intensity of the redox peak and the area of the CV curve. This indicates that the construction of multi-level pore-structured electrodes (NiCo-Sv-2.6%, NiCo-Sv-4.2%, and NiCo-Sv-7.7%) enriched with sulfur vacancies by ingenious defect engineering has the effect of enhancing the electrical conductivity and ion transport rate compared to that of Ni - S, Co - S, NiCo-MOF, and NiCo - S, thus effectively improving their specific capacitance.
+
+16163028, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adfm.202315714 by li bai - Yunnan University Of , Wiley Online Library on [10/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+www.afm-journal.de
+
+Figure 4. Electrochemical performance test. The a) CV curves at 10 mV s - 1 and b) GCD curves at 1 A g - 1 of different electrodes. c)The GCD curves of NiCo-Sv-4.2% at different current densities. Comparison of d) Rate capacity, e) Cycling performance (NiCo-MOF, NiCo-S at 30 A g - 1 and other three electrodes at 50 A g - $^{1}$), and f) Fitted electrochemical impedance spectra of different electrodes. g) The CV curves of the NiCo-Sv-4.2% electrode at different scan rates. h) The plot of log ( i ) versus log ( v ) and i) Relationship between v 1/2 versus i/v 1/2 of the NiCo-Sv-4.2% electrode. j) Separation of the diffusion and capacitive-controlled currents of the NiCo-Sv-4.2% electrode at a scan rate of 10 mV s - $^{1}$. k) Relative contribution of the diffusion and capacitive-controlled charge storage at different scan rates for NiCo-Sv-4.2% electrode.
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+The optimal electrochemical performance of the electrode NiCo-Sv-4.2% was found by regulating the vacancy content. Moreover, NiCo-Sv-4.2% has a large GCD charge/discharge plateau, and its specific capacitance at 1 A g - 1 is 511.1 mA h g - $^{1}$, which was more than that of Ni-S, Co-S, NiCo-MOF, NiCo-S, NiCo-Sv-2.6%, and NiCo-Sv-7.7% (147.2, 71.7, 200.8, 306.4, 363.3, and 444.7 mA h g - $^{1}$, respectively) (Figure 4b; Figure S17b, Supporting Information). NiCo-Sv-4.2% (Figure 4c)had specific capacitances of 511.1, 481.1, 465, 445.8, 429.5, 411.1, 392.1, and 375.6 mA h g - 1 at 1, 2, 3, 5, 7, 10, 15, and 20 A g - $^{1}$, respectively, large than that of Ni-S, Co-S, NiCo-MOF, NiCo-S, NiCo-Sv-2.6%, and NiCo-Sv-7.7% (Figure 4d; Figure S17c and Table S6, Supporting Information). With a rising current density, the specific capacitance of the electrodes gradually diminishes, which may result from the electrode resistance and the relative lack of Faraday redox reactions at higher current densities. [36] Meanwhile, compared with other electrodes the NiCo-Sv-4.2% electrode demonstrated a stability of 89.7% after 10 000 cycles at a high current density of 50 A g - 1 in Figure 4e and Figure S17d (Supporting Information). Both high specific capacity retention and excellent cycling stability of the NiCo-Sv-4.2% electrode are attributed to its stable 2D porous nanosheet structure and the introduction of appropriate sulfur vacancies, which provide strong protection for ion transport at higher current densities. For further evaluation of the electrochemical performance, charge transfer and electrolyte diffusion processes were examined by electrochemical impedance spectroscopy (EIS) with an equivalent circuit insertion method (Figure 4f; Figure S17e and S18, and Table S7, Supporting Information). Charge-transfer resistances of Ni-S, Co-S, NiCo-MOF, NiCo-S, NiCo-Sv-2.6%, NiCo-Sv-4.2%, and NiCo-Sv-7.7% were 64.2, 2.26, 1.43, 0.6, 2.1, 0.42, and 0.44 Ω , respectively. The more accessible multilevel structure and the modulation of sulfur vacancies provide a larger effective contact area and abundant electrolyte active sites, which may explain the low resistance of NiCo-Sv-4.2%. In addition, the impedance and morphology of NiCo-Sv-4.2% electrodes were not altered after long charge/discharge cycles (Figure S19, Supporting Information). In Figure S20 (Supporting Information) it is observed that their elemental valence states also do not change significantly.
+
+For investigating the energy storage mechanism and reaction dynamics of Ni-S, Co-S, NiCo-MOF, NiCo-S, NiCo-Sv2.6%, NiCo-Sv-4.2%, and NiCo-Sv-7.7%, different scan rates of 140 mV s - 1 were tested for CV curves. The CV curves in Figure 4g all showed a pair of redox peaks, which suggested that the Faraday reaction had good reversibility. The CV curves of NiCo-Sv-2.6%, NiCo-Sv-7.7%, NiCo-S, NiCo-MOF, Ni-S, and Co-S at various scan rates were presented in Figures S21a-S26a (Supporting Information), respectively. To investigate the kinetics of the reaction, the relationship between the peak current ( i ) and the scan rate ( v ) was further evaluated: [37]
+
+i = av b
+
+(1)
+
+where a and b are constants. The slope of the log( v ) - log( i ) plot can be employed to determine the value of b, which offers crucial information on the charge storage kinetics. In general, the value of b is estimated to be 1 and 0.5, indicating the capacitive process and diffusion-controlled process, respectively. For NiCo-Sv-4.2% (Figure 4h), NiCo-Sv-2.6% (Figure S21c, Support-
+
+g Information), NiCo-Sv-7.7% (Figure S22c, Supporting Information), NiCo-S (Figure S23c, Supporting Information), NiCoMOF (Figure S24c, Supporting Information), Ni-S (Figure S25c, Supporting Information) and Co-S (Figure S26c, Supporting Information) electrodes, the b values were calculated to be 0.75, 0.79, 0.741, 0.696, 0.676, 0.695, and 0.974 for cathodic peak, and 0.638, 0.636, 0.737, 0.643, 0.676, 0.671, and 0.78 for anodic peak, respectively. These results indicate that NiCo-Sv-4.2%, NiCo-Sv-2.6%, NiCo-Sv-7.7%, NiCo-S, NiCo-MOF, and Ni-S prefer battery-like behavior, while Co-S prefers pseudocapacitive behavior. Additionally, the relative contribution of capacitive and diffusive control mechanisms was determined by using one of the following equations$^{[38]}$:
+
+where i ( v ) is current, v is the scan rate, k$_{1}$ and k$_{2}$ are constants. In order to estimate these parameters, a plot between v 1/2 and i/ v 1/2 was plotted as shown in Figure 4i and Figures S21d-S26d (Supporting Information). According to this plot, the values of the k$_{1}$ and k$_{2}$ parameters are determined by the slope of the fitted line and the y -axis intercept, respectively. As shown by CV curves in Figure 4j, the capacitive control process contributes 75.2% of the total capacity. In contrast, the capacitive control process accounts for 69.3% (NiCo-Sv-2.6%, Figure S21e, Supporting Information), 64.4% (NiCo-Sv-7.7%, Figure S221e, Supporting Information), 77.1% (NiCo-S, Figure S23e, Supporting Information), 86.1% (NiCo-MOF, Figure S24e, Supporting Information), 82.1% (Ni-S, Figure S25e, Supporting Information) and 58.8% (Co-S, Figure S26e, Supporting Information), respectively. The capacitive contributions of the different electrodes, increased gradually with increased scan rate (Figure 4k;FiguresS21f-S26f, Supporting Information), while the NiCo-Sv-4.2% electrode increased from 58.4% to 91.3% (from 1 to 40 mV s - $^{1}$). Moreover, as a result of the restricted diffusion of ions, the contribution of diffusioncontrolled processes is substantially lower. Importantly, the capacitance contribution of NiCo-Sv-4.2% is related to tight ion diffusion and rapid electron transport, indicating that the surface redox reaction process of NiCo-Sv-4.2% is the dominant process for charge storage at high scan rates.
+
+In summary, the following factors can be used to understand the high specific capacitance obtained for the NiCo-Sv-4.2% synthesized on carbon cloth: 1) As a flexible conductive substrate, the carbon cloth itself provides strong conditions for the solid growth of NiCo-Sv-4.2%; 2) Synergistic interactions between sulfided bimetals dominate; 3) Compared with the one-component metal sulfides, NiCo-S, NiCo-Sv-2.6%, and NiCo-Sv-7.7%, it has more electrically active sites and stronger electrical conductivity after being modulated by suitable sulfur vacancies, resulting in its enhanced electrochemical performance and lower electrochemical impedance. [39]
+
+To build the asymmetric supercapacitor (ASC) ( Figure 5 a), NiCo-Sv-4.2% was selected as the cathode electrode because of its superior electrochemical performance. The AC (activated carbon, Figure S27, Supporting Information) electrode served as the anode electrode, and a PVA/KOH mass ratio of 1:1 was employed as the electrolyte. A strong match with the asymmetric supercapacitor can be observed in Figure 5b, which displays the CV curves of NiCo-Sv-4.2% and AC at 10 mV s - 1 with no overlap
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+Figure 5. Electrochemical performance of the NiCo-Sv-4.2%//AC ASC. a) Schematic illustration of the assembled NiCo-Sv-4.2%//AC ASC. b) The NiCoSv-4.2% and AC CV curves at a scan rate of 10 mV s - 1 with different potential windows. c) CV curves at a scan rate of 60 mV s - 1 with different potential windows. d) CV curves at different scan rates from 20 to 100 mV s - $^{1}$. e) GCD curves at different current densities from 1 to 50 mA cm - $^{2}$.f)Areal capacities at different current densities. g) Cycling stability at a current density of 50 mA cm - $^{2}$. h) The EIS spectrum of the ASC device before/after cycling. i) The Ragone plot compared with those of other devices. j) CV and k) GCD curves of two ASC devices connected in series and parallel. l) CV curves of the ASC device under various bending states. m) ASC Schematic diagram of a series connection. n) Photograph of commercial LEDs of different voltage ranges powered by two ASCs devices in series(I-V). Photo of three ASCs devices in series lighting several LEDs (VI). Two ASC devices in series under bending and folding light up the LED (VII and VIII).
+
+in the CV curves or potential windows. The NiCo-Sv-4.2% and AC electrodes exhibit potential windows of 0-0.6 V and - 1.00 V, respectively. Figure 5c shows the CV curves as-assembled NiCo-Sv-4.2%//AC ASC device at potential windows ranging from 0-0.6 to 0-1.6 V and all the CV curves retained their shapes without deformation. Rapidly reversible charge/discharge characteristics are confirmed by CV curves that maintain their original shape without any distortion even at high scan rates of 100 mV s - 1 from 0 to 1.6 V (Figure 5d). A stable discharge curve was displayed by the GCD curve of NiCo-Sv-4.2%//AC ASC at current densities of 1 to 50 mA cm - 2 (Figure 5e) and its capacitive retention reached 91.2% (Figure 5f). It indicates the reversible electrochemical process and good capacity property of
+
+NiCo-Sv-4.2%//AC. The cycling stability was shown in Figure 5g and Figure S28 (Supporting Information), where the specific capacitance and Coulombic efficiency were maintained as high as 101% and 98.4%, respectively, after 15 000 cycles at a current density of 50 mA cm - $^{2}$. Before cycling the ASC had an low resistance, and after cycling it did not increase much (Figure 5h). The Ragone plot of NiCo-Sv-4.2%//AC ASC is depicted in Figure 5i, along with other devices used for comparison. The NiCo-S-4.2%//AC ASC device has an energy density with a power density of 0.8 mW cm - 2 for an energy density of 0.263 and 80 mW cm - 2 for an energy density of 0.0733 mWh cm - $^{2}$, compared to NiCo-N/GP//GOP (0.0478, 1.5 mW cm - $^{2}$),[40] Fe$_{2}$O$_{3}$/CF@Gs//NiO/CF@Gs (0.093, 30 mW cm - $^{2}$),[41]
+
+www.advancedsciencenews.com
+
+Figure 6. OER activity of the prepared electrodes. a) LSV profiles of the electrodes were obtained at a low scan rate of 5 mV s - $^{1}$. b) Tafel slopes of all the prepared electrodes. c) The corresponding ECSA values of different electrodes. d) Overpotential values of different electrodes are required to drive the current density of 50 mA cm - $^{2}$. e) Chronopotentiometry test performed on the NiCo-Sv-4.2% electrode at 50 mA cm - 2 for 32 h (The left insert plots show the LSV curves before and after cycling at a scan rate of 5 mV s - $^{1}$, and the right side shows the stability of the last 2 h).
+
+CoMoO$_{4}$@Co(OH)$_{2}$/CT//PAC (0.17, 1.50 mW cm - $^{2}$),[42] ZNCO/NF//VN/CC (0.185, 22.4 mW cm - $^{2}$),[43] Ag@NiCoLDHs/CC//AC (0.0788, 0.785 mW cm - $^{2}$),[44] CoN-Ni$_{3}$N/NC/CC//VN/CC (0.106 0.8 mW cm - $^{2}$),[45] Ni(OH)$_{2}$-NG//NG (0.0795, 3.9 mW cm - $^{2}$),[46] NiCo$_{2}$S$_{4}$//C (0.12, 0.80 mW cm - $^{2}$),[47] Ni(OH)$_{2}$/HGO//AC (0.1339, 3.772 mW cm - $^{2}$),[48] NiCoLDH/CP//AC (0.105, 2.46 mW cm - $^{2}$) [49] and P-Ni(OH)$_{2}$/NF//AC (0.102, 0.8 mW cm - $^{2}$).[50] To accommodate the bending needs of the ASC device, high operating voltage, and high current output in practice, a single ASC device is measured at different angles, and two devices are tested in series and parallel, respectively. Two ASC devices connected in series (Figure 5j) allow the operating voltage to be boosted from 1.6 to 3.2 V and the CV curve is shaped similarly to that of a single device. Additionally, it is obvious from parallel measurements of the two ASC devices that the overall amount of the CV curve at 60 mV s - 1 is roughly double that of the single ASC device. In addition, GCD profiles in series and parallel possess output voltages and charge/discharge rates that are almost twice as high as those of a single device, respectively, at a constant current density of 30 mA cm - 2 (Figure 5k). In Figure 5l and Figure S29 (Supporting Information), we can see that the CV curves of ASC also almost overlap at different folding angles. This is because the use of carbon cloth, an excellent flexible conductive substrate, gives ASC a bright future in flexible energy storage devices. As shown in Figure 5m, connect multiple ASCs in series to extend the voltage range. Two ASCs connected in series can power light-emitting diodes (LEDs) of different voltage ratings after charging the unit, as shown in Figure 5n-I-V. Three ASC devices connected in series can
+
+power multiple LEDs in Figure 5n-VI. In Figure 5n-VII,VIII, bending or folding the two ASC devices connected in series does not affect their ability to power LEDs.
+
+Furthermore, due to the excellent electrochemical performance of the electrodes, we examined the electrocatalytic activity of NiCo-Sv-4.2% samples for OER at 1 m KOH in a threeelectrode system and compared it with other prepared electrodes. The potentials for measuring the electrocatalytic activity were calibrated based on a reference reversible hydrogen electrode (RHE). Figures 6a and S30a (Supporting Information) show the linear scanning voltammograms (LSV) recorded at a slow scan rate of 5 mV s - 1 for all the prepared electrodes. The LSV of all electrodes showed small anodic peaks in the region of ≈ 1.151.6 V with regard to RHE, which was due to the oxidation of Ni and/or Co species (Ni 2 $^{+}$/Ni 3 + and Co 2 $^{+}$/Co 3 $^{+}$). [51] It was observed that the NiCo-Sv-4.2% electrode had the highest OER activity at lower starting overpotential values compared to all other electrodes. The Tafel slopes for all electrodes were derived from the Tafel equation ( 𝜂 = b log j + a , where j is the current density and b is the Tafel slope) for exploring the kinetics of catalytic reactions. The Tafel value of NiCo-Sv-4.2% is only 125.1 mV dec - 1 (Figure 6b; Figure S30b, Supporting Information) lower than that of the other electrodes, indicating that the electrodes with appropriate vacancy regulation provide better OER performance. The multi-level pore size and suitable sulfur vacancies of NiCo-Sv4.2% exhibit remarkable performance in both supercapacitor and OER applications, with the following structural advantages: The structure of the bimetallic sulfides remains stable after annealing in a hydrogen atmosphere, and the increased specific surface area
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+with sulfur vacancies provides more active sites and increases the accessibility of the electrolyte ions. This unique structure enriched with sulfur vacancies facilitates the deep diffusion of electrolyte ions, which activates more active sites. As a result, an increased number of electrochemical reactions occur, resulting in improved performance of the supercapacitor/OER. In addition, the presence of sulfur vacancies improves the original electronic structure arrangement of NiCo-S, leading to enhanced electrical conductivity of the material. Therefore, the structural sustainability of NiCo-Sv-4.2% in both supercapacitor/OER stability tests is highly desirable. Moreover, the double layer capacitance ( C$_{dl}$ ) was determined by electrochemically active surface area (ECSA, Figure S31, Supporting Information). Based on the measured results, NiCo-Sv-4.2% has the highest C$_{dl}$ (54.4 mF cm - $^{2}$, Figure 6c; Figure S30c, Supporting Information), which demonstrates the abundance of electrochemically active sites on the NiCo-Sv-4.2% electrode for OER electrocatalysis, and thus excellent electrocatalytic performance. The overpotential values of all electrodes are displayed as bar graphs in Figure 6d and Figure S30d (Supporting Information). The NiCo-Sv-4.2% electrode requires an overpotential value of only 317 mV to provide a current density of 50 mA cm - $^{2}$. Meanwhile, other electrodes such as Ni-S, CoS, NiCo-MOF, NiCo-S, NiCo-Sv-2.6%, and NiCo-Sv-7.7% have relatively high overpotential values of 469, 457, 441, 419, 337, and 323 mV to provide the same current density. At a potential of 1.567 V for 32 h and a current density of approximately 50 mA cm - $^{2}$, there was no significant decay in the i -t curve of NiCo-Sv-4.2% (Figure 6e). The LSV curve of NiCo-Sv-4.2% after the i--t test was consistent with that before the i -t test (inset of Figure 6e), which also illustrated the catalytic stability.
+
+## 3. Conclusion
+
+In conclusion, based on DFT calculations, we designed a method for the in situ fabrication of NiCo-Sv-x nanosheets on flexible carbon cloth using NiCo-MOF as a precursor. Benefiting from the layered porous structure and sulfur vacancies, NiCo-Sv-4.2% nanosheets show high electronic conductivity and excellent electrochemical performance (With a high specific capacitance of 511.1 mA h g - 1 at 1 A g - 1 and a low overpotential of 317 mV at 50 mA cm - $^{2}$). The vacancy modulation of NiCo-Sv-4.2% resulted in a stable operation at 1.567 V for 32 h without significant decay in the i -t curve. In addition, flexible quasi-solid-state ASCs with a maximum operating voltage of 1.6 V were successfully assembled using NiCo-Sv-4.2% cathode and AC anode. The as-fabricated ASCs exhibit the highest energy density of 0.263 mWh cm - $^{2}$,a power density of 80 mW cm - $^{2}$, and remarkable cycling stability at high current densities. A reliable technique for constructing solid flexible electronic devices in various energy storage devices is provided by this work.
+
+## 4. Experimental Section
+
+For experimental details see Supporting Information.
+
+## Supporting Information
+
+Supporting Information is available from the Wiley Online Library or from the author.
+
+## Acknowledgements
+
+J.G., H.Z., and Z.Y. contributed equally to this work. The work was financially supported by the National Natural Science Foundation of China (52272212), the Natural Science Foundation of Shandong Province (ZR2022JQ20, ZR2021YQ04, ZR2023MB126), the Taishan Scholar Project of Shandong Province (tsqn202211168), and the Key Laboratory of Opticelectric Sensing and Analytical Chemistry for Life Science, MOE (M20227). The authors would like to thank Shiyanjia Lab (www.shiyanjia.com)for the XPS and TEM analysis.
+
+## Conflict of Interest
+
+The authors declare no conflict of interest.
+
+## Data Availability Statement
+
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+
+## Keywords
+
+electrochemical performance, oxygen evolution reaction, sulfur vacancies, supercapacitor, transition bimetallic sulfides
+
+Received: December 10, 2023 Revised: February 2, 2024 Published online:
+
+[1] a) Y. Wang, P. Yang, L. Zheng, X. Shi, H. Zheng, Energy Stor. Mater. 2020 , 26 , 349; b) L. Zheng, F. Teng, X. Ye, H. Zheng, X. Fang, Adv. Energy Mater. 2020 , 10 , 1902355; c) J. Huang, S. Han, J. Zhu, Q. Wu, H. Chen, A. Chen, J. Zhang, B. Huang, X. Yang, L. Guan, Adv. Funct. Mater. 2022 , 32 , 2205708; d) H. Xia, Z. Lv, W. Zhang, J. Wei, L. Liu, S. Cao, Z. Zhu, Y. Tang, X. Chen, Adv. Mater. 2022 , 34 , 2109857; e) Y. Liu, C.-H. Liu, T. Debnath, Y. Wang, D. Pohl, L. V. Besteiro, D. M. Meira, S. Huang, F. Yang, B. Rellinghaus, M. Chaker, D. F. Perepichka, D. Ma, Nat. Commun. 2023 , 14 , 541; f) X. Zhou, F. Liu, Y. Wang, Y. Yao, Y. Shao, X. Rui, F. Wu, Y. Yu, Adv. Energy Mater. 2022 , 12 , 2202323.
+
+[2] a)Y.Tan,Z.Chen,Z.Tao,A.Wang,S.Lai,Y.Yang, Angew. Chem., Int. Ed. 2023 , 62 , e202217744; b) W. Li, C. Liu, C. Gu, J.-H. Choi, S. Wang, J. Jiang, J. Am. Chem. Soc. 2023 , 145 , 4774; c) X. Feng, R. Zheng, C. Gao, W. Wei, J. Peng, R. Wang, S. Yang, W. Zou, X. Wu, Y. Ji, H. Chen, Nat. Commun. 2022 , 13 , 2146.
+
+[3] a)H.B.Wu,X.W.Lou, Sci. Adv. 2017 , 3 , eaap9252; b) S. V. Sadavar, N. S. Padalkar, R. B. Shinde, A. S. Patil, U. M. Patil, V. V. Magdum, Y. M. Chitare, S. P. Kulkarni, S. B. Kale, R. N. Bulakhe, D. S. Bhange, S. T. Kochuveedu, J. L. Gunjakar, Energy Stor. Mater. 2022 , 48 , 101; c) M. Liu, N. Li, S. Cao, X. Wang, X. Lu, L. Kong, Y. Xu, X. H. Bu, Adv. Mater. 2022 , 34 , 2107421.
+
+[4] a)M.B.Stevens,M.Anand,M.E.Kreider,E.K.Price,J.Z.Zeledón, L. Wang, J. Peng, H. Li, J. M. Gregoire, J. Hummelshøj, T. F. Jaramillo, H. Jia, J. K. Nørskov, Y. Roman-Leshkov, Y. Shao-Horn, B. D. Storey, S. K. Suram, S. B. Torrisi, J. H. Montoya, Energy Environ. Sci. 2022 , 15 , 3775; b) Y. S. Wei, L. Zou, H. F. Wang, Y. Wang, Q. Xu, Adv. Energy Mater. 2022 , 12 , 2003970; c) W. Wang, Y. Wang, R. He, X. Wang, Z. Shen, X. Han, A. Bachmatiuk, W. Wen, M. H. Rümmeli, P. Liu, M. Zeng, L. Fu, Adv. Mater. 2022 , 34 , 2106400; d) W. Wang, H. Yan, U. Anand, U. Mirsaidov, J. Am. Chem. Soc. 2021 , 143 , 1854; e) X. Liu, R. Guo, W. Huang, J. Zhu, B. Wen, L. Mai, Small 2021 , 17 , 2100629; f)
+
+Y. Hao, E. K. Papazyan, Y. Ba, Y. Liu, ACS Catal. 2021 , 12 , 363; g) P. Jin, L. Wang, X. Ma, R. Lian, J. Huang, H. She, M. Zhang, Q. Wang, Appl. Catal. B 2021 , 284 , 119762; h) Z. X. Fang, C. Wang, Y. L. Wei, Q. Y.Wang,S.Q.Zang, Small 2023 , 19 , 2300157; i) H. Li, H. Zhang, F. Wu, M. Zarrabeitia, D. Geiger, U. Kaiser, A. Varzi, S. Passerini, Adv. Energy Mater. 2022 , 12 , 2202293.
+
+[5] a) J. Gautam, Y. Liu, J. Gu, Z. Ma, J. Zha, B. Dahal, L. N. Zhang, A. N. Chishti, L. Ni, G. Diao, Y. Wei, Adv. Funct. Mater. 2021 , 31 , 2106147; b) J. Ye, T. Chen, Q. Chen, W. Chen, Z. Yu, S. Xu, J. Mater. Chem. A 2016 , 4 , 13194; c) S. Liu, L. Kang, J. Hu, E. Jung, J. Henzie, A. Alowasheeir, J. Zhang, L. Miao, Y. Yamauchi, S. C. Jun, Small 2022 , 18 , 2104507; d) J. Liu, X. Meng, J. Xie, B. Liu, B. Tang, R. Wang, C. Wang, P. Gu, Y. Song, S. Huo, J. Zou, Adv. Funct. Mater. 2023 , 33 , 2300579; e) T. Xu, G. Li, X. Yang, Z. Guo, L. Zhao, Chem. Eng. J. 2019 , 362 , 783.
+
+[6] Q. Song, Z. Wu, Y. X. Wang, S. X. Dou, J. Yang, Adv. Energy Mater. 2023 , 13 , 2300739.
+
+[7] W. Yang, C. Zhang, S. Du, B. Jiang, C. Wang, H. Bai, Z. Li, G. Huang, Y. Li, Adv. Energy Mater. 2022 , 12 , 2202286.
+
+[8] H.Su,S.Song,Y.Gao,N.Li,Y.Fu,L.Ge,W.Song,J.Liu,T.Ma, Adv. Funct. Mater. 2022 , 32 , 2109731.
+
+[9] a) X. Dai, X. Wang, G. Lv, Z. Wu, Y. Liu, J. Sun, Y. Liu, Y. Chen, Small 2023 , 19 , 2302267; b) L. Kang, M. Zhang, J. Zhang, S. Liu, N. Zhang, W. Yao, Y. Ye, C. Luo, Z. Gong, C. Wang, X. Zhou, X. Wu, S. C. Jun, J. Mater. Chem. A 2020 , 8 , 24053; c) Z. Zhao, H. Chen, W. Zhang, S. Yi, H. Chen, Z. Su, B. Niu, Y. Zhang, D. Long, Materials Advances 2023 , 4 , 835.
+
+[10] X. Wang, J. Wu, Y. Zhang, Y. Sun, K. Ma, Y. Xie, W. Zheng, Z. Tian, Z. Kang, Y. Zhang, Adv. Mater. 2023 , 35 , 2206576.
+
+[11] H. Li, C. Tsai, A. L. Koh, L. Cai, A. W. Contryman, A. H. Fragapane, J. Zhao, H. S. Han, H. C. Manoharan, F. Abild-Pedersen, J. K. Nørskov, X. Zheng, Nat. Mater. 2015 , 15 , 48.
+
+[12] J. Guo, H. Zhao, Z. Yang, Y. Wang, X. Liu, L. Wang, Z. Zhao, A. Wang, L. Ding, H. Liu, X. Yu, Nano Energy 2023 , 116 , 108763.
+
+[13] H. Ding, H. Liu, W. Chu, C. Wu, Y. Xie, Chem. Rev. 2021 , 121 , 13174.
+
+[14] a) F. Wang, R. Zhang, Y. Zhang, Y. Li, J. Zhang, W. Yuan, H. Liu, F. Wang, H. L. Xin, Adv. Funct. Mater. 2023 , 33 , 2213863; b) F. Wang, P. Zou, Y. Zhang, W. Pan, Y. Li, L. Liang, C. Chen, H. Liu, S. Zheng, Nat. Commun. 2023 , 14 , 6019; c) J. Qin, H. Liu, P. Zou, R. Zhang, C. Wang, H. L. Xin, J. Am. Chem. Soc. 2022 , 144 , 2197.
+
+[15] G. Glenk, S. Reichelstein, Nat. Energy 2019 , 4 , 216.
+
+[16] a) Z. Guo, X. Wang, Angew. Chem., Int. Ed. 2018 , 57 , 5898; b) C. Zhang, X. Cai, Y. Qian, H. Jiang, L. Zhou, B. Li, L. Lai, Z. Shen, W. Huang, Adv. Sci. 2018 , 5 , 1700375; c) Q. Liu, X. Hong, X. Zhang, W. Wang,W.Guo,X.Liu,M.Ye, Chem. Eng. J. 2019 , 356 , 985.
+
+[17] R. Li, S. Wang, Z. Huang, F. Lu, T. He, J. Power Sources 2016 , 312 , 156.
+
+[18] J. Wang, J. Liang, Y. Lin, K. Shao, X. Chang, L. Qian, Z. Li, P. Hu, Chem. Eng. J. 2022 , 446 , 137368.
+
+[19] J. Gong, W. Luo, Y. Zhao, M. Xie, J. Wang, J. Yang, Y. Dai, Chem. Eng. J. 2022 , 434 , 134640.
+
+[20] T. Zhu, G. Zhang, T. Hu, Z. He, Y. Lu, G. Wang, H. Guo, J. Luo, C. Lin, Y. Chen, J. Mater. Sci. 2015 , 51 , 1903.
+
+[21] R. Liu, S. Xu, X. Shao, Y. Wen, X. Shi, L. Huang, M. Hong, J. Hu, Z. Yang, ACS Appl. Mater. Interfaces 2021 , 13 , 47717.
+
+[22] a) X. Luo, L. Qiao, S. Zhang, Q. Li, Y. Liao, S. Rao, H. Liu, Y. Zhao, Appl. Surf. Sci. 2022 , 601 , 154184; b) X. Li, Y. Sun, J. Xu, Y. Shao, J. Wu, X. Xu, Y. Pan, H. Ju, J. Zhu, Y. Xie, Nat. Energy 2019 , 4 , 690.
+
+[23] X.Wang,R.Zhou,C.Zhang,S.Xi,M.W.M.Jones,T.Tesfamichael, A.Du,K.Gui,K.Ostrikov,H.Wang, J. Mater. Chem. A 2020 , 8 , 9278.
+
+[24] J.Chen,S.Feng,T.Yu,Y.Zou,H.Wen,S.Yin, Chin. J. Struct. Chem. 2023 , 42 , 100168.
+
+[25] K. Wang, J. Wu, S. Zheng, S. Yin, Chin. J. Struct. Chem. 2023 , 42 , 100104.
+
+[26] a) K. Wan, J. Luo, C. Zhou, T. Zhang, J. Arbiol, X. Lu, B. W. Mao, X. Zhang, J. Fransaer, Adv. Funct. Mater. 2019 , 29 , 1900315; b) Q. Liu, L. Xie, Z. Liu, G. Du, A. M. Asiri, X. Sun, Chem. Commun. 2017 , 53 , 12446.
+
+[27] S.Yang,Y.Liu,Y.Hao,X.Yang,W.A.Goddard,X.L.Zhang,B.Cao, Adv. Sci. 2018 , 5 , 1700659.
+
+[28] L. Wang, X. Jiao, P. Liu, Y. Ouyang, X. Xia, W. Lei, Q. Hao, Appl. Surf. Sci. 2018 , 427 , 174.
+
+[29] T. Wang, H. C. Chen, F. Yu, X. S. Zhao, H. Wang, Energy Stor. Mater. 2019 , 16 , 545.
+
+[30] J. Zhang, Y. Li, X. Liang, Q. Liu, Q. Chen, M. Chen, Small 2022 , 18 , 2106074.
+
+[31] L. Yu, L. Zhang, H. B. Wu, X. W. Lou, Angew. Chem., Int. Ed. 2014 , 53 , 3711.
+
+[32] M. Zhang, H. Liu, Z. Song, T. Ma, J. Xie, Chem. Eng. J. 2020 , 392 , 123669.
+
+[33] Z. Zhang, S. Sun, Z. Xu, S. Yin, Small 2023 , 19 , 2302479.
+
+[34] W. Fu, C. Zhao, W. Han, Y. Liu, H. Zhao, Y. Ma, E. Xie, J. Mater. Chem. A 2015 , 3 , 10492.
+
+[35] Y. Gogotsi, R. M. Penner, ACS Nano 2018 , 12 , 2081.
+
+[36] G. Wang, J. Huang, S. Chen, Y. Gao, D. Cao, J. Power Sources 2011 , 196 , 5756.
+
+[37] a) Q. Li, W. Lu, Z. Li, J. Ning, Y. Zhong, Y. Hu, Chem. Eng. J. 2020 , 380 , 122544; b) Y. Liu, N. Fu, G. Zhang, M. Xu, W. Lu, L. Zhou, H. Huang, Adv. Funct. Mater. 2017 , 27 , 1605307.
+
+[38] D.Zhao,H.Liu,X.Wu, Nano Energy 2019 , 57 , 363.
+
+[39] L. X. Zheng, J. L. Song, X. Y. Ye, Y. Z. Wang, X. W. Shi, H. J. Zheng, Nanoscale 2020 , 12 , 13811.
+
+[40] F. Liu, L. Zeng, Y. Chen, R. Zhang, R. Yang, J. Pang, L. Ding, H. Liu, W. Zhou, Nano Energy 2019 , 61 , 18.
+
+[41] F. Zeng, X. Song, J. Liang, X. Zhang, X. Sha, X. Wu, H. Zhou, Z. Liu, W. Wu, C. Jiang, J. Mater. Chem. A 2022 , 10 , 25148.
+
+[42] G. K. Veerasubramani, A. Chandrasekhar, M. S. P Sudhakaran, Y. S. Mok, S. J. Kim, J. Mater. Chem. A 2017 , 5 , 11100.
+
+[43] Z. Wu, H. Li, H. Li, B. Yang, R. Wei, X. Zhu, X. Zhu, Y. Sun, Chem. Eng. J. 2022 , 444 , 136597.
+
+[44] S. C. Sekhar, G. Nagaraju, J. S. Yu, Nano Energy 2017 , 36 , 58.
+
+[45] K. Li, B. Zhao, H. Zhang, H. Lv, J. Bai, H. Ma, P. Wang, W. Li, J. Si, X. Zhu, Y. Sun, Adv. Funct. Mater. 2021 , 31 , 2103073.
+
+[46] H. Xie, S. Tang, D. Li, S. Vongehr, X. Meng, ChemSusChem 2017 , 10 , 2301.
+
+[47] W. Kong, C. Lu, W. Zhang, J. Pu, Z. Wang, J. Mater. Chem. A 2015 , 3 , 12452.
+
+[48] X. Wu, F. Zeng, X. Song, X. Sha, H. Zhou, X. Zhang, Z. Liu, M. Yu, C. Jiang, Chem. Eng. J. 2023 , 456 , 140947.
+
+[49] X. Wang, X. Li, X. Du, X. Ma, X. Hao, C. Xue, H. Zhu, S. Li, Electroanalysis 2017 , 29 , 1286.
+
+[50] K. Li, S. Li, F. Huang, Y. Lu, L. Wang, H. Chen, H. Zhang, Appl. Surf. Sci. 2018 , 428 , 250.
+
+[51] H. Liang, A. N. Gandi, D. H. Anjum, X. Wang, U. Schwingenschlögl, H. N. Alshareef, Nano Lett. 2016 , 16 , 7718.

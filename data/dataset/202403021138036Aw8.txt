@@ -1,0 +1,154 @@
+## ABSTRACT
+
+Urea electrolysis is an effective way to replace water splitting for H$_{2 }$generation, which is expected to achieve carbon neutralization. However, problems such as high energy consumption and slow urea oxidation kinetics have hindered its rapid development. In this study, a series of foreign element modified NiCoP-based catalysts were in-situ grown on Ni foam through hydrothermal process, solvothermal method and low temperature phosphating method. The morphology of the electrode was regulated by changing the impregnation elements. It was found that Mo$_{3}$P@NiCoP/NF has rich active sites and small impedance, which makes it have excellent urea oxidation reaction (UOR) and hydrogen evolution reaction (HER) property. At a current density of 10 mA cm GLYPH<0> $^{2}$, the potential of UOR is 1.206 V, and the overpotential of HER is 90 mV. The assembled Mo$_{3}$P@NiCoP/NF / / Mo$_{3}$P@NiCoP/NF cell demands only a potential of 1.285 V to drive a current density of 10 mA cm GLYPH<0> $^{2}$, and presents good durability within 12 h, which is one of the best electrochemistry activity and stability reported to date. Density functional theory suggests that NiCoP improves the reaction rate of this Mo$_{3}$P@NiCoP/NF catalyst, and Mo$_{3}$P enhances the metallicity of this catalyst, thereby enhancing the catalytic performance of Mo$_{3}$P@NiCoP/NF.
+
+## 1. Introduction
+
+For the past few years, environmental pollution caused by excessive collection of non-renewable energy has seriously affected the normal development of human society [1 -6]. Therefore, the search for efficient and zero-emission renewable energy sources to replace coal, oil and other non-renewable energy sources is the general trend [7 -10]. Renewable hydrogen energy has been widely concerned and applied in practical production, and water splitting for H$_{2 }$generation is one of the greenest, high-yield and most promising hydrogen production methods among various hydrogen production methods [11 -14]. What is noteworthy is that the oxygen evolution reaction (OER), as the half-reaction of water electrolysis, requires complex four-electron transfer and is a slow step in the entire electrochemical process [15 -17]. Considering the low availability of pure water, it is found that the urea oxidation reaction (UOR) requires only the small theoretical voltage (0.37 V vs RHE), which is much lower than the 1.23 V of OER (vs RHE) [18 -20]. In addition, urea is cheap and easy to obtain, and hydrogen production from electrolytic urea can also purify industrial wastewater containing
+
+Available online 16 February 2024 0016-2361/© 2024 Elsevier Ltd. All rights reserved. Received 17 December 2023; Received in revised form 23 January 2024; Accepted 13 February 2024
+
+urea to purify the environment [21,22]. Therefore, it is a promising choice to use urea solution instead of water as electrolytic raw material to reconstruct the electrolytic system [23 -25].
+
+What is noteworthy is that UOR also has a relatively slow six-electron transfer process, which exhibits a high thermodynamic energy barrier and slow reaction kinetics [26 -28]. Therefore, there is an urgent need for designing and using efficient catalysts to accelerate electrolysis and reduce the energy consumption of electrolysis reactions [29,30]. Currently, Ir- and Ru-based catalysts are still the most efficient catalysts for UOR [31,32], but their high costs have seriously affected their commercial and industrial applications, leading to a gradual shift in research direction towards cheap and abundant transition-metal-based catalysts, such as Co [33,34], Ni [35,36], Fe [37], Cr [38], Zn [39] and Mo [40]-based catalysts. Among these catalysts, low-cost transition metal phosphides (TMPs) exhibit superior electrocatalytic performance [41]. The catalytic performance of TMPs has been reduced to some extent because the active components of TMPs are easily detached during urea electrolysis resulting in poor stability [42,43]. For this reason, doping exogenous elements or building non-homogeneous
+
+Li et al.
+
+Scheme 1. Schematic illustration for the synthesis processes of foreign element modified NiCoP-based catalysts.
+
+Fig. 1. XRD patterns of the foreign element modified NiCoP-based catalysts.
+
+structures have been developed as promising strategies [44,45]. Li et al. doped Cr atoms into CoP to further promote the electrochemistry performance by modulating the electronic structure of the catalysts [46]. Zhang et al. doped Mo atoms into NiCoP to increase the adsorption energy and electrical conductivity of the catalysts, which result in the promotion of the catalysts for urea and water electrolysis activities [47]. Dong et al. optimised the electronic structure and absorption/desorption energy of the surface and thus enhanced the catalytic performance by solution impregnation of F-doped TMPs to induce the formation of an active hydroxide layer [48]. However, despite the great efforts of the scientist, both performance and durability need to be further breakthroughs. Based on the above advantages expected, the solution impregnation method was used to rationally modulate the electronic structure of TMPs to enhance the catalytic performance and durability of TMPs.
+
+Under the above background, a series of foreign element modified NiCoP-based catalysts were in-situ grown on Ni foam through hydrothermal process, solvothermal method and low temperature phosphating method for efficient UOR and HER bifunctional electrocatalysts. The optimized Mo$_{3}$P@NiCoP/NF catalyst display cactus-like nanostructures on the surface, which increased the electrochemical surface area and provided more active sites, so that it had excellent UOR and HER performance. At a current density of 10 mA cm GLYPH<0> $^{2}$, the potential of UOR was 1.206 V, and the overpotential of HER was 90 mV, which is one of the best electrochemistry performance reported up to now. The assembled Mo$_{3}$P@NiCoP/NF//Mo$_{3}$P@NiCoP/NF demands only a potential of 1.285 V to obtain a current density of 10 mA cm GLYPH<0> $^{2}$, showing good stability within 12 h. Density functional theory suggests that NiCoP improves the reaction rate of this catalyst, and Mo$_{3}$P enhances the metallicity of this catalyst, thereby enhancing the catalytic performance of Mo$_{3}$P@NiCoP/NF. This paper delivers a novel strategy for the
+
+Fig. 2. SEM patterns of Cr-NiCoP/NF (a and b), Mo$_{3}$P@NiCoP/NF (c and d), WNiCoP/NF (e and f) and NiCoP/NF (g and h).
+
+preparation of robust bifunctional UOR and HER electrodes for energysaving H$_{2 }$generation and urea purification.
+
+## 2. Experimental section
+
+## 2.1. Preparation of Ni-Co precursor
+
+Before synthesizing the materials, the Ni foam (NF, 3 × 6 cm$^{2}$) was first treated (ultrasound) in 3 M HCl solution and ethanol for 10 min, respectively, and then washed and dried with deionised water and ethanol to complete the pretreatment of the NF. The specific steps for the synthesis of Ni-Co precursors on pretreated NF were as follows: firstly,
+
+Li et al.
+
+Fig. 3. (a-b) TEM diagrams of Mo$_{3}$P@NiCoP/NF; (c) HR-TEM diagram of Mo$_{3}$P@NiCoP/NF. (d) EDS elemental mapping of Mo$_{3}$P@NiCoP/NF.
+
+the four drugs Ni(NO$_{3}$)$_{2}$ · 6H$_{2}$O (0.915 g), Co(NO$_{3}$)$_{2}$ · 6H$_{2}$O (1.164 g), urea (1.2 g) and NH$_{4}$F (0.56 g) were uniformly dispersed in 60 mL of deionised water, and then the process was carried out with pretreated NF in above solution at 120 · C for 6 h. The reaction was chilled to 25 · C at the end of the reaction, and the Ni-Co precursor was taken out, cleaned with deionised water and acetone, and left to dry in vacuum before being prepared for storage.
+
+## 2.2. Synthesis of X (X = Mo, Cr and W)-Ni-Co precursor
+
+The above-prepared Ni-Co precursors were impregnated in uniform 10 mmol/L Cr(NO$_{3}$)$_{3 }$solution, Na$_{2}$MoO$_{4 }$solution and Na$_{2}$WO$_{4 }$solution, respectively, at 60 · C for 6 h. After the impregnation was completed, the precursors were vacuum dried and set aside.
+
+## 2.3. Synthesis of the foreign element modified NiCoP-based catalysts
+
+In order to synthesize the foreign element modified NiCoP-based catalysts, the precursors prepared as described above and NaH$_{2}$PO$_{2 }$ (1.0 g) were placed downstream and upstream of the ceramic vessel, respectively, and annealed at 300 · C for 2 h by low-temperature phosphating in N$_{2 }$atmosphere at a ramp rate of 2 · C per minute, and then cooled down to 25 · C to get foreign element modified NiCoP-based catalysts. For comparison, a set of non-immersed NiCoP/NF was simultaneously synthesized as a blank control group following the above procedure.
+
+## 2.4. Electrochemical tests
+
+Electrocatalytic tests (UOR, HER and overall urea splitting) were performed using an electrochemical workstation CHI660e. UOR and HER were tested through a three-electrode device, with Hg / HgO as the reference electrode, graphite rod as the counter electrode, and the prepared foreign element modified NiCoP-based catalysts (1 cm * 1 cm) as the working electrode. It should be noted that the three electrodes should be the same height when tested under the condition of 1.0 M KOH + 0.5 M urea. The polarization curves of UOR and HER at a scan rate of 5 mV s GLYPH<0> $^{1 }$were obtained by linear sweep voltammetry (LSV). The measured potential was converted to a reversible hydrogen electrode
+
+potential by the Nernst equation (E $_{(RHE) }$ = E $_{(Hg / HgO) }$ + 0.098 + 0.059 × pH) [49]. The non-faradaic potential range of 0.02 -0.12 V was selected to assess the double-layer capacitance (C$_{dl}$) in the scanning rate range of 20 -100 mV s GLYPH<0> $^{1 }$for cyclic voltammetry (CV), and on this basis, ECSA (ECSA = C$_{dl }$/ C$_{s}$, C$_{s }$ = 0.04 mF cm GLYPH<0> $^{2}$) [50]was obtained. The value was calculated by Tafel formula ( η = blog j + a) to obtain Tafel slope [7]. The electrochemical impedance spectroscopy (EIS) of UOR and HER was collected in the range of 10 GLYPH<0> $^{1 }$Hz to 10$^{5 }$Hz with amplitude of 50 mV. The durability of the samples was tested by the chronoamperometric measurement. At the same time, the performance of the whole urea electrolysis was also tested by the double electrode system in the above electrolyte, and the double electrodes were at the same height during the test.
+
+## 3. Results and discussion
+
+## 3.1. Characterizations of the materials
+
+Scheme 1 summarizes the in situ synthesis of foreign element modified NiCoP-based catalysts on NF substrates. The first step was the synthesis of Ni-Co precursors by hydrothermal method in a mixed solution containing Ni 2 + and Co 2 + . Notably, ureophil is identified as a precipitating agent. During the process of reaction, ureophil dissociates hydroxide and carbonate ions, and form a precipitate with metal ions. Then the Ni-Co precursors were uniformly impregnated with Cr(NO$_{3}$)$_{3}$, Na$_{2}$MoO$_{4 }$ and Na$_{2}$WO$_{4 }$ solutions, respectively, and then recovered for spare parts. Finally, the desired electrocatalysts were synthesized from the Ni-Co precursors by low-temperature phosphorylation. What is noteworthy is that owing to the generation of toxic phosphine gas in the phosphating process, we will use a self-made absorption device in the laboratory to absorb harmful gases in the process of the experiment. The detailed steps are presented in the preparation section.
+
+The resulting electrocatalysts were characterized by X-ray diffraction (XRD) so as to obtain their physical phase and crystalline state. Fig. 1 illustrates the XRD analysis of the resulting electrocatalysts. It can be noted that the strong characteristic peaks at 44.5 · , 51.6 · and 76.4 · point to the NF (JCPDS 04 -0850), which is assigned to the (111), (200) and (220) crystal planes of the NF, respectively. Diffraction peaks located at 32.0 · , 35.5 · , 41.0 · , 47.6 · , 54.4 · , and 54.7 · in the figure correspond to
+
+Li et al.
+
+Fig. 4. High-resolution scans of XPS a) survey, b) Co 2p, c) Ni 2p, d) Mo 3d, e) O 1 s, and f) P 2p in Mo$_{3}$P@NiCoP/NF and NiCoP/NF.
+
+the (101), (200), (111), (210), (300), and (002) crystal planes of NiCoP (JCPDS 71 -2336), respectively. In addition, the characteristic peaks located at 33.1 · , 39.0 · , and 59.7 · correspond to the (301), (330), and (620) crystal faces of Mo$_{3}$P (JCPDS 89 -2587), respectively. It is worth mentioning that no hybrid peaks were observed, proving that a series of foreign element modified NiCoP-based catalysts were successfully synthesized. What is noteworthy is that due to the electronic interaction between the impregnation X and NiCoP, the crystal structure of the catalyst is changed, which will lead to a change in the characteristic peak.
+
+surface of the electrodes without transition elements. However, compared with the catalyst prepared by adding of Mo, the number of nanostructures is less. In summary, the cactus-like nanostructure of the Mo$_{3}$P@NiCoP/NF catalyst provides more open space and more transfer access, thereby promoting the mass transfer rate of electrolyte and reactant. The mass percentage of the element for Mo$_{3}$P@NiCoP/NF electrode was researched with EDS spectroscopy (Fig. S1 and Table S1), and it was found that the element Mo was successfully introduced into the catalyst.
+
+The chemical composition and oxidation state information of Mo$_{3}$P@NiCoP/NF and NiCoP/NF catalyst were further performed by Xray photoelectron spectroscopy (XPS). Fig. 4a is a XPS full spectrum of
+
+In addition, the TEM diagrams of Fig. 3 also confirm the cactus-like nanostructure of Mo$_{3}$P@NiCoP/NF, and further analyze the lattice information of Mo$_{3}$P@NiCoP/NF. Fig. 3a and 3b are TEM images (200 nm and 50 nm) of cactus flake nanostructures at low magnification, respectively. Fig. 3c is a high-resolution transmission electron microscope (HR-TEM) diagram, in which the lattice fringes of 0.25 nm correspond to the (200) crystal plane of NiCoP and the lattice fringes of 0.27 nm correspond to the (301) crystal plane of Mo$_{3}$P. This is a match with the XRD findings, confirming the successful synthesis of Mo$_{3}$P@NiCoP/NF materials. The EDS spectra of Mo$_{3}$P@NiCoP/NF catalyst (Fig. 3d) show that Mo, Co, Ni and P elements are successfully present in the cactus flake nanostructures.
+
+Fig. 2a-h further shows the nanostructure (10 μ m and 1 μ m) of the prepared electrode, from which we can observe that the morphology of foreign element modified NiCoP-based catalysts has changed. Among them, due to the addition of Cr, the surface of the prepared electrode is etched to form a rough surface of granular nanoarrays (Fig. 2a and b). The addition of Mo makes the surface of the prepared electrode grow a large number of cactus-like nanostructures (Fig. 2c and d), enhancing mass transfer rate. The addition of W also led to the growth of cactus-like nanostructures on the surface of the electrodes (Fig. 2e and f). However, compared with the catalyst prepared by adding of Mo, the cactus-like nanostructures were thicker and the nanostructures were stacked, which reduced the mass transfer rate of electrolyte and reactant, resulting in the entry of liquid and the slow diffusion rate of gas. The cactus-like nanostructures (Fig. 2g and h) were also grown on the
+
+Li et al.
+
+Fig. 5. Polarization curves after iR correction (70 %) (a), Potentials histogram (b), Tafel fitting curves (c), C$_{dl }$(d), Nyquist plots (e) and stability test of 12 h for UOR (f).
+
+Mo$_{3}$P@NiCoP/NF and NiCoP/NF material, showing the presence of Mo, Ni, Co and P elements in the prepared material, which corresponds to the EDS results. In the XPS diagram of Co 2p (Fig. 4b), two strong peaks at 781.88 eV and 784.13 eV are corresponding to Co 3 + and Co 2 + of Co 2p$_{3/2}$, and two characteristic peaks at 798.59 eV and 802.04 eV are assigned to Co 3 + and Co 2 + of Co 2p$_{1/2}$, respectively. And the corresponding satellite peaks at 787.22 eV and 804.45 eV. In the XPS spectrum of Ni 2p (Fig. 4c), the two characteristic peaks at 857.05 eV and 875.02 eV belong to Ni 2p$_{3/2 }$and Ni 2p$_{1/2}$, and the corresponding satellite peaks at 861.73 eV and 880.97 eV. In the XPS diagram of Mo 3d of Mo$_{3}$P@NiCoP/NF catalyst (Fig. 4d), the strong peaks at 232.42 eV and 234.18 eV are attributed to Mo3d$_{5/2 }$and Mo3d$_{3/2}$. In the XPS diagram of O 1 s (Fig. 4e), the characteristic peak at 531.89 eV corresponds to the physically adsorbed water (Om) and the strong peak at 533.26 eV is assigned to the metal oxygen bond (Oa). In the XPS diagram of P 2p (Fig. 4f), the peak at 134.52 eV is attributed to the P-O bond. What is worth mentioning that due to the long-term exposure of the electrode to the air, the surface of the material oxidizes, so no signal of P 2p is detected. Due to addition of Mo, the binding energy of Ni, Co and P integrally shifted in the positive direction, demonstrating that the addition of Mo caused a change in the electron cloud configuration of the surrounding atoms. This means that there is an electronic interaction
+
+between Mo$_{3}$P and NiCoP, which is beneficial to adjust the adsorption of reaction intermediates and improve the conductivity, thereby improving the catalytic activity [51 -54].
+
+## 3.2. Electrochemical performance of the foreign element modified NiCoPbased catalysts
+
+Based on the results of the above structural characterization analysis, we continued to analyze the UOR activity of the prepared foreign element modified NiCoP-based catalysts in 1 M KOH and 0.5 M urea electrolyte. Fig. 5a is the LSV curve of the foreign element modified NiCoP-based catalysts. It can be clearly seen that at the same potential, compared with Cr-NiCoP/NF, W-NiCoP/NF and NiCoP/NF, Mo$_{3}$P@NiCoP/NF electrode can drive higher current density, so it has the best UOR activity in electrolyte. Fig. 5b is the potential histogram of the prepared catalyst at 10, 50 and 100 mA cm GLYPH<0> $^{2}$. It is easy to see Mo$_{3}$P@NiCoP/NF has the smallest potential at current densities of 10, 50 and 100 mA cm GLYPH<0> $^{2}$, which are 1.206, 1.268 and 1.305 V, respectively. At the same time, compared with the activity of OER tested in 1 M KOH electrolyte, the UOR activity of Mo$_{3}$P@NiCoP/NF is much better than its OER performance (Fig. S2). So as to study the UOR kinetics of the electrode, the Tafel slope was obtained from the LSV curve (Fig. 5c).
+
+Li et al.
+
+Fig. 6. Polarization curves after iR correction (70 %) (a), Potentials histogram (b), Tafel fitting curves (c), C$_{dl }$(d), Nyquist plots (e) and stability test of 12 h for HER (f).
+
+Among them, the Tafel slope of Mo$_{3}$P@NiCoP/NF material is 134.01 mV dec GLYPH<0> $^{1}$, which is much smaller than that of Cr-NiCoP/NF (191.1 mV GLYPH<0> $^{1}$), W-NiCoP/NF (198 mV dec GLYPH<0> $^{1}$) and NiCoP/NF (196.09 mV dec GLYPH<0> $^{1}$), suggesting that the smaller the charge transfer resistance of Mo$_{3}$P@NiCoP/NF electrode is in UOR process, the faster the UOR kinetics is and the better the performance is, which is expected to achieve higher gas evolution rate in practical applications [55,56]. The CV curve of the foreign element modified NiCoP-based catalysts in the UOR performance measurement is illustrated in Fig. S3. The C$_{dl }$value assessed by CV data is presented in Fig. 5d. Obviously, the maximum value of Mo$_{3}$P@NiCoP/NF material is 205.85 mF cm GLYPH<0> $^{2 }$for C$_{dl}$, which is about 5 times that of Cr-NiCoP/NF electrode. The comparison findings indicate that the Mo$_{3}$P@NiCoP/NF electrode has the largest ECSA, which can provide more active sites and improve its performance in UOR. The Nyquist semicircle of the Mo$_{3}$P@NiCoP/NF electrode in Fig. 5e is the lowest, showing that its electron transfer resistance is the lowest and the charge transfer rate is the fastest in the UOR process [57]. It can be observed from Fig. 5f that the current density of the material changes little after 12 h UOR stability test. Fig. S4 is change diagram of the LSV performance after IT test, which indicates that the mass transport of gas -liquid-solid phase is sufficient. At the same time, without iR compensation, we tested the LSV curve of the foreign element modified
+
+NiCoP-based catalysts and drew the corresponding histogram (Fig. S5). The above results show that the Mo$_{3}$P@NiCoP/NF electrode can be used as an excellent UOR electrocatalyst.
+
+In addition, we tested the HER performance of the foreign element modified NiCoP-based electrocatalyst in the same electrolyte using a three-electrode system. Fig. 6a is the iR compensated HER polarization curve, from which it can be observed that the Mo$_{3}$P@NiCoP/NF electrocatalyst drives the largest current density at the same potential, which means that the catalyst has higher HER catalytic performance. So as to visually see the performances of the prepared electrode, we plotted the overpotential histogram at current densities of 10, 50 and 100 mA cm GLYPH<0> 2 (Fig. 6b). The Mo$_{3}$P@NiCoP/NF electrocatalyst has the lowest overpotential at current densities of 10, 50 and 100 mA cm GLYPH<0> $^{2}$, which are 90, 168 and 194 mV, respectively, indicating that it has high intrinsic activity for HER. What is worth mentioning that the Tafel slope of the Mo$_{3}$P@NiCoP/NF catalyst is much smaller than that of other catalysts (Fig. 6c), indicating that the current density of the Mo$_{3}$P@NiCoP/NF electrocatalyst increases rapidly with the increase of the potential, and there is a faster HER kinetics. The CV curve of the foreign element modified NiCoP-based electrocatalyst in the HER performance measurement is presented in Fig. S6, and then the C$_{dl }$value calculated from the CV curve (Fig. 6d) can be used to determine the ECSA of the
+
+Li et al.
+
+Fig. 7. (a) LSV diagram of Mo$_{3}$P@NiCoP/NF // Mo$_{3}$P@NiCoP/NF before and after IT measurement. (b) IT diagram of urea electrolysis for 12 h. (c) Compared to the recently reported 10 mA cm GLYPH<0> $^{2 }$urea electrolyser.
+
+material. The maximum C$_{dl }$value of Mo$_{3}$P@NiCoP/NF electrocatalyst is 30.38 mF cm GLYPH<0> $^{2}$, which is larger than that of Cr-NiCoP / NF (3.77 mF cm GLYPH<0> $^{2}$), W-NiCoP / NF (17.15 mF cm GLYPH<0> $^{2}$) and NiCoP / NF (15.73 mF GLYPH<0> $^{2}$). The results demonstrate that Mo$_{3}$P@NiCoP/NF have the highest electrochemical active surface area, which match with the results of SEM and TEM characterization. EIS was utilized to analyze the electron transfer of foreign element modified NiCoP-based electrocatalyst as working electrodes. It can be clearly observed from Fig. 6e that the Nyquist semicircle of Mo$_{3}$P@NiCoP/NF electrode is the smallest and has the fastest charge transfer process. The stability of HER was also measured in a three-electrode device (Fig. 6f), and the polarization curve of the material was measured after 12 h stability test (Fig.S7). Also without iR compensation, we tested the polarization curves of the HER of foreign element modified NiCoP-based electrocatalyst and plotted the histograms of the corresponding overpotentials (Fig. S8). In summary, the introduction of Mo indeed positively affects the performance of HER.
+
+## 3.3. Overall urea electrolysis of Mo$_{3}$P@NiCoP/NF // Mo$_{3}$P@NiCoP/NF
+
+In order to investigate the potential of the prepared catalysts in practical production, we assembled a small electrolyser for urea electrolysis by using Mo$_{3}$P@NiCoP/NF catalysts with excellent UOR and HER activities as anode and cathode, respectively. The overall urea electrolysis activity was researched by a two-electrode device in the above electrolyte, which exhibited highly efficient H$_{2 }$generation from urea splitting (Fig. 7a), requiring only a potential of 1.285 V to drive a current density of 10 mA cm GLYPH<0> $^{2}$, demonstrating that only such a low potential is required to drive both the reduction and oxidation of urea. This performance parameter also was compared favorably with currently reported urea electrolysers (Fig. 7c) [58 -66].We also tested the stability of this electrolyser for overall urea electrolysis by performing a stepwise current density change test over a 12 h period, which showed almost no significant change in current density and a slight decrease in the LSV curve before and after the stability test, which
+
+confirms that the electrolyser has a good stability during long-term urea electrolysis.
+
+the reaction (Fig. 7a). The XRD image is shown in Fig. S10. Before and after the electrode recovery, some diffraction peaks disappeared because of the shedding of the active component, and no other impurity peaks appeared. The XPS image is illustrated in Fig. 8. Some characteristic peaks in the XPS full spectrum (Fig. 8a) disappeared, which was related to the shedding of active substances during the reaction. The characteristic peaks of Co 2p (Fig. 8b) decreased slightly after the reaction, suggesting that the electron cloud density decreased. There is no significant change in Ni 2p (Fig. 8c), but the characteristic peaks of Mo 3d, O 1 s and P 2p shift slightly to the direction of low energy levels, so that the electron cloud density is redistributed (Fig. 8d-e). In general, the reason for the slight decrease of activity of Mo$_{3}$P@NiCoP/NF after durability measurement was attributed to the reduction of active substances (Fig. 7a).
+
+The cathode material after urea electrolysis was recovered and characterized to study the changes of morphology, composition and electronic structure. The SEM image is shown in Fig. S9. Part of the cactus-like nanostructures on the surface of the Mo$_{3}$P@NiCoP/NF material disappeared after the reaction, which reduced the surface area and resulted in a slight decrease in activity after
+
+## 3.4. DFT calculation
+
+The H$_{2 }$ evolution mechanism of Mo$_{3}$P and NiCoP was studied by density functional theory (DFT) calculations to analyze the excellent electrochemistry activity of the materials. So as to explore the HER process, the stick models of H in Mo$_{3}$P (Fig. 9a) and NiCoP (Fig. 9b) were established and optimized. The reaction rate of HER is determined by the ease of binding of H* to the catalytic active center, which is expressed by the Gibbs free energy of H* adsorption ( Δ G$_{H*}$). The closer the Δ G$_{H* }$ is to 0, the easier the reaction occurs, which is one of the methods to assess the HER performance of the material. Fig. 9c observes
+
+Li et al.
+
+Fig. 8. XPS of original and recovered Mo$_{3}$P@NiCoP/NF electrodes, (a) Survey, (b) Co 2p, (c) Ni 2p, (d) Mo 3d, (e) O 1 s, (f) P 2p for HER.
+
+the Δ G$_{H* }$of Mo$_{3}$P and NiCoP, and it is obvious that the Δ G$_{H* }$of NiCoP is closer to 0 than that of Mo$_{3}$P, showing that NiCoP plays a leading role in the adsorption of H* in the prepared Mo$_{3}$P@NiCoP/NF material, thereby improving the urea electrolysis activity. In order to investigate the metallicity of Mo$_{3}$P@NiCoP/NF materials, the density of states of Mo$_{3}$P and NiCoP are given (Fig. 9d). It can be clearly observed that the area of Mo$_{3}$P at the Fermi level near 0 is larger, showing more electron cloud distribution, indicating that Mo$_{3}$P enhances the metal conductivity of Mo$_{3}$P@NiCoP/NF materials. Moreover, Fig. S11 and S12 reflect the partial density of states of each atom in Mo$_{3}$P and NiCoP. To sum up, NiCoP increases the reaction rate of this catalyst, while Mo$_{3}$P strengthens the metal properties of this catalyst, thereby improving the urea electrolysis activity of the Mo$_{3}$P@NiCoP/NF material.
+
+## 4. Conclusion
+
+To sum up, transition metal elements Cr, Mo and W were added into NiCoP/NF by solvothermal method to form cactus flake nanostructure on Ni foam. Among them, Mo$_{3}$P@NiCoP/NF display robust UOR and HER bifunctional electrocatalytic performance. At a current density of 10 mA cm GLYPH<0> $^{2}$, the potential of UOR is 1.206 V, and the overpotential of HER is 90 mV, which is one of the best electrochemistry performances reported up to now. The assembled Mo$_{3}$P@NiCoP/NF // Mo$_{3}$P@NiCoP/ NF only requires a potential of 1.285 V to obtain a current density of 10
+
+mA cm GLYPH<0> $^{2}$, and exhibits good stability within 12 h. DFT shows that NiCoP increases the reaction rate of this catalyst, and Mo$_{3}$P strengthens the metallicity of this catalyst, thereby enhancing the electrochemistry performances of Mo$_{3}$P@NiCoP/NF. Therefore, this work provides an advanced design scheme for bifunctional electrocatalysts, which is conducive to the production of green energy and carbon neutralization.
+
+## CRediT authorship contribution statement
+
+Xinyu Li: Writing -original draft. Yanhong Wang: Data curation. Xiaoqiang Du: Investigation, Funding acquisition. Xiaoshuang Zhang:
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Data availability
+
+No data was used for the research described in the article.
+
+Li et al.
+
+Fig. 9. (a) H* adsorption model of Mo$_{3}$P, (b) NiCoP. (c) The free energy of HER and (d) The calculated density of states for Mo$_{3}$P and NiCoP.
+
+## Acknowledgements
+
+This work is supported by Fundamental Research Program of Shanxi Province (202203021211094). The authors extend their gratitude to Mr. Zhao Baobao from Shiyanjia Lab (www.shiyanjia.com) for providing invaluable assistance with the XPS analysis.
+
+## Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.fuel.2024.131219.
+

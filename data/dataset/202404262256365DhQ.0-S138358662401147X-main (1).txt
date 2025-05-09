@@ -1,0 +1,152 @@
+## 1. Introduction
+
+Gold is a rare and precious metal. Due to its excellent physical properties and fascinating chemical properties, gold has a wide range of applications in our daily lives [1 -4]. Given the high demand for gold, mining alone cannot generate sufficient supply because the concentration of gold in the ores is significantly low ( < 10 g/t) compared to other transition metals [5]. It is noteworthy that the amount of gold content in waste electronic equipment is much greater than that in natural ores, and it is estimated that 300 g of gold can be extracted from 1 ton of used computers, which shows that the gold content of electronic waste is 60 to 100 times that of ores of the same quality [6 -10]. However, selective and efficient extraction of gold from e-waste remains challenging because e-waste often contains various organic compounds as well as high concentrations of competing metals, including potassium, sodium, iron, nickel, copper, and rare earth metals. Therefore, innovative new strategies to rapidly and selectively extract gold from e-waste, although extremely challenging, are still highly needed [11,12].
+
+So far, scientists have conducted extensive research efforts in developing methods for gold recovery, such as precipitation, solvent
+
+Available online 6 April 2024 1383-5866/© 2024 Elsevier B.V. All rights reserved. Received 26 November 2023; Received in revised form 31 March 2024; Accepted 5 April 2024
+
+## ABSTRACT
+
+Combining adsorption with photocatalytic reduction may be an ideal emerging strategy for efficient and highly selective gold recovery, but currently reports are rare. In precious metal recovery, cheap and robust covalent triazine frameworks (CTFs) offer industrial feasibility, although having selective binding sites while enhancing semiconductor performance is challenging. In this paper, we report a D-A CTF (named TD-TPTA) with abundant thiophene and triazine functional groups, narrow optical band gap, and excellent photocatalytic activity. Benefiting from the strong interaction between [AuCl$_{4}$] GLYPH<0> (soft acid) and the abundant soft base sites (sulfur atom) on the CTF skeleton, TD-TPTA can achieve highly selective gold capture. Meanwhile, the construction of π -conjugated D-A skeleton significantly improving the photocatalytic activity and achieving efficient photocatalytic reduction of gold. Analysis reveals that through a combination of adsorption and photocatalytic reduction, TD-TPTA has high gold adsorption capacity (1123.8 mg g GLYPH<0> $^{1}$) and fast kinetics even under ultra-low pH conditions (pH = 2). In addition, TD-TPTA can selectively recover 99.45 % of gold from e-waste wastewater. CTF is robust and recyclable, providing significant advantages over currently reported adsorbents.
+
+extraction, ion exchange, and adsorption [13]. However, these methods are unsatisfactory in terms of low gold recovery efficiency, poor selectivity or long recovery time. As we all know, photocatalysis has the chara [14,15] cteristics of low energy demand, easy operation, high efficiency, and zero emission of harmful substances. Especially in the field of solving environmental and energy problems, photocatalytic reduction technology has exciting prospects. In recent years, the photocatalytic reduction of high-mobility U(VI) to insoluble U(IV) through porous semiconductors has garnered widespread interdisciplinary attention as a green uranium removal technology [16,17]. Given the low reduction potential of [AuCl$_{4}$] GLYPH<0> (AuCl$_{4}$ GLYPH<0> + 3e GLYPH<0> = Au 0 $_{+}$ 4Cl GLYPH<0> , E 0 $_{=}$ 1.002 V) [18,19], thereby, semiconductor adsorbents can potentially serve as an advanced platform for synergistic adsorption of Au(III) through photoreduction [12,20]. However, adsorbents with excellent photocatalytic activity and selective binding sites for gold extraction have rarely been reported. Therefore, designing semiconductor photocatalysts with high-affinity binding sites, large capacity, fast kinetics, and resistance to strong acids is highly desirable for efficient gold recovery.
+
+Covalent triazine frameworks (CTFs) have great potential to become
+
+Separation and Purification Technology 345 (2024) 127408 Wu et al.
+
+excellent semiconductor photocatalysts due to their high porosity, highly conjugated, and nitrogen-rich frameworks [21 -26]. Here, we innovatively constructed a D-A CTF (named TD-TPTA) to explore a new strategy for photoenhanced extraction of gold from strongly acidic electronic waste solutions. Our extensive introduction of soft base sites (sulfur atom) with strong interactions with [AuCl$_{4}$]$^{- }$(soft acid) gives TDTPTA the potential to achieve highly selective gold capture [27]. Meanwhile, the construction of donor (thiophene)-acceptor (triazine) π -conjugated skeleton can effectively promote the in-plane separation and transfer of photogenerated charges of TD-TPTA, the photocatalytic activity is significantly enhanced and efficient photocatalytic reduction of gold is achieved [28 -31]. The distinctive skeleton of TD-TPTA possesses all the features to be an excellent adsorbent for efficient photocatalytic reduction and selective binding of gold, thus exhibiting outstanding gold adsorption capacity (1123.8 mg g GLYPH<0> $^{1}$).
+
+## 2. Experimental
+
+## 2.1. Materials
+
+1,4-terephthalamidine dihydrochloride (TPTA), thieno[3,2-b] thiophene-2,5-dicarboxaldehyde (TD), cesium carbonate, p-phthalaldehyde (DBA), methyl sulfoxide, and mesitylene were purchased from Energy Chemical Technology (Shanghai) Co., Ltd.
+
+## 2.2. Synthesis of TD-TPTA
+
+TD (98.1 mg, 0.5 mmol), TPTA (235.2 mg, 1.0 mmol), CsCO$_{3 }$(716.8 mg, 2.2 mmol), 5 mL methyl sulfoxide, and 0.2 mL H$_{2}$O, were charged into an ampoule. The mixture was reacted at 120 · C for 3 days. The powder was collected and washed with dilute hydrochloric acid to eliminate salt and residual CsCO$_{3}$. It was subsequently washed with water, acetone, and THF, and dried under vacuum at 80 · C to afford TD-
+
+TPTA. The brown powder product was obtained. Yield: 87.28 %.
+
+## 2.3. Synthesis of DBA-TPTA
+
+DBA (67.1 mg, 0.5 mmol), TPTA (235.2 mg, 1.0 mmol), CsCO$_{3 }$ (716.8 mg, 2.2 mmol), 5 mL methyl sulfoxide, and 0.2 mL H$_{2}$O, were charged into an ampoule. The mixture was reacted at 120 · C for 3 days. The powder was collected and washed with dilute hydrochloric acid to eliminate salt and residual CsCO$_{3}$. It was subsequently washed with water, acetone, and THF, and dried under vacuum at 80 · C to afford DBA-TPTA. The yellow powder product was obtained. Yield: 81.44 %.
+
+## 3. Results and discussion
+
+## 3.1. Structural characterizations of CTFs
+
+To demonstrate that the incorporation of thiophene unit could achieve selective binding of gold and enhance the photocatalytic activity, as shown in Fig. 1, the triazine-linked CTFs TD-TPTA and DBA-TPTA were synthesized by condensation of TPTA with TD and DBA, respectively. The key to material characterization is demonstrating successful formation of triazines within the framework. The chemical structures of TD-TPTA and DBA-TPTA were proved by solid-state $^{13}$C CP/MAS NMR and FT-IR analyses. The disappearance of the C = O stretching signal at ca. 1659 cm GLYPH<0> 1 corresponds to the aldehyde group in the monomer. Furthermore, the appearance of characteristic bands at ca. 1507 cm GLYPH<0> 1 and ca. 1402 cm GLYPH<0> $^{1 }$provides evidence of the formation of the triazine group in the CTFs skeleton [23] (Fig. 2a and S1-S2). Complete monomer condensation and formation of amorphous CTFs were verified by PXRD patterns (Fig. 2b and S3-S4). In addition, the successful formation of the triazine skeleton was further confirmed through a $^{13}$C NMR analysis. The signal at ca. 169 ppm was attributed to the carbon atom in the triazine [23] (Fig. 2c and 2d). Both TD-TPTA and DBA-TPTA are shown to have a
+
+Fig. 1. Scheme for the synthesis of TD-TPTA and DBA-TPTA.
+
+Fig. 2. (a) FT-IR spectra of TD, TPTA and TD-TPTA. (b) PXRD patterns of TD-TPTA and DBA-TPTA. Solid-state $^{13}$C CP-MAS NMR spectra of TD-TPTA (c) and DBATPTA (d). The stability test of TD-TPTA (e) DBA-TPTA (f) in strong acid, base and various solvents.
+
+uniform spherical morphology by scanning electron microscopy (SEM) (Figs. S5 and S6). To investigate the hydrophilicity of CTFs, their static water contact angles were determined, fully satisfy the photocatalytic reaction in full contact with HAuCl$_{4 }$solution (Figs. S7 and S8).
+
+The permanent porosity of these CTFs was measured using N$_{2 }$ adsorption -desorption tests at 77 K. The calculated Brunauer-EmmettTeller (BET) surface areas calculations for TD-TPTA and DBA-TPTA were 98.34 and 113.07 m$^{2 }$g GLYPH<0> $^{1}$, respectively (Figs. S9 and S10). Pore size distribution shows that both TD-TPTA and DBA-TPTA have abundant mesopores, which is beneficial to the rapid diffusion of ions (Figs. S11 and S12). Thermogravimetric analysis (TGA) under an N$_{2 }$ atmosphere was used to evaluate the thermal stability of the CTFs. The results of the TGA indicated that CTFs exhibit thermal stability up to approximately 235 ℃ (Figs. S15 and S16). As expected, the FT-IR
+
+spectra of these CTFs with triazine moieties did not change even after one day of treatment with 6 M NaOH and 6 M HCl (Fig. 2e and 2f), demonstrating their excellent chemical stability. The chemical characterization of these CTFs suggest that they are suitable for photocatalytic reduction of gold under harsh conditions.
+
+## 3.2. Photoelectric property studies
+
+To systematically investigate the photophysical and electrochemical properties of TD-TPTA, UV/Vis diffuse reflectance spectroscopy (UV/Vis DRS), electrochemical impedance spectroscopy (EIS), and transient photocurrent measurements were performed. TD-TPTA has strong light absorption from 300 to 800 nm, while DBA-TPTA only shows significant light absorption from 200 to 350 nm, which indicates that TD-TPTA has
+
+Separation and Purification Technology 345 (2024) 127408 Wu et al.
+
+much better visible light capturing ability than DBA-TPTA (Fig. 3a). Optical bandgap energies derived from the Kubelka-Munk transformed spectra were found to be 1.70 and 2.56 eV for TD-TPTA and DBA-TPTA, respectively (Fig. 3b). The narrow bandgap energies indicates that these CTFs photocatalysts have good photocatalytic activity when driven by visible light. By means of PL spectroscopy, we have characterized the behavior of the photogenerated charge recombination of TD-TPTA and DBA-TPTA. In Fig. 3c, TD-TPTA exhibits a significantly lower emission intensity than DBA-TPTA, indicating its effective suppression of photogenerated charge recombination [32]. The positions of the valence and conduction bands in these CTFs were then estimated by Mott-Schottky tests. The Mott-Schottky plots (C$^{-2 }$vs E) of CTFs displayed the characteristic positive slope of n -type semiconductors, alongside flat band values (E$_{fb}$, vs Ag/AgCl) measuring at GLYPH<0> 0.57 V and GLYPH<0> 1.63 V ( GLYPH<0> 0.37 V and GLYPH<0> 1.43 Vs NHE) for TD-TPTA and DBA-TPTA (Fig. 3d and S17),
+
+respectively [33]. Their electronic conductivity was then studied by EIS. Compared with DBA-TPTA, TD-TPTA exhibits a smaller semicircle in the Nyquist plot, signifying reduced charge transfer resistance and enhanced carrier transfer efficiency (Fig. 3e and S18).
+
+Subsequently, measurements of photocurrent were conducted for assessing the photoelectric responses of TD-TPTA and DBA-TPTA. Under chopped light irradiation (on/off), the anodic photocurrents of these CTFs were detected. Compared with DBA-TPTA, TD-TPTA has better photo responsiveness and therefore can exhibit higher charge separation efficiency under light irradiation (Fig. 3f). Besides, in order to meet the requirement of photocatalytic reduction of gold, the transient photocurrent response of TD-TPTA and DBA-TPTA under the cathodic reaction condition is equally crucial, and under the cathodic reaction condition, we obtained stronger photocurrent response to meet the requirement of photocatalytic reduction of gold (Fig. S19). Taken
+
+Fig. 3. (a) UV -Vis DRS spectra of TD-TPTA and DBA-TPTA. (b) Band gaps of TD-TPTA and DBA-TPTA. (c) Steady-state photoluminescence (PL) spectra of TD-TPTA and DBA-TPTA. (d) Mott-Schottky plots of TD-TPTA. (e) EIS spectra of TD-TPTA. (f) Transient photocurrent response of TD-TPTA and DBA-TPTA.
+
+together, this suggests that the created CTFs can be used as an efficient photocatalyst platform for the extraction of gold from e-waste.
+
+To support the previous experimental results, we used Density Functional Theory (DFT) (Fig. 4). We utilize the building blocks of these CTFs as models to compute the frontier molecular orbitals. The HOMO is concentrated on the π -conjugated main chain of the electron donor unit, while the LUMO is distributed throughout the entire molecule. Electrons are injected into the triazine structure during this process. Notably, the HOMO-LUMO energy level band gap of TD-TPTA is narrower than that of DBA-TPTA. This is in agreement with previous experimental results. Because our materials extend from building blocks to the conjugated π -plane structure, which enhances the efficiency of electron transfer and increases electron mobility due to the orbital clouds ' overlapping. Consequently, the band gap of CTFs can be significantly reduced compared to the model.
+
+## 3.3. Gold capture studies
+
+As a proof-of-concept, a series of photocatalytic experiments were conducted to assess the feasibility of utilizing CTFs for extracting gold from e-waste. The CTFs photocatalysts reported herein provide the key factors required to determine the selective and efficient photocatalytic reduction of Au(III) to the Au(0) solid product, allowing for the establishment of a valuable structure-photocatalytic activity relationship.
+
+The adsorption isotherms of CTFs for Au(III) were measured under both dark and light conditions in order to investigate the impact of light on enhancing the adsorption capacity of CTFs. First, CTFs (10 mg) were
+
+In order to evaluate the effect of CTFs on the adsorption capacity of Au(III) at different pH, adsorption experiments at solution pH 1 -7 were carried out. Typically, experiments were performed at room temperature, under light, at a solution concentration of 100 ppm and stirred for 6 h. As demonstrated in Fig. 5a, it is evident that CTFs exhibit substantial adsorption efficacy within the pH range of 2 to 4. As the pH gradually approaches neutral, there is a slightly reduced efficiency of adsorption. When the pH falls below 4, Au(III) predominantly takes the planar [AuCl$_{4}$] GLYPH<0> configuration in solution [20]. Subsequently, the protonated nitrogenous groups of the CTFs can adsorb Au(III) via electrostatic interactions. With rising OH -concentrations, [AuCl$_{4}$] GLYPH<0> undergoes hydrolysis creating gold hydroxide-chloride complexes, multiple species including [AuCl$_{4}$] GLYPH<0> , [Au(OH)Cl$_{3}$] GLYPH<0> , [Au(OH)$_{2}$Cl$_{2}$] GLYPH<0> , [Au(OH)$_{3}$Cl] GLYPH<0> , and [Au(OH)$_{4}$] GLYPH<0> , can exist simultaneously in the solutions [34 -36]. Excess hydroxide ions (OH -) compete for adsorption sites, leading to a decrease in the adsorption efficiency of CTFs. It should be noted that e-waste is typically treated with strong acid solutions.
+
+Fig. 4. Calculated spatial distributions of HOMO and LUMO were obtained for the models using the optimized geometric structures of the ground state.
+
+added to 35 mL of aqueous solutions containing different concentrations of Au(III). The results demonstrated that the adsorption capacity of CTFs increased as the concentration of gold increased until equilibrium was achieved (Fig. 5b). The maximum adsorption capacity of gold by TDTPTA was 310.55 mg g GLYPH<0> $^{1 }$under dark conditions, which increased to 1123.8 mg g GLYPH<0> $^{1 }$under light conditions. For DBA-TPTA, after illumination, the maximum adsorption capacity increased from 182.42 mg g GLYPH<0> $^{1 }$to 714.83 mg g GLYPH<0> $^{1}$, suggested that light significantly enhances the adsorption performance of CTFs for Au(III). In addition, their adsorption isotherms conform to the Langmuir model, and the correlation coefficients are all greater than 0.99 (Fig. S20). The specific details of the Langmuir models were computed and documented in Supplementary Table S1. In order to better investigate the gold adsorption behavior, we conducted an analysis of the adsorption kinetics of CTFs using a pseudo-secondorder kinetic model. The findings demonstrate that both adsorption kinetics conform well with the model (Fig. 5c and S21). In addition, TDTPTA also showed faster adsorption kinetics and higher removal efficiency than DBA-TPTA, achieving > 99 % removal within 30 min under light irradiation conditions (Fig. 5c and S22). The excellent removal efficiency of TD-TPTA can be attributed to the strong affinity of the soft alkali sulfur contained in it to soft acid gold, as well as its excellent hydrophilicity, which improves the accessibility of TD-TPTA and enhances gold binding. The parameters of their adsorption kinetic models were computed in detail and documented in Supplementary Table S2.
+
+In addition to high capacity and fast adsorption kinetics, selective gold uptake is also critical for gold recovery in complex sample matrices containing potentially competing metals. We found that TD-TPTA shows excellent selectivity, with Au(III) removal up to 99 % in the presence of ten-fold competing ions, including Ca 2 + , Mg 2 + , Al 3 + , Ni 2 + , Zr 4 + , Co 2 + , Zn 2 + , Cu 2 + , Ba 2 + , VO$_{2}$ + , Fe 3 + , Ag + and Pt 2 + (Fig. 5d). In addition, we studied the effect of mixed metal ions on the selectivity of TD-TPTA. As shown in Fig. S23, in the mixed metal ion solution, TD-TPTA can remove more than 99 % of gold within 18 min. As demonstrated, TD-TPTA possesses fast kinetics, high capacity, selectivity and excellent stability, rendering it ideal for gold capture in e-waste. Notably, TD-TPTA exhibits a higher capacity for adsorption and faster kinetics than most materials reported in the literature, including other materials used for photochemical recovery of gold [37 -55] (Fig. 5e and Supplementary Table S3). Although environmentally friendly materials such as polysaccharide gels and other materials that utilize photochemical recovery of gold also have significant gold adsorption capacity ( > 1000 mg g GLYPH<0> $^{1}$), TD-TPTA has faster adsorption kinetics.
+
+## 3.4. Adsorption mechanism
+
+To uncover the mechanism of adsorption, we conducted an analysis utilizing X-ray photoelectron spectroscopy (XPS), IR, and PXRD. PXRD patterns of TD-TPTA before and after loading gold are displayed in Fig. 6a and S24, the diffraction peaks for the (111), (200), (220), and (311) crystal planes of Au(0) were observed at 38.2, 44.4, 64.6, and 77.6 · , suggesting that TD-TPTA was successful in reducing Au(III) to Au (0). It can be found that the peak intensity of Au(0) under dark conditions is significantly weaker than that under light conditions, which demonstrates that under visible light irradiation, Au(III) can be reduced to Au(0) with greater efficiency. From the inset, it can be seen that after adsorption of gold, TD-TPTA changed from the original brown powder to a golden-yellow powder, which may be due to the fact that Au(III) was reduced to Au(0) and attached to the TD-TPTA powder. From the color of the solution after adsorption, it was found that the solution under light condition was significantly paler than the solution under dark condition (Fig. S25). To further examine the adsorption mechanism of TD-TPTA onto Au(III) under light conditions, we measured their photocurrent response and electrochemical impedance (EIS). As shown in Fig. 6b and 6c, TD-TPTA-Au exhibited greater photocurrent density and smaller electrochemical impedance compared with TD-TPTA, which was conducive to further enhance the performance of photocatalytic
+
+Fig. 5. (a) Under light irradiation, the Au(III) adsorption capacity of TD-TPTA (blue) and DBA-TPTA (pink) at different pH values. (b) Adsorption isotherm of gold on TD-TPTA and DBA-TPTA under visible light irradiation. (c) Adsorption kinetics of Au(III) on TD-TPTA and DBA-TPTA under light irradiation. (d) Comparison of removal ratio of metals using TD-TPTA, implying good selectivity of TD-TPTA for Au(III) uptake. (e) The evaluation of adsorbents performance reported in literature.
+
+reduction of Au(III). Mott-Schottky test was also performed, and TDTPTA-Au exhibited a smaller flat-band potential than TD-TPTA (Fig. 6d), which supports the reduction of Au(III) [56]. EDS images further confirmed this result (Fig. 7 and S26-S28). As shown in Fig. 7a and S26, the Au element content in the original TD-TPTA is 0. After gold adsorption, a large number of gold particles were found on the surface of TD-TPTA (Fig. 7b and 7c), and maintained the initial morphology of TDTPTA, further verifying the stability of TD-TPTA. In addition, the characteristic stretching vibrational peaks of the C = N and triazine moieties of TD-TPTA remain unchanged, further proving the excellent stability of TD-TPTA (Fig. S29).
+
+Changes in the chemical valence states before and after Au(III) adsorption were studied by XPS experiments. To reveal the strong bonding sites, the XPS spectra of TD-TPTA were recorded before and after [AuCl$_{4}$] GLYPH<0> absorption. After the adsorption of Au(III) by TD-TPTA, the Au 4f characteristic peak was present in the XPS spectrum
+
+(Fig. 8a). The signal of Au 4f under light conditions is considerably stronger than that under dark conditions. The N 1 s after Au(III) adsorption under TD-TPTA illumination are shown in Fig. 8b. Not only does it show the characteristic N 1 s signals of C-N and C = N, with binding energies of 400.70 and 399.40 eV, respectively, but also a new peak at 398.40 eV, this phenomenon was attributable to the interaction between [AuCl$_{4}$] GLYPH<0> and C = N [38]. In addition, as shown in Fig. 8c, the binding energies of the S 2P$^{3/2 }$and S 2P$^{1/2 }$characteristic peaks after adsorption of Au(III) under TD-TPTA light conditions were 164.40 and 163.50 eV, respectively, and the integration area of these peaks was significantly reduced, indicating that the introduction of the thiophene group provided a new active site for the reduction of Au(III). The XPS spectra of S 2p and N 1 s were also compared under dark conditions (Figs. S30 and S31), and it can be seen that the peaks in the XPS spectra of both S 2p and N 1 s are shifted to lower binding energies, indicates strong bonding between gold and triazine nitrogen atoms and thiophene
+
+Fig. 6. (a) PXRD patterns of TD-TPTA, TD-TPTA-Au light and gold standard spectrum (black) (inset: TD-TPTA before gold adsorption, TD-TPTA-Au after gold adsorption). (b) Transient photocurrent response of TD-TPTA and TD-TPTA-Au. (c) EIS spectra of TD-TPTA (inset: TD-TPTA-Au). (d) Mott-Schottky plots of TDTPTA-Au.
+
+Fig. 7. EDS images of TD-TPTA (a), TD-TPTA-Au dark (b) and TD-TPTA-Au light (c).
+
+sulfur atoms in the TD-TPTA. The high resolution XPS spectrum of Au 4f (Fig. 8d) shows two peaks after adsorption belonging to Au(0) and Au(I). The peaks near 87.70 and 84.10 eV belong to Au(0), and no peak for Au (III) was found under light conditions, indicating that the adsorbed gold is present as Au(0) [57]. Interestingly, the peak area ratios of Au(0) and Au(I) under dark conditions were 92.94 % and 7.06 %, respectively, further indicating that light irradiation can effectively promote gold
+
+## reduction.
+
+Periodic DFT calculations were conducted using the CASTEP module in Materials Studio 2018 to identify potential interaction sites (refer to the Supplementary Material for details). Firstly, strong interactions between soft acid gold and soft alkali sulfur are easily observed. Therefore, these interactions are regarded as the primary active sites in this paper. The interaction mode in which [AuCl$_{4}$] GLYPH<0> is located above the TD-TPTA
+
+Separation and Purification Technology 345 (2024) 127408 Wu et al.
+
+Fig. 8. (a) XPS survey spectra of TD-TPTA before and after treatment with gold in the dark and under light conditions. High resolution XPS spectra of (b)N 1 s, (c) S 2p, for TD-TPTA and TD-TPTA-Au. (d) TD-TPTA-Au high-resolution spectra of Au 4f under dark and light irradiation.
+
+layer has been fully optimized. The calculated binding energy (E$_{b}$) between [AuCl$_{4}$] GLYPH<0> and the thiophenic and triazinic rings was GLYPH<0> 0.2904 eV, with observed weak van der waals interactions (Fig. S32). In addition, the calculated E$_{b }$between [AuCl$_{4}$] GLYPH<0> and the triazine and thiophene are GLYPH<0> 0.056 and GLYPH<0> 0.1284 eV (Supplementary Table S4), respectively, which is much smaller than the E$_{b }$of the synergistic effect between [AuCl$_{4}$] GLYPH<0> and thiophene and triazine. Another possible site for adsorption is suggested around thiophene, where metalπ interaction may stabilize the adsorption structure. In addition, the affinity of TD-TPTA for [PtCl$_{4}$] 2 GLYPH<0> was much lower than that for [AuCl$_{4}$] GLYPH<0> . These results are consistent with experimental observations, further demonstrating the critical role of thiophene and triazine synergism on TD-TPTA in gold adsorption.
+
+## 3.5. Recycle use
+
+The regeneration performance of adsorbents is crucial for practical applications. After treatment with thiourea solution, the gold adsorbed on TD-TPTA was easily desorbed, and nearly 99 % of the gold was successfully desorbed in the first cycle. Even after five cycles of adsorption and desorption, TD-TPTA can still remove up to 96 % of gold (Fig. 9a). The XPS spectrum of TD-TPTA shows that the Au 4f peak disappears after treatment with thiourea solution (Figs. S33 and S34). Notably, the ratio of the C = N peak to the S 2p peak in the XPS spectra of S 2p and N 1 s is the same as before capturing gold, demonstrating that TD-TPTA can be easily restored to its original state (Figs. S35 and S36).
+
+In addition, the observation of the PXRD and IR patterns after desorption also shows that there is no characteristic peak of Au(0) after desorption (Figs. S37 and S38), further proving the successful demetallization and the excellent stability of TD-TPTA. These results confirm that TD-TPTA is a promising recycle gold adsorbent.
+
+## 3.6. Practical application of recovering gold from e-waste
+
+To assess the effectiveness of extracting gold from authentic e-waste, we explored the stability of TD-TPTA in aqua regia (Fig. S39), and FT-IR analysis confirmed that TD-TPTA was also stable in aqua regia, after which we pretreated the waste CPUs (refer to Supplementary Material for specifics) [58]. The obtained leachate contains metal compositions of Au 3 + , Ni 2 + and Cu 2 + , with concentrations of 10.1, 1313.2 and 1784.4 ppm respectively. Using 10 mg TD-TPTA, 99.45 % of gold could be removed within 20 min under photocatalytic conditions, this suggests that ultrafast adsorption of gold can be achieved in e-waste leachate (Fig. 9b). Importantly, although the concentrations of Ni 2 + and Cu 2 + are much higher than that of Au 3 + , only 1.13 % and 1.44 % of Ni 2 + 2 + are adsorbed. The selectivity can be assessed by comparing the relative k$_{d }$values of Ni 2 + (57.14 mL g GLYPH<0> $^{1}$), Cu2 + (73.05 mL g GLYPH<0> $^{1}$) and Au3 + (9.04 × 10$^{5 }$mL g GLYPH<0> $^{1}$), indicating that the selectivity of TD-TPTA to Au3 + is much higher than that of Ni 2 + and Cu 2 + . Practical applications for gold recovery from e-waste were further developed. Leachate was obtained from discarded CPUs and then TD-TPTA was added for gold extraction. After undergoing desorption, reduction, and calcination processes, a
+
+Separation and Purification Technology 345 (2024) 127408 Wu et al.
+
+Fig. 9. (a) TD-TPTA recyclability test for gold extraction. (b) Gold recovery from CPU leach solution (c) Practical application of recovering gold from e-waste.
+
+golden yellow solid was obtained (Fig. 9c). This means that TD-TPTA can successfully adsorb gold from e-waste and is a promising and viable adsorbent.
+
+## 4. Conclusion
+
+In summary, we have successfully constructed a CTF with strong affinity for gold. Unlike previous porous materials, our CTF has a robust covalent triazine framework, a π -conjugated D-A structure, and an abundance of soft base sites (sulfur atom). With these advantages, TDTPTA enables efficient and selective photocatalytic reduction of Au (III) from e-waste leachate, making the recovery of gold from e-waste a proven practical application. In this paper, we propose an overall strategy for constructing CTFs with D-A structure, the introduction of soft base S with strong affinity for soft gold [AuCl$_{4}$] GLYPH<0> , and a green photocatalytic reduction method, which makes the technology of extracting Au(III) from e-wastes a solid step toward practical application.
+
+## CRediT authorship contribution statement
+
+Yongquan Wu: Project administration, Funding acquisition. ShunHao Zeng: Formal analysis, Data curation. Wei Xu: Methodology, Investigation. Yi-Ru Chen: Software, Resources. Kai Liu: Visualization, Validation. Yi-Ting Dai: Visualization. Hui-Ying Wu: Visualization. Wei-Rong Cui: Writing -review & editing, Writing -original draft, Conceptualization.
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Data availability
+
+Data will be made available on request.
+
+## Acknowledgments
+
+This work was financially supported by the National Natural Science Foundation of China (21967001), the Double-Thousand Talents Plan of Jiangxi Province (jxsq2019201090), and the Natural Science Foundation of Jiangxi Province (20224BAB213026 and 20232BAB203029). The authors would like to thank Shiyanjia Lab (www.shiyanjia. com) for the support of XPS measurement.
+
+## Appendix A. Supplementary material
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.seppur.2024.127408.
+

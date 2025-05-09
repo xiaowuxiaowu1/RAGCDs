@@ -1,0 +1,725 @@
+<!-- image -->
+
+<!-- image -->
+
+Review
+
+## Marine-Derived Bisindoles for Potent Selective Cancer Drug Discovery and Development
+
+Mengwei Xu $^{1,†}$, Zhaofang Bai $^{2,†}$, Baocheng Xie $^{3}$, Rui Peng $^{1}$, Ziwei Du $^{1,3}$, Yan Liu $^{1}$, Guangshuai Zhang $^{1}$, Si Yan $^{1}$, Xiaohe Xiao $^{2,4,}$* and Shuanglin Qin $^{1,2,}$*
+
+- 1 Hubei Engineering Research Center of Traditional Chinese Medicine of South Hubei Province, School of Pharmacy, Xianning Medical College, Hubei University of Science and Technology, Xianning 437100, China; x690385686@163.com (M.X.); qipp0207@163.com (R.P.); duziwei0101@163.com (Z.D.);
+
+liuyan20210915@163.com (Y.L.); zhanggs1999@163.com (G.Z.); yansi92674@163.com (S.Y.)
+
+- 2 Senior Department of Hepatology, The Fifth Medical Center of PLA General Hospital, Beijing 100039, China; baizf2008@hotmail.com
+- 3 Department of Pharmacy, The Tenth Affiliated Hospital of Southern Medical University (Dongguan People's Hospital), Dongguan 523059, China; baochengxie@126.com
+- 4 China Military Institute of Chinese Materia, The Fifth Medical Center of PLA General Hospital, Beijing 100039, China
+- * Correspondence: pharmacy302@126.com (X.X.); shuanglin@tju.edu.cn (S.Q.)
+- † These authors contributed equally to this work.
+
+Abstract: Marine-derived bisindoles exhibit structural diversity and exert anti-cancer influence through multiple mechanisms. Comprehensive research has shown that the development success rate of drugs derived from marine natural products is four times higher than that of other natural derivatives. Currently, there are 20 marine-derived drugs used in clinical practice, with 11 of them demonstrating anti-tumor effects. This article provides a thorough review of recent advancements in anti-tumor exploration involving 167 natural marine bisindole products and their derivatives. Not only has enzastaurin entered clinical practice, but there is also a successfully marketed marine-derived bisindole compound called midostaurin that is used for the treatment of acute myeloid leukemia. In summary, investigations into the biological activity and clinical progress of marine-derived bisindoles have revealed their remarkable selectivity, minimal toxicity, and efficacy against various cancer cells. Consequently, they exhibit immense potential in the field of anti-tumor drug development, especially in the field of anti-tumor drug resistance. In the future, these compounds may serve as promising leads in the discovery and development of novel cancer therapeutics.
+
+Keywords: bisindole alkaloids; marine natural products; cancer; antitumor activity; anticancer drug
+
+## 1. Introduction
+
+Cancer is one of the most significant causes of death worldwide, affecting various diseases in any part of the body. A key characteristic of cancer is the rapid production of abnormal cells that grow beyond their normal boundaries, potentially invading adjacent body parts and spreading to other organs. This spreading, known as metastasis, is the primary cause of cancer-related deaths [1]. Despite advances in early detection, surgical techniques, and targeted therapy, challenges in cancer treatment persist, including low efficacy, high toxicity, and drug resistance, severely impacting patients' quality of life. Consequently, the search for efficient, safe, and highly selective anti-cancer compounds has become a crucial aspect of contemporary cancer research [2].
+
+The sea covers over 70% of the Earth's surface and is a land rich in resources. The marine ecosystem, which hosts a large number of organisms, is one of the regions with the highest biodiversity on earth [3]. For a long time, countries have invested substantial human, material, and financial resources in developing and utilizing marine resources. The immense diversity of marine organisms has proven to be a rich source of inspiration
+
+<!-- image -->
+
+Citation: Xu, M.; Bai, Z.; Xie, B.; Peng, R.; Du, Z.; Liu, Y.; Zhang, G.; Yan, S.; Xiao, X.; Qin, S. Marine-Derived Bisindoles for Potent Selective Cancer Drug Discovery and Development. Molecules 2024 , 29 , 933. https:// doi.org/10.3390/molecules29050933
+
+Academic Editors: Milen I. Georgiev, Luca Rastrelli, Maria Z. Tsimidou, Vincenzo De Feo, Maurizio Battino and Francesco Cacciola
+
+Received: 11 December 2023
+
+Revised: 28 January 2024
+
+Revised: 28 January 2024
+
+Accepted: 29 January 2024
+
+Published: 21 February 2024
+
+Published: 21 February 2024
+
+<!-- image -->
+
+Copyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+
+topsentin B (1)
+
+<!-- image -->
+
+topsentin B2 (2)
+
+4,5-dihydro-6" -deoxybromotopsentin (3)neotopsentin (9) R =H,R2-OH neoisotopsentin (10) Ry-OH,R2=H
+
+<!-- image -->
+
+11 Ry=H,Rz=F 12 R,=Rz =H 13 R =Br,R2-OCH, 14 Ry=Br,Rz H 15 R,=Br,R2=Br
+
+<!-- image -->
+
+for drug discovery. The success rate of marine natural product derivatives is four times higher than that of other natural derivatives [4]. The biodiversity of marine organisms provides abundant resources for discovering and developing new anticancer drugs for human malignant tumors [5]. To date, 20 drugs derived from marine sources are used clinically, of which 11 exhibit antitumor effects [6].
+
+Indole is a multifunctional active pharmacophore and a heterocyclic compound widely present in natural and synthetic compounds with biological activity. Indole alkaloids from natural sources display diverse mechanisms and structures and exert anticancer potential through various antiproliferation mechanisms. Thus, indole alkaloids play a significant role in the discovery of new anticancer drugs [7-11]. Scientists have subsequently isolated various new bisindole alkaloids from marine organisms, especially deep-water sponges. They are usually extracted with organic solvents (e.g., methanol, ethyl acetate). And the extracts were concentrated and partitioned between organic and aqueous phases. The organic phase is separated with chromatography separation technology, including silica gel column chromatography, high-performance liquid chromatography, etc. Most marinederived bisindoles exist in solid form, which makes it convenient for us to determine their absolute configuration by single crystal. A number of marine-derived bisindoles exhibit strong and varied biological activities. Due to their unique biological activities and chemical structures, they have become a research focal point in pharmaceutical chemistry as lead compounds for new drug development. It is noteworthy that many drugs based on marine-derived bisindoles have been approved or are currently in clinical research, such as midostaurin, lestaurtinib, and enzastaurin. These drug molecules have shown potent selective anti-tumor effects. This paper reviews the recent research progress on marine bisindole alkaloids and their derivatives with anticancer activity.
+
+## 2. Topsentin Family Bisindole Alkaloids and Their Derivatives
+
+Topsentins family bisindole alkaloids are compounds that utilize carbonyl imidazole as a spacer to link two indole moieties, predominantly isolated from deep-sea sponges.
+
+A research team isolated topsentin B$\_{1}$ ( 1 ) (Figure 1) from a sponge, which exhibited significant cytotoxicity to the P388 cancer cell line with an IC$\_{50}$ of 4.1 ± 1.4 µ M. It also demonstrated a moderate inhibitory effect on human HL-60 cancer cells, with an IC$\_{50}$ of 15.7 ± 4.3 µ M, and exhibited anti-proliferative effects on human tumor cells HCT-8, A-549, and T47D. In vivo tumor models established in mice confirmed that topsentin B$\_{1}$ had an inhibitory effect on P388 and B16. Further research on P388 cancer cells revealed that the compound could inhibit DNA (deoxyribonucleic acid) (91%) and RNA (ribonucleic acid) synthesis (57%), while not affecting protein synthesis [12,13].
+
+Figure 1. Topsentin family bisindole alkaloids and their derivatives.
+
+<!-- image -->
+
+<!-- image -->
+
+deoxytopsentin (4) R,=R2 =H bromodeoxytopsentin (5) Ri=Br;Rz =H isobromodeoxytopsentin (6) R;=H;R2-Br isotopsentin (7) Ri=OH,Rz =H hydroxytopsentin (8) Ri=Rz -OH
+
+<!-- image -->
+
+16 Ry=F,R2=Br
+
+<!-- image -->
+
+Topsentin B$\_{1}$ ( 1 ) and topsentin B$\_{2}$ ( 2 ) (Figure 1) exhibited moderate anti-proliferative activity against NSCLC-N6 (non-small cell lung cancer), with IC$\_{50}$ values of 12 and 6.3 µ g/mL, respectively. They also displayed cytotoxicity to HeLa cells, with IC$\_{50}$ values of 4.4 and 1.7 µ M, respectively [14-16]. (Topsentin B$\_{2}$, also known as bromotopsentin).
+
+The four bisindole alkaloids topsentin B$\_{2}$ ( 2 ), 4,5-dihydro-6 $^{''}$-deoxybromotopsentin ( 3 ), deoxytopsentin ( 4 ), and bromodeoxytopsentin ( 5 ) (Figure 1), extracted from the sponge Spongosorites sp., all showed moderate activity (IC$\_{50}$: 1.1-7.4 µ g/mL) against AGS (adenocarcinoma) and L1210 (lymphocytic leukemia). Compounds 4 and 3 demonstrated moderate anti-proliferative activity on BC (breast cancer) cancer cells, with IC$\_{50}$ values of 10.7 and 17.5 µ g/mL, respectively. Compound 4 also exhibited moderate activity against HepG2, with an IC$\_{50}$ of 3.3 µ g/mL [17]. It was previously reported that topsentin B$\_{2}$ had cytotoxicity to P388 cells, with an IC$\_{50}$ of 7.0 µ g/mL [18].
+
+Bao's research team isolated bromodeoxytopsentin ( 5 ) and isobromodeoxytopsentin ( 6 ) (Figure 1) from marine sponge sp., which were cytotoxic to K562 cells with IC$\_{50}$ values of 0.6 and 2.1 µ g/mL, respectively [19]. Compound 6 is cytotoxic to five human cancer cell lines: A549, SK-OV-3, SK-MEL-2, XF498, and HCT15 [20].
+
+In 1988, while extracting natural products from topsentins, several analogues were synthesized. Under identical conditions, the cytotoxicity of natural products 1 -4 and analogues 7 -10 (Figure 1) was evaluated. The IC$\_{50}$ values for natural products 1 -4 against P388 cancer cells were 2.0, 12.0, 4.0, and 7.0 µ g/mL, respectively, while those for analogues 7 -10 were 4.0, 0.3, 2.5, and 1.8 µ g/mL, respectively. The results indicated that the introduction of a hydroxyl group enhanced cytotoxicity, whereas the introduction of a bromine substituent reduced it [12].
+
+Azaindole and its derivatives have demonstrated significant biological activities in previous studies, including antitumor effects [21-25]. A team reported synthesizing a series of new 1,2,4-oxadiazole topsentin analogues and screened five compounds, 11 -15 (Figure 1), which showed strong activity on pancreatic ductal adenocarcinoma cell lines (including Panc-1, Capan-1, and SUIT-2), with EC$\_{50}$ values ranging from 0.4 to 6.8 µ M. None of these derivatives exhibited cytotoxic effects against non-tumor pancreatic cells. Further studies revealed that the anti-proliferation mechanism of compounds 11 -15 involved promoting apoptosis, which was related to the externalization of phosphatidylserine in the cell membrane, suggesting that their target was GSK3 β (glycogen synthase kinase 3 beta) [26].
+
+The existence of a carbonyl spacer group in the topsentin family allows small-molecule compounds to have greater flexibility, better adapt to the ATP (adenosine triphosphate) binding site of CDK1 (cyclin-dependent kinase 1), and act as a hydrogen bond receptor. This enables interaction with amino acid residues at the active site of CDK1. The designed and synthesized derivative 16 (Figure 1) exhibited a significant anti-proliferative effect against PDAC (pancreatic ductal adenocarcinoma cells) (Hs766T, HPAF-II, PDAC3, and PATU-T), with IC$\_{50}$ values of 5.7 ± 0.60, 6.9 ± 0.25, 9.8 ± 0.70, and 10.7 ± 0.16 µ M, respectively. This compound promoted apoptosis in PDAC cells and regulated the expression of CDK1. ADME (absorption, distribution, metabolism, and excretion) prediction indicated good pharmacokinetic properties, warranting further clinical investigation [27].
+
+## 3. Nortopsentin Family Bisindole Alkaloids and Their Derivatives
+
+Nortopsentins A-C ( 17 -19 ) (Figure 2) possess a 2,4-bis(3 $^{'}$-indolyl)imidazole structure skeleton, which exhibits significant inhibitory effects against P338 cells, with IC$\_{50}$ values of 7.6, 7.8, and 1.7 µ g/mL, respectively [18]. In recent years, the unique structure and anticancer potential of nortopsentins bisindole alkaloids have garnered the attention of many research teams, leading to a series of modifications. The modifications primarily target the middle part (five-membered heterocycle) of the two indole structures and further extend to one or two indole units [28].
+
+Patrizia Diana's team reported the synthesis of bisindole thiophene and bisindole pyrazole derivatives. Several of these compounds were selected for evaluation against 60 cancer
+
+nortopsentin A (17) R-R =Br nortopsentin B (18) R-H;R =Br nortopsentin C (19) R-Br;R  =H
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+24
+
+31 R=OCH3;R  =CH2CH2OMe;R2=H 32 R=F;R =H;Rz=CHzCH2OMe 33 R=H;R =H;R2 =CH2CH2OMe 34 R-Br;R; =H;R2=CHzCH2OMe
+
+<!-- image -->
+
+cell lines from nine human cancer types. The results indicated that the most active bisindole thiophene compound was 20 (Figure 2), particularly effective against leukemic cell lines (CCRF-CEM, MOLT-4, HL-60, RPMI-8226, K-562) with GI$\_{50}$ values ranging from 0.34 to 3.54 µ M. It demonstrated good selectivity for the HT29 and HCC-2998 cell lines of the colon cancer subgroup, with GI$\_{50}$ values of 2.79 and 2.83 µ M, respectively. It also showed selectivity for NCI-H522 of the non-small cell lung cancer subgroup, LOXIMVI of the melanoma subgroup, and UO31 of the renal cancer subgroup [29]. Bisindole pyrazole 21 (Figure 2) exhibited antitumor activity on most human cell lines, while compound 22 (Figure 2), containing more chlorine groups than compound 21 , was effective on all tested cells [30]. The team also synthesized a series of 2,5-bis(3 $^{'}$-indolyl)furan and 3,5-bis(3$^{'}$-indolyl)isoxazole antitumor drugs. The in vitro antitumor activities of these compounds against 10 human tumor cells were tested, revealing that all compounds exhibited antiproliferative activity at the highest test concentration of 100 µ g/mL. Further tests on compounds 23 and 24 (Figure 2), which showed strong activities in 29 cell lines, revealed that compound 24 exhibited a high level of tumor selectivity, and compound 23 demonstrated selective activity against A549, LXFA629L, and UXF1138L [31].
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+25 R=H 26 R-Me
+
+<!-- image -->
+
+<!-- image -->
+
+35 R-Me; Ri=Me; Rz-H; 36 R-Me; R =H; Rz-H;
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+37 R=F;Ri=Me;R2=H 38 R=H;R; =H;R2=Me 39 R=F;Ri=Me;R2-Me
+
+<!-- image -->
+
+<!-- image -->
+
+Figure 2. Noropsentin family bisindole alkaloids and their derivatives.
+
+<!-- image -->
+
+A series of compounds were synthesized by replacing the imidazole ring with a pyrrole ring. All compounds exhibited anti-proliferative activity at the highest test concentration of 100 µ g/mL. Among them, compounds 25 and 26 (Figure 2) demonstrated the most
+
+40 R=F;R =H;R2-H;R3-OMe 41 R=OMe;R =Boc;R2 =H;R3 =H 42 R-OMe;R =Boc;R2 -Me;R3=H 43 R-H;R =H;Rz=H;R,=OMe 44 R=OMe;Ri=H;R2=-H;R3-OMe 45 R=CI;R =H;Rz-H;Rz-OMe 46 R-Me;Ri-H;R2=Me;R3=OMe
+
+30 R, =5-OCH,;R2=4-CIC 6HaCH2
+
+significant anti-proliferative activity against a group of human tumor cell lines (42 human tumor cells) cultured in vitro, with an average IC$\_{50}$ value of 0.37 µ g/mL. Moreover, in vitro clonogenic assays revealed significant tumor selectivity for both compounds, particularly for compound 26 [32].
+
+New 2,5-bisindolyl-1,3,4-oxadiazoles were designed and synthesized. Compounds 27 and 29 (Figure 2) exhibited strong anticancer activity against the MCF-7 cell line, with IC$\_{50}$ values of 1.8 ± 0.9 and 2.6 ± 0.89 µ M, respectively. Compounds 27 , 28 , and 29 (Figure 2) displayed potent cytotoxicity against HeLa cells, with IC$\_{50}$ values of 9.23 ± 0.58, 9.4 ± 0.37, and 6.34 ± 0.56 µ M, respectively. Notably, compound 29 demonstrated significant cytotoxicity against the lung cancer cell line A549, with an IC$\_{50}$ value of 3.3 ± 0.85 µ M. Importantly, these compounds showed no cytotoxicity against normal human embryonic kidney cells, HEK-293 [33].
+
+A series of bisindole thiadiazole compounds was synthesized and tested for in vitro cytotoxicity against six human cancer cell lines: prostate (PC3, DU145, and LNCAP), breast (MCF-7 and MDA-MB-231), and pancreas (PACA2). The results indicated that substituents at the N-1 and C-6 positions of the indole ring were crucial for inducing cytotoxicity and selectivity towards specific cancer cell lines. Among them, compound 30 (Figure 2), with a 4-chlorobenzyl group and a 5-methoxy substituent, showed significant inhibitory effects on all cancer cell lines tested (IC$\_{50}$ range: 14.6-369.8 µ M), particularly on LNCAP cancer cell lines (IC$\_{50}$ = 14.6 µ M) [34].
+
+With further research, a series of new thiazole nortopsentin analogues were synthesized. To increase water solubility, the nitrogen atom of the indole, or 7-azaindole, was modified with a 2-methoxyethyl chain. Among these, four derivatives ( 31 -34 ) (Figure 2) demonstrated potent anti-proliferative activity against nearly all 60 human tumor cell lines (GI$\_{50}$ range: 0.03-98.0 µ M). Further studies revealed that the anti-proliferation mechanism of these compounds against MCF-7 cells involved promoting apoptosis, associated with the externalization of phosphatidylserine in the cell membrane and DNA fragmentation. Compound 31 , exhibiting the strongest activity and selectivity, constrained living cells to the G2/M phase and significantly inhibited the activity of CDK1 in vitro [35].
+
+Compounds 35 and 36 (Figure 2) displayed anti-proliferative activity against about 60 human tumor cell lines, with GI$\_{50}$ values of 0.03-13.0 µ M and 0.04-14.2 µ M, respectively, and did not significantly affect the survival rate of normal human liver cells, indicating high selectivity towards tumor cells. After treating HepG2 cells with these compounds, cell cycle distribution studies showed concentration-dependent accumulation in the subG0/G1 phase, restricting living cells to the G2/M phase. The anti-proliferation mechanism involved promoting apoptosis, linked to the externalization of phosphatidylserine in the cell membrane and mitochondrial dysfunction [36].
+
+Compounds 37 , 38 , and 39 (Figure 2) significantly inhibited the activity of CDK1, with IC$\_{50}$ values of 0.89 ± 0.07, 0.75 ± 0.03, and 0.86 ± 0.04 µ M, respectively, and did not substantially interfere with the proliferation of human normal fibroblasts. In a nude mouse tumor model, these three compounds were also found to have significant inhibitory effects on tumor cell proliferation and growth. Further investigation into their mechanism of action revealed that they could block the cell cycle in the G2/M phase by inhibiting CDK1 activity, increasing the rate of apoptosis, and reducing the phosphorylated form of the anti-apoptotic protein survivin. Additionally, compound 38 synergized with paclitaxel, significantly inhibiting the survival of DMPM (diffuse malignant peritoneal mesothelioma) cells [37].
+
+A series of seven newly synthesized compounds, 40 -46 (Figure 2), inhibited the growth of four cancer cell lines: MDA-MB-231, MIAPACA-2, PC3, and STO. Among these, compound 45 exhibited the highest activity against malignant peritoneal mesothelioma (STO) cell lines. Further investigation into the mechanism of compound 45 revealed that its treatment of STO cells significantly reduced CDK1 activity in a time-dependent manner and could induce cell cycle arrest in the G2/M phase, accompanied by marked caspasedependent apoptosis. The phosphorylated form of the anti-apoptotic protein survivin also
+
+showed a time-dependent decrease. Additionally, compound 45 synergized with paclitaxel due to the enhanced induction of caspase-3-mediated apoptosis [38].
+
+A new nortopsentin analog was synthesized by partially replacing the central imidazole ring with 1,2,4-oxadiazole and an indole moiety with 7-azaindole. Among the synthesized derivatives, compounds 47 and 48 (Figure 2) exhibited significant cytotoxicity against MCF-7, HCT-116, and HeLa cells (IC$\_{50}$: 0.65-13.96 µ M). Further studies on the anti-proliferation mechanism in MCF-7 cells showed that they could promote apoptosis, which was associated with the externalization of phosphatidylserine in the cell membrane, chromatin condensation, and membrane blebbing. They also induced cell accumulation in the G0-G1 phase [39].
+
+A team synthesized a new thiazole nortopsentin analog in which the naphthyl group partially replaced the original indole part and the other indole was replaced or retained by 7-azaindole. Three derivatives, 49 -51 (Figure 2), demonstrated effective anti-proliferative activity against MCF-7 cells, with IC$\_{50}$ values of 2.13 ± 0.12, 3.26 ± 0.19, and 5.14 ± 0.34 µ M, respectively. Further cytotoxicity studies on MCF-7 cells showed that all three compounds promoted apoptosis, inducing cells to transition towards early apoptosis without necrosis. They also caused cell cycle disruption, significantly reducing the percentage of G0/G1 and S phase cells, increasing the percentage of G2/M phase cells, and leading to the appearance of a sub-G1 cell population [40].
+
+## 4. Hamacanthin Family Bisindole Alkaloids and Their Derivatives
+
+Bao's research team isolated the hamacanthin family of bisindole alkaloids from marine sponges sp. Compounds such as (3S,6R)-6 $^{'}$-debromo-3,4-dihydrohamacanthin A ( 52 ), (3S,6R)-6 $^{''}$-debromo-3,4-dihydrohamacanthin A ( 53 ), trans-3,4-dihydrohamacnathin A ( 54 ), (S)-hamacanthin A ( 56 ), (R)-6 $^{''}$-debromohamacanthin A ( 57 ), (S)-6 $^{'}$,6$^{''}$-didebromohamacanthin A ( 59 ), (R)-6 $^{'}$-debromohamacanthin B ( 60 ), (R)-6 $^{''}$-debromohamacanthin B ( 61 ), (R)-6 $^{'}$,6$^{''}$didebromohamacanthin B ( 62 ), (S)-hamacanthin B ( 63 ), (3S,5R)-6 $^{''}$-debromo3,4-dihydrohamacanthin B ( 64 ), (3S,5R)-6 $^{'}$-debromo-3,4- dihydrohamacanthin B ( 65 ), cis-3,4dihydrohamacanthin B ( 66 ) (Figure 3) is cytotoxic to five human cancer cell lines: A549, SK-OV-3, SK-MEL-2, XF498, and HCT15. (R)-6 $^{'}$-debromohamacanthin A ( 58 ) (Figure 3) exhibited a weak inhibitory effect against HCT15 [19,20,41]. A study has shown that compound 58 can inhibit VEGF (vascular endothelial growth factor)-induced expression of MAPKs (p38, ERK, and SAPK/JNK) and the PI3K/AKT/mTOR signaling pathway [42]. (Note: the naming of compounds 57 and 58 here is subject to reference [20]).
+
+Figure 3. Hamacanthin family bisindole alkaloids and their derivatives.
+
+<!-- image -->
+
+<!-- image -->
+
+(3S,6R)-6'-debromo-3,4-dihydrohamacanthin (52) R,=H;R2 -Br (3S,6R)-6" -debromo-3,4-dihydrohamacanthin (53) R;-Br;R2 H trans-3,4-dihydrohamacanthin A (54) Rp=Br;R2 =Br trans-4,5-dihydrohamacanthin A (55) )p=Br;R2 -Br
+
+(S)-hamacanthin A (56) Rp=Br;R2 =Br (R)-6"-debromohamacanthin A (57) R,-Br;R2 H (R)-6'-debromohamacanthin A (58) Ri=H;R2=Br (S)-6',6" -didebromohamacanthin (59) R,-H,R2 H
+
+<!-- image -->
+
+(R)-6'-debromohamacanthin B (60) R =H;R2=Br (R)-6" -debromohamacanthin B (61) Ry -Br;R2 H (R)-6',6"-didebromohamacanthin B (62) R =H;R2=H (S)-hamacanthin (63) R,=Br; Rz =Br
+
+<!-- image -->
+
+<!-- image -->
+
+(3S,SR)-6"-debromo-3,4-dihydrohamacanthin B (64) R;=H;R2 =Br (3S,5R)-6'-debromo-3,4-dihydrohamacanthin B (65) R,-Br;R2=H cis-3,4-dihydrohamacanthin B (66) 'R;-Br;R2-Br
+
+The bisindole alkaloids trans-4,5-dihydrohamacanthin A ( 55 ), hamacanthin A ( 56 ), 57 , 6 $^{''}$-debromohamacanthin B ( 61 ), and hamacanthin B ( 63 ) were extracted from the sponge Spongosorites sp. These compounds demonstrated moderate activity against AGS and L1210 (IC$\_{50}$: 1.1-9.0 µ g/mL) [17].
+
+The pyrazinone bisindole compound 67 (Figure 3) synthesized by Jiang's team demonstrated a strong inhibitory effect on a variety of tumor cell lines, including leukemia, nonsmall cell lung cancer, colon cancer, CNS (central nervous system) cancer, ovarian cancer, kidney cancer, and breast cancer cell lines, with GI$\_{50}$ values ranging from 6.6-74.8 µ M [43].
+
+## 5. Dragmacidin Family Bisindole Alkaloids and Their Derivatives
+
+The IC$\_{50}$ value of dragmacidin ( 68 ) (Figure 4) extracted from deep-sea sponge against P388 cells is 15 µ g/mL, and against A-549, HCT-8, and MDAMB cells is 1-10 µ g/mL [44].
+
+<!-- image -->
+
+dragmacidin (68)
+
+dragmacidon (69)
+
+<!-- image -->
+
+72 R=H 73 R=CH3
+
+<!-- image -->
+
+74 Ri=OMe;R2=Ts 75 Ri=H;R2 H 76 R =Me;R2 =H 77 Ri-OMe;R2 =Hdragmacidin G (70) R=Br dragmacidin H (71) R=H
+
+<!-- image -->
+
+Figure 4. Dragmacidin family bisindole alkaloids and their derivatives.
+
+<!-- image -->
+
+Dragmacidon A ( 69 ) (Figure 4) was isolated from the Pacific sponge Hexadella sp. In vitro cytotoxicity tests revealed that 69 exhibited cytotoxicity in the L1210 assay (ED$\_{50}$ was 10 mg/mL) [45]. Dragmacidon A has significant anti-cancer activity against A549, HT29, and MDA-MB-231, with IC$\_{50}$ values of 3.1, 3.3, and 3.8 µ M, respectively. Research has shown that it can inhibit the mitosis of tumor cells by inhibiting PP1 and/or PP2A phosphatase. This may represent a new paradigm to inhibit Ser-Thr PPs type 1 and possibly other analogous phosphatases such as PP2A [46].
+
+Dragmacidin G ( 70 ) (Figure 4), composed of a pyrazine ring and two indole rings, was isolated from sponges of the genus Spongosorites. In tests using PANC-1, MIA PaCa-2, BxPC-3, and ASPC-1 cancer cell lines, the IC$\_{50}$ values after 72 h of treatment were 18 ± 0.4 µ M, 26 ± 1.4 µ M, 14 ± 1.4 µ M, and 27 ± 0.8 µ M, respectively [47]. Other studies also indicated that dragmacidins G ( 70 ) and H ( 71 ) (Figure 4) showed moderate cytotoxicity against HeLa cells, with IC$\_{50}$ values of 4.2 and 4.6 µ M, respectively [16].
+
+Synthetic pyrazine bisindole compounds 72 and 73 (Figure 4) were tested, and although compound 72 showed weak cytotoxicity, its N-methylated derivative 73 exhibited significant inhibitory activity against leukemia, non-small cell lung cancer, colon cancer, CNS cancer, ovarian cancer, kidney cancer, and breast cancer cell lines, with GI$\_{50}$ values ranging from 0.058 to 7.19 µ M [43].
+
+<!-- image -->
+
+New pyrimidine bisindole and pyrazine bisindole compounds were synthesized as potential anticancer drugs. When screened across 60 in vitro human tumor cell lines (encompassing leukemia, non-small cell lung cancer, colon cancer, CNS cancer, ovarian cancer, kidney cancer, and breast cancer cell lines), compounds 74 , 76 , 77 , and 78 (Figure 4) exhibited notable cytotoxicity in the low micromolar range, with GI$\_{50}$ values less than 11.7 µ M. The cytotoxicity of compound 74 was the most pronounced, with GI$\_{50}$ values ranging from 0.16 to 1.42 µ M. Compound 75 showed selective inhibitory effects against the IGROV1 cell line [48].
+
+## 6. Fascaplysin Family Bisindole Alkaloids and Their Derivatives
+
+The researchers isolated fascaplysin ( 79 ) (Figure 5) from the Fijian sponge Fascaplysinopsis Bergquist sp. [25]. Fascaplysin exhibits a broad range of anticancer activities against various cancer cell types, including NSCLC and SCLC (small cell lung cancer) cancer cells [49], glioma cells [50], A2780 and OVCAR3 human ovarian cancer cell lines [51], melanoma cells [52], and others. Fascaplysin exhibits anti-cancer effects in various types of cancer cells by inhibiting CDK4 (cyclin-dependent kinase 4)-mediated cell cycle progression. It helps to improve the anticancer effect of PI3K-AKT-targeted drugs, and when used in combination with AMPK (Adenosine 5 $^{'}$-monophosphate-activated protein kinase) inhibitors, it can also effectively inhibit tumor growth. Fascaplysin inhibits the expression of several folate and purine metabolism-related genes, such as MTR (5-methyltetrahydrofolate-homocysteine methyltransferase) and DHFR (dihydrofolate reductase), and makes cells sensitive to MTX (methotrexate)-induced apoptosis [53]. A research team has found that fascaplysin can induce HL-60 cell death through a synergistic effect between apoptosis and autophagy. The role of autophagy is activated by inhibiting the PI3K/Akt/mTOR signaling pathway, leading to increased expression of LC3-II, ATG7, and Beclin-1 [54]. Fascaplysin can trigger autophagy in endothelial cells by activating the ROS pathway [55]. Fascaplysin can inhibit the expression of survivin. In malignant melanoma, colorectal cancer, and lung cancer cells, fascaplysin can significantly increase TRAIL (TNF-related apoptosis-inducing ligand)-induced cancer cell death. These results suggest that fascaplysin may be a potential drug to overcome resistance to TRAIL-based cancer therapies [56].
+
+Figure 5. Fascaplysin family bisindole alkaloids and their derivatives.
+
+<!-- image -->
+
+<!-- image -->
+
+## fascaplysin (79)
+
+7-phenylfascaplysin (80)
+
+<!-- image -->
+
+<!-- image -->
+
+## 3-bromofascaplysin (82)
+
+10-bromofascaplysin (83)
+
+The in vitro antiproliferative activity of the synthesized fascaplysin derivative 80 (Figure 5) demonstrated IC$\_{50}$ values of 290 nM and 320 nM against HeLa (cervical cancer) and THP-1 (acute monocytic leukemia) cell lines, respectively, while the IC$\_{50}$ values of fascaplysin were 550 nM and 890 nM, respectively. This indicates that the inhibitory activity
+
+3-chlorofascaplysin (81)
+
+<!-- image -->
+
+of fascaplysin derivatives with phenyl substituents at the C-7 position on selected cancer cell lines is 2-3 times higher than that of fascaplysin itself [57].
+
+Lyakhova's team synthesized four fascaplysin derivatives, 80 -83 (Figure 5). Cytotoxicity test results indicated that all compounds exhibited higher cytotoxicity than unsubstituted fascaplysin. Among these, 7-phenyl fascaplysin ( 80 ) and 3-bromo fascaplysin ( 82 ) were particularly effective against glioma C6 cells, with apoptosis being the primary mechanism of cell death. The cytotoxicity of these compounds was time- and concentrationdependent. Fascaplysin derivatives altered all stages of the glioma cell life cycle, and both significantly reduced the number of viable tumor cells in the G0 phase [58]. Compound 81 inhibits VEGF (vascular endothelial growth factor)-mediated angiogenesis, induces autophagy and apoptosis, and interferes with the PI3K/Akt/mTOR signaling pathway in MDAMB-231 cells [59].
+
+## 7. Bisindole Acetylamine Alkaloids and Their Derivatives
+
+2,2-bis (6-bromo-3-indolyl) ethylamine ( 84 ) (Figure 6), also known as BrBin, was isolated from the new caledonian sponge Orina and showed high cytotoxicity against U937, MCF-7, and Caco-2 cancer cell lines [60,61]. BrBin is a potent apoptotic agent. Its mechanism was first evaluated in the U937 tumor cell model. Studies revealed that BrBin modulates the ratio between anti-apoptotic and pro-apoptotic factors and induces mitochondria to participate in the activation of apoptosis mechanisms through the down-regulation of Bcl-2/Bcl-xL and the up-regulation of Bax, thus promoting apoptotic cell death in U937. The compound's effect is dose-dependent [62].
+
+BrBin (84) Ri=Br;Rz =H 85 Rp =H;R2=H 86 Ri=F;Rz =-H 87 Ri=Br;R2=Me
+
+<!-- image -->
+
+Figure 6. Bisindole acetylamine alkaloids and their derivatives.
+
+Under similar conditions, compounds 85 and 86 (Figure 6) reduced U937 cell viability by about 10% compared to BrBin, while compound 87 (Figure 6) induced more cell death. Consequently, compound 87 maintained cytotoxicity equivalent to that observed after BrBin treatment. The structure-activity relationship studies indicated that the presence of a bromine atom and N-methylation are essential for apoptotic activity, and compound 87 functions in driving apoptotic cell death through mitochondrial involvement [63].
+
+## 8. Acyclic Structure-Linked Bisindole Alkaloids and Their Derivatives
+
+Calcicamide A ( 88 ) and B ( 89 ) (Figure 7) were isolated from the Irish sponge S. Calcicola. The cytotoxicity of calcicamide B against HeLa cells was measured after 6 and 24 h of incubation, revealing IC$\_{50}$ values of 165 ± 7 and 146 ± 13 µ M, respectively, stronger than that of calcicamide A (IC$\_{50}$ > 200 µ M) [64].
+
+Figure 7. Acyclic structure linked bisindole alkaloids and derivatives.
+
+<!-- image -->
+
+Spongocarbamides A and B ( 90 -91 ) (Figure 7), which connect indole groups through linear urea-type bonds, exhibited weak inhibitory effects against A549 and K562 cancer cell lines, with IC$\_{50}$ > 90 µ M [65].
+
+Bisindoles 92 and 93 (Figure 7) were extracted from the formosan red alga, laurencia brongniartii. Compound 92 showed an inhibitory effect against HT-29 and P388 cancer cells, while compound 93 had a cytotoxic effect on P388 cells. Specific IC$\_{50}$ values are not provided in the literature [66].
+
+Dendridine A ( 94 ) (Figure 7) exhibited weak cytotoxicity to mouse leukemia L1210 cells, with an IC$\_{50}$ of 32.5 µ g/mL [67].
+
+Chondriamides A ( 95 ) and B ( 96 ) (Figure 7), two cytotoxic bisindole amides, were isolated from the red alga chondria sp. Cytotoxicity tests indicated that chondriamide A had an IC$\_{50}$ of 0.5 µ g/mL against KB cells and 5 µ g/mL against LOVO (Human Colorectal Carcinoma Cells) cells, while the activity of chondriamide B on these two cancer cell types was <1 µ g/mL and 10 µ g/mL, respectively [68].
+
+Eusynstyelamide B ( 97 ) (Figure 7), a natural product isolated from ascidians, was tested for toxicity on MDA-MB-231 cells, resulting in an IC$\_{50}$ of 5.0 µ M. Further cell cycle analysis revealed significant stagnation in the G2/M phase [69]. Eusynstyelamides D ( 98 ) and E ( 99 ) (Figure 7), obtained by acid degradation of guanidine, showed weak cytotoxicity against the melanoma cell line A-2058, with IC$\_{50}$ values of 57 and 114.3 µ M, respectively [70].
+
+A series of bisindolyl triazinone analogues synthesized by Reddymasu Srenivasulu's team were tested for in vitro activity. Compounds 100 and 101 (Figure 7) exhibited significant antiproliferative activity against human cervical cancer cell lines, with IC$\_{50}$ values of 4.6 and 1.3 µ M, respectively, and showed no cytotoxic effects on HEK-293 cell lines (human embryonic kidney cells) [71].
+
+## 9. Indolecarbazole Bisindole Alkaloids and Their Derivatives
+
+STU (Staurosporine) ( 102 ) (Figure 8), isolated from the culture medium of Streptomyces marinus, is one of the most potent natural PKC (protein kinase C) inhibitors identified to date. It has shown considerable anti-tumor potential and has been extensively
+
+studied as a lead compound [72]. Staurosporine can sensitize cancer cells to cisplatin by down-regulating the p62 mechanism. In other cancer models, the combination of staurosporine and cisplatin may reduce cell proliferation and help overcome cisplatin resistance [73]. It can also induce apoptosis in pancreatic cancer cells (PaTu 8988t and Panc-1) through the intrinsic signaling pathway [74]. Staurosporine significantly induces autophagy by inhibiting the PI3K/Akt/mTOR signaling pathway, thereby inducing HepG2 cell death [75]. The ATM (ATM Serine/Threonine Kinase) inhibitor (AZD0156) and staurosporine inhibit the phosphorylation of TET1 (tet methylcysteine dioxygenase 1), causing instability of the TET1 protein and demonstrating a synergistic killing effect on B-ALL (B cell acute lymphoblastic leukemia) cells [76]. However, the poor target specificity and high toxicity of staurosporine have led to the failure of most preclinical studies.
+
+Several staurosporine derivatives were isolated from the rice solid fermentation broth of the marine-derived Streptomyces sp. NB-A13. The inhibitory activity of compound 108 (Figure 8) on the SW-620 cell line was stronger than that of the positive control staurosporine, with an IC$\_{50}$ value of 9.99 nM, compared to staurosporine's IC$\_{50}$ of 25.10 nM. Compounds 103 -107 , 109 -114 , and 116 (Figure 8) also exhibited notable cytotoxicity, with IC$\_{50}$ values ranging from 0.02 to 16.60 µ M. Compound 108 (Figure 8) demonstrated strong cytotoxicity, suggesting that bridged sugar units are crucial for cytotoxicity. This was further evidenced by the increased cytotoxicity of compounds 107 , 111 , and 114 compared to other analogs. The PKC enzyme inhibition activity of compounds 103 -108 was tested, with IC$\_{50}$ values ranging from 0.06 to 9.43 µ M [77]. STU analogues generally exhibit lower toxicity compared to STU itself. Several of these analogues have been used in clinical and preclinical studies, including UCN-01 ( 117 ), lestaurtinib ( 118 ), and midostaurin ( 119 ) (Figure 8). UCN-01 is a selective inhibitor of protein kinase C [78] and has been shown to inhibit the protein expression of thymidylate synthase and E2F-1 (E2F transcription factor 1), as well as the DNA damage checkpoint kinase Chk1 (Check point kinase 1) [79]. It mediates Akt inactivation by inhibiting the upstream Akt kinase PDK1 (3-phosphoinositidedependent protein kinase 1) [80] and can induce autophagy activation to protect cells from apoptosis, suggesting its potential as a standalone anticancer agent in treating human osteosarcoma [81]. UCN-01 inhibits cell proliferation in a group of NB (neuroblastoma) cell lines and detects the induction of cell apoptosis through caspase activation, caspase-3, and PARP cleavage [82]. AZD2461 (an effective PARP inhibitor)/UCN-01 combined inhibit PARP (poly (ADP ribose) polymer) and CHK1, reducing the expression of xbp1 (X-Box Binding Protein 1) in cells by downregulating c-Myc (cellular-myelocytomatosis viral oncogene) and upregulating the pro-apoptotic molecule CHOP (C/EBP-homologous protein ) , leading to UPR (unfolded protein response) imbalance and cell death and trigger autophagy through PERK/eIF2alpha in MM (multiple myeloma) and IRE1alpha/JNK1/2 in PEL (primary effusion lymphoma) cells [83]. Lestaurtinib is a multi-target FLT3 (Fms-like Tyrosine Kinase-3) inhibitor (Figure 9) [84] with confirmed efficacy in inhibiting phosphorylation and inducing cell death in primary leukemia samples and in vivo mouse model studies [85]. In recent years, lestaurtinib has been shown to inhibit PKN1 (protein kinase N1), thereby affecting the SRF (serum response factor) activity induced by androgens in PCa (prostate cancer) cells and xenograft models. Many studies have shown that SRF plays a dominant role in the development and progression of various types of cancer [86]. The development history of lestaurtinib has been described in a review by Levis [87]. Midostaurin is the first oral multitargeted TKI (tyrosine kinase inhibitors) to improve overall survival in patients with FLT3-mutant AML (acute myeloid leukemia) and represents an important addition to the limited armamentarium against AML [88]. The first compound performed poorly in clinical trials due to its targeting effect. Lastly, lestaurtinib and midostaurin were developed for the treatment of acute myeloid leukemia with a positive FLT3 mutation (Figure 9) [89,90].
+
+<!-- image -->
+
+<!-- image -->
+
+Figure 8. Indolecarbazole bisindole alkaloids and their derivatives.
+
+| 'CH3 'OCH; HÑ-CH; staurosporine (102)          | HO 'NHz 103       | HO 104                                                                      | HO 105 'NHz                                          |
+|------------------------------------------------|-------------------|-----------------------------------------------------------------------------|------------------------------------------------------|
+| ""OH HO                                        | "OH OH            | ÑH                                                                          | Mei HO 'NHz                                          |
+| Mei HO                                         | "OH ÓH            | "OH Mew 'OH HO                                                              | OH Me''  "OH HO                                      |
+| 114 KHz                                        | HO' ' 115         | 116                                                                         | HN UCN-01 (117) OH                                   |
+| "H HO HO Lo ;                                  |                   | 120 R=CsHs;X=H                                                              | HO, # 126 R=CsHs;X-H 127 R=C6Hs;X-CI 128 R=CsHs;X-Br |
+| lestaurtinib (118)                             | midostaurin (119) | 121 R=C6Hs;X=CI 122 R=CsHs;X=Br 123 R-CHs;X-H 124 R=CH,;X=CI 125 R-CHB;X-Br | 129 R=CHz;X=H 130 R=CH,;X=CI 131 R-CH3;X-=Br         |
+| HO                                             |                   |                                                                             |                                                      |
+| 132 R=C6Hs;X=H 133 R=C6Hs;X=CI 134 R=CsHs;X-Br |                   | 138 R=CsHs;X=H 139 R=CsHs;X-CI 140 R=CsHs;X-Br                              | enzastaurin (144)                                    |
+
+Figure 9. Mechanisms of enzastaurin, midostaurin, and lestaurtinib. (FLT3: Fms-like TyrosineKinase3, PKC: protein kinase C, PTEN: phosphatase and tensin homolog deleted on chromosome ten, PLC: phospholipase C, PI3K: phosphoinositide-3 kinase, AKT also known as PKB: protein kinase B, GSK3: glycogen synthase kinase 3, RAS/RAF/MEK/ERK: mitogen-activated protein kinase signaling pathway, STAT5: Signal transducer and activator of transcription 5, mTOR: mammalian target of rapamycin).
+
+<!-- image -->
+
+The study of UCN-01 and midostaurin has shown that modifications at the 3'-N and C-7 positions can improve the drug formation of staurosporine. Early studies on halogenated staurosporine derivatives revealed that halogens at the C-3 position could increase the selectivity and activity against some tumor cells [91-93]. This insight led to the synthesis of a series of staurosporine derivatives ( 120 -143 ) (Figure 8) with modifications at the 3 $^{'}$-N, 3-, and 7- positions.
+
+These compounds, except for 127 , exhibited strong inhibitory activity against the human acute myeloid leukemia MV4-11 cell line. For instance, compound 138 showed IC$\_{50}$ values of 0.078 µ M and 0.666 µ M against MV4-11 and PATU-8988T cells, respectively, with selection indexes of 1254 and 147. Compounds 134 , 137 , and 139 demonstrated IC$\_{50}$ values of 0.183 µ M, 0.021 µ M, and 0.029 µ M against MCF-7 cells, respectively, with selection indexes of 76, 221, and 102. These values significantly surpassed the selectivity of the positive controls, UCN-01 (selection index 0.6) and doxorubicin (selection index 0.5). Additionally, compound 143 showed strong selective inhibitory activity against human colon cancer HCT-116 cells with an IC$\_{50}$ of 0.032 µ M and a selection index of 19, which is more favorable than doxorubicin's selection index of 0.04. Due to their high efficacy and low toxicity, these compounds hold potential as anticancer drugs [94]. Research has shown that compound 138 can regulate the ERK1/2, Akt, and p38 MAPK signaling pathways in MDA-MB-231 cells, as well as downregulate myc. In addition, in situ MDAMB-231 xenotransplantation and the 4T1 syngeneic model showed that 138 has the effect of increasing tumor necrosis core and reducing lung and liver metastasis in mice [95].
+
+Moreover, enzastaurin ( 144 ) (Figures 8 and 9) was initially studied as an isoenzymespecific derivative of staurosporine, targeting and inhibiting PKC β , an activator of tumor development. Currently, it is in clinical phase III trials but faces several challenges. The progress in the research and development of the anticancer drug enzastaurin has been detailed in a review by Johnston, R.N [96].
+
+## 10. Other Bisindole Alkaloids
+
+Spongosoritins A-D ( 145 -148 ) (Figure 10), which connect two indole parts through a 2-methoxy-1-imidazole-5-one core, have been found to exhibit weak inhibitory effects against A549 and K562 cancer cell lines, with IC$\_{50}$ values ranging from 24.2 to 77.3 µ M [65].
+
+spongosoritin A (145) R =H;R2-OH spongosoritin B (146) R =H;R2 =-H spongosoritin C (147) Ry=Br;R2 =H spongosoritin D (148) Ri=Br;R2-OH
+
+<!-- image -->
+
+rhopaladin A (151) R-OH;X=Br rhopaladin B (152) R-OH;X=H rhopaladin C (153) R=H;X=Br rhopaladin D (154) R=H;X=H
+
+<!-- image -->
+
+Figure 10. Other bisindole alkaloids.
+
+<!-- image -->
+
+hyrtinadine A (155) R =Rz-OH 156 R =Rz=OMe
+
+<!-- image -->
+
+luteoalbusin A (161) R =H, Rz-OH, n=2 luteoalbusin B (162) R  =H, R2-OH, n=3 T988A (163) Ri=OH, R2=OH, n=3 gliocladine C (164) R,-OH, Rz-H, n=2 gliocladine D (165) Ri =OH, Rz=H, n=3
+
+<!-- image -->
+
+spiroindimicin B (157) Ri=CHs;R2 =H spiroindimicin C (158) Ri=H;R2 =H spiroindimicin D (159) Ri=CH3;Rz=COOCH;
+
+<!-- image -->
+
+dictyodendrin B (167)
+
+<!-- image -->
+
+( ± )-spondomine ( 149 -150 ) (Figure 10), a cyclopentaindole alkaloid, has been isolated, with (+)-spondomine demonstrating strong cytotoxicity against the K562 tumor cell line with an IC$\_{50}$ of 2.2 µ M. It is considered an attractive dual inhibitor of Wnt and HIF1. At 5 µ M, the inhibitory activity of 149 was stronger than that of its positive control [97].
+
+Hiroyasu Sato's team reported that four new bisindole alkaloids with an imidazolinone ring, rhopaladins A-D ( 151 -154 ) (Figure 10), were isolated from the Okinawan marine tunicate Rhopalaea sp. Rhopaladin B exhibited inhibitory activity against CDK4 (cyclindependent kinase 4) and c-erbB-2 kinase, with IC$\_{50}$ values of 12.5 and 7.4 µ g/mL, respectively, indicating potential significant cytotoxicity to human tumor cells [98].
+
+Hyrtinadine A ( 155 ) (Figure 10) has shown strong cytotoxicity against mouse leukemia L1210 and human epidermoid carcinoma KB cell lines, with IC$\_{50}$ values of 1 and 3 mg/mL, respectively, and weak cytotoxicity against HCT116 and A2780 cancer cells (IC$\_{50}$ > 10 µ M). Interestingly, its precursor compound 156 (Figure 10) exhibited stronger activity, with IC$\_{50}$ values of 3.7 and 4.5 µ M against HCT116 and A2780 cancer cells, respectively [99,100].
+
+New bisindole alkaloids with a [5] spiro ring, spiroindimicins B-D ( 157 -159 ) (Figure 10), were isolated from a deep-sea streptomyces strain identified by PCR (Polymerase Chain Reaction) screening. These compounds showed moderate cytotoxicity against several
+
+## indimicin B (160)
+
+(+)-spondomine (149)10S,10'5,11'5 -)-spondomine (150)10R,10'R,11'R
+
+<!-- image -->
+
+<!-- image -->
+
+cancer cell lines. Spiroindimicin B had moderate cytotoxicity against CCRF-CEM, B16, and H460 cells. Spiroindimicin C inhibited the growth of HepG2 and H460 cells, while spiroindimicin D exhibited moderate inhibition on HepG2, B16, and H460 [101].
+
+Indimicin B ( 160 ) (Figure 10), a bisindole alkaloid isolated from the marine streptomyces SCSIO 03032, features a unique 1 $^{'}$, 3$^{'}$-dimethyl-2$^{'}$-hydroindole moiety. It has demonstrated moderate cytotoxicity against the MCF-7 cell line, although specific activity data are not mentioned in the literature [102].
+
+Luteoalbusins A and B ( 161 -162 ), T988A ( 163 ), and gliocladines C and D ( 164 -165 ) (Figure 10) were extracted from deep-sea fungi. These compounds exhibited significant cytotoxicity against SF-268 and MCF-7 cancer cells, with IC$\_{50}$ values ranging from 0.23 to 2.39 µ M. Additionally, luteoalbusins A and B have anti-proliferative effects on NCI-H460 cells, with IC$\_{50}$ values of 1.15 to 1.31 µ M [103].
+
+Over the years, there has been extensive exploration of using telomerase inhibitors to inhibit cancer cell activity. Research indicates that telomerase plays a role in the carcinogenesis process in most cells. Telomerase activity continuously extends telomere length, leading to the uncontrolled division of cancer cells. Hence, overexpression of telomerase activity can result in genomic instability and replication immortality in 80-90% of malignant tumors [104]. Dictyodendrins A and B ( 166 -167 ) (Figure 10), a class of alkaloids isolated from the sponge Dictyodendrlla verongiformis in southern Japan, have shown that the sulfate part of the molecule is essential for activity, as desulfurization compounds are completely inactive. They exhibit complete inhibition of telomerase at 50 µ g/mL, marking them as the first marine natural products found to have inhibitory activity on telomerase [105].
+
+## 11. Conclusions
+
+The ocean serves as a rich source of compounds for drug development, with many marine extracts exhibiting varying degrees of anti-cancer activity. These compounds are pivotal in the discovery and development of anti-cancer drugs. Over the past decades, several marine bisindole alkaloids with anti-cancer properties have been identified, including the topsentins, nortopsentins, hamacanthins, dragmacidins, bisindolyl ethylamines, and fascaplysins families. Their novel molecular structures and broad biological and pharmacological activities have generated significant interest. Moreover, these alkaloids have been further modified to synthesize additional compounds with anti-cancer properties. This paper reviews 167 types of marine bisindole alkaloids and their derivatives (Table 1). In the future, marine natural products will become a focal point in drug discovery and development. These compounds, or elements of them, may provide foundational structures for new anti-tumor drug development. An increasing number of marine natural products are expected to be utilized in clinical treatments.
+
+Table 1. Anticancer activity of marine bisindole natural products and their derivatives.
+
+| Compound                                         | Anticancer Activity                                                                                                                                                                                                                            | CAS Number   | References   |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
+| topsentin B$\_{1}$ ( 1 )                          | IC$\_{50}$ (P388) = 4.1 ± 1.4 µ M; IC$\_{50}$ (HT-29) = 20.5 ± 2.1 µ M; IC$\_{50}$ (A549) = 41.1 ± 8.5 µ M; IC$\_{50}$ (HL-60) = 15.7 ± 4.3 µ M; IC$\_{50}$ (HCT-8;T47D) = 20 µ g/mL; IC$\_{50}$ (NSCLC-N6) = 12 µ g/mL; IC$\_{50}$ (HeLa) = 4.4 µ M. | 112515-44-2  | [12-16]      |
+| topsentin B$\_{2}$ ( 2 )/bromotopsentin           | IC$\_{50}$ (NSCLC-N6) = 6.3 µ g/mL; IC$\_{50}$ (HeLa) = 1.7 µ M; IC$\_{50}$ (AGS) = 1.4 µ g/mL; IC$\_{50}$ (L1210) = 6.9 µ g/mL; IC$\_{50}$ (P388) = 7.0 µ g/mL.                                                                                    | 112515-44-3  | [12,14-18]   |
+| 4,5-dihydro-6 $^{''}$- deoxybromotopsentin ( 3 ) | IC$\_{50}$ (AGS) = 6.3 µ g/mL; IC$\_{50}$ (L1210) = 5.1 µ g/mL; IC$\_{50}$(BC) = 17.5 µ g/mL; IC$\_{50}$ (P388) = 4.0 µ g/mL.                                                                                                                      | 116747-40-1  | [12,17]      |
+| deoxytopsentin ( 4 )                             | IC$\_{50}$ (AGS) = 1.3 µ g/mL; IC$\_{50}$ (L1210) = 7.4 µ g/mL; IC$\_{50}$ (BC) = 10.7 µ g/mL; IC$\_{50}$ (HepG2) = 3.3 µ g/mL; IC$\_{50}$ (P388) = 12.0 µ g/mL.                                                                                    | 112515-42-1  | [12,17]      |
+| bromodeoxytopsentin ( 5 )                        | IC$\_{50}$ (AGS) = 3.3 µ g/mL; IC$\_{50}$ (L1210) = 1.1 µ g/mL; IC$\_{50}$ (K-562) = 0.6 µ g/mL.                                                                                                                                                  | 180633-55-0  | [17,19]      |
+| isobromodeoxytopsentin ( 6 )                     | IC$\_{50}$ (K-562) = 2.1 µ g/mL; ED$\_{50}$ (A549) = 12.3 µ g/mL; ED$\_{50}$ (SK-OV-3) = 8.7 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 4.54 µ g/mL; ED$\_{50}$ (XF498) = 5.51 µ g/mL; ED$\_{50}$ (HCT15) = 6.38 µ g/mL.                                        | 223596-72-3  | [19,20]      |
+
+Table 1. Cont .
+
+| Compound               | Anticancer Activity                                                                                                                                                                                                                                                                                                                                                                                                    | CAS Number   | References   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
+| isotopsentin ( 7 )     | IC$\_{50}$ (P388) = 4.0 µ g/mL.                                                                                                                                                                                                                                                                                                                                                                                         | 116725-88-3  |              |
+| hydroxytopsentin ( 8 ) | IC$\_{50}$ (P388) = 0.3 µ g/mL.                                                                                                                                                                                                                                                                                                                                                                                         | 116725-89-4  | [12]         |
+| neotopsentin ( 9 )     | IC$\_{50}$ (P388) = 2.5 µ g/mL.                                                                                                                                                                                                                                                                                                                                                                                         | 116725-90-7  |              |
+| neoisotopsentin ( 10 ) | IC$\_{50}$ (P388) = 1.8 µ g/mL.                                                                                                                                                                                                                                                                                                                                                                                         | 116725-91-8  |              |
+| 10.5                   | EC$\_{50}$ (Panc-1) = 0.8 µ M; EC$\_{50}$ (Capan-1) = 1.2 µ M; EC$\_{50}$ (SUIT-2) = 0.4 µ M.                                                                                                                                                                                                                                                                                                                             | 2691060-39-4 |              |
+| 12                     | EC$\_{50}$ (Panc-1) = 1.6 µ M; EC$\_{50}$ (Capan-1) = 1.3 µ M; EC$\_{50}$ (SUIT-2) = 3.2 µ M.                                                                                                                                                                                                                                                                                                                             | 2691060-40-7 |              |
+| 13                     | EC$\_{50}$ (Panc-1) = 2.8 µ M; EC$\_{50}$ (Capan-1) = 2.8 µ M; EC$\_{50}$ (SUIT-2) = 7.1 µ M.                                                                                                                                                                                                                                                                                                                             | 2691060-45-2 | [26]         |
+| 14                     | EC$\_{50}$ (Panc-1) = 6.8 µ M; EC$\_{50}$ (Capan-1) = 2.6 µ M; EC$\_{50}$ (SUIT-2) = 5.9 µ M.                                                                                                                                                                                                                                                                                                                             |              |              |
+|                        | µ M.                                                                                                                                                                                                                                                                                                                                                                                                                   | 2691060-46-3 |              |
+| 15                     | EC$\_{50}$ (Panc-1) = 1.5 µ M; EC$\_{50}$ (Capan-1) = 1.4 µ M; EC$\_{50}$ (SUIT-2) = 1.9                                                                                                                                                                                                                                                                                                                                  | 2691060-48-5 |              |
+| 16                     | IC$\_{50}$ (Hs766T) = 5.7 ± 0.60 µ M; IC$\_{50}$ (HPAF-II) = 6.9 ± 0.25 µ M; IC$\_{50}$ (PDAC3) = 9.8 ± 0.70 µ M; IC$\_{50}$ (PDAC3) = 10.7 ± 0.16 µ M.                                                                                                                                                                                                                                                                    | 2986653-16-9 | [27]         |
+| nortopsentins A ( 17 ) | IC$\_{50}$ (P388) = 7.6 µ g/mL.                                                                                                                                                                                                                                                                                                                                                                                         | 134029-43-9  |              |
+| nortopsentins B ( 18 ) | IC$\_{50}$ (P388) = 7.8 µ g/mL.                                                                                                                                                                                                                                                                                                                                                                                         | 134029-44-0  | [18]         |
+| nortopsentins C ( 19 ) | IC$\_{50}$ (P388) = 1.7 µ g/mL.                                                                                                                                                                                                                                                                                                                                                                                         | 134029-45-1  |              |
+| 20                     | GI$\_{50}$ (CCRF-CEM) = 0.34 µ M; GI$\_{50}$ (HL-60) = 2.27 µ M; GI$\_{50}$ (K-562) = 3.54 µ M; GI$\_{50}$ (RPMI-8226) = 2.83 µ M; GI$\_{50}$ (MOLT-4) = 1.91 µ M; GI$\_{50}$ (NCI-H522) = 1.31 µ M; GI$\_{50}$ (HT29) = 2.79 µ M; GI$\_{50}$ (LOX IMVI) = 2.55 µ M.                                                                                                                                                           | 937803-70-8  | [29]         |
+| 21                     | GI$\_{50}$ (MOLT-4) = 4.75 µ M; GI$\_{50}$ (SR) = 3.46 µ M; GI$\_{50}$ (HOP-92) = 2.06 µ M; GI$\_{50}$ (NCI-H460) = 4.48 µ M; GI$\_{50}$ (HCC-2998) = 4.74 µ M; GI$\_{50}$ (LOX IMVI) = 1.70 µ M; GI$\_{50}$ (MCF-7) = 3.95 µ M.                                                                                                                                                                                              | 959682-88-3  |              |
+| 22                     | GI$\_{50}$ (MOLT-4) = 1.55 µ M; GI$\_{50}$ (SR) = 2.36 µ M; GI$\_{50}$ (HOP-92) = 1.86 µ M; GI$\_{50}$ (NCI-H460) = 2.35 µ M; GI$\_{50}$ (HCC-2998) = 1.71 µ M; GI$\_{50}$ (SF-539) = 1.81 µ M; GI$\_{50}$ (LOX IMVI) = 1.70 µ M; GI$\_{50}$ (SK-MEL-5) = 1.79 µ M; GI$\_{50}$ (UACC-62) = 1.63 µ M; GI$\_{50}$ (IGROV1) = 2.55 µ M; GI$\_{50}$ (CAKI-1) = 1.70 µ M; GI$\_{50}$ (MCF-7) = 2.64 µ M; GI$\_{50}$ (BT-549) = 2.03 µ M. | 959682-91-8  | [30]         |
+| 23                     | IC$\_{50}$ (A549) = 5.1 µ g/mL; IC$\_{50}$ (LXFA 629L) = 4.2 µ g/mL; IC$\_{50}$ (UXF 1138L) = 4.8 µ g/mL GI$\_{50}$ (HL-60) = 1.98 µ M; GI$\_{50}$ (K-562) = 2.86 µ M;                                                                                                                                                                                                                                                      | 1237096-77-3 | [31]         |
+| 24                     | GI$\_{50}$ (RPMI-8226) = 2.25 µ M; GI$\_{50}$ (SR) = 1.63 µ M; GI$\_{50}$ (SK-MEL-2) = 2.13 µ M; GI$\_{50}$ (OVCAR-4) = 2.06 µ M; GI$\_{50}$ (OVCAR-5) = 2.79 µ M; GI$\_{50}$ (NCI/ADR-RES) = 2.37 µ M; GI$\_{50}$ (T-47D) = 2.72 µ M; GI$\_{50}$ (SF-539) = 2.47 µ M; GI$\_{50}$ (KM12) = 2.73 µ M.                                                                                                                            | 1237096-74-0 |              |
+| 25                     | IC$\_{50}$ (BXF 1218L) = 0.72 µ M; IC$\_{50}$ (BXF 1352L) = 0.68 µ M; IC$\_{50}$ (LXFL 1121L) = 0.67 µ M; IC$\_{50}$ (MEXF 1341L) = 0.52 µ M; IC$\_{50}$ (MEXF 276L) = 0.22 µ M; IC$\_{50}$ (PAXF PANC1) = 0.74 µ M; IC$\_{50}$ (SXF SAOS2) = 0.72 µ M; IC$\_{50}$ (UXF 1138L) = 0.72 µ M.                                                                                                                                     | 2987346-14-3 | [32]         |
+| 26                     | IC$\_{50}$ (BXF 1218L) = 0.32 µ M; IC$\_{50}$ (MEXF 1341L) = 0.19 µ M; IC$\_{50}$ (MEXF 276L) = 0.11 µ M; IC$\_{50}$ (PRXF PC3M) = 0.32 µ M; IC$\_{50}$ (SXF SAOS2) = 0.33 µ M.                                                                                                                                                                                                                                             | 2986741-15-3 |              |
+| 27                     | IC$\_{50}$ (MCF-7) = 1.8 ± 0.9 µ M; IC$\_{50}$ (Hela) = 9.23 ± 0.58 µ M.                                                                                                                                                                                                                                                                                                                                                 | 2412145-35-6 |              |
+| 28                     | IC$\_{50}$ (Hela) = 9.4 ± 0.37 µ M.                                                                                                                                                                                                                                                                                                                                                                                     | 2412145-36-7 |              |
+| 29                     | IC$\_{50}$ (Hela) = 6.34 ± 0.56 µ M;                                                                                                                                                                                                                                                                                                                                                                                    | 2412145-38-9 | [33]         |
+|                        | IC$\_{50}$ (MCF-7) = 2.6 ± 0.89 µ M; IC$\_{50}$ (A549) = 3.3 ± 0.85 µ M.                                                                                                                                                                                                                                                                                                                                                 |              |              |
+| 30                     | IC$\_{50}$ (LNCAP) = 14.6 µ M.                                                                                                                                                                                                                                                                                                                                                                                          | 1338059-36-1 | [34]         |
+| 31                     | GI$\_{50}$ (MDA-MB-468) = 0.03 µ M; GI$\_{50}$ (T-47D) = 0.04 µ M; GI$\_{50}$ (MCF-7) = 0.05 µ M.                                                                                                                                                                                                                                                                                                                         | 2113670-47-4 |              |
+| 32                     | GI$\_{50}$ (KM12) = 1.77 µ M; GI$\_{50}$ (MDA-MB-435) = 0.90 µ M; GI$\_{50}$ (T-47D) = 0.65 µ M.                                                                                                                                                                                                                                                                                                                          | 2113670-59-8 | [35]         |
+| 34                     | GI$\_{50}$ (MCF-7) = 1.79 µ M; GI$\_{50}$ (T-47D) = 1.97 µ M; GI$\_{50}$ (EKVX) = 2.05 µ M.                                                                                                                                                                                                                                                                                                                               | 2113670-63-4 |              |
+| 33                     | GI$\_{50}$ (KM12) = 0.76 µ M; GI$\_{50}$ (MDA-MB-435) = 0.86 µ M; GI$\_{50}$ (T-47D) = 0.42 µ M.                                                                                                                                                                                                                                                                                                                          | 2113670-62-3 |              |
+| 35                     | GI$\_{50}$ (MDA-MB-435) = 0.03 µ M; GI$\_{50}$ (SR) = 0.06 µ M; GI$\_{50}$ (NCI-H522) = 0.04 µ M.                                                                                                                                                                                                                                                                                                                         | 1900737-01-0 |              |
+|                        |                                                                                                                                                                                                                                                                                                                                                                                                                        | 1873270-61-1 |              |
+| 36                     | GI$\_{50}$ (MDA-MB-435) = 0.04 µ M; GI$\_{50}$ (SR) = 0.14 µ M; GI$\_{50}$ (NCI-H522) = 0.05 µ M. IC$\_{50}$ (STO) = 0.49 ± 0.07 µ M; IC$\_{50}$ (MesoII) = 25.12 ± 3.06 µ M.                                                                                                                                                                                                                                               |              | [36]         |
+| 37                     |                                                                                                                                                                                                                                                                                                                                                                                                                        | 1450997-15-5 |              |
+| 38                     | IC$\_{50}$ (STO) = 0.33 ± 0.07 µ M; IC$\_{50}$ (MesoII) = 4.11 ± 0.22 µ M.                                                                                                                                                                                                                                                                                                                                               | 1450997-40-6 | [37]         |
+| 39                     | IC$\_{50}$ (STO) = 0.43 ± 0.11 µ M; IC$\_{50}$ (MesoII) = 4.85 ± 0.64 µ M.                                                                                                                                                                                                                                                                                                                                               | 1450997-21-3 |              |
+| 40                     | IC$\_{50}$ (MDA-MB-231) = 9.5 ± 3.3 µ M; IC$\_{50}$ (MIAPACA-2) = 11.0 ± 2.1 µ M; IC$\_{50}$ (PC3) = 9.3 ± 2.0 µ M; IC$\_{50}$ (STO) = 8.1 ± 1.3 µ M.                                                                                                                                                                                                                                                                      | 1639456-87-3 | [38]         |
+
+Table 1. Cont .
+
+| Compound                                                    | Anticancer Activity                                                                                                                                                                                                                    | CAS Number   | References   |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
+| 41                                                          | IC$\_{50}$ (MDA-MB-231) = 17.5 ± 1.8 µ M; IC$\_{50}$ (MIAPACA-2) = 14.5 ± 1.3 µ M; IC$\_{50}$ (PC3) = 15.5 ± 1.1 µ M; IC$\_{50}$ (STO) = 13.4 ± 1.9 µ M.                                                                                   | 1639457-02-5 |              |
+| 42                                                          | IC$\_{50}$ (MDA-MB-231) = 19.8 ± 2.4 µ M; IC$\_{50}$ (MIAPACA-2) = 16.4 ± 1.5 µ M; IC$\_{50}$ (PC3) = 17.2 ± 2.5 µ M; IC$\_{50}$ (STO) = 16.0 ± 2.4 µ M.                                                                                   | 1639457-04-7 |              |
+| 43                                                          | IC$\_{50}$ (MDA-MB-231) = 15.6 ± 3.2 µ M; IC$\_{50}$ (MIAPACA-2) = 14.5 ± 2.9 µ M; IC$\_{50}$ (PC3) = 19.4 ± 3.2 µ M; IC$\_{50}$ (STO) = 12.5 ± 2.6 µ M.                                                                                   | 1639457-05-8 | [38]         |
+| 44                                                          | IC$\_{50}$ (MDA-MB-231) = 25.0 ± 3.7 µ M; IC$\_{50}$ (MIAPACA-2) = 19.4 ± 1.9 µ M; IC$\_{50}$ (PC3) = 5.4 ± 1.4 µ M; IC$\_{50}$ (STO) = 7.0 ± 2.1 µ M.                                                                                     | 1639457-07-0 |              |
+| 45                                                          | IC$\_{50}$ (MDA-MB-231) = 7.2 ± 0.4 µ M; IC$\_{50}$ (MIAPACA-2) = 9.1 ± 3.2 µ M; IC$\_{50}$ (PC3) =8.6 ± 4.0 µ M; IC$\_{50}$ (STO) = 4.1 ± 1.0 µ M.                                                                                        | 1639457-08-1 |              |
+| 46                                                          | IC$\_{50}$ (MDA-MB-231) = 14.6 ± 1.7 µ M; IC$\_{50}$ (MIAPACA-2) = 19.7 ± 2.5 µ M; IC$\_{50}$ (PC3) = 19.6 ± 2.4 µ M; IC$\_{50}$ (STO) = 13.0 ± 1.8 µ M.                                                                                   | 1639457-11-6 |              |
+| 47                                                          | IC$\_{50}$ (MCF-7) = 0.65 ± 0.05 µ M; IC$\_{50}$ (HCT-116) = 1.93 ± 0.06 µ M; IC$\_{50}$ (Hela) = 10.56 ± 0.98 µ M.                                                                                                                       | 2354325-51-0 |              |
+|                                                             | IC$\_{50}$ (MCF-7) = 2.41 ± 0.23 µ M; IC$\_{50}$ (HCT-116) = 3.55 ± 0.1 µ M; IC$\_{50}$ (Hela) = 13.96 ± 1.41 µ M.                                                                                                                        |              | [39]         |
+| 48                                                          |                                                                                                                                                                                                                                        | 2354325-54-3 |              |
+| 49                                                          | IC$\_{50}$ (MCF-7) = 2.13 ± 0.12 µ M.                                                                                                                                                                                                   | 2173313-53-4 |              |
+| 50                                                          | IC$\_{50}$ (MCF-7) = 3.26 ± 0.19 µ M.                                                                                                                                                                                                   | 2173313-72-7 | [40]         |
+| 51                                                          | IC$\_{50}$ (MCF-7) = 5.14 ± 0.34 µ M.                                                                                                                                                                                                   | 2173313-75-0 |              |
+| (3S,6R)-6 $^{'}$-debromo-3,4- dihydrohamacanthin A ( 52 )   | ED$\_{50}$ (A549) = 7.50 µ g/mL; ED$\_{50}$ (SK-OV-3) = 12.10 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 13.10 µ g/mL; ED$\_{50}$ (XF498) = 19.10 µ g/mL; ED$\_{50}$ (HCT15) = 6.30 µ g/mL.                                                            | 264624-44-4  | [41]         |
+| (3S,6R)-6 $^{' '}$-debromo-3,4- dihydrohamacanthin A ( 53 ) | ED$\_{50}$ (SK-OV-3) = 4.92 µ g/mL.                                                                                                                                                                                                     | 264624-45-5  |              |
+| trans-3,4-dihydrohamacnathin A ( 54 )                       | ED$\_{50}$ (A549) = 8.28 µ g/mL; ED$\_{50}$ (SK-OV-3) = 8.03 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 9.14 µ g/mL; ED$\_{50}$ (XF498) = 6.88 µ g/mL; ED$\_{50}$ (HCT15) = 5.35 µ g/mL.                                                               | 264624-43-3  | [20]         |
+| trans-4,5-dihydrohamacanthin A ( 55 )                       | IC$\_{50}$ (AGS) = 6.3 µ g/mL; IC$\_{50}$ (L1210) = 5.3 µ g/mL.                                                                                                                                                                          | 453509-60-9  | [17]         |
+| hamacanthin A ( 56 )                                        | IC$\_{50}$ (AGS) = 3.9 µ g/mL; IC$\_{50}$ (L1210) = 3.0 µ g/mL; ED$\_{50}$ (A549) = 4.49 µ g/mL; ED$\_{50}$ (SK-OV-3) = 5.24 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 5.44 µ g/mL; ED$\_{50}$ (XF498) = 5.60 µ g/mL; ED$\_{50}$ (HCT15) = 4.66 µ g/mL. | 160098-92-0  | [17,41]      |
+| (R)-6 $^{' '}$-debromohamacanthin A ( 57 )                  | ED$\_{50}$ (A549) = 5.61 µ g/mL; ED$\_{50}$ (SK-OV-3) = 4.20 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 4.73 µ g/mL; ED$\_{50}$ (XF498) = 4.12 µ g/mL; ED$\_{50}$ (HCT15) = 3.58 µ g/mL.                                                               | 853998-18-2  | [17,20]      |
+| (R)-6 $^{'}$-debromohamacanthin A ( 58 )                    | IC$\_{50}$ (AGS) = 7.5 µ g/mL; IC$\_{50}$ (L1210) = 9.0 µ g/mL; ED$\_{50}$ (HCT15) = 26.91 µ g/mL.                                                                                                                                        | 853998-19-3  | [17,20]      |
+| (S)-6 $^{'}$,6$^{' '}$-didebromohamacanthin A ( 59 )        | ED$\_{50}$ (A549) = 8.30 µ g/mL; ED$\_{50}$ (SK-OV-3) = 11.50 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 5.00 µ g/mL; ED$\_{50}$ (XF498) = 17.10 µ g/mL; ED$\_{50}$ (HCT15) = 4.10 µ g/mL.                                                             | 925457-99-4  |              |
+| (R)-6 $^{'}$-debromohamacanthin B ( 60 )                    | ED$\_{50}$ (A549) = 3.71 µ g/mL; ED$\_{50}$ (SK-OV-3) = 8.50 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 7.60 µ g/mL; ED$\_{50}$ (XF498) = 8.30 µ g/mL; ED$\_{50}$ (HCT15) = 4.20 µ g/mL.                                                               | 869964-40-9  | [41]         |
+| 6 $^{''}$-debromohamacanthin B ( 61 )                       | IC$\_{50}$ (AGS) = 7.5 µ g/mL; IC$\_{50}$ (L1210) = 7.7 µ g/mL; ED$\_{50}$ (A549) = 7.86 µ g/mL; ED$\_{50}$ (SK-OV-3) = 7.85 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 7.71 µ g/mL; ED$\_{50}$ (XF498) = 9.21 µ g/mL; ED$\_{50}$ (HCT15) = 6.31 µ g/mL. | 925458-01-1  | [17,41]      |
+| (R)-6 $^{'}$,6$^{''}$-didebromohamacanthin B ( 62 )         | ED$\_{50}$ (A549) = 11.70 µ g/mL; ED$\_{50}$ (SK-OV-3) = 12.60 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 13.70 µ g/mL; ED$\_{50}$ (XF498) = 24.10 µ g/mL; ED$\_{50}$ (HCT15) = 4.79 µ g/mL.                                                           | 925458-00-0  | [41]         |
+| hamacanthin B ( 63 )                                        | IC$\_{50}$ (AGS) = 5.1 µ g/mL; IC$\_{50}$ (L1210) = 6.7 µ g/mL; ED$\_{50}$ (A549) = 2.14 µ g/mL; ED$\_{50}$ (SK-OV-3) = 2.61 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 1.59 µ g/mL; ED$\_{50}$ (XF498) = 2.93 µ g/mL; ED$\_{50}$ (HCT15) = 1.52 µ g/mL. | 160098-93-1  | [17,41]      |
+| (3S,5R)-6 $^{''}$- debromo-3,4- dihydrohamacanthin B ( 64 ) | ED$\_{50}$ (A549) = 4.20 µ g/mL; ED$\_{50}$ (SK-OV-3) = 6.00 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 7.10 µ g/mL; ED$\_{50}$ (XF498) = 6.80 µ g/mL; ED$\_{50}$ (HCT15) = 6.30 µ g/mL.                                                               | 264624-40-0  |              |
+| (3S,5R)-6 $^{'}$-debromo-3,4- dihydrohamacanthin B ( 65 )   | ED$\_{50}$ (A549) = 9.67 µ g/mL; ED$\_{50}$ (SK-OV-3) = 5.67 µ g/mL; ED$\_{50}$ (XF498) = 9.74 µ g/mL.                                                                                                                                    | 264624-41-1  | [41]         |
+| cis-3,4-dihydrohamacanthin B ( 66 )                         | ED$\_{50}$ (A549) = 3.41 µ g/mL; ED$\_{50}$ (SK-OV-3) = 3.62 µ g/mL; ED$\_{50}$ (SK-MEL-2) = 3.85 µ g/mL; ED$\_{50}$ (XF498) = 3.22 µ g/mL; ED$\_{50}$ (HCT15) = 2.83 µ g/mL.                                                               | 264624-39-7  | [20]         |
+| 67                                                          | GI$\_{50}$ (MCF-7) = 6.60 µ M; GI$\_{50}$ (K-562) = 18.8 µ M; GI$\_{50}$ (SW620) = 18.9 µ M.                                                                                                                                              | 265111-00-0  | [42]         |
+
+Table 1. Cont .
+
+| Compound                                                                          | Anticancer Activity                                                                                                                                                                     | CAS Number                             | References   |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|--------------|
+| dragmacidin ( 68 )                                                                | IC$\_{50}$ (P388) = 15 µ g/mL; 1-10 µ g/mLagainst A-549, HCT-8 and MDAMB cancer cell lines.                                                                                              | 10952015 (PubChem CID)                 | [44]         |
+| dragmacidon A ( 69 )                                                              | ED$\_{50}$ (L1210) = 10 mg/mL; IC$\_{50}$ (A549) = 3.1 µ M; IC$\_{50}$ (HT29) = 3.3 µ M; IC$\_{50}$ (MDA-MB-231) = 3.8 µ M.                                                                 | 128364-31-8                            | [45,46]      |
+| dragmacidin G ( 70 )                                                              | IC$\_{50}$ (PANC-1) = 18 ± 0.4 µ M; IC$\_{50}$ (MIA PaCa-2) = 26 ± 1.4 µ M; IC$\_{50}$ (BxPC-3) = 14 ± 1.4 µ M; IC$\_{50}$ (ASPC-1) = 27 ± 0.8 µ M; IC$\_{50}$ (HeLa) = 4.2 µ M.             | 2044674-17-9                           | [16,47]      |
+| dragmacidin H ( 71 )                                                              | IC$\_{50}$ (HeLa) = 4.6 µ M.                                                                                                                                                             | 2650064-06-3                           | [16]         |
+| 72                                                                                | GI$\_{50}$ (MDA-N) = 2.47 µ M; GI$\_{50}$ (RXF-393) = 2.73 µ M; GI$\_{50}$ (K562) = 2.97 µ M.                                                                                              | 265110-98-3                            | [43]         |
+| 73                                                                                | GI$\_{50}$ (KM12) = 0.058 µ M; GI$\_{50}$ (HCT-15) = 0.248 µ M; GI$\_{50}$ (SK-MEL-5) = 0.287 µ M.                                                                                         | /                                      |              |
+| 74                                                                                | GI$\_{50}$ (SF-539) = 0.16 µ M; GI$\_{50}$ (SR) = 0.22 µ M; GI$\_{50}$ (MDA-MB-435) = 0.22 µ M.                                                                                            | 289503-31-7                            | [48]         |
+| 75                                                                                | GI$\_{50}$ (IGROV1) < 0.01 µ M.GI$\_{50}$ (CCRF-CEM) = 1.51 µ M; GI$\_{50}$ (HOP-92) = 1.70 µ M.                                                                                           | 360062-41-5                            |              |
+| 76                                                                                | GI$\_{50}$ (IGROV1) = 1.14 µ M.GI$\_{50}$ (CCRF-CEM) = 1.52 µ M; GI$\_{50}$ (SN12C) = 1.68 µ M.                                                                                            | 360062-43-7                            |              |
+| 77                                                                                | GI$\_{50}$ (CCRF-CEM) = 1.13 µ M; GI$\_{50}$ (IGROV1) = 1.86 µ M; GI$\_{50}$ (HOP-92) = 2.34 µ M.                                                                                          | 360062-45-9                            | [48]         |
+| 78                                                                                | GI$\_{50}$ (SNB-19) = 1.15 µ M; GI$\_{50}$ (NCI-H460) = 2.12 µ M; GI$\_{50}$ (MCF-7) = 2.30 µ M.                                                                                           | 485830-58-8                            |              |
+| fascaplysin ( 79 )                                                                | Fascplysin has a wide range of anti-cancer activities, including NSCLC and SCLC cancer cells, glioma cells, A2780 and OVCAR3 human ovarian cancer cell lines, melanoma cells, etc.      | 114719-57-2                            | [49-56]      |
+| 7-phenyl fascaplysin ( 80 )                                                       | IC$\_{50}$ (HeLa) = 290 nM; IC$\_{50}$ (THP-1) = 320 nM; have a significant killing effect against glioma C6 cells.                                                                       | 2176439-03-3                           | [57,58]      |
+| 3-chloro fascaplysin ( 81 ), 3-bromo fascaplysin ( 82 ),10-bromo fascaplysin ( 83 | ) Have a significant killing effect against glioma C6 cells. No accurate data on activity are provided in the literature.                                                               | 1827526-66- 8;959930-44- 0;959930-45-1 | [58]         |
+| BrBin( 84 )                                                                       | IC$\_{50}$ (MCF-7) = 4.4 ± 1.9 µ M; IC$\_{50}$ (Caco-2) = 1.5 ± 0.2 µ M; GI$\_{50}$ (U937) values in the 1-1.3 µ M range.                                                                  | 135077-20-2                            | [60,61]      |
+| 85 , 86 , 87                                                                      | Compounds 87 and 88 reduced U937 cell viability by about 10% compared with BrBin, and compound 89 induced more dead cells. No accurate data on activity are provided in the literature. | 3616-44-2;2144744- 62-5;1905457-00-2   | [63]         |
+| calcicamide A ( 88                                                                | IC$\_{50}$(HeLa) >200 µ M.                                                                                                                                                               | /                                      |              |
+| ) calcicamide B ( 89 )                                                            | IC$\_{50}$ (HeLa) = 146 ± 13 µ M.                                                                                                                                                        | /                                      | [64]         |
+| spongocarbamide A ( 90 )                                                          | IC$\_{50}$ (Srt A) = 79.4 µ M; IC$\_{50}$ (K562) = 92.8 µ                                                                                                                                 | /                                      |              |
+| spongocarbamide B ( 91 )                                                          | M. IC$\_{50}$ (Srt A) = 52.4 µ M                                                                                                                                                         | /                                      | [65]         |
+| 93                                                                                |                                                                                                                                                                                         | 854781-01-4                            |              |
+| 92                                                                                | provided in the literature. Have an inhibitory effect against P388 cells. No accurate data on activity are provided in the literature.                                                  | 854781-00-3                            | [66]         |
+| chondriamide A ( 95 )                                                             | IC$\_{50}$ (KB) = 0.5 µ g/mL; IC$\_{50}$ (LOVO) = 5 µ g/mL.                                                                                                                               | 142677-09-6                            | [67]         |
+| chondriamide B ( 96 )                                                             | IC$\_{50}$ (KB) < 1 µ g/mL; IC$\_{50}$ (LOVO) = 10 µ g/mL.                                                                                                                                | 142677-10-9                            | [68]         |
+| eusynstyelamide B ( 97 )                                                          | IC$\_{50}$ (MDA-MB-231) = 5.0 µ M.                                                                                                                                                       | 1166392-99-9                           | [69]         |
+| eusynstyelamide D ( 98 )                                                          | IC$\_{50}$ (A-2058) = 57 µ M.                                                                                                                                                            | 1280219-08-0                           |              |
+| )                                                                                 |                                                                                                                                                                                         |                                        |              |
+| eusynstyelamide E ( 99                                                            | IC$\_{50}$ (A-2058) = 114.3 µ M.                                                                                                                                                         | 1280219-14-8                           | [70]         |
+| 100                                                                               | Showed significant antiproliferative activity against human cervical cancer cell lines, with IC$\_{50}$ values of 4.6 µ M.                                                               | 2226102-19-6                           |              |
+| 101                                                                               | Showed significant antiproliferative activity against human cervical cancer cell lines, with IC$\_{50}$ values of 1.3 µ M.                                                               | 2226102-19-6                           | [71]         |
+| staurosporine ( 102 )                                                             | It has good anti-tumor potential and has been widely studied as a lead compound. IC$\_{50}$ (PC-3) = 58.94 ± 2.30 nM; IC$\_{50}$ (SW-620) = 25.10 ± 3.20 nM                               | 62996-74-1                             | [72-77]      |
+| 103                                                                               | IC$\_{50}$ (PC-3) = 4.03 ± 0.29 µ M; IC$\_{50}$ (SW-620) = 2.14 ± 0.08 µ M.                                                                                                               | 2242549-12-6                           |              |
+| 104                                                                               | IC$\_{50}$ (PC-3) = 2.05 ± 0.06 µ M; IC$\_{50}$ (SW-620) = 0.74 ± 0.01 µ M.                                                                                                               | 2242549-13-7                           |              |
+| 105                                                                               | IC$\_{50}$ (PC-3) = 2.45 ± 0.08 µ M; IC$\_{50}$ (SW-620) = 2.00 ± 0.19 µ M.                                                                                                               | 2102303-78-4                           |              |
+| 106                                                                               | IC$\_{50}$ (PC-3) = 16.60 ± 0.43 µ M; IC$\_{50}$ (SW-620) = 9.54 ± 0.65 µ M.                                                                                                              | 2242549-14-8                           |              |
+| 107                                                                               | IC$\_{50}$ (PC-3) = 0.55 ± 0.04 µ M; IC$\_{50}$ (SW-620) = 0.16 ± 0.01 µ M.                                                                                                               | 2102303-76-2                           | [77]         |
+| 108                                                                               | IC$\_{50}$ (PC-3) = 56.22 ± 0.54 nM; IC$\_{50}$ (SW-620) = 9.99 ± 0.86 nM.                                                                                                                | 125035-83-8                            |              |
+| 109                                                                               | IC$\_{50}$ (PC-3) = 2.06 ± 0.12 µ M; IC$\_{50}$ (SW-620) = 0.76 ± 0.04 µ M.                                                                                                               | 249512-77-4                            |              |
+| 110                                                                               | IC$\_{50}$ (PC-3) = 2.50 ± 0.03 µ M; IC$\_{50}$ (SW-620) = 0.73 ± 0.03 µ M.                                                                                                               | 2251748-53-3                           |              |
+
+Table 1. Cont .
+
+| Compound                                        | Anticancer Activity                                                                                                                                                                                | CAS Number                           | References   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------|
+| 111                                             | IC$\_{50}$ (PC-3) = 0.56 ± 0.04 µ M; IC$\_{50}$ (SW-620) = 0.18 ± 0.00 µ M.                                                                                                                          | 155416-34-5                          |              |
+| 112                                             | IC$\_{50}$ (PC-3) = 1.87 ± 0.03 µ M; IC$\_{50}$ (SW-620) = 1.04 ± 0.04 µ M.                                                                                                                          | 105114-22-5                          |              |
+| 113                                             | IC$\_{50}$ (PC-3) = 2.27 ± 0.06 µ M; IC$\_{50}$ (SW-620) = 0.81 ± 0.03 µ M.                                                                                                                          | 1185908-87-5                         |              |
+| 114                                             | IC$\_{50}$ (PC-3) = 0.69 ± 0.02 µ M; IC$\_{50}$ (SW-620) = 0.47 ± 0.02 µ M.                                                                                                                          | 160256-54-2                          | [77]         |
+| 115                                             | IC$\_{50}$ (PC-3) >20 µ M; IC$\_{50}$ (SW-620) = >20 µ M.                                                                                                                                            | 156582018 (PubChem CID)              |              |
+| 116                                             | IC$\_{50}$ (PC-3) = 0.77 ± 0.05 µ M; IC$\_{50}$ (SW-620) = 0.02 ± 0.00 µ M.                                                                                                                          | 187810-82-8                          |              |
+| UCN-01 ( 117 )                                  | Entered clinical trials, but with poor targeting.IC$\_{50}$ (MCF-7) = 1.636 ± 0.281 µ M; IC$\_{50}$ (L-02) = 1.034 ± 0.111 µ M;                                                                      | 112953-11-4                          | [78-83]      |
+| lestaurtinib ( 118 )                            | Entered clinical trials, but with poor targeting.                                                                                                                                                  | 111358-88-4                          | [84-87]      |
+| midostaurin ( 119 )                             | Midostaurin was developed and listed as a drug on the market, mainly for the treatment of acute myeloid leukemia with a positive FLT3 mutation.                                                    | 120685-11-2                          | [88-90]      |
+| 120                                             | IC$\_{50}$ (MV4-11) = 0.020 ± 0.010 µ M; IC$\_{50}$ (MCF-7) = 0.235 ± 0.017 µ M; IC$\_{50}$ (HCT-116) = 0.439 ± 0.120 µ M.                                                                            | 120685-11-2                          |              |
+| 121                                             | IC$\_{50}$ (MV4-11) = 0.027 ± 0.000 µ M; IC$\_{50}$ (MCF-7) = 0.122 ± 0.018 µ M; IC$\_{50}$ (HCT-116) = 0.098 ± 0.022 µ M.                                                                            | 2771013-95-5                         |              |
+| 122                                             | IC$\_{50}$ (MV4-11) = 0.031 ± 0.000 µ M; IC$\_{50}$ (MCF-7) = 0.257 ± 0.035 µ M; IC$\_{50}$ (HCT-116) = 0.141 ± 0.013 µ M.                                                                            | 2771013-97-7                         |              |
+| 123                                             | IC$\_{50}$ (MV4-11) = 0.011 ± 0.000 µ M; IC$\_{50}$ (MCF-7) = 0.121 ± 0.033 µ M; IC$\_{50}$ (HCT-116) = 0.149 ± 0.032 µ M.                                                                            | 2173322-11-5                         |              |
+| 124                                             | IC$\_{50}$ (MV4-11) = 0.015 ± 0.001 µ M; IC$\_{50}$ (MCF-7) = 0.018 ± 0.010 µ M; IC$\_{50}$ (HCT-116) = 0.090 ± 0.007 µ M.                                                                            | 2771013-94-4                         |              |
+| 125                                             | IC$\_{50}$ (MV4-11) = 0.012 ± 0.001 µ M; IC$\_{50}$ (MCF-7) = 0.072 ± 0.028 µ M; IC$\_{50}$ (HCT-116) = 0.032 ± 0.006 µ M.                                                                            | 2771013-96-6                         |              |
+| 126                                             | IC$\_{50}$ (MV4-11) = 0.275 ± 0.009 µ M; IC$\_{50}$ (L-02) = 43.530 ± 0.750 µ M.                                                                                                                     | 945260-14-0                          |              |
+| 127                                             | IC$\_{50}$ (L-02) = 67.903 ± 1.678 µ M.                                                                                                                                                             | 2771014-05-0                         |              |
+| 128                                             | IC$\_{50}$ (MV4-11) = 0.295 ± 0.005 µ M; IC$\_{50}$ (L-02) = 59.807 ± 0.248 µ M.                                                                                                                     | 2771014-09-4                         |              |
+| 129                                             | IC$\_{50}$ (MV4-11) = 0.128 ± 0.005 µ M; IC$\_{50}$ (L-02) = 28.780 ± 1.530 µ M.                                                                                                                     | 137888-66-5 (CAS number of racemate) |              |
+| 130                                             | IC$\_{50}$ (MV4-11) = 0.135 ± 0.004 µ M; IC$\_{50}$ (L-02) = 8.740 ± 0.513 µ M.                                                                                                                      | 2771014-03-8                         |              |
+| 131                                             | IC$\_{50}$ (MV4-11) = 0.139 ± 0.012 µ M; IC$\_{50}$ (L-02) = 4.432 ± 0.785 µ M.                                                                                                                      | 2771014-07-2 155848-20-7             | [94]         |
+| 132                                             | IC$\_{50}$ (MV4-11) = 0.238 ± 0.014 µ M; IC$\_{50}$ (L-02) = 23.32 ± 1.237 µ M.                                                                                                                      | 137888-66-5                          |              |
+| 133                                             | IC$\_{50}$ (MV4-11) = 0.635 ± 0.020 µ M; IC$\_{50}$ (L-02) = 12.325 ± 0.191 µ M.                                                                                                                     | 2771014-04-9                         |              |
+| 134                                             | IC50 (MV4-11) = 0.328 ± 0.022 µ M; IC$\_{50}$ (MCF-7) = 0.183 ± 0.032 µ M; IC$\_{50}$ (L-02) = 13.875 ± 0.248 µ M. IC$\_{50}$ (MV4-11) = 0.148 ± 0.004 µ M; IC$\_{50}$ (MCF-7) = 0.621 ± 0.185 µ M;    | 2771014-08-3                         |              |
+| 136                                             | IC$\_{50}$ (MV4-11) = 0.582 ± 0.072 µ M; IC$\_{50}$ (L-02) = 8.635 ± 0.279 µ M.                                                                                                                      | racemate) 2771014-02-7               |              |
+|                                                 | IC$\_{50}$ (MV4-11) = 0.217 ± 0.016 µ M; IC$\_{50}$ (MCF-7) = 0.021 ± 0.002 µ M; IC$\_{50}$ (HCT-116) = 0.793 ± 0.201 µ M.                                                                            | 2771014-06-1                         |              |
+| 137                                             |                                                                                                                                                                                                    |                                      |              |
+| 138                                             | IC$\_{50}$ (MV4-11) = 0.078 ± 0.004 µ M; IC$\_{50}$ (PATU-8988T) = 0.666 ± 0.055 µ M; IC$\_{50}$ (L-02) = 97.800 ± 0.297 µ M.                                                                         | 154589-96-5                          |              |
+| 139                                             | IC$\_{50}$ (MV4-11) = 0.073 ± 0.006 µ M; IC$\_{50}$ (MCF-7) = 0.029 ± 0.002 µ M; IC$\_{50}$ (L-02) = 2.977 ± 0.405 µ M. IC$\_{50}$ (MV4-11) = 0.061 ± 0.005 µ M; IC$\_{50}$ (L-02) = 3.238 ± 0.030 µ M. | 2771013-99-9                         |              |
+| 140                                             |                                                                                                                                                                                                    | 2771014-01-6                         |              |
+| 141                                             | IC$\_{50}$ (MV4-11) = 0.091 ± 0.003 µ M; IC$\_{50}$ (MCF-7) = 0.312 ± 0.045 µ M; IC$\_{50}$ (HCT-116) = 0.245 ± 0.007 µ M.                                                                            | 125035-81-6                          |              |
+| 142                                             | IC$\_{50}$ (MV4-11) = 0.038 ± 0.006 µ M; IC$\_{50}$ (MCF-7) = 0.014 ± 0.002 µ M; IC$\_{50}$ (HCT-116) = 0.058 ± 0.006 µ M.                                                                            | 2771013-98-8                         |              |
+| 143                                             | IC$\_{50}$ (MV4-11) = 0.013 ± 0.001 µ M; IC$\_{50}$ (MCF-7) = 0.016 ± 0.002 µ M; IC$\_{50}$ (HCT-116) = 0.032 ± 0.003 µ M.                                                                            | 2771014-00-5                         |              |
+| spongosoritin A ( 145 )                         | IC$\_{50}$ (A549) = 77.3 µ M; IC$\_{50}$ (K562) = 24.2 µ M.                                                                                                                                          | /                                    |              |
+| spongosoritin B ( 146 ) spongosoritin C ( 147 ) | IC$\_{50}$ (A549) = 55.7 M; IC$\_{50}$ (K562) = 28.5 M.                                                                                                                                              | /                                    |              |
+|                                                 | IC$\_{50}$ (A549) = 61.2 µ M; IC$\_{50}$ (K562) = 37.7 µ M.                                                                                                                                          | /                                    | [65]         |
+| spongosoritin D ( 148 )                         |                                                                                                                                                                                                    | /                                    |              |
+| (+)-spondomine ( 149 )                          | IC$\_{50}$ (A549) = 70.9 µ M; IC$\_{50}$ (K562) = 54.2 µ M. IC$\_{50}$ (K562) = 2.2 µ M.                                                                                                              | 2687275-02-9                         | [97]         |
+
+Table 1. Cont .
+
+| Compound                 | Anticancer Activity                                                                                                                                      | CAS Number   | References   |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
+| rhopaladin B ( 152 )     | Showed inhibitory activity on cyclin dependent kinase 4 and c-erbB-2 kinase, with IC$\_{50}$ of 12.5 and 7.4 µ g/mL.                                      | 212069-49-3  | [98]         |
+| hyrtinadine A ( 155 )    | IC$\_{50}$ (L1210) = 1 mg/mL; IC$\_{50}$ (KB) = 3 mg/mL; weak cytotoxicity to HCT116 and A2780 cancer cells (IC$\_{50}$ >10 µ M).                           | 925253-33-4  | [99]         |
+| 156                      | IC$\_{50}$ (HCT116) = 3.7 µ M; IC$\_{50}$ (A2780) = 4.5 µ M.                                                                                               | 1333469-91-2 | [100]        |
+| spiroindimicin B ( 157 ) | IC$\_{50}$ (B16) = 5 µ g/mL; IC$\_{50}$ (H460) = 12 µ g/mL; IC$\_{50}$ (CCRF-CEM) = 4 µ g/mL.                                                               | 1380717-82-7 | [101]        |
+| spiroindimicin C ( 158 ) | IC$\_{50}$ (HepG2) = 6 µ g/mL; IC$\_{50}$ (H460) = 15 µ g/mL;                                                                                              | 1380717-83-8 |              |
+| spiroindimicin D ( 159 ) | IC$\_{50}$ (HepG2) = 22 µ g/mL; IC$\_{50}$ (B16) = 20 µ g/mL; IC$\_{50}$ (H460) = 18 µ g/mL.                                                                | 1380717-83-8 | [101]        |
+| indimicin B ( 160 )      | Moderate cytotoxicity against MCF-7 cell line.                                                                                                           | 1620987-80-5 | [102]        |
+| luteoalbusin A ( 161 )   | IC$\_{50}$ (SF-268) = 0.46 ± 0.05 µ M; IC$\_{50}$ (MCF-7) = 0.23 ± 0.03 µ M; IC$\_{50}$ (NCI-H460) = 1.15 ± 0.03 µ M; IC$\_{50}$ (HepG2) = 0.91 ± 0.03 µ M.  | 1414774-32-5 | [103]        |
+| luteoalbusin B ( 162 )   | IC$\_{50}$ (SF-268) = 0.59 ± 0.03 µ M; IC$\_{50}$ (MCF-7) = 0.25 ± 0.00 µ M; IC$\_{50}$ (NCI-H460) = 1.31 ± 0.12 µ M; IC$\_{50}$ (HepG2) = 1.29 ± 0.16 µ M.  | 1414774-33-6 | [103]        |
+| T988A ( 163 )            | IC$\_{50}$ (SF-268) = 1.04 ± 0.03 µ M; IC$\_{50}$ (MCF-7) = 0.91 ± 0.03 µ M; IC$\_{50}$ (NCI-H460) = 5.60 ± 0.58 µ M; IC$\_{50}$ (HepG2) = 3.52 ± 0.74 µ M.  | 823802-55-7  | [103]        |
+| gliocladine C ( 164 )    | IC$\_{50}$ (SF-268) = 0.73 ± 0.05 µ M; IC$\_{50}$ (MCF-7) = 0.23 ± 0.03 µ M; IC$\_{50}$ (NCI-H460) = 6.57 ± 0.81 µ M; IC$\_{50}$ (HepG2) = 0.53 ± 0.04 µ M.  | 871335-07-8  | [103]        |
+| gliocladine D ( 165 )    | IC$\_{50}$ (SF-268) = 2.49 ± 0.07 µ M; IC$\_{50}$ (MCF-7) = 0.65 ± 0.07 µ M; IC$\_{50}$ (NCI-H460) = 17.78 ± 0.27 µ M; IC$\_{50}$ (HepG2) = 2.03 ± 0.07 µ M. | 871335-08-9  | [103]        |
+
+Author Contributions: Conceptualization, M.X., Z.B. and B.X.; writing-review and editing, M.X., Z.B., R.P., Z.D., Y.L., G.Z. and S.Y.; supervision, X.X., and S.Q.; funding acquisition, X.X. and S.Q. All authors have read and agreed to the published version of the manuscript.
+
+Funding: This research was funded by the National Natural Science Foundation of China (No. 82204250); the China Postdoctoral Science Foundation (No. 2021M693961); the Young and MiddleAged Talent Project of the Hubei Provincial Department of Education (No. Q20222808); the Hubei University of Science and Technology Doctoral Startup Fund Project (No. BK202029); the National Science and Technology Major Projects for "Major New Drugs Innovation and Development" (2017ZX09301022); the Guangdong Basic and Applied Basic Research Foundation (No. 2021A1515010151, No. 2022A1515140138); and the Outstanding Young and Middle-Aged Scientific and Technological Innovation Team in Colleges and Universities in Hubei Province (No. T2021022).
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Not applicable.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+## References
+
+- 1. Sudhakar, A. History of Cancer, Ancient and Modern Treatment Methods. J. Cancer Sci. Ther. 2009 , 1 , i-iv. [CrossRef] [PubMed]
+- 2. Han, Y.; Dong, W.; Guo, Q.; Li, X.; Huang, L. The Importance of Indole and Azaindole Scaffold in the Development of Antitumor Agents. Eur. J. Med. Chem. 2020 , 203 , 112506. [CrossRef] [PubMed]
+- 3. Bayona, L.M.; de Voogd, N.J.; Choi, Y.H. Metabolomics on the Study of Marine Organisms. Metabolomics 2022 , 18 , 17. [CrossRef]
+- 4. Sigwart, J.D.; Blasiak, R.; Jaspars, M.; Jouffray, J.-B.; Tasdemir, D. Unlocking the Potential of Marine Biodiscovery. Nat. Prod. Rep. 2021 , 38 , 1235-1242. [CrossRef]
+- 5. Qiao, G.; Bi, K.; Liu, J.; Cao, S.; Liu, M.; Peši'c, M.; Lin, X. Protein Kinases as Targets for Developing Anticancer Agents from Marine Organisms. Biochim. Biophys. Acta BBA-Gen. Subj. 2021 , 1865 , 129759. [CrossRef] [PubMed]
+- 6. Haque, N.; Parveen, S.; Tang, T.; Wei, J.; Huang, Z. Marine Natural Products in Clinical Use. Mar. Drugs 2022 , 20 , 528. [CrossRef]
+- 7. Singh, T.P.; Singh, O.M. Recent Progress in Biological Activities of Indole and Indole Alkaloids. Mini-Rev. Med. Chem. 2017 , 18 . [CrossRef]
+- 8. Xu, D.; Xu, Z. Indole Alkaloids with Potential Anticancer Activity. Curr. Top. Med. Chem. 2020 , 20 , 1938-1949. [CrossRef]
+- 9. Hu, Y.; Chen, S.; Yang, F.; Dong, S. Marine Indole Alkaloids-Isolation, Structure and Bioactivities. Mar. Drugs 2021 , 19 , 658. [CrossRef]
+
+- 10. Suzen, S. Recent Studies and Biological Aspects of Substantial Indole Derivatives with Anti-Cancer Activity. Curr. Org. Chem. 2017 , 21 , 9. [CrossRef]
+- 11. Xu, M.; Peng, R.; Min, Q.; Hui, S.; Chen, X.; Yang, G.; Qin, S. Bisindole Natural Products: A Vital Source for the Development of New Anticancer Drugs. Eur. J. Med. Chem. 2022 , 243 , 114748. [CrossRef] [PubMed]
+- 12. Tsujii, S.; Rinehart, K.L.; Gunasekera, S.P.; Kashman, Y.; Cross, S.S.; Lui, M.S.; Pomponi, S.A.; Diaz, M.C. Topsentin, Bromotopsentin, and Dihydrodeoxybromotopsentin: Antiviral and Antitumor Bis(Indolyl)Imidazoles from Caribbean Deep-Sea Sponges of the Family Halichondriidae. Structural and Synthetic Studies. J. Org. Chem. 1988 , 53 , 5446-5453. [CrossRef]
+- 13. Burres, N.S.; Barber, D.A.; Gunasekera, S.P.; Shen, L.L.; Clement, J.J. Antitumor Activity and Biochemical Effects of Topsentin. Biochem. Pharmacol. 1991 , 42 , 745-751. [CrossRef] [PubMed]
+- 14. Bartik, K.; Braekman, J.-C.; Daloze, D.; Stoller, C.; Huysecom, J.; Vandevyver, G.; Ottinger, R. Topsentins, New Toxic Bis-Indole Alkaloids from the Marine Sponge Topsentia Genitrix. Can. J. Chem. 1987 , 65 , 2118-2121. [CrossRef]
+- 15. Casapullo, A.; Bifulco, G.; Bruno, I.; Riccio, R. New Bisindole Alkaloids of the Topsentin and Hamacanthin Classes from the Mediterranean Marine Sponge Rhaphisia Lacazei. J. Nat. Prod. 2000 , 63 , 447-451. [CrossRef] [PubMed]
+- 16. Hitora, Y.; Takada, K.; Ise, Y.; Okada, S.; Matsunaga, S. Dragmacidins G and H, Bisindole Alkaloids Tethered by a Guanidino Ethylthiopyrazine Moiety, from a Lipastrotethya Sp. Marine Sponge. J. Nat. Prod. 2016 , 79 , 2973-2976. [CrossRef]
+- 17. Oh, K.-B.; Mar, W.; Kim, S.; Kim, J.-Y.; Lee, T.-H.; Kim, J.-G.; Shin, D.; Sim, C.J.; Shin, J. Antimicrobial Activity and Cytotoxicity of Bis(Indole) Alkaloids from the Sponge Spongosorites sp. Biol. Pharm. Bull. 2006 , 29 , 570-573. [CrossRef]
+
+18.
+
+Sakemi, S.; Sun, H.H. Nortopsentins A, B, and C. Cytotoxic and Antifungal Imidazolediylbis[Indoles] from the Sponge Spongosorites ruetzleri . J. Org. Chem. 1991 , 56 , 4304-4307. [CrossRef]
+
+- 19. Shin, J.; Seo, Y.; Cho, K.W.; Rho, J.-R.; Sim, C.J. New Bis(Indole) Alkaloids of the Topsentin Class from the Sponge Spongosorites genitrix . J. Nat. Prod. 1999 , 62 , 647-649. [CrossRef]
+- 20. Bao, B.; Sun, Q.; Yao, X.; Hong, J.; Lee, C.-O.; Sim, C.J.; Im, K.S.; Jung, J.H. Cytotoxic Bisindole Alkaloids from a Marine Sponge Spongosorites sp. J. Nat. Prod. 2005 , 68 , 711-715. [CrossRef] [PubMed]
+- 21. Cascioferro, S.; Li Petri, G.; Parrino, B.; El Hassouni, B.; Carbone, D.; Arizza, V.; Perricone, U.; Padova, A.; Funel, N.; Peters, G.J.; et al. 3-(6-Phenylimidazo [2,1-b][1,3,4]Thiadiazol-2-Yl)-1H-Indole Derivatives as New Anticancer Agents in the Treatment of Pancreatic Ductal Adenocarcinoma. Molecules 2020 , 25 , 329. [CrossRef] [PubMed]
+- 22. Li Petri, G.; Cascioferro, S.; El Hassouni, B.; Carbone, D.; Parrino, B.; Cirrincione, G.; Peters, G.J.; Diana, P.; Giovannetti, E. Biological Evaluation of the Antiproliferative and Anti-Migratory Activity of a Series of 3-(6-Phenylimidazo [2,1- b ][1,3,4]Thiadiazol-2Yl)-1 H -Indole Derivatives Against Pancreatic Cancer Cells. Anticancer Res. 2019 , 39 , 3615-3620. [CrossRef] [PubMed]
+- 23. M é rour, J.-Y.; Buron, F.; Pl é , K.; Bonnet, P.; Routier, S. The Azaindole Framework in the Design of Kinase Inhibitors. Molecules 2014 , 19 , 19935-19979. [CrossRef] [PubMed]
+- 24. Parrino, B.; Carbone, A.; Span ò , V.; Montalbano, A.; Giallombardo, D.; Barraja, P.; Attanzio, A.; Tesoriere, L.; Sissi, C.; Palumbo, M.; et al. Aza-Isoindolo and Isoindolo-Azaquinoxaline Derivatives with Antiproliferative Activity. Eur. J. Med. Chem. 2015 , 94 , 367-377. [CrossRef] [PubMed]
+- 25. Parrino, B.; Carbone, A.; Ciancimino, C.; Span ò , V.; Montalbano, A.; Barraja, P.; Cirrincione, G.; Diana, P.; Sissi, C.; Palumbo, M.; et al. Water-Soluble Isoindolo [2,1-a]Quinoxalin-6-Imines: In Vitro Antiproliferative Activity and Molecular Mechanism(s) of Action. Eur. J. Med. Chem. 2015 , 94 , 149-162. [CrossRef] [PubMed]
+- 26. Carbone, D.; Parrino, B.; Cascioferro, S.; Pecoraro, C.; Giovannetti, E.; Di Sarno, V.; Musella, S.; Auriemma, G.; Cirrincione, G.; Diana, P. 1,2,4-Oxadiazole Topsentin Analogs with Antiproliferative Activity against Pancreatic Cancer Cells, Targeting GSK3 β Kinase. ChemMedChem 2021 , 16 , 537-554. [CrossRef] [PubMed]
+- 27. Pecoraro, C.; Parrino, B.; Cascioferro, S.; Puerta, A.; Avan, A.; Peters, G.J.; Diana, P.; Giovannetti, E.; Carbone, D. A New Oxadiazole-Based Topsentin Derivative Modulates Cyclin-Dependent Kinase 1 Expression and Exerts Cytotoxic Effects on Pancreatic Cancer Cells. Molecules 2021 , 27 , 19. [CrossRef] [PubMed]
+- 28. Kamel, M.M.; Abdel-hameid, M.K.; El-Nassan, H.B.; El-Khouly, E.A. Recent Advances in the Synthesis and Biological Applications of Nortopsentin Analogs. Chem. Heterocycl. Compd. 2020 , 56 , 499-502. [CrossRef]
+- 29. Diana, P.; Carbone, A.; Barraja, P.; Montalbano, A.; Martorana, A.; Dattolo, G.; Gia, O.; Via, L.D.; Cirrincione, G. Synthesis and Antitumor Properties of 2,5-Bis(3 $^{'}$-Indolyl)Thiophenes: Analogues of Marine Alkaloid Nortopsentin. Bioorg. Med. Chem. Lett. 2007 , 17 , 2342-2346. [CrossRef] [PubMed]
+- 30. Diana, P.; Carbone, A.; Barraja, P.; Martorana, A.; Gia, O.; DallaVia, L.; Cirrincione, G. 3,5-Bis(3 $^{'}$-Indolyl)Pyrazoles, Analogues of Marine Alkaloid Nortopsentin: Synthesis and Antitumor Properties. Bioorg. Med. Chem. Lett. 2007 , 17 , 6134-6137. [CrossRef]
+- 31. Diana, P.; Carbone, A.; Barraja, P.; Kelter, G.; Fiebig, H.-H.; Cirrincione, G. Synthesis and Antitumor Activity of 2,5-Bis(3 $^{'}$-Indolyl)Furans and 3,5-Bis(3 $^{'}$-Indolyl)-Isoxazoles, Nortopsentin Analogues. Bioorg. Med. Chem. 2010 , 18 , 4524-4529. [CrossRef]
+- 32. Carbone, A.; Parrino, B.; Barraja, P.; Span ò , V.; Cirrincione, G.; Diana, P.; Maier, A.; Kelter, G.; Fiebig, H.-H. Synthesis and Antiproliferative Activity of 2,5-Bis(3 $^{'}$-Indolyl)Pyrroles, Analogues of the Marine Alkaloid Nortopsentin. Mar. Drugs 2013 , 11 , 643-654. [CrossRef] [PubMed]
+- 33. Sreenivasulu, R.; Tej, M.B.; Jadav, S.S.; Sujitha, P.; Kumar, C.G.; Raju, R.R. Synthesis, Anticancer Evaluation and Molecular Docking Studies of 2,5-Bis(Indolyl)-1,3,4-Oxadiazoles, Nortopsentin Analogues. J. Mol. Struct. 2020 , 1208 , 127875. [CrossRef]
+- 34. Kumar, D.; Kumar, N.M.; Chang, K.-H.; Gupta, R.; Shah, K. Synthesis and In-Vitro Anticancer Activity of 3,5-Bis(Indolyl)-1,2,4Thiadiazoles. Bioorg. Med. Chem. Lett. 2011 , 21 , 5897-5900. [CrossRef]
+
+- 35. Parrino, B.; Attanzio, A.; Span ò , V.; Cascioferro, S.; Montalbano, A.; Barraja, P.; Tesoriere, L.; Diana, P.; Cirrincione, G.; Carbone, A. Synthesis, Antitumor Activity and CDK1 Inhibiton of New Thiazole Nortopsentin Analogues. Eur. J. Med. Chem. 2017 , 138 , 371-383. [CrossRef] [PubMed]
+- 36. Parrino, B.; Carbone, A.; Di Vita, G.; Ciancimino, C.; Attanzio, A.; Span ò , V.; Montalbano, A.; Barraja, P.; Tesoriere, L.; Livrea, M.; et al. 3-[4-(1H-Indol-3-Yl)-1,3-Thiazol-2-Yl]-1H-Pyrrolo [2,3-b]Pyridines, Nortopsentin Analogues with Antiproliferative Activity. Mar. Drugs 2015 , 13 , 1901-1924. [CrossRef]
+- 37. Carbone, A.; Pennati, M.; Parrino, B.; Lopergolo, A.; Barraja, P.; Montalbano, A.; Span ò , V.; Sbarra, S.; Doldi, V.; De Cesare, M.; et al. Novel 1 H -Pyrrolo [2,3- b ]Pyridine Derivative Nortopsentin Analogues: Synthesis and Antitumor Activity in Peritoneal Mesothelioma Experimental Models. J. Med. Chem. 2013 , 56 , 7060-7072. [CrossRef]
+- 38. Carbone, A.; Pennati, M.; Barraja, P.; Montalbano, A.; Parrino, B.; Spano, V.; Lopergolo, A.; Sbarra, S.; Doldi, V.; Zaffaroni, N.; et al. Synthesis and Antiproliferative Activity of Substituted 3[2-(1H-Indol-3-Yl)- 1,3-Thiazol-4-Yl]-1H-Pyrrolo [3,2-b]Pyridines, Marine Alkaloid Nortopsentin Analogues. Curr. Med. Chem. 2014 , 21 , 1654-1666. [CrossRef] [PubMed]
+- 39. Cascioferro, S.; Attanzio, A.; Di Sarno, V.; Musella, S.; Tesoriere, L.; Cirrincione, G.; Diana, P.; Parrino, B. New 1,2,4-Oxadiazole Nortopsentin Derivatives with Cytotoxic Activity. Mar. Drugs 2019 , 17 , 35. [CrossRef]
+- 40. Span ò , V.; Attanzio, A.; Cascioferro, S.; Carbone, A.; Montalbano, A.; Barraja, P.; Tesoriere, L.; Cirrincione, G.; Diana, P.; Parrino, B. Synthesis and Antitumor Activity of New Thiazole Nortopsentin Analogs. Mar. Drugs 2016 , 14 , 226. [CrossRef]
+- 41. Bao, B.; Sun, Q.; Yao, X.; Hong, J.; Lee, C.-O.; Cho, H.Y.; Jung, J.H. Bisindole Alkaloids of the Topsentin and Hamacanthin Classes from a Marine Sponge Spongosorites Sp. J. Nat. Prod. 2007 , 70 , 2-8. [CrossRef]
+- 42. Kim, G.; Cheong, O.; Bae, S.; Shin, J.; Lee, S. 6 $^{''}$-Debromohamacanthin A, a Bis (Indole) Alkaloid, Inhibits Angiogenesis by Targeting the VEGFR2-Mediated PI3K/AKT/mTOR Signaling Pathways. Mar. Drugs 2013 , 11 , 1087-1103. [CrossRef]
+- 43. Jiang, B.; Gu, X.-H. Syntheses and Cytotoxicity Evaluation of Bis(Indolyl)Thiazole, Bis(Indolyl)Pyrazinone and Bis(Indolyl)Pyrazine: Analogues of Cytotoxic Marine Bis(Indole) Alkaloid. Bioorg. Med. Chem. 2000 , 8 , 363-371. [CrossRef]
+- 44. Kohmoto, S.; Kashman, Y.; Mcconnell, O.J.; Rinehart, K.L.J.; Wright, A.; Koehn, F. ChemInform Abstract: Dragmacidin, a New Cytotoxic Bis(Indole) Alkaloid from a Deep Water Marine Sponge, Dragmacidon sp. ChemInform 1988 , 19 . [CrossRef]
+- 45. Morris, S.A.; Andersen, R.J. ChemInform Abstract: Brominated Bis(Indole) Alkaloids from the Marine Sponge Hexadella sp. ChemInform 1990 , 21 . [CrossRef]
+- 46. Cruz, P.G.; Mart í nez Leal, J.F.; Daranas, A.H.; P é rez, M.; Cuevas, C. On the Mechanism of Action of Dragmacidins I and J, Two New Representatives of a New Class of Protein Phosphatase 1 and 2A Inhibitors. ACS Omega 2018 , 3 , 3760-3767. [CrossRef] [PubMed]
+- 47. Wright, A.; Killday, K.; Chakrabarti, D.; Guzm á n, E.; Harmody, D.; McCarthy, P.; Pitts, T.; Pomponi, S.; Reed, J.; Roberts, B.; et al. Dragmacidin G, a Bioactive Bis-Indole Alkaloid from a Deep-Water Sponge of the Genus Spongosorites . Mar. Drugs 2017 , 15 , 16. [CrossRef] [PubMed]
+- 48. Jiang, B. Synthesis and Cytotoxicity Evaluation of Novel Indolylpyrimidines and Indolylpyrazines as Potential Antitumor Agents. Bioorg. Med. Chem. 2001 , 9 , 1149-1154. [CrossRef] [PubMed]
+- 49. Rath, B.; Hochmair, M.; Plangger, A.; Hamilton, G. Anticancer Activity of Fascaplysin against Lung Cancer Cell and Small Cell Lung Cancer Circulating Tumor Cell Lines. Mar. Drugs 2018 , 16 , 383. [CrossRef]
+- 50. Bryukhovetskiy, I.; Lyakhova, I.; Mischenko, P.; Milkina, E.; Zaitsev, S.; Khotimchenko, Y.; Bryukhovetskiy, A.; Polevshchikov, A.; Kudryavtsev, I.; Khotimchenko, M.; et al. Alkaloids of Fascaplysin Are Effective Conventional Chemotherapeutic Drugs, Inhibiting the Proliferation of C6 Glioma Cells and Causing Their Death in Vitro. Oncol. Lett. 2017 , 13 , 738-746. [CrossRef]
+- 51. Chen, S.; Guan, X.; Wang, L.-L.; Li, B.; Sang, X.-B.; Liu, Y.; Zhao, Y. Fascaplysin Inhibit Ovarian Cancer Cell Proliferation and Metastasis through Inhibiting CDK4. Gene 2017 , 635 , 3-8. [CrossRef]
+- 52. Mahgoub, T.; Eustace, A.J.; Collins, D.M.; Walsh, N.; O'Donovan, N.; Crown, J. Kinase Inhibitor Screening Identifies CDK4 as a Potential Therapeutic Target for Melanoma. Int. J. Oncol. 2015 , 47 , 900-908. [CrossRef]
+- 53. Oh, T.-I.; Lee, J.; Kim, S.; Nam, T.-J.; Kim, Y.-S.; Kim, B.; Yim, W.; Lim, J.-H. Fascaplysin Sensitizes Anti-Cancer Effects of Drugs Targeting AKT and AMPK. Molecules 2017 , 23 , 42. [CrossRef]
+- 54. Kumar, S.; Guru, S.K.; Pathania, A.S.; Manda, S.; Kumar, A.; Bharate, S.B.; Vishwakarma, R.A.; Malik, F.; Bhushan, S. Fascaplysin Induces Caspase Mediated Crosstalk Between Apoptosis and Autophagy Through the Inhibition of PI3K/AKT/mTOR Signaling Cascade in Human Leukemia HL-60 Cells. J. Cell. Biochem. 2015 , 116 , 985-997. [CrossRef]
+- 55. Meng, N.; Mu, X.; Lv, X.; Wang, L.; Li, N.; Gong, Y. Autophagy Represses Fascaplysin-Induced Apoptosis and Angiogenesis Inhibition via ROS and P8 in Vascular Endothelia Cells. Biomed. Pharmacother. 2019 , 114 , 108866. [CrossRef] [PubMed]
+- 56. Oh, T.-I.; Lee, Y.-M.; Nam, T.-J.; Ko, Y.-S.; Mah, S.; Kim, J.; Kim, Y.; Reddy, R.; Kim, Y.; Hong, S.; et al. Fascaplysin Exerts Anti-Cancer Effects through the Downregulation of Survivin and HIF-1 α and Inhibition of VEGFR2 and TRKA. Int. J. Mol. Sci. 2017 , 18 , 2074. [CrossRef] [PubMed]
+- 57. Zhidkov, M.E.; Kantemirov, A.V.; Koisevnikov, A.V.; Andin, A.N.; Kuzmich, A.S. Syntheses of the Marine Alkaloids 6Oxofascaplysin, Fascaplysin and Their Derivatives. Tetrahedron Lett. 2018 , 59 , 708-711. [CrossRef]
+- 58. Lyakhova, I.A.; Bryukhovetsky, I.S.; Kudryavtsev, I.V.; Khotimchenko, Y.S.; Zhidkov, M.E.; Kantemirov, A.V. Antitumor Activity of Fascaplysin Derivatives on Glioblastoma Model In Vitro. Bull. Exp. Biol. Med. 2018 , 164 , 666-672. [CrossRef] [PubMed]
+
+- 59. Sharma, S.; Guru, S.K.; Manda, S.; Kumar, A.; Mintoo, M.J.; Prasad, V.D.; Sharma, P.R.; Mondhe, D.M.; Bharate, S.B.; Bhushan, S. A Marine Sponge Alkaloid Derivative 4-Chloro Fascaplysin Inhibits Tumor Growth and VEGF Mediated Angiogenesis by Disrupting PI3K/Akt/mTOR Signaling Cascade. Chem. Biol. Interact. 2017 , 275 , 47-60. [CrossRef]
+- 60. Mantenuto, S.; Lucarini, S.; De Santi, M.; Piersanti, G.; Brandi, G.; Favi, G.; Mantellini, F. One-Pot Synthesis of Biheterocycles Based on Indole and Azole Scaffolds Using Tryptamines and 1,2-Diaza-1,3-Dienes as Building Blocks: One-Pot Synthesis of Biheterocycles Based on Indole and Azole Scaffolds Using Tryptamines and 1,2-Diaza-1,3-Dienes as Building Blocks. Eur. J. Org. Chem. 2016 , 2016 , 3193-3199. [CrossRef]
+- 61. Mari, M.; Tassoni, A.; Lucarini, S.; Fanelli, M.; Piersanti, G.; Spadoni, G. Brønsted Acid Catalyzed Bisindolization of α -Amido Acetals: Synthesis and Anticancer Activity of Bis(Indolyl)Ethanamino Derivatives: Brønsted Acid Catalyzed Bisindolization of α -Amido Acetals. Eur. J. Org. Chem. 2014 , 2014 , 3822-3830. [CrossRef]
+- 62. Salucci, S.; Burattini, S.; Buontempo, F.; Orsini, E.; Furiassi, L.; Mari, M.; Lucarini, S.; Martelli, A.M.; Falcieri, E. Marine Bisindole Alkaloid: A Potential Apoptotic Inducer in Human Cancer Cells. Eur. J. Histochem. 2018 , 62 , 2881. [CrossRef] [PubMed]
+- 63. Burattini, S.; Battistelli, M.; Verboni, M.; Falcieri, E.; Faenza, I.; Lucarini, S.; Salucci, S. Morpho-functional Analyses Reveal That Changes in the Chemical Structure of a Marine Bisindole Alkaloid Alter the Cytotoxic Effect of Its Derivatives. Microsc. Res. Tech. 2022 , 85 , 2381-2389. [CrossRef] [PubMed]
+- 64. Jennings, L.K.; Khan, N.M.D.; Kaur, N.; Rodrigues, D.; Morrow, C.; Boyd, A.; Thomas, O.P. Brominated Bisindole Alkaloids from the Celtic Sea Sponge Spongosorites calcicola . Molecules 2019 , 24 , 3890. [CrossRef] [PubMed]
+- 65. Park, J.S.; Cho, E.; Hwang, J.-Y.; Park, S.C.; Chung, B.; Kwon, O.-S.; Sim, C.J.; Oh, D.-C.; Oh, K.-B.; Shin, J. Bioactive Bis(Indole) Alkaloids from a Spongosorites sp. Sponge. Mar. Drugs 2020 , 19 , 3. [CrossRef] [PubMed]
+- 66. El-Gamal, A.A.; Wang, W.-L.; Duh, C.-Y. Sulfur-Containing Polybromoindoles from the Formosan Red Alga Laurencia b Rongniartii. J. Nat. Prod. 2005 , 68 , 815-817. [CrossRef] [PubMed]
+- 67. Tsuda, M.; Takahashi, Y.; Fromont, J.; Mikami, Y.; Kobayashi, J. Dendridine A, a Bis-Indole Alkaloid from a Marine Sponge Dictyodendrilla Species. J. Nat. Prod. 2005 , 68 , 1277-1278. [CrossRef] [PubMed]
+- 68. Palermo, J.A.; Flower, P.B.; Seldes, A.M. Chondriamides A and B, New Indolic Metabolites from the Red Alga Chondria Sp. Tetrahedron Lett. 1992 , 33 , 3097-3100. [CrossRef]
+- 69. Liberio, M.; Sadowski, M.; Nelson, C.; Davis, R. Identification of Eusynstyelamide B as a Potent Cell Cycle Inhibitor Following the Generation and Screening of an Ascidian-Derived Extract Library Using a Real Time Cell Analyzer. Mar. Drugs 2014 , 12 , 5222-5239. [CrossRef]
+- 70. Tadesse, M.; Tabudravu, J.N.; Jaspars, M.; Strøm, M.B.; Hansen, E.; Andersen, J.H.; Kristiansen, P.E.; Haug, T. The Antibacterial Ent-Eusynstyelamide B and Eusynstyelamides D, E, and F from the Arctic Bryozoan Tegella Cf. Spitzbergensis. J. Nat. Prod. 2011 , 74 , 837-841. [CrossRef]
+- 71. Sreenivasulu, R.; Durgesh, R.; Jadav, S.S.; Sujitha, P.; Ganesh Kumar, C.; Raju, R.R. Synthesis, Anticancer Evaluation and Molecular Docking Studies of Bis(Indolyl) Triazinones, Nortopsentin Analogs. Chem. Pap. 2018 , 72 , 1369-1378. [CrossRef]
+- 72. Gayler, K.M.; Kong, K.; Reisenauer, K.; Taube, J.H.; Wood, J.L. Staurosporine Analogs Via C-H Borylation. ACS Med. Chem. Lett. 2020 , 11 , 2441-2445. [CrossRef]
+- 73. Alsamman, K.; El-Masry, O. Staurosporine Alleviates Cisplatin Chemoresistance in Human Cancer Cell Models by Suppressing the Induction of SQSTM1/P62. Oncol. Rep. 2018 , 40 , 2157-2162. [CrossRef]
+- 74. Malsy, M.; Bitzinger, D.; Graf, B.; Bundscherer, A. Staurosporine Induces Apoptosis in Pancreatic Carcinoma Cells PaTu 8988t and Panc-1 via the Intrinsic Signaling Pathway. Eur. J. Med. Res. 2019 , 24 , 5. [CrossRef] [PubMed]
+- 75. Ding, Y.; Wang, B.; Chen, X.; Zhou, Y.; Ge, J. Staurosporine Suppresses Survival of HepG2 Cancer Cells through Omi/HtrA2Mediated Inhibition of PI3K/Akt Signaling Pathway. Tumor Biol. 2017 , 39 , 101042831769431. [CrossRef] [PubMed]
+- 76. Chen, Z.; Zhou, K.; Xue, J.; Small, A.; Xiao, G.; Nguyen, L.X.T.; Zhang, Z.; Prince, E.; Weng, H.; Huang, H.; et al. Phosphorylation Stabilized TET1 Acts as an Oncoprotein and Therapeutic Target in B Cell Acute Lymphoblastic Leukemia. Sci. Transl. Med. 2023 , 15 , eabq8513. [CrossRef] [PubMed]
+- 77. Zhou, B.; Hu, Z.-J.; Zhang, H.-J.; Li, J.-Q.; Ding, W.-J.; Ma, Z.-J. Bioactive Staurosporine Derivatives from the Streptomyces sp. NB-A13. Bioorganic Chem. 2019 , 82 , 33-40. [CrossRef]
+- 78. Kurata, N.; Kuwabara, T.; Tanii, H.; Fuse, E.; Akiyama, T.; Akinaga, S.; Kobayashi, H.; Yamaguchi, K.; Kobayashi, S. Pharmacokinetics and Pharmacodynamics of a Novel Protein Kinase Inhibitor, UCN-01. Cancer Chemother. Pharmacol. 1999 , 44 , 12-18. [CrossRef]
+- 79. Zhao, B.; Bower, M.J.; McDevitt, P.J.; Zhao, H.; Davis, S.T.; Johanson, K.O.; Green, S.M.; Concha, N.O.; Zhou, B. Structural Basis for Chk1 Inhibition by UCN-01 and Its Analogs. Acta Crystallogr. A 2002 , 58 , c224. [CrossRef]
+- 80. Sato, S.; Fujita, N.; Tsuruo, T. Interference with PDK1-Akt Survival Signaling Pathway by UCN-01 (7-Hydroxystaurosporine). Oncogene 2002 , 21 , 1727-1738. [CrossRef]
+- 81. Lien, W.; Chen, T.; Sheu, S.; Lin, T.; Kang, F.; Yu, C.; Kuan, T.; Huang, B.; Wang, C. 7-hydroxy-staurosporine, UCN-01, Induces DNA Damage Response, and Autophagy in Human Osteosarcoma U2-OS Cells. J. Cell. Biochem. 2018 , 119 , 4729-4741. [CrossRef]
+- 82. Candido, M.F.; Medeiros, M.; Veronez, L.C.; Bastos, D.; Oliveira, K.L.; Pezuk, J.A.; Valera, E.T.; Brassesco, M.S. Drugging Hijacked Kinase Pathways in Pediatric Oncology: Opportunities and Current Scenario. Pharmaceutics 2023 , 15 , 664. [CrossRef] [PubMed]
+
+- 83. Arena, A.; Romeo, M.A.; Benedetti, R.; Gilardini Montani, M.S.; Cirone, M. The Impairment of DDR Reduces XBP1s, Further Increasing DNA Damage, and Triggers Autophagy via PERK/eIF2alpha in MM and IRE1alpha/JNK1/2 in PEL Cells. Biochem. Biophys. Res. Commun. 2022 , 613 , 19-25. [CrossRef]
+- 84. Levis, M.; Allebach, J.; Tse, K.-F.; Zheng, R.; Baldwin, B.R.; Smith, B.D.; Jones-Bolin, S.; Ruggeri, B.; Dionne, C.; Small, D. A FLT3-Targeted Tyrosine Kinase Inhibitor Is Cytotoxic to Leukemia Cells in Vitro and in Vivo. Blood 2002 , 99 , 3885-3891. [CrossRef] [PubMed]
+- 85. Armstrong, S.A.; Kung, A.L.; Mabon, M.E.; Silverman, L.B.; Stam, R.W.; Den Boer, M.L.; Pieters, R.; Kersey, J.H.; Sallan, S.E.; Fletcher, J.A.; et al. Inhibition of FLT3 in MLL. Cancer Cell 2003 , 3 , 173-183. [CrossRef] [PubMed]
+- 86. Azam, H.; Pierro, L.; Reina, M.; Gallagher, W.M.; Prencipe, M. Emerging Role for the Serum Response Factor (SRF) as a Potential Therapeutic Target in Cancer. Expert Opin. Ther. Targets 2022 , 26 , 155-169. [CrossRef]
+- 87. Fathi, A.T.; Levis, M. Lestaurtinib: A Multi-Targeted FLT3 Inhibitor. Expert Rev. Hematol. 2009 , 2 , 17-26. [CrossRef]
+- 88. Stansfield, L.C.; Pollyea, D.A. Midostaurin: A New Oral Agent Targeting FMS -Like Tyrosine Kinase 3-Mutant Acute Myeloid Leukemia. Pharmacother. J. Hum. Pharmacol. Drug Ther. 2017 , 37 , 1586-1599. [CrossRef]
+- 89. Kim, E.S. Midostaurin: First Global Approval. Drugs 2017 , 77 , 1251-1259. [CrossRef]
+- 90. Levis, M. Midostaurin Approved for FLT3-Mutated AML. Blood 2017 , 129 , 3403-3406. [CrossRef]
+- 91. Wang, L.; Zhuang, Y.; Sun, K.; Zhu, W. Synthesis and Cytotoxicity of Halogenated Derivatives of PKC-412. Chin. J. Org. Chem. 2014 , 34 , 1603. [CrossRef]
+- 92. Wang, L.; Mei, X.; Wang, C.; Zhu, W. Biomimetic Semi-Synthesis of Fradcarbazole A and Its Analogues. Tetrahedron 2015 , 71 , 7990-7997. [CrossRef]
+- 93. Li, M.; Xu, Y.; Zuo, M.; Liu, W.; Wang, L.; Zhu, W. Semisynthetic Derivatives of Fradcarbazole A and Their Cytotoxicity against Acute Myeloid Leukemia Cell Lines. J. Nat. Prod. 2019 , 82 , 2279-2290. [CrossRef]
+- 94. Li, G.; Wu, D.; Xu, Y.; He, W.; Wang, D.; Zhu, W.; Wang, L. Synthesis and Antitumor Activity of Staurosporine Derivatives. Nat. Prod. Commun. 2022 , 17 , 1934578X2211030. [CrossRef]
+- 95. Carrillo, P.; Bernal, M.; T é llez-Quijorna, C.; Marrero, A.D.; Vidal, I.; Castilla, L.; Caro, C.; Dom í nguez, A.; Garc í a-Mart í n, M.L.; Quesada, A.R.; et al. The Synthetic Molecule Stauprimide Impairs Cell Growth and Migration in Triple-Negative Breast Cancer. Biomed. Pharmacother. 2023 , 158 , 114070. [CrossRef] [PubMed]
+- 96. Bourhill, T.; Narendran, A.; Johnston, R.N. Enzastaurin: A Lesson in Drug Development. Crit. Rev. Oncol. Hematol. 2017 , 112 , 72-79. [CrossRef] [PubMed]
+- 97. Jin, T.; Li, P.; Wang, C.; Tang, X.; Cheng, M.; Zong, Y.; Luo, L.; Ou, H.; Liu, K.; Li, G. Racemic Bisindole Alkaloids: Structure, Bioactivity, and Computational Study. Chin. J. Chem. 2021 , 39 , 2588-2598. [CrossRef]
+- 98. Sato, H.; Tsuda, M.; Watanabe, K.; Kobayashi, J. Rhopaladins A ∼ D, New Indole Alkaloids from Marine Tunicate Rhopalaea sp. Tetrahedron 1998 , 54 , 8687-8690. [CrossRef]
+
+99.
+
+Endo, T.; Tsuda, M.; Fromont, J.; Kobayashi, J. Hyrtinadine A, a Bis-Indole Alkaloid from a Marine Sponge. J. 423-424. [CrossRef]
+
+Nat. Prod. 2007 , 70 ,
+
+- 100. Tasch, B.O.A.; Merkul, E.; Müller, T.J.J. One-Pot Synthesis of Diazine-Bridged Bisindoles and Concise Synthesis of the Marine Alkaloid Hyrtinadine A. Eur. J. Org. Chem. 2011 , 2011 , 4532-4535. [CrossRef]
+- 101. Zhang, W.; Liu, Z.; Li, S.; Yang, T.; Zhang, Q.; Ma, L.; Tian, X.; Zhang, H.; Huang, C.; Zhang, S.; et al. Spiroindimicins A-D: New Bisindole Alkaloids from a Deep-Sea-Derived Actinomycete. Org. Lett. 2012 , 14 , 3364-3367. [CrossRef] [PubMed]
+- 102. Zhang, W.; Ma, L.; Li, S.; Liu, Z.; Chen, Y.; Zhang, H.; Zhang, G.; Zhang, Q.; Tian, X.; Yuan, C.; et al. Indimicins A-E, Bisindole Alkaloids from the Deep-Sea-Derived Streptomyces sp. SCSIO 03032. J. Nat. Prod. 2014 , 77 , 1887-1892. [CrossRef] [PubMed]
+- 103. Wang, F.-Z.; Huang, Z.; Shi, X.-F.; Chen, Y.-C.; Zhang, W.-M.; Tian, X.-P.; Li, J.; Zhang, S. Cytotoxic Indole Diketopiperazines from the Deep Sea-Derived Fungus Acrostalagmus Luteoalbus SCSIO F457. Bioorg. Med. Chem. Lett. 2012 , 22 , 7265-7267. [CrossRef] [PubMed]
+- 104. Vishwakarma, K.; Dey, R.; Bhatt, H. Telomerase: A Prominent Oncological Target for Development of Chemotherapeutic Agents. Eur. J. Med. Chem. 2023 , 249 , 115121. [CrossRef]
+- 105. Warabi, K.; Matsunaga, S.; Van Soest, R.W.M.; Fusetani, N. Dictyodendrins A - E, the First Telomerase-Inhibitory Marine Natural Products from the Sponge Dictyodendrilla v Erongiformis 1. J. Org. Chem. 2003 , 68 , 2765-2770. [CrossRef]
+
+Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

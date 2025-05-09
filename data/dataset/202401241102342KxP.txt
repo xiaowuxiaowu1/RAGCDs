@@ -1,0 +1,194 @@
+## 1. Introduction
+
+Building a greener and carbon-neutral society highly demands reliable electrochemical energy storage technologies. [1] Lithiumion batteries (LIB), by virtue of their high specific energy, long cycle life, low self-discharge rate, and good reliability, are ruling the roost of them, and are widely used in portable electronics and electric vehicles. [2] However, upon first cycles, the
+
+B. Zhu, Q. Wang, Y. Lai, J. Zheng, N. Wen, Z. Zhang School of Metallurgy and Environment
+
+Engineering Research Center of the Ministry of Education for Advanced Battery Materials
+
+Hunan Provincial Key Laboratory of Nonferrous Value-Added Metallurgy Central South University
+
+Changsha 410083, P. R. China
+
+E-mail: zhangzhian@csu.edu.cn
+
+W. Zhang
+
+Christopher Ingold Laboratory Department of Chemistry University College London London WC1H 0AJ, UK
+
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/adfm.202315010
+
+DOI: 10.1002/adfm.202315010
+
+lithium-contained solid-electrolyte interphase (SEI) layer will be generated due to the in situ electrochemical reduction of Li-salt anions (e.g., PF$_{6}$ $^{-}$)a n d / o ro r g a n i c solvents within the operational voltage window, thus inevitably consuming a great amount of active Li + and inducing a low initial Coulombic efficiency as well as tremendous capacity losses. Therefore, of importance is developing a cost-effective and efficient method for this issue.
+
+Cathode prelithiation is a promising technology that offsets the initial Li loss and improves the energy density of lithium-ion batteries by donating additional active lithium and sacrificing specific prelithiation reagents/materials before battery cycling. [3] Recently, increasing attention has been drawn to Li-rich ternary compounds as cathode additives (such as Li$_{2}$NiO$_{2,}$ Li$_{2}$MnO$_{4,}$ and Li$_{2}$MoO$_{3}$) [5] due to the suitable operational voltage window. In spite of some progress, the low
+
+irreversible capacity ( < 300 mAh g - $^{1}$) still constrains their development. In sharp contrast, owing to the high lithium donor capacity ( > 700 mAh g - $^{1}$), cheap raw materials, good environmental adaptability, and reliable synthesis approach, Li$_{5}$FeO$_{4}$ (denoted as LFO) holds great promise in commercial applications. [6] During the first charging, LFO undergoes an irreversible phase transformation of the pbca antifluorite structure to a disordered rock salt phase (LiFeO$_{2}$), accompanied by the production of a large amount of O$_{2}$. [6c,7] Hence, as a cathode additive, LFO provides enough "donor" lithium ( > 700 mAh g - $^{1}$)tomakeupfor the loss of lithium from SEI formation during the first charge. However, similar to high-Ni cathodes, its development is constrained by its extremely poor air stability. [8] LFO commonly appears to have obvious capacity losses upon the handling and storage processes under an air atmosphere, which may stem from the formation of residual Li species (e.g., Li$_{2}$O, LiOH, or Li$_{2}$CO$_{3}$). These alkaline residuals on the surface of LFO will result in high interfacial resistance and poor kinetic performance. Additionally, the dissolution of Li$_{2}$O/LiOH/L$_{2}$CO$_{3}$ into N-methyl2-pyrrolidone (NMP) during electrode pretreatment would incur a significant increase in cathode slurry alkalinity, gas generation, defluorination of polyvinylidene fluoride (PVDF) binder, and slurry gelation, which leads to deterioration of the mechanical properties. These abovesaid problems created by the poor air stability of LFOs have greatly constrained scale-up applications.
+
+www.afm-journal.de
+
+## Air-Exposure Degradation Chemistry
+
+Figure 1. a) Schematic illustration of reaction mechanisms of LFO with air. b) XRD patterns and c) corresponding enlarged patterns between 32 ° and 35 ° and 55 ° - 58 ° of Li$_{5}$FeO$_{4}$ exposed in O$_{2}$ for different times. e) XRD patterns and f) corresponding enlarged patterns between 40 ° and 50 ° and 60 ° - 70 ° of Li$_{5}$FeO$_{4}$ exposed to CO$_{2}$ for different time. The Rietveld pattern after exposure to d) O$_{2}$ and g) CO$_{2}$ for 24 h, respectively.
+
+Undoubtedly, it is rather important to fundamentally understand the underlying mechanism and kinetics of the reaction of LFO with air with more practical concerns. Similarly, high-Ni oxide layered cathodes also suffer from inferior air stability and various reaction mechanisms have been proposed such as intercalating H$_{2}$O between the TMO$_{2}$ (TM: transition metal) slabs, [9] inserting CO$_{2}$ into the TM layer, [10] and oxidized by H$_{2}$Oand
+
+O$_{2}$, [11] It is believed that the degradation chemistry and reactivity against air are largely dependent on the detailed compositions and structures of the cathode. Unfortunately, understanding the underlying reaction mechanism between LFO and air is quite limited. In spite of some early success, [12] it is still rather challenging to effectively suppress the degradation process of LFOs exposed to air. Therefore, it is essential to study the LFO-
+
+Figure 2. The SEM image of Li$_{5}$FeO$_{4}$ exposed to O$_{2}$ a-d) and CO$_{2}$ e-h) for 3, 6, 12, and 24 h, the TEM image and HRTEM of Li$_{5}$FeO$_{4}$ were exposed to O$_{2}$ i,j) and CO$_{2}$ k,l) for 24 h.
+
+air interface chemistry to develop a feasible strategy for practically implementing cathode prelithiation materials for Li-ion batteries.
+
+In this work, LFO was subjected to different gas atmospheres (O$_{2}$,CO$_{2}$,andN$_{2}$; mimicking the major components of air) and 30% humidity air for different times to explore their impacts on Li$_{5}$FeO$_{4}$ and the LFO-air interface chemistry. We found that Li + ions will escape from the LFO crystal lattice to construct Li$_{2}$O and Li$_{2}$CO$_{3}$ impurity phases in contact with air; Fe 3 + ions will be dissolved to form Fe$_{2}$O$_{3}$ on the particle surface. These species serve as an insulating layer and thus lead to an increment of interfacial impedance and an apparent capacity degradation. We also proposed a facile and viable surface coating strategy to improve LFO's air stability. After being exposed to O$_{2}$ and CO$_{2}$ for 24 h, the capacity of the modified LFO remains at 785.3 and 728.5 mAh g - 1 are comparable to the pristine value under the inert atmosphere without the formation of the above-mentioned impurities.
+
+## 2. Result and Discussion
+
+## 2.1. Analysis of the Compositional Components of LFO Exposure to Different Atmospheres
+
+Li$_{5}$FeO$_{4}$ is obtained by a typical solid-state method. [8] The X-ray diffraction (XRD) pattern of Li$_{5}$FeO$_{4}$ is exhibited in Figure S1a (Supporting Information). The XRD Rietveld refinement result in Figure S1 b (Supporting Information) with a satisfactory wRp value of 3.34% confirmed a pure LFO phase with a pbca space group. To further study the stability of the material in air, Li$_{5}$FeO$_{4}$ was exposed to different atmospheres at different times as illustrated in Figure 1 a.AsshowninFigure1b,c, the strong intensity peak between 32 ° and 35 ° correspondingtothe(222) crystal plane enhances with increasing the exposure time in the oxygen atmosphere. While the intensity peak between 55 ° and 60 ° corresponding to (0 4 4) of the LFO gradually weakens. The XRD Rietveld refinement (Figure 1d) determined the material
+
+www.afm-journal.de
+
+Figure 3. Li 1s spectra of Li$_{5}$FeO$_{4}$ exposed to O$_{2}$ and CO$_{2}$ for 3 h a,e), 6 h b,f), 12 h c,g) and 24 h d,h), C 1s spectra of Li$_{5}$FeO$_{4}$ exposed to CO$_{2}$ for 3 h i),6hj),12hk)and24hl).
+
+exposed to O$_{2}$ for 24 h contains Li$_{2}$O, which accounts for 16.6%. The formation of Li$_{2}$O can be the underlying reason for the peak difference in Figure 1b,c. In Figure 1e,f, the main peak of the material exposed to CO$_{2}$ hardly changed as the exposure time increased, only a small number of impurity peaks were generated. This is probably due to the gradual formation of the LiFeO$_{2}$ phase by the reaction of the material with CO$_{2}$ during exposure. It is found that the Li$_{2}$CO$_{3}$ phase exists in the CO$_{2}$-treated material by Rietveld refinement of the material exposed to CO$_{2}$ atmosphere (Figure 1g). Figure S2 (Supporting Information) shows that as the exposure time of Li$_{5}$FeO$_{4}$ in N$_{2}$ increases gradually, no changes can be found in Li$_{5}$FeO$_{4}$. Therefore, both CO$_{2}$ and O$_{2}$ in the air will react with Li$_{5}$FeO$_{4}$ and thus deteriorate the material.
+
+To further study the microstructural changes of Li$_{5}$FeO$_{4}$ materials under different atmospheric conditions, scanning electron microscopy (SEM) and transmission electron microscopy (TEM) were applied. As shown in Figure S3 a,b (Supporting Information), the particle size of Li$_{5}$FeO$_{4}$ is 6-10 µ m, and the surface is smooth. After being exposed to an O$_{2}$ atmosphere for 3, 6, 12, and 24 h ( Figure 2 a-d), the surface of the material became rough and the morphology changed greatly, indicating that the material reacted with O$_{2}$. When the material was exposed to CO$_{2}$
+
+atmosphere (Figure 2e-h), the surface became extremely rough accompanied by the formation of cracks demonstrating that the material reacted with CO$_{2}$. In addition, the high-resolution TEM (HRTEM) image shows a clear boundary layer on the surface of the material exposed to O$_{2}$ and CO$_{2}$ atmospheres for 24 h. As shown in Figure 2j, the internal lattice fringes of the main material are 0.202 nm, which is in good agreement with the (2 1 4) plane of Li$_{5}$FeO$_{4}$, while the 0.263 nm lattice fringes can be indexed to the (1 1 1) plane of Li$_{2}$O. Once again, it is proved that Li$_{5}$FeO$_{4}$ reacts with oxygen and the Li$_{2}$O phase is generated when exposed to an O$_{2}$ atmosphere, which is consistent with Figure 1. Figure 2l shows the lattice fringes are 0.247 nm, which is in good agreement with the (0 2 2) plane of Li$_{2}$CO$_{3}$. It is proved that Li$_{5}$FeO$_{4}$ reacts with carbon dioxide and a Li$_{2}$CO$_{3}$ phase is produced when Li$_{5}$FeO$_{4}$ is exposed to the CO$_{2}$ atmosphere. When the material was exposed to the N$_{2}$ atmosphere in Figure S4 (Supporting Information), the surface morphology of the material hardly changed, and the HRTEM image showed no diversification on the surface of the material, proving that Li$_{5}$FeO$_{4}$ hardly reacts with N$_{2}$.
+
+Ex situ XPS was carried out to further investigate the surface composition of Li$_{5}$FeO$_{4}$ after standing for different times under different atmospheres respectively. As shown in Figure 3 a-h, the
+
+Figure 3e-h showed a similar trend for the relative peak area of Li + in Li$_{2}$CO$_{3}$ of the material exposed to the CO$_{2}$ atmosphere (Table 1) The C 1s spectrum can be divided into two bond structures, a C - C bond at 284.8 eV and an O - C = Obondat 289.7 eV. [15] The C - C bond is considered to be graphitized carbon while O - C = O can be the signal of CO$_{3}$ 2in Li$_{2}$CO$_{3}$.Thisis due to the reaction of Li$_{5}$FeO$_{4}$ with CO$_{2}$ to form the LiFeO$_{2}$ phase, and the LiFeO$_{2}$ phase then reacts with CO$_{2}$ to form the Fe$_{2}$O$_{3}$ phase and Li$_{2}$CO$_{3}$ phase. The specific reactions are as follows$^{[16]}$:
+
+www.afm-journal.de
+
+Table 1. Li$_{2}$OandLi$_{2}$CO$_{3}$ as a percentage of the Li 1s spectrum.
+
+|                                                               | 3h     | 6h     | 12h    | 24h    |
+|---------------------------------------------------------------|--------|--------|--------|--------|
+| Li$_{2}$O as a percentage of the Li 1s spectrum               | 22.84% | 34.69% | 36.91% | 38.60% |
+| Li$_{2}$CO$_{3}$ as a percentage of the Li 1s spectrum 41.79% |        | 50.41% | 57.80% | 62.08% |
+
+Li 1s spectra of Li$_{5}$FeO$_{4}$ under O$_{2}$ and CO$_{2}$ atmospheres for 3, 6, 12, and 24 h. The Li 1s spectra can be divided into three peaks, 54.2, 54.8, and 55.4 eV, where 54.2 eV is the signal of Li + in Li$_{2}$O, 54.8 eV is the signal of Li + in Li - Fe - O and 55.4 eV is the Li + signal in Li$_{2}$CO$_{3}$. [14] The relative peak area of Li + in Li$_{2}$Ogradually increases with increasing the exposure time to the O$_{2}$ atmosphere as shown in Table 1 , indicating that the Li$_{2}$Ophase content of the material increases with time, which is consistent with Figure 1b. The possible specific reactions between pure LFO with O$_{2}$ are listed as follows:
+
+It is impossible to inject the same volume of moisture as CO$_{2}$, O$_{2,}$ and N$_{2}$ into the container, so we exposed the LFO to air with 30% humidity. As displayed in Figure S5 (Supporting Information), the peak in the range of 800 - 900 cm - 1 for Li$_{2}$CO$_{3}$ and the peak in the range of 3600 - 3700 cm - 1 for LiOH are observed by Fourier Infrared Spectroscopy (FT-IR), suggesting LFO reacts with moisture. The possible specific reactions are as follows:
+
+In addition, Figure S6 (Supporting Information) shows Fe 2p spectra and N 1s spectra of Li$_{5}$FeO$_{4}$ at 3, 6, 12, and 24 h under an N$_{2}$ atmosphere respectively. Among them, Fe 2p spectra mainly consist of Fe 2p$_{3/2}$ (709.8 eV) and Fe 2p$_{1/2}$ (723.4 eV) spectra, indicating that the compound valence of Fe is + 3 valence. [17] Figure S6b (Supporting Information) shows that N 1s spectra hardly change with time. This remains consistent with the conclusions obtained in Figures S2 and S4 (Supporting Information), again demonstrating that being in an N$_{2}$ atmosphere hardly affects Li$_{5}$FeO$_{4}$.Insummary ,bothCO 2 and O$_{2}$ affect the Li$_{5}$FeO$_{4}$ material and produce related impurities such as Li$_{2}$CO$_{3}$ and Li$_{2}$O respectively, while N$_{2}$ hasalmostnoimpacton Li$_{5}$FeO$_{4}$.
+
+## 2.2. Coin Cell Performance
+
+To further investigate the impact of different atmospheres on the Li$_{5}$FeO$_{4}$ lithium storage performance, we assembled Li$_{5}$FeO$_{4}$ half cells against Li anodes. As shown in Figure 4 a,pureLi$_{5}$FeO$_{4}$ can deliver a charge-specific capacity of 681.5 mAh g - 1 at 50 mA g - 1 between 2.5 and 4.5 V while the discharge capacity is only 34.6 mAh g - $^{1}$, in good line with previous reports regarding prelithiation reagent. As the samples were exposed to the O$_{2}$ atmosphere for 3, 6, 12, and 24 h, the first-charge specific capacity of Li$_{5}$FeO$_{4}$ decreased rapidly from 681.5 to 271.4, 187.5, 170.0, and 163.9 mAh g - $^{1}$, which correspond to the attenuation rate of 60.2%, 72.5%, and 75.1% and 75.9%, respectively. The decay of the first-charge capacity approached the limit by increasing the exposure time, indicating that there is a time threshold for oxygen influence. Li$_{5}$FeO$_{4}$ was then subjected to the CO$_{2}$ atmosphere for 3, 6, 12, and 24 h as seen in Figure 4b. The first chargespecific capacity of Li$_{5}$FeO$_{4}$ decreased from 681.5 to 204.6, 129.8, 82.3, and 50.3 mAh g - $^{1}$, corresponding to decay ratios of 69.9%, 80.9%, 87.9% and 92.6%, respectively. The first charge capacity of the material gradually decays with increasing exposure time. In Figure S7 (Supporting Information), the first charge-specific capacities of Li$_{5}$FeO$_{4}$ after 3, 6, 12, and 24 h in the N$_{2}$ atmosphere were nearly the same. It supports that N$_{2}$ has almost no effect on the performance of Li$_{5}$FeO$_{4}$. However, LFO exposure to air for 24 h produced significant slurry gelation compared to those not exposed to air, as shown in Figure S8 (Supporting Information). Hence, the electrochemical properties of LFO exposed to air were not performed. Figure S9 (Supporting Information) shows the SEM images of LFO exposed to air for 24 h. The surface of LFO becomes very rough and cracks gradually, indicating that the material has been attacked by air and is undergoing a reaction on the surface. The initial coulombic efficiency of LFO remains below 10% after 24 h of exposure to CO$_{2}$ and O$_{2}$, indicating that it still retains the characteristics of the prelithiation addictive (Figure 4c). Figure 4d indicates that both CO$_{2}$ and O$_{2}$ react to cause rapid capacity decay, which is more severe with CO$_{2}$.
+
+Electrochemical impendence spectroscopy (EIS) was employed to estimate the interfacial impendence. Figure 5 shows the impedance spectra before and after half-cell cycling under different atmospheres with different exposure times respectively. Figure 5a,b presented the impedance spectra of Li$_{5}$FeO$_{4}$ exposed to different times in the O$_{2}$ and CO$_{2}$ atmosphere respectively. Compared to the impedance spectra of pristine Li$_{5}$FeO$_{4}$, the impedance increases with time when exposed to O$_{2}$ and CO$_{2}$ atmospheres. This is attributed to the Li$_{2}$OandLi$_{2}$CO$_{3}$ phases generated on the surface of Li$_{5}$FeO$_{4}$. The influence of different atmospheres on the diffusion rate of lithium ions was further investigated (Figure 5c,d), the diffusion coefficient Li + (D$_{Li}$$_{+}$)canbe calculated from a linear plot of Z' as a function of 𝜔 - 1/2 using the following two equations. [18]
+
+where R, T, and F correspond to the gas constant, the absolute temperature constant, and the Faraday constant, respectively. A is
+
+Figure 4. Initial charge/discharge curves of Li$_{5}$FeO$_{4}$ exposed to O$_{2}$ a) and CO$_{2}$ b) for different times. Discharge capacities and Coulombic efficiencies of Li$_{5}$FeO$_{4}$ exposed to O$_{2}$ and CO$_{2}$ for 24 h during the first 50 cycles c) and the initial charge capacity of Li$_{5}$FeO$_{4}$ exposed to O$_{2}$ and CO$_{2}$ for different times d)
+
+Figure 5. Impedance spectra of Li$_{5}$FeO$_{4}$ exposed to O$_{2}$ a) and CO$_{2}$ b) before and after different cycles, respectively. Half-cell Z ' -𝜔 - 1/2 curves of exposing Li$_{5}$FeO$_{4}$ to O$_{2}$ c) and CO$_{2}$ d) for 0 and 24 h cycles.
+
+www.afm-journal.de
+
+Figure 6. The SEM images of P@LFO a,b) and that of P@LFO exposed to O$_{2}$ e,f) and that of the one in CO$_{2}$ i,j) for 24 h. The TEM and HRTEM images of P@LFO c,d) and those of P@LFO exposed to O$_{2}$ g,h) and those of the one in CO$_{2}$ k,l) for 24 h.
+
+the electrode surface area, C is the molar concentration of Li + and 𝜎$_{w}$ is the Warburg impedance coefficient. The apparent Li + diffusion coefficients for Li$_{5}$FeO$_{4}$ under O$_{2}$ and CO$_{2}$ atmospheres for 24 h have been calculated and are listed in Table S1 (Supporting Information). It was shown that the impact of CO$_{2}$ on Li$_{5}$FeO$_{4}$ was significantly greater than that of O$_{2}$. This indicated that Li + ions will escape from the LFO lattice and form Li$_{2}$OandLi$_{2}$CO$_{3}$ impurity phases in contact with O$_{2}$ and CO$_{2}$, and impede lithiumion migration, which is consistent with the results obtained in Figure 4.
+
+## 2.3. Protection of LFOs by Carbon Layers in Different Atmospheres
+
+To further improve the air stability of Li$_{5}$FeO$_{4}$,w ec o a t e d LFO (P@LFO) using an amorphous carbon layer by a hightemperature solid-phase method. The surface microstructural changes of the pure P@LFO and P@LFO samples exposed to O$_{2}$ and CO$_{2}$ for 24 h were further studied by SEM and TEM in Figure 6 . Compared to the pure Li$_{5}$FeO$_{4}$, the surface of P@LFO
+
+becomes rough in Figure 6a,b. In Figure 6c,d, there is an obvious amorphous coating layer on the surface of the material with a thickness of ≈ 6 nm, and the internal lattice fringes of the main material are 0.265 nm, which is in good agreement with the (2 2 2) plane of Li$_{5}$FeO$_{4}$. Sulfur-carbon analyzer was employed to test the specific content of carbon in P@LFO, and Table S2 (Supporting Information) shows that the carbon content of the material is 1.68%. Additionally, the C element is evenly dispersed on the surface of the material in Figure S10 (Supporting Information). With exposure to O$_{2}$ and CO$_{2}$ atmospheres, the coating gradually becomes less dense in Figure 6e,f,i,j, and more acute for the CO$_{2}$ system. According to HRTEM images in Figure 6g,h,k,l, the coating layer of the material exposed to CO$_{2}$ almost disappears. It shows that CO$_{2}$ has a greater effect on the material, which is consistent with the conclusion obtained in Figure 4. Nevertheless, after exposure to O$_{2}$ and CO$_{2}$ atmospheres, no other impurity was generated, indicating that the carbon coating can effectively protect the material from the reaction with O$_{2}$ and CO$_{2}$ atmosphere.
+
+The XRD has been applied to analyze the phase change of the P@LFO exposed to O$_{2}$ and CO$_{2}$ atmospheres for 24 h. As shown in Figure 7 a, the phase of P@LFO exposed to O$_{2}$ and CO$_{2}$
+
+Figure 8 a,b showed the initial charge and discharge curves of P@LFO and P@LFO exposed in different atmospheres for 24 h at 0.1 C at 25 ° C. The initial charge and discharge capacities of P@LFO are 813.8 and 58.5 mAh g - $^{1}$,w h i c hm a yb ea t -tributed to the fact that the carbon layer facilitates the transport of electrons. After being exposed to O$_{2}$ and CO$_{2}$ for 24 h, the initial charge capacity remains 785.3 and 728.5 mAh g - $^{1}$. This supports that the carbon protective layer can effectively improve the stability of Li$_{5}$FeO$_{4}$ in different atmospheres. As shown in Figure 8c, the cyclic voltammetry curve of P@LFO
+
+Figure 7. XRD patterns of P@LFO and P@LFO exposed to different atmospheres for 24 h a). The Rietveld pattern of P@LFO b). The C 1s c) and O 1s d) spectra of P@LFO and P@LFO exposed to different atmospheres for 24 h
+
+atmospheres hardly changed. The Rietveld pattern of P@LFO with a satisfactory Rwp value of 4.73% in Figure 7b shows good crystallinity. In Figure 7c,d, the C 1s spectrum contains a C = O bond at 288.5 eV, and the O1s spectrum includes organic C = O at 533 eV which is attributed to the carbon layer containing partially uncarbonated organic carbon. As shown in Figure S11 (Supporting Information), there is no other lithium species signal on the surface of the material other than the Li$_{5}$FeO$_{4}$ signal. Therefore, P@LFO exposed to O$_{2}$ and CO$_{2}$ atmospheres for 24 h hardly formed Li$_{2}$OandLi$_{2}$CO$_{3}$ impurity phases, indicating that the carbon layer can efficiently protect Li$_{5}$FeO$_{4}$ from air corrosion.
+
+## 2.4. The Performance of P@LFO Exposed to Different Atmospheres in Half-Cell and Full-Cell
+
+indicated that a large number of Li + are hardly inserted back into P@LFO, which is characteristic of the prelithium additive. The oxide peaks of P@LFO shift a 0.167 V lower position compared to pure LFO, indicating that the carbon layer is beneficial to lower polarization voltage and promote electron migration. Figure 8d shows the impedance of P@LFO exposed to CO$_{2}$ is obviously greater than that of the O$_{2}$ counterpart, indicating that CO$_{2}$ has a worse effect on the impedance of the material than O$_{2}$. NCM811 with P@LFO||graphite full-cell delivered 201.4 mAh g - 1 for the initial cycle at 0.1 C, which is 25.1 mAh g - 1 higher than that of pure NCM||graphite full-cell (Figure 8e). Figure 8f showed that the capacity of NCM811 with P@LFO ||graphite full-cell with capacity retention of 98.5 mAh g - 1 after 50 cycles higher than NCM811||graphite full-cell. Better performance of NCM811-based full cell can be achieved provided more of the prelithium additive.
+
+## 3. Conclusion
+
+In summary, we studied the degradation chemistry of LFO in contact with gas atmospheres (O$_{2}$,CO$_{2,}$ and N$_{2}$) and 30% humidity air and discovered that Li + ions will escape from the LFO crystal lattice to construct Li$_{2}$O, Li$_{2}$CO$_{3,}$ and LiOH impurity phases with an obvious change of LFO surface morphology in contact with O$_{2}$,CO$_{2}$ and humidity air. These species remarkedly inhibit Li + ion diffusion from the material and thus lead to an increment of interfacial impedance and an apparent capacity degradation.
+
+www.afm-journal.de
+
+Figure 8. Initial charge/discharge curves of P@LFO and P@LFO exposed in the different atmospheres for 24 h a). Discharge capacity and Coulombic efficiency of P@LFO and P@LFO exposed in different atmospheres for 24 h upon first 50 cycles b). Cyclic voltammetry curve of P@LFO c), the impedance of P@LFO exposed in different atmospheres for 24 h before and after cycling. The initial charge/discharge curve e) and cycle performance f) of NCM and NCM with P@LFO full-cell.
+
+Besides, a facile coating strategy is proposed on the surface of LFO to improve its air stability. It turns out that the initial capacity remains 785.3 and 728.5 mAh g - 1 after exposure to O$_{2}$ and CO$_{2}$ for 24 h, separately without forming impurities. Our work will guide researchers to improve the sacrificial cathode prelithiation additives for high-energy Li-ion batteries.
+
+## 4. Experimental Section
+
+Material Synthesis : Li$_{5}$FeO$_{4}$ was synthesized by sintering a mixture of Fe$_{2}$O$_{3}$ (99%, Aladdin) and Li$_{2}$O (99%, Aladdin) in a tube furnace at
+
+600 ° C under argon atmosphere at a heating rate of 3 ° Cmin - 1 as mentioned in the previous work. [8] Then Li$_{5}$FeO$_{4}$ was placed in containers filled with O$_{2}$,CO 2, and N$_{2}$ for 3, 6, 12, and 24 h. The P@LFO was obtained by sintering the mixture of 10 wt.% polyethylene oxide-polypropylene oxide-polyethylen (P123, 97%, Aladdin) and Li$_{5}$FeO$_{4}$ at 600 ° Cf o r 10 h.
+
+Electrochemical Characterizations : The electrodes were prepared by coating Li$_{5}$FeO$_{4}$, super P, and polyvinylidene fluoride on the Al surface in a ratio of 7:2:1 and dried at 80 ° C in an argon atmosphere. The electrodes are cut into round pieces with a diameter of 10 mm against Li anodes to assemble the CR2025-type coin cell. The electrolyte used was LB002: 1.0 m LiPF6 in Vinyl Carbonate/Dimethyl Carbonate/Ethyl Methyl Carbonate, 1:1:1 by volume. The NCM811 with 3% P@LFO cathode is
+
+www.advancedsciencenews.com
+
+www.afm-journal.de
+
+composed of NCM811, super-P, PVDF, and an additional 3% P@LFO. The anode is made of commercially produced graphite. The above materials were mixed well in the N-methyl pyrrolidone (NMP) solvent and coated on the current collector (cathode: Al; anode: Cu) via the doctor-blade method and then dried on a hot plate for 8 h in a glove box filled with Ar atmosphere. The mass loading is 1.5-2.0 mg cm - $^{2}$. The N/P ratio is 1.1 in this work.
+
+Materials Characterizations : XRD tests were performed on a Rigaku MiniFlex 600 device to analyze the phase composition and crystal structure of the material and the refinement of the material structure was acquired by GSAS with the Rietveld method. [13] Scanning electron microscope of Navi New Materials (SEM, TESCAN company) and transmission electron microscope (Tecnai G2 F20) were used to analyze the material morphology. X-ray photoelectron spectroscopy (EscaLab Xi + ) instrument of Shiyanjia Lab (www.shiyanjia.com) was carried out to analyze the surface information of materials. All XPS data were calibrated by using 284.8 eV (C 1s). The cyclic voltametric curves (CV, 0.1 mV s - $^{1}$) and electrochemical impedance (EIS, 0.1-100 000 Hz) were tested by an electrochemical workstation (Gamry). Sulfur-Carbon Analyzer (CS844 Liko, USA) for testing carbon content in materials.
+
+## Supporting Information
+
+Supporting Information is available from the Wiley Online Library or from the author.
+
+## Conflict of Interest
+
+The authors declare no conflict of interest.
+
+## Data Availability Statement
+
+The data that support the findings of this study are available in the supplementary material of this article.
+
+## Keywords
+
+air stability, interfacial chemistry, Li$_{5}$FeO$_{4}$, prelithiation additive
+
+Received: November 27, 2023 Revised: December 23, 2023 Published online:
+
+[1] a) W. Zhang, Y. Wu, Z. Xu, H. Li, M. Xu, J. Li, Y. Dai, W. Zong, R. Chen, L.He,Z.Zhang,D.J.L.Brett,G.He,Y.Lai,I.P.Parkin, Adv. Energy Mater. 2022 , 12 , 2201065; b) W. Zhang, Y. Wu, Y. Dai, Z. Xu, L. He, Z. Li, S. Li, R. Chen, X. Gao, W. Zong, F. Guo, J. Zhu, H. Dong, J. Li, C. Ye,S.Li,F.Wu,Z.Zhang,G.He,Y.Lai,I.P.Parkin, Chem. Sci. 2023 , 14 , 8662.
+
+[2] a)X.Su,Q.Wu,J.Li,X.Xiao,A.Lott,W.Lu,B.W.Sheldon,J.Wu, Adv. Energy Mater. 2014 , 4 , 1300882; b) S. Chae, S. H. Choi, N. Kim, J. Sung, J. Cho, Angew. Chem., Int. Ed. 2020 , 59 , 110; c) X. B. Cheng, R. Zhang, C. Z. Zhao, Q. Zhang, Chem. Rev. 2017 , 117 , 10403; d) Z. Wei, L. Huangxu, Z. Zhian, X. Ming, L. Yanqing, C. Shu-Lei, Small 2020 , 16 , 2001524.
+
+[3] a)G.Zhu,D.Chao,W.Xu,M.Wu,H.Zhang, ACS Nano 2021 , 15 , 15567; b) R. Zhan, X. Wang, Z. Chen, Z. W. Seh, L. Wang, Y. Sun, Adv. Energy Mater. 2021 , 11 , 2101565; c) C. Sun, X. Zhang, C. Li, K. Wang, X. Sun, Y. Ma, Energy Storage Mater. 2020 , 32 , 497.
+
+[4] a) Y. Wang, J. Wang, X. Zhao, W. Qiu, E. Song, W. Zhang, X. Liu, J. Liu, Energy Environ. Sci. 2020 , 13 , 2540; b) A. Abouimrane, Y. Cui, Z. Chen, I. Belharouak, H. B. Yahia, H. Wu, R. Assary, L. A. Curtiss, K. Amine, Nano Energy 2016 , 27 , 196; c) Y. Bie, J. Yang, J. Wang, J. Zhou, Y. Nuli, Chem. Commun. 2017 , 53 , 8324; d) P. Simon, X. J. Feng, M. Bobnar, P. Hohn, U. Schwarz, W. Carrillo-Cabrera, M. Baitinger, Y. Grin, ACS Nano 2017 , 11 , 1455.
+
+[5] a) R. E. Ruther, A. Samuthira Pandian, P. Yan, J. N. Weker, C. Wang, J. Nanda, Chem. Mater. 2017 , 29 , 2997; b) M.-S. Park, Y.-G. Lim, J.-H. Kim, Y.-J. Kim, J. Cho, J.-S. Kim, Adv. Energy Mater. 2011 , 1 , 1002; c) K. Kisuk, C. Ching-Hsiang, H. Bing Joe, C. Gerbrand, Chem. Mater. 2004 , 16 , 2685; d) K. Fantai, C. L. Roberto, P. Min-Sik, Y. Jaegu, Y. Dong-Hee, P. Jin-Hwan, W. Wei-Hua, K. C. Santosh, D. Seok-Gwang, C. Kyeongjae, J. Mater. Chem. A 2015 , 3 , 8489.
+
+[6] a) Z. Yao, M. K. Y. Chan, C. Wolverton, Chem. Mater. 2022 , 34 , 4536; b) K. Hu, L. Ren, W. Fan, B. Zhang, M. Zuo, Y. Zhang, G. Lv, H. Xu, W. Xiang, X. Guo, J. Energy Chem. 2022 , 71 , 266; c) C. Zhan, Z. Yao, J. Lu, L. Ma, V. A. Maroni, L. Li, E. Lee, E. E. Alp, T. Wu, J. Wen, Y. Ren, C. Johnson, M. M. Thackeray, M. K. Y. Chan, C. Wolverton, K. Amine, Nat. Energy 2017 , 2 , 963.
+
+[7] Q. Meng, M. Fan, X. Chang, H. Li, W. P. Wang, Y. H. Zhu, J. Wan, Y. Zhao, F. Wang, R. Wen, S. Xin, Y. G. Guo, Adv. Energy Mater. 2023 , 13 , 2300149.
+
+[8] J. Li, B. Zhu, S. Li, D. Wang, W. Zhang, Y. Xie, J. Fang, B. Hong, Y. Lai, Z. Zhang, J. Electrochem. Soc. 2021 , 168 , 080510.
+
+[9] D. Buchholz, L. G. Chagas, C. Vaalma, L. Wu, S. Passerini, J. Mater. Chem. A 2014 , 2 , 13415.
+
+[10] V. Duffort, E. Talaie, R. Black, L. F. Nazar, Chem. Mater. 2015 , 27 , 2515.
+
+[11] K. Kubota, S. Komaba, J. Electrochem. Soc. 2015 , 162 , A2538.
+
+[12] B. Zhu, W. Zhang, Z. Li, Q. Wang, N. Wen, Z. Zhang, ACS Appl. Mater. Interfaces 2023 , 15 , 45290.
+
+[13] S. C. Vogel, J. Appl. Crystallogr. 2011 , 44 , 873.
+
+[14] a) G.-H. Lee, Y. Seon Kim, D.-W. Kim, Chem. Eng. J. 2020 , 388 , 124294; b) K. P. C. Yao, D. G. Kwabi, R. A. Quinlan, A. N. Mansour, A. Grimaud, Y.-L. Lee, Y.-C. Lu, Y. Shao-Horn, J. Electrochem. Soc. 2013 , 160 , A824; c) W. Bi, Y. Hu, N. Jiang, L. Zhang, H. Jiang, X. Zhao, C. Wang, C. Li, Appl. Catal., B 2020 , 269 , 118810.
+
+[15] P. Verma, P. Maire, P. Novák, Electrochim. Acta 2010 , 55 , 6332.
+
+[16] H. A. Lara-García, P. Sanchez-Camacho, Y. Duan, J. Ortiz-Landeros, H. Pfeiffer, J. Phys. Chem. C 2017 , 121 , 3455.
+
+[17] a) T. Chaoqun, G. Naiyun, D. Yang, D. Jing, Z. Shiqing, L. Jun, X. Xiaoyan, J. Hazard. Mater. 2014 , 276 , 452; b) R. Zhu, Y. Zhu, H. Xian, L. Yan, H. Fu, G. Zhu, Y. Xi, J. Zhu, H. He, Appl. Catal., B 2020 , 270 , 118891.
+
+[18] M. Li, J. Lu, Z. Chen, K. Amine, Adv. Mater. 2018 , 30 , 1800561.

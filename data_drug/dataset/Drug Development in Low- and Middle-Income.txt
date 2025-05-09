@@ -1,0 +1,170 @@
+Author affiliations and support information (if applicable) appear at the end of this article.
+
+Accepted on May 8, 2022, and published at ascopubs.org on June 3, 2022: DOI https://doi.org/ 10.1200/ EDBK\_10033
+
+## Drug Development in Low- and Middle-Income Countries: Opportunity or Exploitation?
+
+Rakesh Jalali ,MD$^{1}$; Angelica Nogueira-Rodrigues , MD, PhD$^{2}$; Arunangshu Das , MBBS, FCPS$^{3}$; Bhawna Sirohi , MBBS, FRCP$^{4}$; and Pankaj Kumar Panda , BDS, MSc 5
+
+Low- and middle-income countries (LMICs) represent a diverse group of regions with varied cancer presentation. Drug development and accessibility across these regions have primarily been dependent on the trials initiated and conducted across high-income countries. Representation of LMIC regions in these trials in terms of study population has been minimal, leading to inequitable distribution of optimal and affordable cancer care. In spite of many challenges, LMICs have now increasingly been able to contribute to anticancer drug development. The opportunities present in LMICs must be explored and used in conjunction with due collaborative efforts from high-income countries, health care planners, and regulatory agencies. Global drug development trials should not only factor in suitable representation of LMICs but also design studies with pragmatic objectives and endpoints so that the trial results lead to equitable and affordable cancer care. Strengthening collaboration between cancer researchers from LMICs and high-income countries and empowering the local investigator with adequate resources will help remove current disparities.
+
+The global cancer burden is estimated to have risen to 19.3 million new cases and was responsible for an estimated 10 million deaths in 2020 as per the World Health Organization. About 70% of deaths from cancer occur in low- and middle-income countries (LMICs). 1 Despite having almost 80% of the burden as measured by disability-adjusted life-years, LMICs have less than an estimated 5% share of the global resources for combating cancer $^{2}$; there are concerns about the lack of adequate access to both new and off-patent essential cancer medicines, with accessibility and higher prices cited as a main contributory factor impacting affordability for the large populations in LMICs. Focusing on clinical trials, approximately 90% of the trials and more than 80% of participants are from highincome countries (HICs). 3 The LMIC group is a fairly diverse one; it includes more than 100 countries with a wide range of disease presentation/characteristics, needs, resources, standards, capabilities, and aspirations. A World Health Organization technical report showed that these countries had considerably lower availability of anticancer medicines, or availability only with higher out-of-pocket patient payments, especially for higher-cost medicines, including targeted therapies. 2 It was reported that 32.0% to 57.7% of cancer medicines on the essential medicine list were available in LMIC regions only if patients were willing to incur their full costs. 2 Massive disparities have prevailed in
+
+LMICs regarding pricing of anticancer drugs. Also, the cost/benefit ratio becomes extremely pertinent in such scenarios. Some of the major global cancer clinical trials conducted have shown marginal improvement in outcomes, which is not at all beneficial to patients in LMICs given the exponential costs of these drugs. 4 -7 Many of these global trials have been designed using surrogate endpoints such as progression-free survival, which may not be relevant to LMIC populations given the detrimental cost/benefit ratio. This calls for an overhaul of the anticancer drug development ethos in LMICs by ramping up developing anticancer drugs through suitably designed clinical trials that keep in mind the diverse LMIC patient population and incorporate study endpoints relevant to this particular group. Concerted efforts by drug developers, corporates, and medical centers to develop biosimilars are crucial to increase affordability and accessibility of anticancer drugs in LMICs.
+
+## CANCER DRUG DEVELOPMENT ALIGNING WITH CANCER LANDSCAPE IN LMICS
+
+Cancer drug development is a resource-intensive process. Moreover, infrastructure and resources needed for drug development are limited in LMICs, which already are grappling with providing basic health care infrastructure and facilities in their regions.
+
+## PRACTICAL APPLICATIONS
+
+- GLYPH<C15> Adequate representation of study populations in low- and middle-income countries in global anticancer drug development trials is critical to develop affordable and accessible cancer care with optimal outcomes.
+- GLYPH<C15> Cooperation between cancer researchers/ investigators from low- and middle-income countries and high-income countries must be strengthened to conduct clinical trials that represent the true global cancer burden in terms of sharing the responsibilities and benefits.
+- GLYPH<C15> Local investigators play a vital role in conducting drug trials, and they should be provided with adequate training and resources.
+- GLYPH<C15> Trials studying biosimilars and repurposing of drugs must be encouraged in low- and middle-income countries and regions.
+
+Historically, almost all of the anticancer agents have been developed in HICs, regions with little or no emphasis on the LMIC scenario in terms of the efficacy of those agents in these regions and their accessibility. The anticancer drug development landscape is dominated by investigators in HICs, and the specificities/conditions studied do not represent suitably the global burden or priorities of cancer care. It has long been known that patients recruited for global cancer clinical trials do not represent the diverse patient population across various geographies. A 2013 Cochrane review of 12,340 clinical trials found that 89% of trials and 82% of participants were from HICs. 3 This disparity reflects a historical biased approach (prioritizing HICs over LMICs) to global cancer control and is perpetuated by barriers to conducting clinical research in LMIC regions. These barriers are accentuated by multiple factors, such as limited funding allocations by state machineries in LMIC, which is evident from the fact that only 5% of global resources for cancer are spent in LMICs, when 64% of global deaths as a result of cancer occur in these regions. 8 , 9 There have been concerted efforts in the recent past to realign research priorities for anticancer agent manufacturers in terms of developing anticancer therapies, which would not only tackle the burgeoning cancer burden in LMICs by improving accessibility but also address the stark differences in these regions in terms of disease setting and preclinical/clinical initiatives for anticancer drug development.
+
+However, it is well known that global clinical trials are a demanding undertaking, with several barriers in LMICs to conducting drug development trials, such as limited research
+
+infrastructure (e.g., research personnel, unending red tape, regulatory and legal roadblocks, facility accreditations) and limited funding opportunities. Many times, LMIC investigators are also faced with a predicament about whether to conduct drug development trials or manage the immense clinical volumes across major LMIC cancer centers.
+
+Individual local LMIC investigators play a central role in the overall conduct of these trials. However, they must be supported by a thoroughly trained and dedicated research team of associate investigators, biostatisticians, research coordinators, research nurses, and data managers who would help them balance the tasks of conducting clinical trials and caring for huge patient volumes. To sustain the support of the LMIC stakeholders in global research, the engagement of the investigators from these regions should be visibly recognized both globally and within their institutions, which has not yet occurred to an adequate degree.
+
+However, pharmaceutical companies in LMICs are emerging in the field of drug development. Two examples of such innovations are icotinib and Nanoxel. Icotinib is an EGFR inhibitor, which is noninferior to gefitinib for the management of lung cancer, and is developed in China, 10 whereas Nanoxel, a nano particle paclitaxel developed in India, is as effective as paclitaxel. 11
+
+Although these developments are very promising in terms of cost reduction in cancer treatment, a few questions remain to be answered. The safety and efficacy tests are less rigorous in LMICs compared with developed countries. When new drugs from LMICs are exported to HICs, the developmental costs of the drugs will increase because of regulatory requirements and compliance issues in HICs.
+
+Collaboration between HICs and LMICs are needed for capacity-building in drug development. Low- and middleincome countries' participation in clinical trials run by HICs can aid the process.
+
+## COST/COST-BENEFIT RATIOS
+
+A number of factors contribute to the trend toward more international study sites. First, the global burden of disease is predominantly centered outside higher-income regions, potentially accelerating trial recruitment for the large sample sizes required. Moreover, LMICs offer an attractive setting for clinical trials because they often have larger treatment-naive populations with higher incidence rates of more advanced disease. 12 These factors can present a reduction in costs and time required to recruit patients.
+
+Recognition of the growing market share of less-developed regions may provide added incentive to have drugs tested and approved in LMIC areas. 13 Pharmaceutical and device companies might be able to realize substantial cost savings by conducting trials in LMIC countries, so they are
+
+increasingly moving phase II and phase III trials to places such as Asia and South America. 14 Because clinical research costs are driven by human labor, much of this cost difference is attributable to the lower salaries of physicians, nurses, and study coordinators in developing countries. 13 Regarding costs of clinical research in LMICs, trials conducted in certain non -higher income countries, such as Russia, Argentina, or China, may cost half the price of trials performed in the United States or Western Europe. 13
+
+Strengthening research capacity in LMICs is one effective and sustainable way of advancing health and development in these countries. 15 The existence of a clinical trials infrastructure within an institution or region can improve the quality of care and outcomes for all patients within that institution or region, independent of individual patients ' participation in trials. 16 This " infrastructure effect " can instill a new local culture, yielding particular benefits for patients. Furthermore, there is little research conducted on common tumors found primarily in developing countries, and the ability to diagnose and treat these cancers may be impaired -cervical cancer is an example. Diseases of relevance to HICs are investigated in clinical trials seven to eight times more often than diseases whose burden lies mainly in LMICs. 16 In a review of 509 clinical
+
+trials sponsored by U.S.-based companies from 1995 to 2005, one-third of them were conducted outside the United States, many in poor areas, without targeting diseases prevalent in these countries. 17 Although outsourcing and globalization of clinical trials is good for LMICs, funding should also extend to promoting investigator-driven research by the local researchers. Low- and middle-income countries should encourage clinical trials that primarily benefit their local population. Also, more importantly, lack of post-trial population access to prohibitively expensive cancer drugs, which were proven effective in LMIC settings, must be tackled.
+
+## GENERICS AND BIOSIMILAR DEVELOPMENT
+
+Biologics are the most important components of the modern cancer treatment armamentarium. However, the extreme cost of originator biologics makes it very difficult for patients of LMICs to afford it. As a consequence, over the past few years, biosimilars have generated great interest worldwide as effective alternatives to biologics. Biosimilars by definition are biologic products that are highly similar to the reference biologic, notwithstanding minor differences in clinically inactive components. Biosimilars are also referred to as follow-on biologicals, similar biotherapeutic products, or subsequent-entry biologics ( Table 1 ). 18
+
+TABLE 1. Common Biosimilars in Oncology Practice Approved by the U.S. Food and Drug Administration and European Medicines Agency EMA Approved 40
+
+| Active Molecule   | Reference Drug Manufacturer   | Biosimilar   | Manufacturer             |
+|-------------------|-------------------------------|--------------|--------------------------|
+| Trastuzumab       | Herceptin                     | Ontruzant    | Samsung Bioepis UK       |
+|                   | Roche Pharmaceuticals         | Herzuma      | Celltrion                |
+|                   |                               | Kanjinti     | Amgen Europe B.V.        |
+|                   |                               | Trazimera    | Pfizer Europe            |
+|                   |                               | Ogivri       | Mylan                    |
+|                   |                               | Zercepac     | Shanghai Henlius Biotech |
+| Bevacizumab       | Avastin                       | Mvasi        | Amgen Europe B.V.        |
+|                   | Roche Pharmaceuticals         | Oyavas       |                          |
+|                   |                               | Alymsys      | Amneal Pharmaceuticals   |
+|                   |                               | Zirabev      | Pfizer, Inc.             |
+|                   |                               | Onbevzi      | Samsung Bioepis          |
+| FDA Approved 41   |                               |              |                          |
+| Trastuzumab       | Herceptin                     | Ogivri       | Mylan                    |
+|                   | Genentech, Inc.               | Ontruzant    | Samsung                  |
+|                   |                               | Herzuma      | Celltrion                |
+|                   |                               | Kanjinti     | Amgen                    |
+|                   |                               | Trazimera    | Pfizer, Inc.             |
+| Bevacizumab       | Avastin                       | Alymsys      | Amneal Pharmaceuticals   |
+|                   | Genentech, Inc.               | Zirabev      | Pfizer, Inc.             |
+|                   |                               | Mvasi        | Amgen Europe B.V.        |
+
+Abbreviations: FDA, U.S. Food and Drug Administration; EMA, European Medicines Agency.
+
+The manufacturing processes of biosimilar products are critical because even small alterations can have serious ramifications. Moreover, biologics and biosimilars have the potential to induce antibody responses, which may result in hypersensitivity reactions as well as decreased activity. The Indian Department of Biotechnology developed guidelines and requirements for the development and approval of biosimilars in 2012. 19 , 20 Several aspects of these guidelines are similar to those in the United States and European Union.
+
+In LMICs like India, China, and Bangladesh, generic or biosimilar drugs dominate the cancer treatment because of their low cost compared with originator molecule. However, the question of their efficacy and the risk of use of noncomparable biologics still persists. In fact, the HICs are also now moving to the use of biosimilars, with European Union 5 countries (United Kingdom, France, Germany, Spain, Italy) doing this for drugs such as trastuzumab and rituximab, with cost-savings ranging from e 4.05 million to e 303.86 million for rituximab and from e 19 million to e 172 million for trastuzumab. 21
+
+The universal demand for access to effective affordable cancer treatments can only be addressed by rapid development of biosimilar products by LMICs. Increasing availability of biosimilars will enhance treatment options and improve patient access in LMICs. 18 Thus, biosimilars have the potential to revolutionize cancer treatment in the coming days. Clinical experiences with biosimilars are promising so far. However, greater education for the physicians and relevant health care providers are needed regarding appropriate use of biosimilars. Coordinated interaction among relevant stakeholders, including patients, health care providers, drug manufacturers, and regulatory agencies, can help to ensure access to biologics in LMICs at an affordable price.
+
+## REGULATORY MECHANISMS OVERALL
+
+Conducting clinical trials in LMICs often present daunting ethical, organizational, cultural, and infrastructural challenges to researchers, pharmaceutical companies, sponsors, and regulatory agencies. Operational barriers, including complex and lengthy regulatory mechanisms, are a recurrent challenge. 22 , 23
+
+Taking Brazil as an example, regulatory timelines in the country are among the longest in Latin American countries. Although there has been a notable expansion in the number of studies in recent years (540% increase in 10 years), its effective participation is not guaranteed, as the time for obtaining all regulatory approvals is unpredictable. 22 Suspension of the approval process is not uncommon after the end of recruitment of study in other countries. In a study comparing Brazilian regulatory timelines to nine countries with similar stages of economic development in Latin America, for the
+
+approved studies, patient recruitment began an average of 11 months after the other countries. 23
+
+In India, there was an initial surge in pharmaceutical clinical trials until 2010 and then a sharp fall, with a decreasing trend subsequently. 24 Among the major concerns are suboptimal regulatory processes for new drugs and clinical trials. 25 Subsequent rapid amendments in regulations at frequent intervals related to patient rights, compensation, and timelines in India have resulted in loss of enthusiasm for both the investigator-initiated and industrysponsored trials. 26
+
+Low- and middle-income countries have enormous potential for the realization of clinical studies. Researchers, patient associations, the pharmaceutical industry, and authorities must work together to develop an approval process that is efficient, predictable, and, most of all, transparent. The emphasis must therefore be on an equitable, respectful process and on establishing long-lasting, sustainable partnership.
+
+## FAST-TRACK CANCER DRUG APPROVALS (AND SOMETIMES THEIR WITHDRAWALS) FROM THE U.S. FOOD AND DRUG ADMINISTRATION AND THE ATTENDING IMPACT ON LMIC PRACTICES
+
+The U.S. Food and Drug Administration (FDA) is globally the largest medical regulator and is in a unique position to influence oncologists and also protect patients from ineffective inferior treatments. Over the past few decades, the FDA seems to have lowered its standards in accepting trial endpoints that are not robust (e.g., pathologic complete responses, which do not impact patients ' overall survival, response rates, etc.), given accelerated approvals when no follow-through trials are expected, and withdrawn drugs (atezolizumab for triple-negative breast cancer, bevacizumab for breast cancer, etc.) from the indicated approval, though the far-reaching ramifications in LMICs are ignored. 27 To quote one of the examples, " Avastin got accelerated approval to treat glioblastoma, though a follow-up study did not show extended survival or improved quality of life. Avastin received full approval for this indication in 2017. " 28
+
+The clinical trial scenario in LMICs has been a matter of concern -verging on exploitation. This is either due to the use of inferior control arms for a trial that would not receive ethics approval in an HIC or not being able to access a drug that has been trialed in LMICs. One of the arguments commonly given for a patient to take part in a trial is " something is better than nothing "-the patient either accesses the drug via the clinical trial or gets no treatment at all.
+
+The aim of research and clinical trials is to improve patient care, survival, and quality of life, and not drug approval, which is the main intent of trials nowadays, and regulatory agencies help drive this globally. The intent of the randomized controlled trial is key to understand for both the patient and the oncologist.
+
+If the intent of the randomized controlled trial is not patient benefit but expedited approval of that particular drug, then the key opinion leaders must take a firm stand in the patient ' s best interest. For example, the intent of the LIGHTHOUSE trial (melflufen with dexamethasone and daratumumab vs. daratumumab in relapsed/refractory multiple myeloma) was an accelerated approval for melflufen (three drugs vs. one and prior data allowed). The trial was only stopped after the FDA put a pause on all melflufen trials. 29 Patients place huge trust in the treating center and the oncologist when they agree to participate in a clinical trial. By enrolling patients into an inferior arm in a randomized clinical trial, one disrespects this trust. Patients know that they are sacrificing time and maybe their lives to help others get more options in the future, so they must be offered the best standard of care available at that time for the particular setting.
+
+There are global repercussions of FDA decisions, mainly in LMICs. Drugs that are withdrawn from the U.S. markets based on FDA directive are not done so globally, especially not in LMICs, which have limited resources. If a drug is considered ineffective or harmful for patients living in an HIC, it beggars belief that it will help the patients in LMICs. It is unethical to continue to use the drug anywhere globally. Atezolizumab was withdrawn by the FDA by Genentech for triple-negative breast cancer after the confirmatory trial showed no benefits. Genentech withdrew the drug from the U.S. market in August 2021 but specifically mentioned in its press release that it would remain available for this indication in the non-American market, including in LMICs. 30
+
+Today, for most patients with advanced solid tumors, multidrug regimens that are continued until progression or toxicity are the norm. Most future combinations test for three versus one or two drugs, resulting in multiple possibilities of drug combinations, but, sadly, rarely informing oncologists, optimal strategy, or treatment sequencing (gemcitabine, nab-paclitaxel, and cisplatin [GAP] protocol for biliary tract cancers). 31 We have learned from advanced breast cancer that sequential treatment is better than consecutive use of chemotherapy regimens in having more options available for the patient. The issue of cost must be addressed within the clinical trials -the more drugs, the higher the cost is going to be. There is pressure from pharmaceutical companies for patients with advanced cancers to continue treatment until progression. This has a huge impact on financial toxicity, leading to catastrophic expenditure and decreased overall quality of life of patients.
+
+## COVID-RELATED ISSUES, DIVERSITY, INEQUALITY OF DRUG DEVELOPMENT, AND PARTICIPATION IN CLINICAL TRIALS OF MINORITY GROUPS AND PATIENTS IN LMICS
+
+Clinical research may have been one of the most affected oncology areas during the pandemic, mostly because of the need for frequent in-person visits to the research sites.
+
+One study, which examined more than 62,000 trials that started before and during the pandemic, found that the number of studies initiated in the United States from February to May 2020 was only 57% of what would have been expected had the pandemic not occurred. 32 And, global inequalities, both in where research is undertaken and among those who benefit from such efforts, have come to light. Although research might have been impacted in high-income settings as well, it is highly unlikely to affect future trajectories in these settings, with the most detrimental effects likely to be on those countries most in need of strengthening their cancer research ecosystems.
+
+Starting from clinical trials for COVID-19, the geographical representation of LMICs has been uneven. Although countries with greater reported numbers of cases contributed with more participants in trials, the number of participants from HICs (e.g., the United States and United Kingdom) clearly outweighed those from LMICs with a similar case load (e.g., Brazil and India). 33
+
+So far, there is limited information on how COVID-19 has affected cancer clinical research in LMICs. Shedding light on that, a cross-sectional study, including 90 research centers in Latin America, reported that clinical trial accruals have been suspended, at least for some studies, in 80% (72) of the centers, mostly because of sponsors ' decisions; and clinical trials ' routines have been affected by medical visit cancelations, reduction of patients ' attendance, reduction of other specialties ' availability, and/or alterations on follow-up processes. 34
+
+Like every coin, there are two sides. Formal COVID-19 mitigation policies were necessary, including remote monitoring and remote site initiation visits, telemedicine visits, reduction of research team workdays or home office, special consent procedures, shipment of oral drugs directly to patients ' homes, and increase in outpatient diagnostic studies. 35 And, some of these required rearrangements, particularly the ones regarding remote methods, are suggested to be part of future oncology clinical trial routines, which is likely to help speed up the development of clinical trials in remote areas.
+
+## POSSIBLE SOLUTIONS AND THE WAY FORWARD
+
+## Low- and Middle-Income/High-Income Countries Cooperation
+
+In light of all the challenges to global cancer research in LMICs, a balanced ecosystem of research must be curated by facilitating greater cooperation between HIC and LMIC investigators whereby all the stakeholders equally share the responsibilities and rewards. Judicious use of resources -namely, infrastructure, human resources, and the dedicated support from governing bodies -can be executed by equitable and effective distribution of resources among potential investigators who most need them. To effectively achieve
+
+this, a tier-based system should be implemented, which would result in an equitable and effective distribution of resources among potential local investigators in the LMIC regions. Already established centers that have been conducting cancer drug development trials in the LMIC regions can mentor other centers by training the local investigators and encouraging a self-sustainable research ecosystem. 35
+
+Global partnerships between investigators from HICs and LMICs intend to counter the lower accessibility of affordable cancer care in the LMICs.
+
+## Increased Participation of LMICs in Drug Development Early-Phase Trials
+
+Drug development trial distribution is disproportionately skewed, with a vast majority of trials being conducted in HICs. Such trials do not line up with the global cancer burden and the trial results cannot be generalized, as they represent a highly selected group of patients without suitable representation from all geographical, racial, and ethnic populations. Improving the research infrastructure in and across LMIC regions can enable them to participate in drug development studies, especially in preclinical and early clinical phases such as phase 0 and I stages of drug development. Conducting early-phase drug development clinical trials in these regions will address a larger and diverse patient population covering a variety of cancer subtypes that are more prevalent in these regions, such as oral and nasopharyngeal cancer in parts of Asia; hepatobiliary cancers in parts of India, Thailand, Mongolia, Chile, and Egypt; and prostate, breast, and cervical cancers and Kaposi sarcoma in Africa. 36
+
+Increasing participation of LMIC centers in early drug development trials is also likely to overcome one of the biggest perils of modern cancer drug trials, which is the smaller magnitude of benefits and an equally disproportionate cost of such drugs. Extortionate costs of even standard-of-care medications prohibit participation of patients from LMICs in randomized drug development trials. Hence, policy makers must take into cognizance such hindrances and rationalize the costs.
+
+## Role of the Local Investigator
+
+Among the many solutions to overcome the lack of drug development trials in the LMIC regions, empowering the local investigators is one of the most plausible. Adequate training in clinical research methodologies will enable them to conduct drug development trials, which will be beneficial to their regions. Ideally, dedicated programs that require training spanning over months to years may not be feasible for LMIC investigators. Hence, intensive and focused clinical trials protocol development workshops along with research methodologies sessions would be beneficial to not only the early-career oncologists but
+
+also midlevel and senior clinicians without prior research training to conduct drug development trials in these regions. 37
+
+## Impetus for Trials to Develop Effective and Affordable Biosimilars, Repurposed Drugs
+
+Low- and middle-income countries should lead from the front in developing effective and affordable biosimilars, which do not adversely affect outcomes. Trials that lead to development of biosimilars require substantial investment from the industry and are often hindered by the patent policies of the larger innovator companies. Focusing on research to test altered dose regimens, repurposed drugs may also improve accessibility of such drugs, as seen in the outcomes of early studies of immunotherapy agents such as pembrolizumab and nivolumab, which showed no dose response above a particular lower than standard dose. 38 Multifarious policy approaches by all relevant stakeholders (government, public, and pharmaceutical companies), such as efficient resource allocation, decentralization of health care, patient assistance programs, special marketing arrangements, and issuance of compulsory licenses for procurement, encouraging development of biosimilar and repurposed drugs will facilitate equitable access and use of effective and affordable cancer treatments. 39
+
+## Change in Regulatory Landscape Across LMICs
+
+However, although the exemplary benefits of these collaborations cannot be questioned, deterrents such as cultural differences, lack of adequate funding, communication barriers, and lack of representation on a global platform -that is, primary authorships in scientific publications -pose challenges time and again. Publication bias against studies from LMICs is evident from the fact that trials reporting positive results from LMICs were published in journals with lower impact factors than journals that published trials from HICs, which had reported negative results (impact factor 7 vs. 21). 37 Such prejudgmental deterrents must be recognized and addressed to ensure a fair and equitable research ecosystem that leads to improvements in cancer care globally. Potential investigators who are very passionate and dedicated need adequate mentorship and platform. Supporting them with long-term sustainable research models, research funding, research infrastructure, and personnel training will help them to maintain equipoise between cancer care and research. For example, creating a " teaching the teacher " model will enable investigators being mentored by established researchers to replicate the research in their own centers.
+
+## CONCLUSIONS
+
+Anticancer drug trials should be judicious in their choice of endpoints and refrain from using surrogate endpoints that do not result in realizing the bigger goal of affordable and optimal cancer care for all. Global anticancer drug
+
+development trials should represent all geographical regions, races, and ethnicities so as to take into cognizance the global cancer burden in true sense and help mitigate it. Key opinion leaders across HICs and LMICs must work
+
+## AFFILIATIONS
+
+$^{1}$Neuro-Oncology Cancer Management Team, Apollo Proton Cancer Centre, Taramani, Chennai, India
+
+$^{2}$Federal University of Minas Gerais, DOM Oncologia, Grupo Oncocl GLYPH<C19> ı nicas, EVA Brazilian Group of Gynecologic Cancer, LACOG, Porto Alegre, Brazil $^{3}$Department of Oncology, Square Hospitals Ltd., Dhaka, Bangladesh $^{4}$Department of Medical Oncology, Apollo Proton Cancer Centre, Taramani, Chennai, India $^{5}$Clinical Research Secretariat, Apollo Proton Cancer Centre, Taramani,
+
+Chennai, India
+

@@ -1,0 +1,11 @@
+# The path of the dataset used to generate QA pairs
+input_folder: './data/dataset'
+
+# Output data path
+output_folder: './data'
+
+# Instruction iteration times
+iter_time: 3
+
+# Type of generator to use
+generator: gpt-4o

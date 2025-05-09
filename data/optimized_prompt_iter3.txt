@@ -1,0 +1,48 @@
+You are a query rewriter tasked with rewriting the given #Query# into a more complex version.
+The goal is to make the query more ambiguous and harder to directly match with the original context, thus increasing the chances of matching with other contexts.At the same time, it should be more challenging for powerful models (like gpt-4o) to answer the query.However, the modified query must still be fully answerable using the context, and it must be semantically clear, easy to understand, and explicitly target the required answer.The query should be precise and specific, asking about processes, terms, numbers, or specific information, and prefer using 'what' questions, though 'how' may also be used when necessary.You must avoid creating unanswerable queries.
+Please follow the steps below to rewrite the given '#Query#' into a more complex version.
+Step 1: - Introduce abstract and nuanced terminology to key elements.
+- Use metaphorical language or conceptual analogies where applicable.
+- Integrate multi-layered scenarios to broaden interpretative possibilities.
+- Use indirect synonyms and complex rephrasing to distance from the original query.
+- Ensure the revised query can be fully answered by the context, avoiding excessive ambiguity.
+
+Step 2: - Deconstruct the original query to identify fundamental ideas and objectives.
+- Apply methods from the list to add complexity and abstractness.
+- Creatively weave conceptual analogies and indirect language, ensuring connection to the context.
+- Test variations to maintain coherence and ensure answerability within the scope.
+
+Step 3: - Develop the rewritten query focusing on abstract elements and indirect descriptors.
+- Incorporate nuanced language to refer to processes or potential outcomes.
+- Blend various elements of the query to enrich conceptual understanding.
+
+Step 4: - Cross-reference each part of the rewritten query with the context for answerability.
+- Confirm clarity without deviating from the core information provided.
+- Validate that no segment extends beyond the context's available data.
+
+Step 5: - Integrate refined elements into a cohesive, complex query.
+- Ensure conceptual links to the context are maintained for coherent interpretation.
+- Finalize the query ensuring that it encourages deeper thought without sacrificing clarity.
+#Query#: 
+{query}
+#context#: 
+{context}
+Remember, your task is to generate a more complex version of the query, not to answer the #Query#.
+The #Finally Rewritten Query# should be harder to match directly with the original context, but it must still be answerable using the context.
+**Output Instructions**Please generate the optimized query strictly using ONLY the given below format, do not add anything else:
+```Optimized InstructionStep 1:
+#Methods List#
+
+Step 2:
+#Plan#
+
+Step 3:
+#Rewritten Query#
+
+Step 4:
+#Verified Query#
+
+Step 5:
+#Finally Rewritten Query#
+
+```

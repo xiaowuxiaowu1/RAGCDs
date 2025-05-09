@@ -1,0 +1,121 @@
+## 1. Introduction
+
+Polymer materials provide an important safeguard and foundation for industrial production and human society, and the more widely used polymer materials include polyimide (PI), [1] polyurethane (PU), [2,3] epoxy (EP) resin [4,5] and so on. The unique imide ring of polyimide gives it excellent comprehensive performance and is widely used in aerospace, machinery industry, automotive electronics and other fields [6 -8]. However, Polyimide materials usually have a high coefficient of friction (COF) and low wear-resistance, shortening their service life after wear and limiting their application in industrial production and human life [9]. Therefore, Polyimide combines excellent wear resistance and lubrication performance with certain challenges.
+
+Reducing the COF of a material is an important and effective strategy for enhancing the wear resistance of a material because a low COF allows the material to have excellent lubrication properties, which reduces the friction of the material and reduces wear effectively [10]. Typically, lubricating phases are introduced into the matrix material to reduce the COF of the matrix material [11]. Common lubrication
+
+* Corresponding author. E-mail address:
+
+chaicp@bit.edu.cn (C. Chai).
+
+Available online 4 March 2024 1876-1070/© 2024 Taiwan Institute of Chemical Engineers. Published by Elsevier B.V. All rights reserved. Received 20 December 2023; Received in revised form 28 February 2024; Accepted 28 February 2024
+
+## ABSTRACT
+
+Background: Polyimide is widely used in aerospace, electronics and electrical appliances, automotive, chemical and other fields due to its high temperature stability, excellent mechanical properties. However, polymer materials are often subjected to severe wear and tear under complex operating conditions due to their poor lubrication performance. Therefore, the improvement of lubrication performance is a key strategy to extend the service life of polyimide.
+
+Significant findings: The results of the study showed that the STP significantly enhanced the lubrication properties of the composites, the lowest coefficient of friction (0.29) of the composites is 22.81 % lower than that of the polyimide. In addition, the inclusion of hybrids helps to form a transfer film, which effectively improves the abrasion performance of polyimide, and the lowest wear rate (0.18 × 10 GLYPH<0> $^{5 }$mm$^{3}$/(N · m)) was 93.35 % lower than that of polyimide.
+
+Methods: Herein, a ternary solid lubricant SiO$_{2}$/Ti$_{3}$C$_{2}$/PTFE (STP) is innovatively prepared by solution dispersion for reducing the friction of polyimide to increase the lubricity. Specifically, SiO$_{2 }$ and PTFE are intercalated accordion-like Ti$_{3}$C$_{2 }$nanosheets, thereby causing the nanosheets to slide relative to each other under external frictional stress. Then, STP was introduced into polyimide to prepare the ultra-wear-resistant and self-lubricating composites by blending.
+
+materials are two-dimensional (2D) laminates (graphene [12], MXene [13], MoS$_{2 }$ [14] and BN [15]) and polymer lubricants [16 -18]. 2D layered materials rely on weak van der Waals forces between the layers, and when subjected to frictional stresses, relative sliding occurs between the layers, resulting in partial energy dissipation and transfer [19]. Therefore, the change from sliding friction to rolling friction allows the transfer of frictional stresses and effectively reduces the wear of the material. Nano-SiO$_{2 }$is a zero-dimensional spherical particulate material with large specific surface area, wide range of sources, inexpensive, high hardness, high compressive strength, which can be used for rolling axes between 2D lamellae [20].
+
+MXene is a widely used 2D lamellar material with a large specific surface area and rich in functional groups favorable for surface modification [21,22]. The surface functional groups and hydrophilicity of MXene ensure good dispersibility in aqueous and polar organic solvents, which is essential for dispersion in predominantly solid substrates and for the preparation of composites [23]. The variety of compositions and forms of MXene, combined with the low shear resistance between adjacent layers due to weak interlayer bonding, makes them particularly
+
+promising for solid lubrication. [24]. In addition, MXene undergoes sliding-induced graphitization, which ensures the formation of a beneficial tribo-film over time, which creates an easy-to-shear interface that helps to reduce direct contact between the material and the friction pair. Grützmacher et al. [25]. demonstrated by atomic force microscopy that few-layer Ti$_{3}$C$_{2}$Tx nanosheets can indeed act as nanoscale solid lubricants to reduce friction on silica substrates. Zhou et al. [26] incorporated MXene into the copolymer to significantly reduce friction and wear. Further characterization analysis showed that a continuous friction film consisting of a high proportion of the friction chemical product TiO$_{2 }$was established on the friction surface. Jin et al. [27]. introduced V$_{2}$C MXene as a solid lubricating phase into PI and prepared a V$_{2}$C/PI composite. The wear rate of the composite material was reduced by 43.2 % compared to PI. The interlayer self-lubrication of MXene helps to reduce the coefficient of friction and wear rate, resulting in significantly longer service life and thus improved energy efficiency of the system. Moreover, the structural diversity and large compositional space of MXene provide unlimited research opportunities to optimize the friction and wear behavior of MXene [24]. Polytetrafluoroethylene (PTFE) has a low COF (0.20) and a low dielectric constant (2.0~2.1), making it a polymer lubricant with excellent lubricating properties [28,29]. However, PTFE has poor wear resistance and short lubrication aging when used alone [30]. Therefore, PTFE needs to work together with other reinforcing materials to obtain a friction-reducing and wear-resistant composite material. Wang et al. [31]. prepared black phosphorus/PTFE composites by ultrasonic dispersion and discharge plasma sintering, and the results of friction tests revealed that the phosphorus oxide formed by frictional oxidation of black phosphorus could promote the formation of a transfer film of PTFE, thus extending the wear life of the composites. Therefore, the simultaneous use of MXene and PTFE to reduce the COF of PI is a viable and effective program.
+
+In this work, we innovatively proposed a strategy to reduce the friction coefficient by converting the sliding friction between the lamellae into rolling friction. Specifically, SiO$_{2 }$is intercalated into and on the surface of the Ti$_{3}$C$_{2 }$ MXene layer by in situ growth and then hybridized with PTFE. The intercalation of SiO$_{2 }$facilitates the transition of the lamellae from sliding friction to rolling friction. In addition, the lubricity of PTFE can further reduce the friction between silica and MXene or reduce the friction between MXene sheets. Hybrids STP was added to the precursor polyamidoacetic acid by solution mixing method, and then thermal imidization to obtain STP/PI composites. The tribological performance of polyimide substrates with STP was mainly investigated. SiO$_{2 }$ and PTFE effectively improved the lubricity of the Ti$_{3}$C$_{2 }$sheet layer, reducing the COF and wear rate of the PI. Therefore, the prepared ternary hybrids STP can be used as solid lubricating fillers for PI.
+
+## 2. Experimental section
+
+## 2.1. Preparation of STP hybrids
+
+SiO$_{2}$-Ti$_{3}$C$_{2}$-PTFE (STP) hybrids were prepared using a solutiondispersion approach. SiO$_{2}$-Ti$_{3}$C$_{2 }$ (ST) powder (0.1 g) and PTFE micro powder (0.4 g) were ultrasonically dispersed in 50 mL of anhydrous ethanol, respectively. Then, the SiO$_{2}$-Ti$_{3}$C$_{2 }$dispersion was added dropwise to the PTFE dispersion and magnetically stirred for 30 min to obtain the mixture. The mixture was centrifuged at high speed and dried to obtain ternary hybrids STP.
+
+## 2.2. Preparation of STP/PI composites
+
+The preparation process of polyamidoacetic acid (PAA) was shown in the supporting information. A certain mass fraction of STP was dispersed in a small amount of DMAc, sonicated for 30 min, and then added to PAA (8.0 g) for vigorous mixing. The same mass of STP/PAA was spread to the matrix plate, which was vacuum dried and thermal imidization after
+
+the air bubbles were removed. The thermal imidization procedure was held with a temperature increase rate of 2 · C/min. The names of STP/PI composites samples with different STP contents are shown in Table 1.
+
+## 3. Results and discussion
+
+## 3.1. Structural analysis of hybrids STP
+
+STP is a ternary solid lubricant used to enhance the rubbing performance of polyimide. The main strategy is to use SiO$_{2 }$intercalation of the Ti$_{3}$C$_{2 }$lamella to transform the friction form between lamella, and PTFE is used to further reduce the sliding resistance of the lamella. The hybrids STP were prepared using a simple solution dispersion method, specifically by mixing the Ti$_{3}$C$_{2}$@SiO$_{2 }$and PTFE dispersions for stirring and finally centrifugation and sonication (Fig. 1).
+
+The elemental composition of the STP were explored in detail using XPS. The XPS full spectrum (Fig. 3a) of the STP contains C, O, Si and Ti elements in Ti$_{3}$C$_{2}$@SiO$_{2}$, and a strong and sharp characteristic peak of F element also appears near 700.0 eV The peaks of C-Ti, C-Si and C-F bonds appear respectively in the narrow spectrum of C 1 s (Fig. 3b) In the F1s narrow spectrum (Fig. 3f), the C-F bond in PTFE correspond to 689.4 eV [35]. Moreover, the weak and wide peak of Ti$_{3}$C$_{2}$@SiO$_{2 }$ is located at 684.9 eV and attributed to the Ti-F bond on the surface of Ti$_{3}$C$_{2}$. The narrow spectra of O1s (Fig. 3c), Si2p (Fig. 3d) and Ti2p (Fig. 3e) proved the combination of Ti$_{3}$C$_{2 }$and SiO$_{2}$. Overall, the above characterization and analysis can indicate the successful preparing of STP.
+
+The microstructures of Ti$_{3}$C$_{2}$@SiO$_{2 }$ and STP are characterized by SEM, SiO$_{2 }$ spheres were grown in situ on the surface of Ti$_{3}$C$_{2 }$ and between the lamella (Fig. 2a), which significantly increased the layer spacing. The PTFE particles with fringe structure (Fig. 2b) were attached to Ti$_{3}$C$_{2}$@SiO$_{2 }$layer, and the layer spacing did not change significantly ( Fig. 2c ) . In addition, the EDS mapping of F reflects the successful hybridization of PTFE with Ti$_{3}$C$_{2}$@SiO$_{2 }$(Fig. 2d). In the XRD pattern of the STP, the diffraction peak at 18.20 · is the characteristic diffraction peak of PTFE (Fig. 2e). The introduction of PTFE causes the (002) diffraction peak shift of Ti$_{3}$C$_{2}$@SiO$_{2}$, which may be caused by the introduction of PTFE. In addition, the XRD pattern of STP shows no obvious increase of layer spacing, which is consistent with the results observed in SEM [32]. In Fig. 2f, STP not only has the characteristic peaks of Ti$_{3}$C$_{2 }$and SiO$_{2}$, but also the characteristic peaks of PTFE. The characteristic peaks of C-F bond correspond to 1225 cm GLYPH<0> $^{1 }$and 1151 cm GLYPH<0> $^{1}$. The absorption peaks at 628 cm GLYPH<0> $^{1}$, 554 cm GLYPH<0> $^{1}$, and 502 cm GLYPH<0> $^{1 }$are attributed to the C-F bond [33]. Moreover, Raman spectroscopy (Fig. 2g) was used to further confirm the introduction of PTFE. The characteristic peaks of CF$_{2 }$appeared at 293 cm GLYPH<0> $^{1}$, 379 cm GLYPH<0> $^{1}$, 572 cm GLYPH<0> $^{1 }$and 736 cm GLYPH<0> $^{1}$, respectively [34].
+
+## 3.2. Fabrication and friction properties of STP/PI composites
+
+The STP/PI samples is fabricated via fully mixing the precursor PAA with STP and then performing a step of thermoimide. The introduction of STP changes the XRD pattern of PI, and the (002) diffraction peak of Ti$_{3}$C$_{2 }$is detected near 7.17 · (Fig. 4a). At the same time, with the increase of STP content, the overlap of the amorphous peak of PI, the amorphous peak of SiO$_{2 }$and the (100) diffraction peak of PTFE widened and shifted
+
+Table 1 Sample names of STP/PI composites with different contents of STP.
+
+|   The mass ratio of STP (wt%) | Samples name   |
+|-------------------------------|----------------|
+|                           0.5 | STP1/PI        |
+|                           1   | STP2/PI        |
+|                           1.5 | STP3/PI        |
+|                           2   | STP4/PI        |
+|                           2.5 | STP5/PI        |
+|                           3   | STP6/PI        |
+
+Fig. 1. The preparation process of hybrids STP and STP/PI composites.
+
+Fig. 2. Chemical structure and component characterization of hybrids STP$_{. }$(a) SEM of Ti$_{3}$C$_{2}$T$_{x}$@SiO$_{2}$. (b) SEM of PTFE. (c) SEM of hybrids STP. (d) EDS of hybrids STP. (e) XRD pattern of samples. (f) FT-IR spectrum of samples. (g) Raman spectrum of samples.
+
+Fig. 3. XPS analysis of hybrids STP. (a) XPS full spectra. (b-f) XPS narrow spectra of C1s, O1s, Ti2p, Si2p and F1s, respectively.
+
+Fig. 4. Chemical structure and surface morphology of STP/PI samples . (a) XRD analysis of STP/PI. (b) FT-IR spectrum of STP/PI. (c) surface morphology and roughness of STP/PI composites.
+
+to a lower angle. However, no new diffraction peaks were detected, indicating that no new crystal forms were formed after thermoimide. The functional group information STP was studied via FT-IR. The peaks of C = O were found at 1780 cm GLYPH<0> $^{1 }$and 1720 cm GLYPH<0> $^{1}$. The peaks of C -N-C stretching vibration and C = O bending vibration in the imide ring appeared at 1370 cm GLYPH<0> $^{1 }$and 720 cm GLYPH<0> $^{1}$, which indicated that the polyimide realized closed-loop reaction in the process of thermoimide (Fig. 4b). In addition, the above absorption characteristic peaks were found in the infrared spectra of composite samples with different STP content, which indicated that STP did not affect the thermal imide of the PI matrix. The surface morphology of STP/PI was analyzed via AFM to derive the roughness and it was found that the incorporation of hybrids increased the roughness of the material (Fig. 4 c and Fig. S2 ).
+
+The topography of the abrasion marks of the STP/PI samples visualizes that STP4/PI has the lightest abrasion marks (Fig. 5a-f). When the STP content is low, adhesive wear is the basic methodology. However, once the STP addition exceeds 2.0 wt%, the friction mechanism of the samples is adhesive and fatigue wear under prolonged cyclic stresses. The above results correspond to the results in Fig. S3c and Fig. 5i, which show that the STP/PI has the lowest wear rate of 0.18 × 10 GLYPH<0> $^{5 }$mm$^{3}$/ (N · m) when STP content is 2.0 wt%. To explore the wear resistance performance mechanism of STP, we compared the wear rates of the two samples (TP/PI and STP/PI) and found that the wear rate of TP/PI was generally greater than that of STP/PI ( Fig. S3b ). Similarly, we tested the wear rate of T/PI and PI and found that T/PI had significantly lower wear rate ( Fig.S4 ). These results suggest that both SiO$_{2 }$ and Ti$_{3}$C$_{2 }$ MXene play key role in enhancing the wear rate of STP/PI.
+
+The friction coefficients of the composite samples showed a decreasing and then increasing trend with the increasing STP content. The average COF of the samples decreased by 22.81 % over PI with 2.0 wt% STP content, showing the best lubricity performance among all the samples (Fig. 5g and Fig. 5h). The average COF of the two composite samples has a closer optimum value with increasing reinforcement content, while the rolling action of the SiO$_{2 }$ makes the coefficient of friction of STP/PI slightly smaller than that of TP/PI ( Fig. S3a ). The coefficient of friction of STP/PI is generally lower than that of ST/PI due to the lubricating effect of PTFE, indicating that STP/PI has better lubricating properties ( Fig.S5 ).
+
+## 3.3. Formation of transfer film and tribological mechanisms
+
+The formation and mechanism of action of the transfer film is of guiding significance for the study of lubricity enhancement and antiwear of STP/PI samples. After the friction test, the friction ball surface was characterized by SEM and finding that there was no large-scale abrasive aggregation. During friction PI and PTFE undergo molecular chain breakage under normal stress and frictional heat, thus migrating to the surface of the metal ball. At the same time, the MXene at the friction interface is oxidized, and the titanium oxide and silica generated migrate together to the surface of the steel ball. These migrants and the oxides formed on the surface of the steel ball together form a transfer film. Combined with EDS, it was found that a dense and uniform lubrication transfer film appeared on steel ball, and the formation of this transfer film was crucial for the friction reduction effect. (Fig. 6a). The elemental distribution indicated that the transferred film contained the elements C, O, Ti, F, Fe and Si, which indicated that the STP migrated to steel ball.
+
+The chemical reactions during friction were further explored via
+
+Fig. 5. Friction properties of STP/PI samples. (a-f) The SEM images of STP/PI samples after friction. (g) The friction curve of STP/PI samples (h) Average friction coefficient of STP/PI samples. (i) Average wear rate of STP/PI samples.
+
+COF and wear rate are two prominent parts of the tribology field, and the incorporation of the prepared STP into polyimide matrix improves the friction properties of the polyimide. The friction properties of PI, TP/ PI, ST/PI and STP/PI were finished under air atmosphere.
+
+Fig. 6. Composition and structural analysis of transfer film. (a) SEM imagery of STP/PI composites friction spot and the EDS images. (b-f) XPS narrow spectra of C1s, O1s, F1s, Si2p and Fe2p, respectively. (g) Raman analysis of transfer film on steel ball.
+
+XPS, and the full XPS spectra was displayed in Fig.S6 . The narrow spectra of C1s indicate that PI was transferred to the steel balls during friction process (Fig. 6b). Meanwhile, compared with the narrow spectra of ST/PI, the peak shape of the fine spectrum of C1s of the STP/PI did not change significantly, indicating that there was no chemical reaction between Ti$_{3}$C$_{2}$@SiO$_{2}$and PTFE during the friction process ( Fig.S7 ). In the O1s fine spectra (Fig .6c), the peaks located at 530.2 eV and 531.1 eV correspond to the peaks at 710.4 eV and 725.1 eV in the Fe2p narrow spectra (Fig. 6f) for the metal oxides Fe$_{3}$O$_{4 }$ and Fe$_{2}$O$_{3}$, respectively, which suggests that friction oxidation of the metal pairs occurred. However, compared with the friction transfer film of PI, the Fe$_{3}$O$_{4 }$and Fe$_{2}$O$_{3 }$peak areas corresponding to STP/PI are smaller than those of PI, indicating that the introduction of hybrids can alleviate the friction oxidation of the metal dyads to some extent. The presence of Ti$_{3}$C$_{2}$, SiO$_{2}$, and PTFE in the transfer film can be seen in Fig. 6d, Fig. 6f and Fig. S8 . In the F1s narrow spectra, the peaks located at 689.3 eV and 684.6 eV correspond to C-F bonds in PTFE and Ti-F bonds in Ti$_{3}$C$_{2}$, respectively [36]. In addition, a peak corresponding to the metal fluoride FeF$_{3 }$was detected at 684.1 eV, which corresponds to the peak near 712.4 eV in the Fe2p narrow spectra. This is due to the fact that during the friction process, the C-F bond in PTFE is broken to generate fluorine radicals,
+
+which then undergo a friction chemical reaction with Fe to form the metal fluoride FeF$_{3 }$[26]. FeF$_{3 }$can play the role of friction and anti-wear on the one hand, and on the other hand, it can promote the transfer film to be stably adhered on the steel ball, so as to form a more stable transfer film. The formation of the D band is usually considered to be caused by the sp$^{3 }$hybridization of graphene carbon atoms and is used to characterize structural defects in graphene samples. The G peak is a characteristic peak caused by the vibration of the sp 2 carbon atoms in graphene. The ratio of the intensity of the D peak to the intensity of the G peak indicates the amount of sp 3 hybridized carbon atoms in the sp$^{2}$-conjugated graphene, and that is, the I$_{D}$/I$_{G }$ is used to express the degree of defects on the graphene surface. Therefore, an increase in the I$_{D}$/I$_{G }$ value from 0.76 to 1.03 represents an increase in amorphous structure (Fig. 6g). The MXene nanosheets undergo a reorientation of the substrate during friction, which helps to match their orientation to the lowest shear strength with the acting external shear stress. A uniform, homogeneous, dense and well adhered friction layer is formed only under low normal load and low speed conditions. Friction chemistry and exfoliation processes control the formation of its underlying friction layer and thus the solid lubrication capability [37]. The introduction of STP led to the formation of friction chemical products, which
+
+promoted a dense and stable transfer film on the steel balls. Therefore, the tribological transfer film provides the crucial contribution in enhancing lubricity and anti-wear of the material.
+
+## 4. Conclusions
+
+In conclusion, a ternary solid lubricant STP hybrids was prepared by a simple solution mixing method and introduced into the polyimide precursor PAA for one-step thermal imidization to produce STP/PI composites. The STP/PI composites showed significantly improved tribological properties compared to PI. Specifically, STP4/PI had the best friction performance among all the samples, with an average COF and an average wear rate of 0.29 and 0.18 × 10 GLYPH<0> 5 mm$^{3}$/(N · m), respectively, which were 22.81 % and 93.35 % lower than that of the PI. The excellent friction performance of the STP/PI composites are attributed to the efficient lubrication of the PTFE and Ti$_{3}$C$_{2}$@SiO$_{2 }$ intercalation structure. In addition, Ti$_{3}$C$_{2 }$nanosheets and SiO$_{2 }$make a support to reduce wear rate due to the formation of transfer film. Thus, ternary hybrids STP can be used as friction and wear reducing agents for polyimide or other polymeric materials to improve service life.
+
+## Data availability
+
+Data will be made available on request.
+
+## CRediT authorship contribution statement
+
+Guojing Chen: Conceptualization, Data curation, Investigation, Methodology, Project administration, Validation, Writing -original draft. Shuai Jiang: Investigation, Methodology, Resources. Yufei Huang: Investigation, Methodology. Xinrui Wang: Investigation, Methodology. Chunpeng Chai: Conceptualization, Funding acquisition, Investigation, Methodology, Project administration.
+
+## Declaration of Interest Statement
+
+The authors declare no competing financial interest.
+
+## Acknowledgement
+
+In this work, some of the experiments were done at the Beijing Center for Applied Research in Radiation (XRD testing) and Tsinghua University (Raman spectroscopic testing). The authors would like to thank Shiyanjia lab (www.shiyanjia.com) for the support of XPS tests.
+
+## Supplementary materials
+
+Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.jtice.2024.105429.
+

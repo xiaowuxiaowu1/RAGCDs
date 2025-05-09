@@ -1,0 +1,278 @@
+## 1. INTRODUCTION
+
+Organosilicon materials play increasingly important roles in the fields of adhesives, coatings, rubbers, resins, and the synthesis of organosilicon compounds also attracts a lot of attention from the industry. 1 , 2 Hydrosilylation is one of the most important reactions in the synthesis of organosilicon, which is environmentally friendly and highly atom economical. 3 , 4 Nowadays, various homogeneous catalysts, especially the Speier catalyst and Karstedt catalyst, have been widely used in hydrosilylation. 5 - 9 However, byproducts from undesired alkene isomerization affect the quality of organosilicons, 10 while the precious metal residues result in the difficulty of separation and the wastage of noble metal. 1 An approach to solve these problems is to develop heterogeneous catalysts, 11 - 13 but it is still limited by the low turnover number (TON) and low turnover frequency (TOF). 14 - 16
+
+In a Pt-catalyzed hydrosilylation reaction, an initial slow phase, called the induction period, is usually observed, 17 - 19 in which the catalyst precursors are reconstructed to form active centers prior to the reaction of the substrates. 20 , 21 Once the formation of active centers succeeds, the reaction will be greatly accelerated. Thus, the key to constructing a highly efficient heterogeneous catalyst lies in immobilizing the actual catalytic active centers on the carriers rather than the precursors. According to the studies on intermediates in homogeneous reactions, the Pt active center matches the
+
+following two characteristics: (1) Low-valent Pt species are essential. It has been verified that ∼ Pt(0) is the actual catalytic active site of hydrosilylation. 22 , 23 The high oxidation state platinum precatalysts need to undergo reduction prior to hydrosilylation. 20 (2) The mononuclear Pt is beneficial for the reaction. During the most active stages of hydrosilylation, only intermediate species containing Pt - C and Pt - Si bonds were observed. 20 , 21 Recently, single-atom catalysts (SACs) with atomically dispersed metallic centers and precise coordination structures have been developed to bridge the gap between homogeneous and heterogeneous catalysts, which combine the high metal dispersion and activity with the separability. 24 , 25 Various methods, such as physical vapor deposition, atomic layer deposition, pyrolysis of precursors, and wetness impregnation, have been developed to construct the lowvalent SACs. 26 - 30 However, the expensive facilities, high energy consumption, and complex carriers seriously limit their further development. Moreover, the harsh reaction conditions and the external reducing reagents in the wetness impregnation
+
+may lead to the migration and aggregation of reduced metal atoms, which results in a decrease in the number of actual catalytic active centers or even the deactivation of catalyst. 31 , 32 Therefore, to construct the Pt SACs with high performance in hydrosilylation, a viable strategy is to construct them under mild condition.
+
+In this work, a strategy of "interfacial spontaneous reduction (ISR)" was developed to synthesize low-valent single-atom Pt supported on carbon black XC-72R (Pt$_{1}$ - N - C) using cheap and widely available industrial raw materials. The ISR strategy includes two main steps. First, the reducing groups were modified onto the carriers, which enables the carrier surface to reduce Pt species. Then, the modified carrier was mixed with the Pt complex solution, and the reduction of Pt species took place at the solid - liquid interface, followed by the in situ coordination of low-valent Pt single atoms. The whole process can be carried out under mild conditions without any external reducing agents or high-temperature treatment. The obtained Pt$_{1}$ - N - C with Pt atomically dispersed on the carrier of carbon black XC-72R achieved ultrahigh activity and selectivity in olefin hydrosilylation under solvent-free conditions without any preactivation process.
+
+## 2. RESULTS AND DISCUSSION
+
+2.1. Synthesis and Characterizations of Pt$_{1}$ - N - C. The schematic illustration of the synthetic process is shown in Scheme 1 . The conductive carbon black XC-72R was selected
+
+Scheme 1. Illustration of the Preparation Process of Pt$_{1}$ - N - C
+
+as the catalyst carrier and functionalized by reacting with nitric acid first (named as XC72R - NO$_{2}$/-NO). After removal of excess nitric acid, the reaction with N$_{2}$H$_{4}$ · H$_{2}$O was carried out to obtain a carrier grafted with reducing groups on the surface (named as XC72R - N$_{2}$H$_{3}$). By adding the K$_{2}$PtCl$_{6}$ precursor, the Pt species could be reduced and loaded onto the modified XC-72R carrier, and Pt$_{1}$ - N - C was obtained. Inductively coupled plasma optical emission spectrometry (ICP-OES) revealed that Pt loading is 0.86 wt %.
+
+High-resolution transmission electron microscopy (HRTEM) reveals the annual ringlike structure covering the surface of XC-72R ( Figure S2 ), which originates from the partially graphitized structure. The Raman spectrum of XC72R ( Figure S3a ) displays two peaks of 1335 and 1589 cm - $^{1}$, corresponding to the D band and G band of carbon, respectively, which suggests that both sp$^{3}$-hybridized C and sp$^{2}$-hybridized C are contained in XC-72R. 33 After reaction with nitric acid, the peak of the G band on Raman spectra moved from 1589 to 1581 cm - 1 ( Figure S3b ). As reported, the groups' functionalization leads to the electronic structure tuning of the carbon substrate, resulting in a peak shift of about 2 - 12 cm - 1 in the G band. 33 - 38 The changes in the groups in the reactions were detected by Fourier transform infrared
+
+spectroscopy (FT-IR) and X-ray photoelectron spectroscopy (XPS). After being treated with nitric acid, the peaks appearing at 1646 and 1559 cm - 1 in the FT-IR spectrum of XC72R - NO$_{2}$/-NO ( Figure S4 ) can be assigned to the vibrations of C  O and N  O, respectively. 39 , 40 Furthermore, the peak related to - NO$_{2}$ (1359 cm - $^{1}$) becomes larger, suggesting that more - NO$_{2}$ generated after nitration. 41 The XPS N 1s spectra of XC72R - NO$_{2}$/ - NO in Figure S6 show two peaks at binding energies of 406.1 and 401.1 eV, which can be assigned to - NO$_{2}$ and - NO, respectively. 42 , 43 Both of these results indicate that XC-72R was modified with - NO$_{2}$ and - NO groups after nitration. Then, XC72R - NO$_{2}$/-NO was reacted with N$_{2}$H$_{4}$ · H$_{2}$O at room temperature. The peaks attributed to - NO$_{2}$ in the FT-IR spectrum became weaker ( Figure S4 ). To visualize more about the grafting groups after being reacted with N$_{2}$H$_{4}$ · H$_{2}$O, nitrobenzene and 4-nitrophenol were chosen as the model compounds of XC72R - NO$_{2}$, while nitrosobenzene was chosen for XC72R - NO. 44 - 46 As shown in Figures S8 - S10 , part of - NO$_{2}$ groups transformed to - N(OH)NHNH$_{2}$, while the - NO groups transformed to - NHOH after the reaction with N$_{2}$H$_{4}$ · H$_{2}$O. These results were consistent with the XPS N 1s spectra of XC72R - N$_{2}$H$_{3}$ ( Figure S6 ). 47 , 48 The generated hydrazine analogue - N$_{2}$H$_{3}$ is reductive, and the Pt$_{1}$ - N - C catalyst was obtained by the introduction of K$_{2}$PtCl$_{6}$ precursor. 49 The peak appearing at 1661 cm - 1 in the FT-IR spectrum confirms the presence of - NH$_{2}$ ( Figure S4 ). 50 The model reactions also demonstrate that the groups on the supports finally transferred into - NH$_{2}$ ( Figure S11 ). On the basis of the literature data, two components are selected for the fitting of N 1s XPS spectra of Pt$_{1}$ - N - C ( Figure S6 ). One peak at a binding energy of 399.5 eV is assigned to the free - NH$_{2}$, and the other one at a higher binding energy of 400.8 eV can be attributed to the - NH$_{2}$ coordinating with Pt, which is probably due to the decreased electron density of the N atom after coordination. 11 , 51 , 52
+
+The XRD pattern of the obtained Pt$_{1}$ - N - C shows a broad diffraction peak of XC-72R ( Figure 1 a), and no peak of Pt crystal is observed, indicating that the Pt species did not form into Pt nanocrystals. The dispersion of Pt species could be observed directly through aberration-corrected high-angle annular dark-field scanning transmission electron microscopy (AC HAADF - STEM). As shown in Figure 1 b, isolated bright spots distribute on the surface of the support, demonstrating the high dispersion of Pt species. The energy-dispersive X-ray spectroscopy (EDX) mapping analysis ( Figure 1 c) on a larger scalebar reveals the presence and uniform distribution of Pt, N, and C elements.
+
+The detailed electronic state and coordination structure of the supported Pt species were characterized by X-ray absorption fine structure (XAFS) spectroscopy. Figure 2 a shows the X-ray absorption near-edge structure (XANES) spectra of the Pt L$_{3}$-edge. The white line intensity of the Pt L$_{3}$edge of Pt$_{1}$ - N - C is between those of Pt foil and PtO$_{2}$, revealing the electron-deficient characteristics of Pt species in Pt$_{1}$ - N - C. Observed from the curves in Figure 2 b, the adsorption edge (E$_{0}$) of Pt$_{1}$ - N - C at Pt L$_{3}$-edge is 11565.6 eV, 1.9 eV higher than that of Pt foil (11563.7 eV) and 2.1 eV lower than PtO$_{2}$ (11567.7 eV), indicating that the Pt atoms in Pt$_{1}$ - N - C are slightly positively charged and have a medium valence state due to the transfer of electrons from the Pt species to the support. Fourier transform (FT) k $^{3}$-weighted extended X-ray absorption fine structure (EXAFS) oscillations
+
+Figure 1. (a) XRD patterns of Pt$_{1}$ - N - C and XC-72R; (b) AC HAADF-STEM image of Pt$_{1}$ - N - C; and (c) EDX mapping of Pt$_{1}$ - N - C.
+
+Figure 2. (a) Pt L$_{3}$-edge XANES spectra of Pt foil, PtO$_{2}$, and Pt$_{1}$ - N - C; (b) derived Pt L$_{3}$-edge XANES spectra of Pt foil, PtO$_{2}$, and Pt$_{1}$ - N - C; (c) FT - EXAFS spectra of Pt foil, PtO$_{2}$, and Pt$_{1}$ - N - C; (d) XPS spectra for Pt 4f of Pt$_{1}$ - N - C; (e - g) EXAFS WT spectra of Pt foil, PtO$_{2}$, and Pt$_{1}$ - N - C.
+
+in the R space demonstrated the coordination structure of Pt$_{1}$ - N - C. Figure 2 c shows one prominent peak at ∼ 1.5 Å assigned to the Pt - N bond in the Pt L$_{3}$-edge of Pt$_{1}$ - N - C, no peaks of the Pt - Cl bond at ∼ 1.9 Å and the Pt - Pt bond at ∼ 2.65 Å are observed, implying the presence of the Pt - N bond and the absence of Pt - Cl and Pt - Pt. 53 - 56 EXAFS fittings in the R space ( Figure 2 c) and in the k space ( Figure S12 ) were performed, and the fitting parameters listed in Table S2 show that the Pt atom of Pt$_{1}$ - N - C coordinated with N atoms with a C.N. of 3.7 ± 0.4 and a bond length of 1.96 Å.
+
+The wavelet transforms (WT) of Pt L$_{3}$-edge EXAFS oscillations ( Figure 2 e - g) displayed visually the coordination structure of Pt$_{1}$ - N - C. Only one peak at ∼ 1.5 Å is observed in the WT contour plot of Pt$_{1}$ - N - C ( Figure 2 g), which is associated with Pt - N coordination. The CO-diffuse reflectance infrared Fourier transform infrared spectroscopy (CODRIFTS) was employed to provide information about the dispersion of Pt species. A weak peak at 2068 cm - 1 was observed, which was ascribed to the linear adsorption of CO
+
+Figure 3. (a) Scheme of hydrosilylation reaction of 1-octene and (CH$_{3}$CH$_{2}$O)$_{3}$SiH, the experimental temperature was 70 ° C, solvent-free conditions; (b - d) conversion (%) of 1-octene vs time for Pt$_{1}$ - N - C, Speier catalyst, and Pt NP - N - C, respectively; (e) TOFs of samples calculated in different periods: TOF$_{ind}$, the TOF calculated during the induction period; TOF$_{max}$, the TOF calculated at the maximum slope of the curves of catalyst.
+
+on the electron-deficient Pt atoms ( Figure S13 ), proving that isolated Pt atoms were located on the XC-72R supports. 57 , 58
+
+XPS was also employed to analyze the oxidation state of Pt in Pt$_{1}$ - N - C. As shown in Figure 2 d, the Pt 4f spectra show two peaks at binding energies of 76.0 and 72.7 eV, corresponding to Pt 4f$_{5/2}$ and Pt 4f$_{7/2}$, respectively. Both of the peak positions are between Pt (II) and Pt (0), indicating that the Pt species are slightly electron-deficient due to the interaction between Pt and the ligands. 14 After treatment by the external reducing regent NaBH$_{4}$, Pt atoms in Pt$_{1}$ - N - C aggregated into nanoparticles (named as Pt NP - N - C) with the size of ∼ 5 nm (confirmed by HRTEM and XRD, shown in Figures S14 and S15 ), followed by the release of part of coordinated - NH$_{2}$. Compared to Pt$_{1}$ - N - C, the peak corresponding to the free - NH$_{2}$ is significantly elevated in XPS for N 1s spectra, while the other peak corresponding to the coordinating - NH$_{2}$ is weakened ( Figure S16 ), which further proves that Pt is coordinated by - NH$_{2}$. From the results of AC HAADF - STEM, XAFS, CO - DRIFTS, and XPS, it can be evidenced that Pt atoms are atomically dispersed on XC-72R and stabilized by N atoms, and the structural model of Pt$_{1}$ - N - C is shown in Figure S17 .
+
+The catalyst of Pt$_{1}$ - N - C was synthesized through the ISR strategy with a Pt dispersion of 99.2% measured by H$_{2}$ pulse chemisorption, which is much higher than those of Pt NP - N - C (55.7%) and commercial Pt/C (32.4%) ( Table S3 ). To sum up, the reducing groups grafted on the surface of XC-72R are capable of reducing Pt species to single atoms and avoiding atomic aggregation by in situ coordination, which is superior to external reducing agents.
+
+2.2. Catalytic Performance of Pt$_{1}$ - N - C in Hydrosilylation. The catalytic performance of Pt$_{1}$ - N - C was evaluated by the hydrosilylation reaction at 70 ° C under solvent-free conditions ( Figure 3 a).1-octene and triethoxysilane were selected as the model reactants, while the homogeneous Speier catalyst, the heterogeneous Pt NP - N - C, and the commercial Pt/C were employed as the comparisons (detailed characterizations of Pt NP - N - C and commercial Pt/C are shown in Figures S14, S15 , and S18 - S21 ). As shown in Figure 3 b, the reaction between 1-octene and silane proceeds at a fast and steady rate when catalyzed by Pt$_{1}$ - N - C, and the complete conversion of 1-octene was achieved in about 12 min with a high selectivity (>99%) of anti-Markovnikov addition product detected by $^{1}$H NMR. The development of the product was linear throughout without an obvious induction period at the early stage, providing a zeroorder kinetic curve that matches well with the hydrosilylation reaction catalyzed by the actual activity center. 22 It implies that the Pt species of Pt$_{1}$ - N - C are the actual catalytic active centers. For the Speier catalyst ( Figure 3 c), a stage with a slower reaction rate lasting for ∼ 6 min was observed at the beginning of the hydrosilylation, while for Pt NP - N - C ( Figure 3 d) and commercial Pt/C ( Figure S22 ), these periods lasted for ∼ 30 and ∼ 45 min, respectively. These slow phases can be considered as induction periods. According to the literature, the induction period is related to the formation of the actual reactive center, in which the Pt(IV) in the Speier catalyst is reduced by the reactant silane, 20 , 22 while the evolution of surface structures of Pt nanoparticles takes place. 59 At the end of the induction period, the reaction was accelerated dramatically, and the rate gradually increased to a
+
+Figure 4. (a) Chalk - Harrod mechanism and modified Chalk - Harrod mechanism; (b) reaction paths for hydrosilylation reactions on Pt$_{1}$ - N - C; and (c) reaction paths for hydrosilylation reactions on silane-reduced Pt$_{1}$ - N - C. The yellow, purple, red, blue, gray, and white balls represent Pt, Si, O, N, C, and H atoms, respectively.
+
+maximum (the period where the slope of the curve is the largest), indicating that the number of active centers increased to its maximum. It can be observed though TEM and XRD ( Figures S23 and S24 ) that the diameter of Pt NPs in commercial Pt/C decreased from ∼ 10 to ∼ 4 nm during the induction period and even downsized into ∼ 2 nm clusters at the reaction regime. The change in particle size is highly related to structural evolution.
+
+For heterogeneous catalysts, Pt NP - N - C and Pt/C, the TOFs calculated at the periods with maximum reaction rate are on the same order with those of the Pt$_{1}$ - N - C single-atom catalyst ( Table S4 ), implying that the catalytic activities of these Pt catalysts are comparable once the actual active centers are successfully formed. In other words, the difference of the activities for these heterogeneous Pt catalysts deeply lies in the induction period. As shown in Figure 3 e, the TOFs of Pt NP - N - C and commercial Pt/C in the induction period were only ∼ 4000 and ∼ 800 h - $^{1}$, which were over 2 orders lower than the TOFs in the reaction regime. As a comparison, the low-valent Pt atoms dispersed on Pt$_{1}$ - N - C can directly catalyze the hydrosilylation between 1-octene and triethoxysilane without a long preactivation period, resulting in the high TOF of 4.5 × 10 5 h - 1 in the whole process, which surpassed all reported Pt heterogeneous catalysts ( Figure S25 ). The reaction even takes place at room temperature ( Figure S26 ) with a TOF of 7472 h - $^{1}$. These results suggest that the atomically dispersed and low-valent Pt provides high activity, which guarantees success in the hydrosilylation reaction under rather mild conditions. Meanwhile, even when the catalyst was recycled seven times, the high activity and selectivity of Pt$_{1}$ - N - C showed little changes ( Figure S27 ); no changes in valence and no aggregation of Pt single atoms was observed in the reused catalyst ( Figures S28 and S29 ). To further evaluate the stability of the Pt$_{1}$ - N - C catalyst, the Pt leaching was tested by ICP - MS, and the concentration in the crude reaction solution is
+
+negligible (0.019 ppm, about 1.4% of the initial Pt catalyst), indicating that the heterogeneous Pt$_{1}$ dispersed on the XC-72R support was highly stable.
+
+2.3. DFT Calculations. To further understand the reaction mechanism of Pt$_{1}$ - N - C in the hydrosilylation reaction, density functional theory (DFT) was performed. Chalk - Harrod mechanism and modified Chalk - Harrod mechanism are the two paths of the olefin hydrosilylation reaction. As proposed by Chalk and Harrod, 60 the reaction process of Ptcatalyzed olefin hydrosilylation can be divided into three steps. First, the silane reacts with the Pt active center via the Si - H oxidative addition. Second, the olefin inserts into the Pt - H bond. Finally, reductive elimination of the Si - C compound occurs to generate the product. In the modified Chalk - Harrod mechanism, the second step is that the olefin inserts into the Pt - Si bond and then the C - H reductive elimination takes place. 61 , 62 According to the catalytic cycle ( Figure 4 a), the necessity of a preactivation process in which the Pt species was reduced by silane before the catalytic cycle proceeds determines the presence or absence of the induction period. Herein, two possible active centers, Pt$_{1}$ - N - C and silanereduced Pt$_{1}$ - N - C, were calculated by DFT for the paths ( Figure 4 b,c, and Tables S5 - S8 ). A PtN$_{4}$ structure with four amino groups coordinating with a Pt single atom was used as the model to mimic the local structure of the Pt$_{1}$ - N - C catalyst. The process of olefin insertion was regarded as the rate-determining step. The calculated results show that the Chalk-Harrod path is more favorable for both Pt$_{1}$ - N - C (0.62 vs 0.76 eV, Figure 4 b) and silane-reduced Pt$_{1}$ - N - C (1.30 vs 1.37 eV, Figure 4 c), which means that the insertion of Pt - H bond is easier. Meanwhile, the energy barrier rate-determining step for hydrosilylation on Pt$_{1}$ - N - C through the Chalk - Harrod path is the lowest (0.62 eV), which means that the lowvalent monodispersed Pt centers of Pt$_{1}$ - N - C can act as actual activity catalysts and catalyze the alkene hydrosilylation
+
+R
+
+R" R'SiR"
+
+Table 1. Hydrosilylation of Various Olefins with Different Silanes Catalyzed by Pt$_{1}$ - N - C a
+
+| Entry   | Olefin         | Silane        | Calalyst (mg)   | (min)   | Conversion (%)   | T Selectivity %   | TOF (h')   |
+|---------|----------------|---------------|-----------------|---------|------------------|-------------------|------------|
+|         | CsH,3          | PhMe?SiH      | 10              |         | >99              | >99               | 2.7x10*    |
+|         | CsH,3          | PhMe?SiH      |                 |         | 68.3             | 299               | 9. 3x10*   |
+|         | CsH,3          | (CHO)sSiH     | 20              | 20      | 68.7             | 299               | 4.7x10'    |
+|         |                | PhMc?SiH      |                 |         | 86.5             | 299               | 4.7x10*    |
+|         |                | PhMc?SiH      |                 |         | 51.9             | >99               | ZIx10*     |
+|         |                | (CHsCH-O)SiH  |                 |         | 56.6             | 299               | 3.Ix10*    |
+| 8       |                | PhMe:SiH      |                 |         | 75.8             | 299               | 4.Ix108    |
+| 8       |                | (CHsCH-O)sSiH | 10              |         | 92.3             | 97                | L3x10*     |
+| 8       |                | (CHO)Sil      | 20              | 10      | 96.0             | 95                | 3x10'      |
+| 10      | CuH2s          | PhMc-SiH      |                 | 10      | 87.6             | 299               | Sx10s      |
+| 10      | CuH2s          | (CHsCH-O)sSiH | 10              | 30      | 97.3             | 299               | S.8x10'    |
+| 12      |                | PhMe_SiH      | 10              |         | 96.0             | >99               | 13*0*      |
+| 13      | CHs HJC-Si CH; | (CHCH-O)Sil   |                 | 90      | 81.3             | 92                | 4.9x10'    |
+| 14      | CsH,3          | si-04 H CHs   | 20              | 120     | 99               | >99               |            |
+
+R' Si R H R
+
+calalyst 70 ?C
+
+R'R" Si R
+
+R
+
+$^{a}$Experiments were performed at a 20 mmol scale: Pt$_{1}$ - N - C catalyst, silane/olefin = 1.05 (mol mol - $^{1}$), temperature = 70 ° C. The olefin conversion was determined by GC using decane as internal standard, and the selectivity was determined by $^{1}$H NMR. $^{b}$Temperature = 60 ° C. $^{c}$Monomer ( - HSi(CH$_{3}$)O - )/olefin = 1.05 (mol mol - $^{1}$), temperature = 50 ° C.
+
+reaction directly without the prereduction by silane. These results match well with the experimental results and explain the absence of the induction period.
+
+2.4. Substrate Extension. In addition, we further evaluated the Pt$_{1}$ - N - C catalyst in hydrosilylation for a wide range of both olefin and silane substrates ( Table 1 ). Under the catalysis of Pt$_{1}$ - N - C, the typical alkene, 1-octene, can react with different kinds of silanes, such as PhMe$_{2}$SiH and (CH$_{3}$O)$_{3}$SiH. Meanwhile, the hydrosilylation reaction can also be carried out between silanes and the functionalized terminal alkenes, such as allylbenzene, allyl glycidyl ether, 1hexadecene, allyl phenyl ether, and vinyltrimethylsilane, with ultrahigh TOF and high selectivity. The TOF of Pt$_{1}$ - N - C reached 9.3 × 10 6 h - 1 in the reaction between 1-octene and PhMe$_{2}$SiH, combined with a TON of >4.5 × 10 6 in the subkilogram scale reaction, both of which are state-of-theart, 11 , 63 , 64 proving their potential for large-scale application. Furthermore, the reaction using poly(methylhydrosiloxane) as a silane substrate was explored, in which each monomer unit contains a reactive H atom. After being reacted for 2 h at 50 ° C, no Si - H signal was detected by $^{1}$H NMR ( Figure S30 ), indicating that the H atoms included in every monomeric unit were completely substituted by 1-octene, and the Pt$_{1}$ - N - C
+
+catalytic hydrosilylation was high-efficiency. These results further demonstrate the high catalytic activity and substrate compatibility of the catalyst, which make it more promising for applications.
+
+## 3. CONCLUSIONS
+
+In conclusion, the "interfacial spontaneous reduction" strategy was developed to construct a Pt single-atom catalyst by reducing the Pt species at the solid - liquid interface without an external reducing agent. By the ISR strategy, a highly catalytic efficiency Pt$_{1}$ - N - C was prepared with industrial materials under mild conditions. The low-valent Pt atoms in Pt$_{1}$ - N - C acted as the actual reactive centers for hydrosilylation and catalyzed the reaction directly without any preactivation process, exhibiting ultrahigh activity and selectivity. The catalyst proved to be applicable in subkilogram reactions, demonstrating the potential for large-scale applications. More importantly, it demonstrated a facile method to synthesize an atomically dispersed noble metal catalyst using cheap and widely available raw materials in the industry, which has potential for scale-up applications.
+
+## ASSOCIATED CONTENT
+
+## * sı Supporting Information
+
+■
+
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acscatal.3c03541 .
+
+Detailed experimental procedures, characterization methods; HRTEM images; MS analysis; EXAFS fitting curves, table of fitting parameters; model of coordination environment in Pt$_{1}$ - N - C; characterizations of Pt NP - N - C and commercial Pt/C; conversion - time profile, TOF data; catalytic activity for recycled catalyst; AC HAADF-STEM images; and $^{1}$H NMR and $^{13}$C NMR spectra of products ( DOCX )
+
+## ■ AUTHOR INFORMATION
+
+## ■ Corresponding Authors
+
+Chengling Yang - Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, P. R. China; School of Materials Science and Engineering, University of Science and Technology of China, Shenyang 110016, P. R. China ; Email: clyang@imr.ac.cn
+
+Guodong Wen - Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, P. R. China; orcid.org/00000002-3531-2771 ; Email: wengd@imr.ac.cn
+
+Jinsong Zhang - Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, P. R. China ; Email: jszhang@ imr.ac.cn
+
+Yukun Yan - Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, P. R. China; orcid.org/00000002-0256-7794 ; Email: ykyan@imr.ac.cn
+
+## Authors
+
+Jinmeng Tong - Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, P. R. China; School of Materials Science and Engineering, University of Science and Technology of China, Shenyang 110016, P. R. China
+
+Hailong Li - Key Laboratory of Interfacial Physics and Technology, Shanghai Institute of Applied Physics, Chinese Academy of Sciences, Shanghai 201800, P. R. China
+
+Huiying Gao - Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, P. R. China; School of Materials Science and Engineering, University of Science and Technology of China, Shenyang 110016, P. R. China
+
+Complete contact information is available at: https://pubs.acs.org/10.1021/acscatal.3c03541
+
+## Author Contributions
+
+C.Y. conceived the idea and directed the overall project, synthesized all catalysts, and conducted the catalysis performance measurement, Raman and XPS analysis. Y.Y. conducted the DFT calculations. G.W. and C.Y. analyzed all results of the characterizations. J.T. carried out the AC HAADF-STEM analysis. H.L. provided the part of the XAS analysis. H.G. carried out the analysis of XRD. G.W., C.Y., and Y.Y. wrote the manuscript. C.Y., G.W., J.Z., and Y.Y. supervised the project. The manuscript was written through contributions of all
+
+authors. All authors have given approval to the final version of the manuscript.
+
+## Notes
+
+The authors declare no competing financial interest.
+
+## ACKNOWLEDGMENTS
+
+The authors thank the funds from Natural Science Foundation of Liaoning Province (2021-MS-013), the Liaoning Revitalization Talents Program (XLYC1808013), and Shenyang National Laboratory for Materials Science. The XAS experiments were conducted in Shanghai Synchrotron Radiation Facility (SSRF). The authors thank Jilong Gao from Shiyanjia Lab ( www.shiyanjia.com ) for the XPS analysis and H$_{2}$ pulse chemisorption.
+
+■
+
+## ■ REFERENCES
+
+■ (1) Markó, I. E.; Stérin, S.; Buisine, O.; Mignani, G.; Branlard, P.; Tinant, B.; Declercq, J.-P. Selective and Efficient Platinum(0)Carbene Complexes As Hydrosilylation Catalysts. Science 2002 , 298 (5591), 204 - 206.
+
+(2) Tondreau, A. M.; Atienza, C. C. H.; Weller, K. J.; Nye, S. A.; Lewis, K. M.; Delis, J. G. P.; Chirik, P. J. Iron Catalysts for Selective Anti-Markovnikov Alkene Hydrosilylation Using Tertiary Silanes. Science 2012 , 335 (6068), 567 - 570.
+
+(3) de Almeida, L. D.; Wang, H.; Junge, K.; Cui, X.; Beller, M. Recent Advances in Catalytic Hydrosilylations: Developments beyond Traditional Platinum Catalysts. Angew. Chem., Int. Ed. 2021 , 60 (2), 550 - 565.
+
+(4) Marciniec, B. Catalysis by transition metal complexes of alkene silylation-recent progress and mechanistic implications. Coord. Chem. Rev. 2005 , 249 (21 - 22), 2374 - 2390.
+
+(5) Speier, J. L.; Webster, J. A.; Barnes, G. H. The Addition of Silicon Hydrides to Olefinic Double Bonds. Part II. The Use of Group VIII Metal Catalysts. J. Am. Chem. Soc. 1957 , 79 (4), 974 - 979.
+
+(6) Karstedt, B. D. Platinum Complexes of Unsaturated Siloxanes and Platinum Containing Organopolysiloxanes. U.S. Patent 3,775,452 DA, 1973.
+
+(7) Wang, C.; Teo, W. J.; Ge, S. Cobalt-Catalyzed Regiodivergent Hydrosilylation of Vinylarenes and Aliphatic Alkenes: Ligand- and Silane-Dependent Regioselectivities. ACS Catal. 2017 , 7 (1), 855 - 863.
+
+(8) Wu, C.; Teo, W. J.; Ge, S. Cobalt-Catalyzed (E)-Selective antiMarkovnikov Hydrosilylation of Terminal Alkynes. ACS Catal. 2018 , 8 (7), 5896 - 5900.
+
+(9) Hu, M.-Y.; Lian, J.; Sun, W.; Qiao, T.-Z.; Zhu, S.-F. IronCatalyzed Dihydrosilylation of Alkynes: Efficient Access to Geminal Bis(silanes). J. Am. Chem. Soc. 2019 , 141 (11), 4579 - 4583.
+
+(10) Du, X.; Huang, Z. Advances in Base-Metal-Catalyzed Alkene Hydrosilylation. ACS Catal. 2017 , 7 (2), 1227 - 1243.
+
+(11) Kou, J.; Fang, J.; Li, J.; Zhao, H.; Gao, M.; Zeng, G.; David Wang, W.; Zhang, F.; Ma, J.; Dong, Z. Electron-rich platinum single sites anchored on sulfur-doped covalent organic frameworks for boosting anti-Markovnikov hydrosilylation of alkenes. Chem. Eng. J. 2023 , 463 , 142255.
+
+(12) Han, Y.; Xiong, Y.; Liu, C.; Zhang, H.; Zhao, M.; Chen, W.; Chen, W.; Huang, W. Electron-rich isolated Pt active sites in ultrafine PtFe3 intermetallic catalyst for efficient alkene hydrosilylation. J. Catal. 2021 , 396 , 351 - 359.
+
+(13) Cui, X.; Junge, K.; Dai, X.; Kreyenschulte, C.; Pohl, M.-M.; Wohlrab, S.; Shi, F.; Bru ̈ ckner, A.; Beller, M. Synthesis of Single Atom Based Heterogeneous Platinum Catalysts: High Selectivity and Activity for Hydrosilylation Reactions. ACS Cent. Sci. 2017 , 3 (6), 580 - 585.
+
+(14) Chen, Y.; Ji, S.; Sun, W.; Chen, W.; Dong, J.; Wen, J.; Zhang, J.; Li, Z.; Zheng, L.; Chen, C.; Peng, Q.; Wang, D.; Li, Y. Discovering Partially Charged Single-Atom Pt for Enhanced Anti-Markovnikov
+
+Alkene Hydrosilylation. J. Am. Chem. Soc. 2018 , 140 (24), 7407 - 7410.
+
+(15) Zhu, Y.; Cao, T.; Cao, C.; Luo, J.; Chen, W.; Zheng, L.; Dong, J.; Zhang, J.; Han, Y.; Li, Z.; Chen, C.; Peng, Q.; Wang, D.; Li, Y. One-Pot Pyrolysis to N-Doped Graphene with High-Density Pt Single Atomic Sites as Heterogeneous Catalyst for Alkene Hydrosilylation. ACS Catal. 2018 , 8 (11), 10004 - 10011.
+
+(16) Pandarus, V.; Ciriminna, R.; Gingras, G.; Béland, F.; Kaliaguine, S.; Pagliaro, M. Waste-free and efficient hydrosilylation of olefins. Green Chem. 2019 , 21 (1), 129 - 140.
+
+(17) Miller, S. A.; Guironnet, D. Tunable Latency of Hydrosilylation Catalyst by Ligand Density on Nanoparticle Supports. Angew. Chem. 2023 , 135 (5), No. e202214267.
+
+(18) Maliszewski, B. P.; Bayrakdar, T. A. C. A.; Lambert, P.; Hamdouna, L.; Trivelli, X.; Cavallo, L.; Poater, A.; Belis ̌ , M.; Lafon, O.; Van Hecke, K.; Ormerod, D.; Cazin, C. S. J.; Nahra, F.; Nolan, S. P. PtII-N-Heterocyclic Carbene Complexes in Solvent-Free Alkene Hydrosilylation. Chem.  Eur. J. 2023 , 29 (40), No. e202301259.
+
+(19) Liu, S.; Girolami, G. S. Platinum(II) Diω -alkenyl Complexes as "Slow-Release" Precatalysts for Heat-Triggered Olefin Hydrosilylation. J. Am. Chem. Soc. 2021 , 143 (42), 17492 - 17509.
+
+(20) Stein, J.; Lewis, L. N.; Gao, Y.; Scott, R. A. In Situ Determination of the Active Catalyst in Hydrosilylation Reactions Using Highly Reactive Pt(0) Catalyst Precursors. J. Am. Chem. Soc. 1999 , 121 (15), 3693 - 3703.
+
+(21) Roy, A. K.; Taylor, R. B. The First Alkene-Platinum-Silyl Complexes: Lifting the Hydrosilation Mechanism Shroud with LongLived Precatalytic Intermediates and True Pt Catalysts. J. Am. Chem. Soc. 2002 , 124 (32), 9510 - 9524.
+
+(22) Caseri, W.; Pregosin, P. S. Mechanistic aspects of the platinum catalysed hydrosilylation of PhC-CH2 with Et3SiH. J. Organomet. Chem. 1988 , 356 (2), 259 - 269.
+
+(23) Caseri, W.; Pregosin, P. S. Hydrosilylation chemistry and catalysis with cis-PtCl2(PhCH:CH2)2. Organometallics 1988 , 7 (6), 1373 - 1380.
+
+(24) Cui, X.; Li, W.; Ryabchuk, P.; Junge, K.; Beller, M. Bridging homogeneous and heterogeneous catalysis by heterogeneous singlemetal-site catalysts. Nat. Catal. 2018 , 1 (6), 385 - 397.
+
+(25) Ji, S.; Chen, Y.; Wang, X.; Zhang, Z.; Wang, D.; Li, Y. Chemical Synthesis of Single Atomic Site Catalysts. Chem. Rev. 2020 , 120 (21), 11900 - 11955.
+
+(26) Lang, R.; Du, X.; Huang, Y.; Jiang, X.; Zhang, Q.; Guo, Y.; Liu, K.; Qiao, B.; Wang, A.; Zhang, T. Single-Atom Catalysts Based on the Metal-Oxide Interaction. Chem. Rev. 2020 , 120 (21), 11986 - 12043.
+
+(27) Wei, Y.-S.; Zhang, M.; Zou, R.; Xu, Q. Metal-Organic Framework-Based Catalysts with Single Metal Sites. Chem. Rev. 2020 , 120 (21), 12089 - 12174.
+
+(28) Lin, J.; Wang, A.; Qiao, B.; Liu, X.; Yang, X.; Wang, X.; Liang, J.; Li, J.; Liu, J.; Zhang, T. Remarkable Performance of Ir$_{1}$/FeO$_{x}$ Single-Atom Catalyst in Water Gas Shift Reaction. J. Am. Chem. Soc. 2013 , 135 (41), 15314 - 15317.
+
+(29) Yin, P.; Yao, T.; Wu, Y.; Zheng, L.; Lin, Y.; Liu, W.; Ju, H.; Zhu, J.; Hong, X.; Deng, Z.; Zhou, G.; Wei, S.; Li, Y. Single Cobalt Atoms with Precise N-Coordination as Superior Oxygen Reduction Reaction Catalysts. Angew. Chem., Int. Ed. 2016 , 55 (36), 10800 - 10805.
+
+(30) Wang, J.; Huang, Z.; Liu, W.; Chang, C.; Tang, H.; Li, Z.; Chen, W.; Jia, C.; Yao, T.; Wei, S.; Wu, Y.; Li, Y. Design of NCoordinated Dual-Metal Sites: A Stable and Active Pt-Free Catalyst for Acidic Oxygen Reduction Reaction. J. Am. Chem. Soc. 2017 , 139 (48), 17281 - 17284.
+
+(31) Sun, J.-F.; Xu, Q.-Q.; Qi, J.-L.; Zhou, D.; Zhu, H.-Y.; Yin, J.-Z. Isolated Single Atoms Anchored on N-Doped Carbon Materials as a Highly Efficient Catalyst for Electrochemical and Organic Reactions. ACS Sustainable Chem. Eng. 2020 , 8 (39), 14630 - 14656.
+
+(32) Lewis, L. N.; Lewis, N. Platinum-catalyzed hydrosilylation colloid formation as the essential step. J. Am. Chem. Soc. 1986 , 108 (23), 7228 - 7231.
+
+(33) Kudin, K. N.; Ozbas, B.; Schniepp, H. C.; Prud'homme, R. K.; Aksay, I. A.; Car, R. Raman Spectra of Graphite Oxide and Functionalized Graphene Sheets. Nano Lett. 2008 , 8 (1), 36 - 41.
+
+(34) Zhang, W.; Luo, Q.; Duan, X.; Zhou, Y.; Pei, C. Nitrated graphene oxide and its catalytic activity in thermal decomposition of ammonium perchlorate. Mater. Res. Bull. 2014 , 50 , 73 - 78.
+
+(35) Xia, B.; Liu, B.; Wang, N.; Liao, C.; Long, G.; Zhao, C.; Liao, Z.; Lyu, D. Polyelectrolyte/Graphene Oxide Nano-Film Integrated Fiber-Optic Sensors for High-Sensitive and Rapid-Response Humidity Measurement. ACS Appl. Mater. Interfaces 2022 , 14 (36), 41379 - 41388.
+
+(36) Parvathi, E.; Arjun, G.; Akshaya, C. V.; Dilraj, N.; Deepak, N. K. Novel Mussaenda glabrata leaves extract for facile green synthesis of reduced graphene oxide with enhanced Rhodamine B dye removal efficiency. Sustainable Chem. Pharm. 2022 , 30 , 100868.
+
+(37) Magaela, N. B.; Matshitse, R.; Babu, B.; Managa, M.; Prinsloo, E.; Nyokong, T. Sn(IV) porphyrin-biotin decorated nitrogen doped graphene quantum dots nanohybrids for photodynamic therapy. Polyhedron 2022 , 213 , 115624.
+
+(38) Liu, J.; Wei, Z.; Gong, Z.; Yan, M.; Hu, Y.; Zhao, S.; Ye, G.; Fei, H. Single-atom CoN4 sites with elongated bonding induced by phosphorus doping for efficient H2O2 electrosynthesis. Appl. Catal., B 2023 , 324 , 122267.
+
+(39) Ismail, M. M.; Morsy, G. M.; Mohamed, H. M.; El-Mansy, M. A. M.; Abd-Alrazk, M. M. A. FT-IR spectroscopic analyses of 4hydroxy-1-methyl-3-[2-nitro-2-oxoacetyl-2(1H)quinolinone (HMNOQ). Spectrochim. Acta, Part A 2013 , 113 , 191 - 195.
+
+(40) Kumar, P.; Bora, C.; Kumar, B.; Sukul, P. K.; Das, S. Synthesis and characterization of 5-nitroso-6-amino-uracil functionalized reduced graphene oxide for the detection of chromium ion in aqueous medium. Synth. Met. 2020 , 264 , 116381.
+
+(41) Bekyarova, E.; Itkis, M. E.; Ramesh, P.; Berger, C.; Sprinkle, M.; de Heer, W. A.; Haddon, R. C. Chemical Modification of Epitaxial Graphene: Spontaneous Grafting of Aryl Groups. J. Am. Chem. Soc. 2009 , 131 (4), 1336 - 1337.
+
+(42) Arkhipova, E. A.; Ivanov, A. S.; Strokova, N. E.; Chernyak, S. A.; Shumyantsev, A. V.; Maslakov, K. I.; Savilov, S. V.; Lunin, V. V. Structural evolution of nitrogen-doped carbon nanotubes: From synthesis and oxidation to thermal defunctionalization. Carbon 2017 , 125 , 20 - 31.
+
+(43) Hueso, J. L.; Espinós, J.; Caballero, A.; Cotrino, J.; GonzálezElipe, A. XPS investigation of the reaction of carbon with NO, O2, N2 and H2O plasmas. Carbon 2007 , 45 (1), 89 - 96.
+
+(44) Su, D. S.; Wen, G.; Wu, S.; Peng, F.; Schlögl, R. Carbocatalysis in Liquid-Phase Reactions. Angew. Chem., Int. Ed. 2017 , 56 (4), 936 - 964.
+
+(45) Wen, G.; Wang, B.; Wang, C.; Wang, J.; Tian, Z.; Schlögl, R.; Su, D. S. Hydrothermal Carbon Enriched with Oxygenated Groups from Biomass Glucose as an Efficient Carbocatalyst. Angew. Chem., Int. Ed. 2017 , 56 (2), 600 - 604.
+
+(46) Wu, S.; Wen, G.; Liu, X.; Zhong, B.; Su, D. S. Model Molecules with Oxygenated Groups Catalyze the Reduction of Nitrobenzene: Insight into Carbocatalysis. ChemCatChem 2014 , 6 (6), 1558 - 1561.
+
+(47) Yoshida, T. An X-Ray Photoelectron Spectroscopic Study of Dioxime Metal Complexes. Bull. Chem. Soc. Jpn. 1978 , 51 (11), 3257 - 3260.
+
+(48) Shi, T.; Xie, Z.; Zhu, Z.; Shi, W.; Liu, Y.; Liu, M. Highly efficient and selective adsorption of heavy metal ions by hydrazidemodified sodium alginate. Carbohydr. Polym. 2022 , 276 , 118797.
+
+(49) Ma, Z.-G.; Shen, Y.; Zhang, K.; Cao, L.-X.; Ren, H.; Chen, W.S.; Wei, H.-X.; Li, Y.-Q.; Kera, S.; Tang, J.-X. Regulated crystallization with minimized degradation for pure-red lead-free perovskite lightemitting diodes. J. Mater. Chem. C 2023 , 11 (29), 9916 - 9924.
+
+(50) Nejati, F. M.; Shahhosseini, S.; Rezaee, M. Cobalt-based sandwich-type polyoxometalate supported on amino-silane decorated magnetic graphene oxide: A recoverable catalyst for extractivecatalytic oxidative desulfurization of model oil. J. Environ. Chem. Eng. 2022 , 10 (3), 107949.
+
+(51) Zakharova, I. A.; Salyn, J. V.; Tatjanenko, L. V.; Mashkovsky, Y. S.; Ponticelli, G. Inhibitory activity of palladium(II) and platinum(II) complexes with isoxazole and its derivatives. J. Inorg. Biochem. 1981 , 15 (1), 89 - 92.
+
+(52) Chen, Y.; Zheng, X.; Cai, J.; Zhao, G.; Zhang, B.; Luo, Z.; Wang, G.; Pan, H.; Sun, W. Sulfur Doping Triggering Enhanced Pt-N Coordination in Graphitic Carbon Nitride-Supported Pt Electrocatalysts toward Efficient Oxygen Reduction Reaction. ACS Catal. 2022 , 12 (12), 7406 - 7414.
+
+(53) Zhang, L.; Long, R.; Zhang, Y.; Duan, D.; Xiong, Y.; Zhang, Y.; Bi, Y. Direct Observation of Dynamic Bond Evolution in Single-Atom Pt/C3N4 Catalysts. Angew. Chem., Int. Ed. 2020 , 59 (15), 6224 - 6229.
+
+(54) Liu, K.; Badamdorj, B.; Yang, F.; Janik, M. J.; Antonietti, M. Accelerated Anti-Markovnikov Alkene Hydrosilylation with HumicAcid-Supported Electron-Deficient Platinum Single Atoms. Angew. Chem., Int. Ed. 2021 , 60 (45), 24220 - 24226.
+
+(55) Wang, L.; Zhu, C.; Xu, M.; Zhao, C.; Gu, J.; Cao, L.; Zhang, X.; Sun, Z.; Wei, S.; Zhou, W.; Li, W.-X.; Lu, J. Boosting Activity and Stability of Metal Single-Atom Catalysts via Regulation of Coordination Number and Local Composition. J. Am. Chem. Soc. 2021 , 143 (45), 18854 - 18858.
+
+(56) Chen, X.; Chu, W.; Wang, L.; Wu, Z. Geometry of Pt(IV) in H2PtCl6 aqueous solution: An X-ray absorption spectroscopic investigation. J. Mol. Struct. 2009 , 920 (1 - 3), 40 - 44.
+
+(57) Jia, Z.; Peng, M.; Cai, X.; Chen, Y.; Chen, X.; Huang, F.; Zhao, L.; Diao, J.; Wang, N.; Xiao, D.; Wen, X.; Jiang, Z.; Liu, H.; Ma, D. Fully Exposed Platinum Clusters on a Nanodiamond/Graphene Hybrid for Efficient Low-Temperature CO Oxidation. ACS Catal. 2022 , 12 (15), 9602 - 9610.
+
+(58) Meunier, F. C. Relevance of IR Spectroscopy of Adsorbed CO for the Characterization of Heterogeneous Catalysts Containing Isolated Atoms. J. Phys. Chem. C 2021 , 125 (40), 21810 - 21823.
+
+(59) Wu, X.; Li, J.; Xie, S.; Duan, P.; Zhang, H.; Feng, J.; Zhang, Q.; Cheng, J.; Wang, Y. Selectivity Control in Photocatalytic Valorization of Biomass-Derived Platform Compounds by Surface Engineering of Titanium Oxide. Chem 2020 , 6 (11), 3038 - 3053.
+
+(60) Chalk, A. J.; Harrod, J. F. Homogeneous Catalysis. II. The Mechanism of the Hydrosilation of Olefins Catalyzed by Group VIII Metal Complexes1. J. Am. Chem. Soc. 1965 , 87 (1), 16 - 21.
+
+(61) Bergens, S. H.; Noheda, P.; Whelan, J.; Bosnich, B. Asymmetric catalysis. Mechanism of asymmetric catalytic intramolecular hydrosilylation. J. Am. Chem. Soc. 1992 , 114 (6), 2128 - 2135.
+
+(62) Sakaki, S.; Takayama, T.; Sumimoto, M.; Sugimoto, M. Theoretical Study of the Cp2Zr-Catalyzed Hydrosilylation of Ethylene. Reaction Mechanism Including New σ -Bond Activation. J. Am. Chem. Soc. 2004 , 126 (10), 3332 - 3348.
+
+(63) Zhang, L.; Zhang, H.; Liu, K.; Hou, J.; Badamdorj, B.; Tarakina, N. V.; Wang, M.; Wang, Q.; Wang, X.; Antonietti, M. In-Situ Synthesis of -P-N-Doped Carbon Nanofibers for Single-Atom Catalytic Hydrosilylation. Adv. Mater. 2023 , 35 (15), 2209310.
+
+(64) Komati, S.; Lewis, K. M.; Dasgupta, D.; Kothapalli, K.; Srikanth, A.; Sarkar, A. Leach-resistant Pt nanoparticles on a silica support serving as a clean, efficient, and recyclable catalyst for solventfree hydrosilylation. Green Chem. 2021 , 23 (22), 9071 - 9077.

@@ -1,0 +1,221 @@
+## 1 | INTRODUCTION
+
+Sodium -ion batteries (SIBs) have been gaining much attention owing to their potential application in large -scale energy storage systems. 1 -4 Cathode materials are the dominant performance -limiting factors for battery energy and power density. As the cyclable sodium ions' (Na$^{+}$) primary suppliers, O3 -type layer -structured manganese -based transition metal oxides (NaMn$_{x}$Me$_{1}$$_{-}$$_{x}$O$_{2}$, Me: transition metals) have the inherent advantages of great compositional structural chemistry diversity with controllable electrochemical performance and mass production industrial feasibility technology. The high Na + content (near 1.0) can efficiently guarantee the energy density and cycling lifespan, particularly when coupling with nonsodiated anode (such as hard carbon). 5,6 However, it is difficult to cycle O3 -type NaMn$_{x}$Me$_{1}$$_{-}$$_{x}$O$_{2}$ to potential higher than ~4.2 V (vs. Na$^{+}$/Na) resulting from the significant structural instability and severe capacity fade, along with the Jahn -Teller (J -T) effect produced by Mn$^{3+}$/Mn 4+ redox and the slip of MnO$_{2}$ slabs from Na + extraction at high voltages. 5 -7 The worse oxygen loss (O 2 - → O$_{2}$) will cause surface oxygen vacancies, leading to irreversible structural transformations and structural instability. 8 -12 Therefore, optimizing the oxygen local electronic structure becomes a critical pathway for realizing high -voltage cycling while maintaining stability. The strategy of using substituting elements, such as Ni, Ti, Mo, Li, Cu, Mg, Zn, Al, and so forth, has been employed to suppress structural changes to improve material stability, with varying degrees of success. 13 -22 The achievement reveals that the mixing degree and electronic structure between O 2p orbital and Me can
+
+directly determine the electrochemical performance, particularly at high -voltage cycling.
+
+The orbital and electronic structure of the octahedral center metal element plays an important role in maintaining the octahedral structural integrity and improving Na + diffusivity by the introduced Me -O chemical bonding. As shown in Figure 1, the attractive 4f and 5d orbital bonding possibility from the abundant configuration of extranuclear electrons and large ion radius make rare -earth elements attractive to be used in energy storage materials. Particularly, beneficial from the larger bond strength of the lanthanum (La) -oxygen (O) bond (799 ± 4 kJ mol -1 at room temperature), La element doping in lithium -ion batteries has attracted much more attention as it enhances the stability of the crystal structure, probably by sharing O atoms in Mn -O -La covalent bond. La could exhibit a strong bonding ability with lattice oxygen, which benefits from the matching between hard acid (La$^{3+}$) and hard base (O 2 $^{-}$). Increasing the bond strength can probably stabilize the crystal lattice and reduce the expansion as well. The oxygen coordination environment can be modulated, and the structural stability and charge transfer kinetics of the material can be improved.
+
+Based on the success of lithium -ion batteries and our previous achievements on O3 -Na[MnNiCuTi]O$_{2}$ cathode material, 22 -25 herein, the large -diameter La 3+ was introduced for the O3 -Na[La$_{x}$Ni$_{0.3}$Mn$_{0.55}$$_{-}$$_{x}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ ( x ≤ 0.03) to improve octahedral structural integrity and enhance cycling stability of cathode materials over a wide voltage range. La -O chemical bond reveals not only the electrovalent bonding perspective but also the covalent characteristics resulting from La 5d and O 2p orbital
+
+FIGURE 1 (A) Atomic structure and ionic structure of La and La$^{3+}$. (B) Schematic of LaO$_{6}$ energy levels and their corresponding central atomic orbitals and ligand group orbitals.
+
+mixing due to O 2p → La 5d charge transfer. The mixed doping ensures the stability of the lattice oxygen framework and the reversibility of oxygen redox simultaneously. The obtained O3 -Na[La$_{0.01}$Ni$_{0.3}$Mn$_{0.55}$$_{-}$$_{x}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ delivers an optimal electrochemical performance when charging to 4.5 V. The introduced La 3+ with a large ionic radius presents as a pillar in the layered structure and enlarges the spacing among layers, which could further benefit the rate performance. The well -designed Na[La$_{0.01}$Ni$_{0.3}$Mn$_{0.54}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ SIB cathode material shows excellent structural stability and reversibility within wide operating voltage.
+
+## 2 | RESULTS AND DISCUSSIONS
+
+The O3 -type Na[La$_{x}$Ni$_{0.3}$Mn$_{0.55}$$_{-}$$_{x}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ ( x =0, 0.005, 0.01, 0.02, 0.03) was synthesized through a solid -state reaction at high temperature under air atmosphere, and the detailed experimental information can be seen in the Supporting Information. As shown in the X -ray diffraction (XRD) pattern (Figure S1), some impurity diffraction peaks corresponding to LaMn$_{0.8}$O$_{2}$ are observed in the samples with x = 0.02 and 0.03. It indicates that the La 3+ solubility limit is close to 2.0% and the La perovskite phase will form when doping content increases. 26 As the obtained O3 -type Na[La$_{0.01}$Ni$_{0.3}$Mn$_{0.54}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ (simply named as NLMCT -1), the crystal structure refinement comparison with pure O3 -type Na[Ni$_{0.3}$Mn$_{0.55}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ (simply named as NMCT) based on XRD is shown in Figure 2A.Allthe atomic coordinates and occupation parameters are listed in Tables S1 and S2. The slightly reduced a -axis in NLMCT -1 was attributed to the enhancement of the Me -Me bonds. The introduced La 3+ acts as a structural expander leading to the c -axis increase.
+
+The detailed crystal structure is investigated, as showninFigure2D -H,byhigh -resolution transmission electron microscopy (HRTEM) with the selected area electron diffraction pattern (Figure 2E). It confirms the classical hexagonal symmetry arrangement of transition metal atoms, and the interplanar distance of 2.53 Å between the adjacent lattice fringes corresponds to the value of cell refinement (100) plane. From the scanning electron microscopy (SEM) images (Figure 2I),itcanbeseenthatthesurfaceof the particle is highly crystallized and separated without obvious crystal gaps. 26,27 The energy -dispersive spectroscopy (EDS) exhibits a uniform distribution of elements (Figure 2J). These large -sized nearly single -crystalline particles have a high ion diffusion, without being hindered by the crystal gap. Meanwhile, the uneven Na + insertion and
+
+|
+
+extraction inside the particles with oxygen release will be alleviated with varying degrees of success. It can efficiently increase the cycling lifespan by alleviating electrolyte side reactions.
+
+The electrochemical properties of the Na[La$_{x}$Ni$_{0.3}$ Mn$_{0.55}$$_{-}$$_{x}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ were tested by a 2032 coil cell using sodium metal as the counter and reference electrode at room temperature. As shown in the initial cyclic voltammetry (CV) curves (Figure 3A), two pairs of redox/oxidation peaks appear in the voltage range of 1.5 -4.5 V at a scan rate of 0.05 mV s - $^{1}$, located at 2.9/2.64 and 4.24/3.7 V. According to previous studies, 28,29 they generally correspond to the structural evolution of P3 → O3 and P3 → monoclinic phases, respectively. The difference between the two curves is that the reduction peak of NLMCT -1 at 3.7 V is much sharper. The same phenomenon is also observed in NLMCT -0.5, 2, and 3 (Figure S2), indicating that the introduction of La enhances the reduction kinetics. In the second CV cycle, a new oxidation peak appears in the 3 -3.5 V range on the NMCT sample, which may be due to the P3 → P3 ' phase transition. 11 With the increase of La content, this oxidation peak was gradually inhibited and completely disappeared in NLMCT -1(Figure3B and Figure S3). The initial charge/ discharge curves at 0.1 C (1 C = 150 mA g - $^{1}$)areshownin Figure 3C.N L M C T -1 exhibits the highest specific discharge capacity of 183 mAh g - $^{1}$.Figure3D shows the rate performance test of all samples from 0.1 to 5 C between 1.5 and 4.5 V. NLMCT -1 possessed the highest reversible discharge capacity of 84.2 mAh g - 1 at 5 C, and the capacity can reach 170 mAh g - 1 once recovering to 0.1 C, indicating an excellent rate performance. The cycling stabilities are displayed in Figures 3E, S4,andS5. The discharge capacity of NLMCT -1 can maintain 103.58 mAh g - 1 with a high Coulombic efficiency at 1 C after 150 cycles under 1.5 -4.5 V, demonstrating capacity retention of 84.2%. In addition, the capacity retention rate was 84.3% after 100 cycles in a low current 0.5 C cycle under 1.5 -4.5 V. The charge/discharge curves for the first, 50th, 100th, and 150th turns of all samples are shown in Figure S6. It can be seen that NLMCT -1 exhibits good cycling stability with a low capacity degradation over a large voltage window. To investigate the kinetic properties of two electrode materials, the galvanostatic intermittent titration technique and the electrochemical impedance spectroscopy (EIS) technique were employed to characterize and calculate the diffusion coefficient ( D$_{Na}$ + ) and apparent activation energies of Na + during the charging and discharging processes. 30 Figure 3F presents the D$_{Na}$ + values in both electrodes during the charging and discharging processes, where D$_{Na}$ + ranges from 1.78 × 10 - 13 to 7.29 × 10 - 11 in NLMCT -1 and from 7.26 × 10 - 15 to 1.59 × 10 - 11 in NMCT. Notably, the D$_{Na}$ + of NMCT decreases by four orders of
+
+|
+
+FIGURE 2 (A -C) The Rietveld refinement of XRD patterns and crystal structures of Na[Ni$_{0.3}$Mn$_{0.55}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ and Na[La$_{0.01}$Ni$_{0.3}$ -Mn$_{0.54}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$.(D -H) HRTEM images of Na[La$_{0.01}$Ni$_{0.3}$Mn$_{0.54}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ and corresponding schematic crystal structures as inserted images. (I) SEM images of Na[La$_{0.01}$Ni$_{0.3}$Mn$_{0.54}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$. (J) EDS maps of Na[La$_{0.01}$Ni$_{0.3}$Mn$_{0.54}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$.
+
+magnitude at around 4.25 V during charging due to structural transformation or order -disorder transition -induced Na + channel spacing change, leading to a significant reduction in Na + diffusion kinetics. This phenomenon is well mitigated in NLMCT -1. Figure 3G showstheArrheniusplotsoflog i$_{0}$ as a function of T - 1 in both electrodes, where the fitted apparent activation energies of NLMCT -1 and NMCT are 34.2 and 53.5 kJ mol - $^{1}$, respectively. Lower apparent activation energies result in lower energy barriers for Na + to cross the cathode electrolyte interfacial (CEI) membrane and facilitate the charge transfer process after desolvation, thus accelerating ion transport rates. 31,32 To further understand the kinetic properties of the two electrode materials at different redox potentials, we performed in situ EIS measurements at the
+
+peak positions and nearby points of each peak on the CV curves. The results are shown in Figures S9 and S10.The curves exhibit two semicircles in the high -and medium -frequency regions, respectively. The semicircle in the high -frequency region represents interfacial resistance mainly due to the CEI resistance on the surface of the cathode material (denoted as R$_{CEI}$ ), while the semicircle in the medium -frequency region represents the charge transfer impedance in the electrode material (denoted as R$_{ct}$ ), as s h o w ni nF i g u r e3H. It can be seen that the R$_{CEI}$ of NLMCT -1inFigure3H is consistently lower than that of NMCT, and there is no significant increase during the discharge process. This may be attributed to the suppression of volume expansion caused by Na + insertion and the J -T effect of Mn$^{3+}$, which reduces the rupture of the
+
+|
+
+CARBON ENERGY
+
+FIGURE 3 (A) The first and (B) the second CV curves of NMCT and NLMCT -1 at 0.05 mV s - 1 between 1.5 and 4.5 V. (C) The initial charge -discharge profiles of Na[La$_{x}$Ni$_{0.3}$Mn$_{0.55}$$_{-}$$_{x}$Cu$_{0.1}$Ti$_{0.05}$]O$_{2}$ ( x = 0, 0.005, 0.01, 0.2, and 0.3, named as NMCT and NLMCT -y , y = 0.5, 1, 2, and 3, respectively). (D) Rate performance of NMCT and NLMCT -y . (E) Cycle performance of NMCT and NLMCT -1 at 0.5 and 1 C between 1.5 and 4.5 V. (F) Na + diffusivity in NMCT and NLMCT -1 as a function of charge and discharge states calculated by GITT; demonstration of a single titration during GITT measurement as inset image. (G) Arrhenius plots of log i$_{0}$ versus T - 1 for the NMCT and NLMCT -1 electrodes at a potential of 2.65 V. The lines are the linear fitting results. (H) The R$_{CEI}$ and the R$_{ct}$ values of the NMCT and NLMCT -1. (I) The initial charge -discharge profile of Na ion full cell of NLMCT -1//hard carbon at 0.1 C (the inset is a digital photograph of LED strips lit by the full cell). (J) Charge -discharge profile of Na ion full cell of NLMCT -1//hard carbon. (K) Cycling performance of NLMCT -1//hard carbon at 0.5, 1, and 2 C.
+
+|
+
+surface CEI film. R$_{ct}$ in Figure 3H is strongly correlated with the state of charge (SOC). Due to the high concentration polarization of Na$^{+}$, the charge transfer ability of both electrodes is limited above 4 V and below 2.5 V. 32 Therefore, there is no significant difference in R$_{ct}$ between the two electrodes at the voltage endpoints. However, the R$_{ct}$ of NLMCT shows no significant variation between 2.5 and 2.0 V, indicating that its structural transformation at low voltage has been well suppressed.
+
+To validate the practical application of the NLMCT -1 sample, it was used as the positive electrode material, and hard carbon was employed as the negative electrode material to assemble a full cell for electrochemical testing. The first charge -discharge cycle and CV curve of the hard carbon and sodium half -cell are shown in Figure S11. As depicted in Figure 3I, the full cell was activated at 0.1 C within a voltage range of 1.5 -4.19 V. It had a high reversible efficiency of up to 80%, which means that there is still an enormous store of cyclable Na + in the full cell system after solid electrolyte interphase formation on the anode. A device with light -emitting diode (LED) strips could work normally when using the SIB as a power supply (inset of Figure 3I). In subsequent tests, the full cell exhibited specific capacities of 118, 108, 91, 78, 65, and 44 mAh g - 1 at 0.1, 0.2, 0.5, 1, 2, and 5 C, respectively (Figure 3J). Moreover, during long -cycle testing at different rates (0.5, 1, and 2 C), the full cell demonstrated excellent cycling stability, particularly at 2 C, where the capacity retention after 250 cycles was 95.5%, while the Coulombic efficiency remained ~100% (Figure 3K). All of the above results indicate that the full battery exhibits outstanding electrochemical performance and stability, making it highly promising for large -scale energy storage applications.
+
+To further explore the structural evolution of both NMCT and NLMCT -1 upon the Na + intercalation/ deintercalation process, in situ XRD was carried out during the charge -discharge process between 1.5 and 4.5 V. The XRD contour maps in Figure 4A,B clearly display the distinct structural evolution of NMCT and NLMCT -1. During Na + extraction, the (003) and (006) peaks of the initial O3 phase gradually shift to a lower angle and then divide into two peaks, indicating that the P3 phase begins to appear by two -phase reaction. However, the O3 phase is not completely transformed into the P3 phase which, however, coexists with the O3 phase in NMCT. 33 -35 Upon further charging to 4.25 V, a new phase OP2 gradually emerges, accompanied by the disappearance of the P3 phase in NLMCT -1 and the O3 and P3 phases in NMCT. According to previous reports, 36 -38 this new phase consists of alternating stacking of octahedral and prismatic layers along the c -axis and is more reversible compared to the
+
+traditionally observed monoclinic phase generated at high voltage. As the charging voltage increased to 4.5 V, the (002) peak of the OP2 phase gradually shifted toward higher angles. Compared to the NMCT, the NLMCT -1 phase had a smaller angle deviation around the (00l) crystal plane at about 16° ( Δ = 1.32° in NMCT; Δ = 0.95° in NLMCT -1). This indicated that the c -axis contraction of NLMCT -1 was greatly relieved under high voltage, as clearly demonstrated in the (00l) d -spacing patterns. This phenomenon makes it more conducive to the embedding of Na$^{+}$. There were two possible reasons for this phenomenon. First, the support effect of La might have alleviated the collapse of the structure. Second, the lattice O became stable under high voltage, which resulted in a greater electrostatic repulsion between the O atoms in the Na layers, thereby stabilizing the structure. The structural evolution in NLMCT -1 during the discharge process is opposite to that during charging, with the sequence being OP2 → P3 → O3. However, in NMCT, the P3 phase is not completely transformed into the O3 phase at 1.5 V, which indicates that the introduction of La effectively improves the reversibility of the material. In the second cycle of XRD, NMCT and NLMCT -1 demonstrate a similar structural evolution to the charge -discharge process in the first cycle. However, a notable difference was observed when charging to 4.5 V in NLMCT -1, where P3 did not completely transform into the OP2 phase. This indicates fewer phase transitions, implying the excellent structural stability of NLMCT -1. By comparing the SEM images of NMCT and NLMCT -1 electrodes before and after 150 cycles under the 1 C current density (Figure S12), it can be observed that the particles of the NMCT electrode exhibit noticeable interlayer sliding and cracks after the cycling, as indicated by the red circles. In contrast, the particles of the NLMCT -1 electrode show no significant changes compared to the initial state after the cycling, providing further evidence for the structural stability of NLMCT -1.
+
+The ex situ X -ray photoelectron spectroscopy (XPS) of NLMCT -1 was employed to explore the charge compensation in different states within the voltage window (Figure 5A). There was no obvious peak shifting or peak broadening of the La 3+ 3d and Ti 4+ 2p states during the first cycle (Figure S13), which suggests that La and Ti do not contribute to the redox process. 26,39,40 Mn, Ni, and Cu participate in the cation redox reaction and contribute most of the capacity over the whole electrochemical reaction. Therefore, the detailed analysis of cations focuses on the valence evolution of Mn, Ni, and Cu atoms. In general, the spin -orbital coupling causes the main peaks of Mn, Ni, and Cu atoms to split into 2p$_{1/2}$ and 2p$_{3/2}$. The Mn 2p core -level spectra in the NLMCT -1 (Figure 5B) show Mn 2p$_{3/2}$ and Mn 2p$_{1/2}$ binding energy
+
+|
+
+FIGURE 4 (A) In situ XRD patterns of the initial cycle of NMCT and its corresponding charge -discharge curves and (00l) d -spacing. (B) In situ XRD patterns of the initial two cycles of NLMCT -1 and its corresponding charge -discharge curves and (00l) d -spacing.
+
+located at 641.6 and 653.1 eV, consistent with that of Mn$^{3+}$. Both Mn 2p$_{3/2}$ and Mn 2p$_{1/2}$ peaks shifted toward high binding energies during the charging, which implies the appearance of the Mn 4+ state (Mn 2p$_{3/2}$ at about 642.6 and Mn 2p$_{1/2}$ 654.1 eV). 41 The change in the ratio of Mn 3+ to Mn 4+ is barely noticeable when charged above 4.0 V, which means that Mn does not compensate for charges between 4.0 and 4.5 V. While for the discharge process, Mn 4+ was continuously reduced to Mn 3+ between 3.5 and 1.5 V. The Mn 4+ content increased at the end of discharge, which is attributed to the distortion and rearrangement of the chemical environment that leads to the residual of inactive Mn species. The increase
+
+of redox inactive Mn 4+ not only suppresses the phrase transformation but also alleviates the J -T effect caused by the Mn 3+ species, leading to a positive effect on cyclability. 42 The Ni 2p spectra in the NLMCT -1 (Figure 5C) show Ni 2p$_{3/2}$ and Ni 2p$_{1/2}$ initial binding energy located at 854.4 and 871.6 eV, 43 indicating that the valence state of Ni is mainly in the +2 state. Both the Ni 2p$_{3/2}$ and Ni 2p$_{1/2}$ peaks shifted toward higher binding energies when charged to 4 V, indicating the increase of Ni 3+ and the appearance of Ni 4+ states (located at 856.1 and 858.5 eV for trivalent Ni 2p$_{3/2}$ and quadrivalent Ni 2p$_{3/2}$, respectively). 44 TheXPSspectrumofNi2pshowsa clear decrease in Ni 3+ content and an increase in Ni 4+
+
+|
+
+CARBON ENERGY
+
+FIGURE 5 Ex situ XPS results of NLMCT -1. (A) Charge -discharge profiles of NLMCT -1at15mAg - $^{1}$. Evolution of (B) Mn 2p, (C) Ni 2p, and (D) O 1s XPS spectra corresponding to the voltages in (A).
+
+content above 4 V, indicating that the oxidation peak around 4.25 V is mainly from the Ni$^{3+}$/Ni 4+ transition. During the sodiation process above 2.5 V, the intensity and broadening Ni$^{3+}$/Ni 2+ peaks appear. Notably, the peaks corresponding to Ni$^{4+}$/Ni$^{3+}$/Ni 2+ do not change much
+
+below 2.5 V, implying that the Ni cation redox reaction interval is between 2.5 and 4.5 V. 14,45 The Cu 2p spectra show that Cu is involved in charge compensation between 1.5 and 4.5 V and undergoes complete redox, which means that Cu is fully oxidized to +3
+
+valence at 4.5 V and fully reduced to +2 valence at 1.5 V (Figure S13). The O 1s spectra (Figure 5D)were employed to verify the activity of the anion and the structural properties of NLMCT -1. The peaks located at 534, 532, 531.6, and 529.6 eV can be assigned to oxidized electrolytes, 46 the generation of CO$_{3}$ 2 $^{-}$, 45 oxygenated deposited species, 44,46 and lattice oxygen, 22 respectively. The emergence of a new peak around 530.8 at 4.5 V during charging indicated the oxidation of O 2 - with the formation of peroxo -related species (O$_{2}$ 2 $^{-}$)upondesodiation. 26,47 This results in a weakening of the electrostatic repulsion between O and O, thereby leading to a reduction in the interlayer spacing between adjacent TM -O layers. This provides a great explanation for the further contraction of the d -spacing observed by in situ XRD measurements under high voltage. 48,49 The new peak completely disappeared upon discharging below 3.5 V, demonstrating that peroxo -related species (O$_{2}$ 2 $^{-}$)displayed highly reversible activity.
+
+Density functional theory (DFT) calculations were conducted to get insight into the structural stability mechanism by La substitution in NLMCT -1. A
+
+|
+
+reasonable structure was constructed, as shown in Figure S14, followed by the Bader charge, the electronic structure, and the Na + migration barrier calculations. The average charge around the O atoms in the LaO$_{6}$ octahedron in the NLMCT -1i sm o r e negative than those between the MnO$_{6}$ and NiO$_{6}$ octahedron, as shown in Figure 6A (the detailed data are in Tables S3 and S4). Furthermore, following the replacement of La, there is a decrease in the average charge surrounding the O atoms located between the MnO$_{6}$ and NiO$_{6}$ units within the minimum repeating unit of the matrix. The La substitution can not only make the bonded oxygen more negatively charged but also make the valence charges of Mn -OandNi -Oin the matrix more negative, which ensures the stability of the TM -O framework and resists excessive oxidation of O during high -voltage charge. 33,35 The density of various element states (DOS) of NMCT and NMCT -1( F i g u r e6B) show that Mn 3d of NMCT moves upward compared to the Fermi level. As the energy states above the Fermi level are empty, the shift of Mn 3d states above the Fermi energy level portion indicates that the occupation of Mn 3d orbital is
+
+FIGURE 6 (A) Average Bader charge of the O atoms in MO$_{6}$ octahedron (M = Mn/La/Ni/Cu/Ti). (B) DFT -calculated DOS of NMCT (above) and NLMCT -1 (below). (C) Schematic crystal structure of both NMCT and NLMCT -1 displaying the Na$^{+}$optimum migration pathway, and (D) the corresponding migration energy barriers in the NMCT and NLMCT -1 lattices.
+
+|
+
+decreased, thus allowing more electrons to be transferred from Mn 3d to O 2p orbitals. 50 The partial DOS results corresponding to Mn and O are shown in Figure S15. Therefore, the stronger Mn -Oionicbond in NLMCT -1 enhances the stability of the material during electrochemical reactions. Figure 6C presents the migration pathway of Na + near the La substitution site. The migration barriers ( E$_{a}$ ) of the two materials were calculated using the nudged elastic band method (Figure 6D). NLMCT -1 encounters a small E$_{a}$ of 1.0653 eV for Na + diffusion compared to 1.2289 eV for NMCT. The above result hints that the incorporation of La will efficiently increase the structural stability of the NMCT cathode material, resulting in a longer cycle life and high -rate performance.
+
+## 3 | CONCLUSION
+
+To alleviate the complex structural transformations and transition metal migration during the sodium intercalation/deintercalation process, O3 -typed NLMCT -1 was synthesized by the solid -state technology with a mass -production industrial feasibility. Owing to the larger bond strength of the La -O bond, La acts as a pillar to regulate the bond lengths of TM -O and Na -O for stabilizing the structure. Moreover, the substitution can bring more valence electrons to the nearby oxygen and thus enhance Mn -O ionic bond energy. It can not only ensure the stability of the lattice oxygen framework and the reversibility of oxygen redox but also optimize the oxygen local electronic structure resulting from La 5d and O 2p orbital mixing due to O 2p → La 5d charge transfer, resulting in O that shows better resistance to excessive oxidation under high voltage. A reversible capacity of 183 mAh g - 1 at 0.1 C was obtained while exhibiting excellent cycling stability over a wide voltage window from 1.5 to 4.5 V (84.2% capacity retention after 150 cycles at 1 C). Coupled with hard carbon as anode, the full cell demonstrated excellent cycling stability as well, the capacity retention was 95.5% after 250 cycles at 2 C. This work may provide ideas for designing a wide voltage window sodium cathode to further increase the energy density of SIBs.
+
+## ACKNOWLEDGMENTS
+
+This work was supported by the National Natural Science Foundation of China (Grant No. 52272194). This manuscript was written through the contributions of all the authors. All authors have approved the final version of the manuscript. Special thanks are due to the instrumental or data analysis from the Analytical and Testing
+
+Center, Northeastern University. The authors extend their gratitude to Shiyanjia Lab (https://www.shiyanjia. com) for their invaluable help in XPS testing.
+
+## CONFLICT OF INTEREST STATEMENT
+
+The authors declare that there are no conflicts of interests.
+
+## DATA AVAILABILITY STATEMENT
+
+Research data are not shared.
+
+## ORCID
+
+Wen -Bin Luo http://orcid.org/0000-0002-9886-5461
+
+## REFERENCES
+
+1. Dunn B, Kamath H, Tarascon J -M. Electrical energy storage for the grid: a battery of choices. Science . 2011;334(6058): 928 -935.
+
+2. Xiang X, Zhang K, Chen J. Recent advances and prospects of cathode materials for sodium -ion batteries. Adv Mater . 2015;27(36):5343 -5364.
+
+3. Zhang L -L, Wei C, Fu X -Y, et al. Ternary Ni -based Prussian blue analogue with superior sodium storage performance induced by synergistic effect of Co and Fe. Carbon Energy . 2021;3(5):827 -839.
+
+4. Zhu Z, Zhong W, Zhang Y, et al. Elucidating electrochemical intercalation mechanisms of biomass -derived hard carbon in sodium -/potassium -ion batteries. Carbon Energy . 2021;3(4): 541 -553.
+
+5. Li W, Erickson EM, Manthiram A. High -nickel layered oxide cathodes for lithium -based automotive batteries. Nat Energy . 2020;5(1):26 -34.
+
+6. Han MH, Gonzalo E, Singh G, Rojo T. A comprehensive review of sodium layered oxides: powerful cathodes for Na -ion batteries. Energy Environ Sci . 2015;8(1):81 -102.
+
+7. Fang T, Guo S, Jiang K, et al. Revealing the critical role of titanium in layered manganese -based oxides toward advanced sodium -ion batteries via a combined experimental and theoretical study. Small Methods . 2019;3(4):1800183.
+
+8. Li B, Xia D. Anionic redox in rechargeable lithium batteries. Adv Mater . 2017;29(48):1701054.
+
+9. Grimaud A, Hong WT, Shao -Horn Y, Tarascon J -M. Anionic redox processes for electrochemical devices. Nat Mater . 2016;15(2):121 -126.
+
+10. Wang Y, Zhao X, Jin J, et al. Low -cost layered oxide cathode involving cationic and anionic redox with a complete solid -solution sodium -storage behavior. Energy Storage Mater . 2022;47:44 -50.
+
+11. Liu Q, Hu Z, Li W, et al. Sodium transition metal oxides: the preferred cathode choice for future sodium -ion batteries? Energy Environ Sci . 2021;14(1):158 -179.
+
+12. Qiu B, Zhang M, Xia Y, Liu Z, Meng YS. Understanding and controlling anionic electrochemical activity in High -Capacity oxides for next generation Li -Ion batteries. Chem Mater . 2017;29(3):908 -915.
+
+13. Wang P -F, Yao H -R, Liu X -Y, et al. Ti -substituted NaNi$_{0.5}$Mn$_{0.5}$$_{-}$$_{x}$Ti$_{x}$O$_{2}$ cathodes with reversible O3 - P3 phase transition for high -performance sodium -ion batteries. Adv Mater . 2017;29(19):1700210.
+
+26379368, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cey2.574 by CochraneChina, Wiley Online Library on [17/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+14. Ren M, Zhao S, Gao S, et al. Homeostatic solid solution in layered transition -metal oxide cathodes of ssodium -ion batteries. J Am Chem Soc . 2023;145(1):224 -233.
+
+15. Zhang L, Wang C, Liu Y, et al. Suppressing interlayer -gliding and Jahn -Teller effect in P2 -type layered manganese oxide cathode via Mo doping for sodium -ion batteries. Chem Eng J . 2021;426:130813.
+
+16. Zhao Q, Butt FK, Yang M, et al. Tuning oxygen redox chemistry of P2 -type manganese -based oxide cathode via dual Cu and Co substitution for sodium -ion batteries. Energy Storage Mater . 2021;41:581 -587.
+
+17. Deng J, Luo W -B, Lu X, et al. High energy density sodium -ion battery with industrially feasible and air -stable O3 -type layered oxide cathode. Adv Energy Mater . 2018;8(5): 1701610.
+
+18. Gu Z -Y, Heng Y -L, Guo J -Z, et al. Nano self -assembly of fluorophosphate cathode induced by surface energy evolution towards high -rate and stable sodium -ion batteries. Nano Res . 2023;16(1):439 -448.
+
+19. Peng B, Chen Y, Zhao L, et al. Regulating the local chemical environment in layered O3 -NaNi$_{0.5}$Mn$_{0.5}$O$_{2}$ achieves practicable cathode for sodium -ion batteries. Energy Storage Mater . 2023;56:631 -641.
+
+20. Huang Z -X, Zhang X -L, Zhao X -X, et al. Suppressing oxygen redox in layered oxide cathode of sodium -ion batteries with ribbon superstructure and solid -solution behavior. J Mater Sci Technol . 2023;160:9 -17.
+
+21. Yang T, Li Q, Liu Z, et al. Stabilizing the deep sodiation process in layered sodium manganese cathodes by anchoring boron ions. Adv Mater . 2023;36(17):2306533.
+
+22. Huang Z -X, Zhang X -L, Zhao X -X, et al. Hollow Na$_{0.62}$K$_{0.05}$Mn$_{0.7}$Ni$_{0.2}$Co$_{0.1}$O$_{2}$ polyhedra with exposed stable {001} facets and K riveting for sodium -ion batteries. Sci China Mater . 2023;66(1):79 -87.
+
+23. Deng J, Luo W -B, Chou S -L, Liu H -K, Dou S -X. Sodium -ion batteries: from academic research to practical commercialization. Adv Energy Mater . 2018;8(4):1701428.
+
+24. Zhang Q, Gao X -W, Shi Y, et al. Electrocatalytic -driven compensation for sodium ion pouch cell with high energy density and long lifespan. Energy Storage Mater . 2021;39:54 -59.
+
+25. Zhang Q, Gu Q -F, Li Y, et al. Surface stabilization of O3 -type layered oxide cathode to protect the anode of sodium ion batteries for superior lifespan. iScience . 2019;19:244 -254.
+
+26. Xia F, Tie D, Wang J, et al. Ultrahigh rate and durable sodium -ion storage at a wide potential window via lanthanide doping and perovskite surface decoration on layered manganese oxides. Energy Storage Mater . 2021;42:209 -218.
+
+27. Zhu X, Schülli TU, Yang X, et al. Epitaxial growth of an atom -thin layer on a LiNi$_{0.5}$Mn$_{1.5}$O$_{4}$ cathode for stable Li -ion battery cycling. Nat Commun . 2022;13(1):1565.
+
+28. Yuan DD, Wang YX, Cao YL, Ai XP, Yang HX. Improved electrochemical performance of Fe -substituted NaNi$_{0.5}$Mn$_{0.5}$O$_{2}$ cathode materials for sodium -ion batteries. ACS Appl Mater Interfaces . 2015;7(16):8585 -8591.
+
+29. Yu TY, Ryu HH, Han G, Sun YK. Understanding the capacity fading mechanisms of O3 -type Na[Ni$_{0.5}$Mn$_{0.5}$]O$_{2}$ cathode for sodium -ion batteries. Adv Energy Mater . 2020;10(37):2001609.
+
+30. Luo W -B, Chou S -L, Zhai Y -C, Liu H -K. Self -assembled graphene and LiFePO$_{4}$ composites with superior high rate
+
+|
+
+capability for lithium ion batteries. J Mater Chem A . 2014;2(14):4927 -4931.
+
+31. Wang S, Chen Y, Jie Y, et al. Stable sodium metal batteries via manipulation of electrolyte solvation structure. Small Methods . 2020;4(5):1900856.
+
+32. Jung S -K, Gwon H, Hong J, et al. Understanding the degradation mechanisms of LiNi$_{0.5}$Co$_{0.2}$Mn$_{0.3}$O$_{2}$ cathode material in lithium ion batteries. Adv Energy Mater . 2014;4(1):1300787.
+
+33. Liu Z, Jiang K, Chu S, et al. Integrating P2 into O ' 3 toward a robust Mn -based layered cathode for sodium -ion batteries. J Mater Chem A . 2020;8(45):23820 -23826.
+
+34. Matsui M, Mizukoshi F, Hasegawa H, Imanishi N. Ca -substituted P3 -type Na$_{x}$Ni$_{1/3}$Mn$_{1/3}$Co$_{1/3}$O$_{2}$ as a potential high voltage cathode active material for sodium -ion batteries. J Power Sources . 2021;485:229346.
+
+35. Guo Y -J, Wang P -F, Niu Y -B, et al. Boron -doped sodium layered oxide for reversible oxygen redox reaction in Na -ion battery cathodes. Nat Commun . 2021;12(1):5267.
+
+36. Yabuuchi N, Kajiyama M, Iwatate J, et al. P2 -type Na$_{x}$[Fe$_{1/2}$ Mn$_{1/2}$]O$_{2}$ made from earth -abundant elements for rechargeable Na batteries. Nat Mater . 2012;11(6):512 -517.
+
+37. Kim JC, Kwon DH, Yang JH, et al. Direct observation of alternating octahedral and prismatic sodium layers in O3 -type transition metal oxides. Adv Energy Mater . 2020;10(31): 2001151.
+
+38. Li Z -Y, Ma X, Guo H, et al. Complementary effect of Ti and Ni incorporation in improving the electrochemical performance of a layered sodium manganese oxide cathode for sodium -ion batteries. ACS Appl Energy Mater . 2021;4(6):5687 -5696.
+
+39. Zhang X, Belharouak I, Li L, et al. Structural and electrochemical study of Al$_{2}$O$_{3}$ and TiO$_{2}$ coated Li$_{1.2}$Ni$_{0.13}$Mn$_{0.54}$Co$_{0.13}$O$_{2}$ cathode material using ALD. Adv Energy Mater . 2013;3(10):1299 -1307.
+
+40. Hwang JY, Kim J, Yu TY, Sun YK. A new P2 -type layered oxide cathode with extremely high energy density for sodium -ion batteries. Adv Energy Mater . 2019;9(15):1803346.
+
+41. Zhang X, Qiao Y, Guo S, et al. Manganese -based Na -rich materials boost anionic redox in high -performance layered cathodes for sodium -ion batteries. Adv Mater . 2019;31(27): 1807770.
+
+42. Wang L, Sun Y -G, Hu L -L, et al. Copper -substituted Na$_{0.67}$Ni$_{0.3}$$_{-}$$_{x}$Cu$_{x}$Mn$_{0.7}$O$_{2}$ cathode materials for sodium -ion batteries with suppressed P2 -O2 phase transition. J Mater Chem A . 2017;5(18):8752 -8761.
+
+43. Yang J, Tang M, Liu H, et al. O3 -type layered Ni -rich oxide: a high -capacity and superior -rate cathode for sodium -ion batteries. Small . 2019;15(52):1905311.
+
+44. Sathiya M, Rousse G, Ramesha K, et al. Reversible anionic redox chemistry in high -capacity layered -oxide electrodes. Nat Mater . 2013;12(9):827 -835.
+
+45. Koga H, Croguennec L, Ménétrier M, Mannessiez P, Weill F, Delmas C. Different oxygen redox participation for bulk and surface:apossibleglobalexplanationforthecyclingmechanismof Li$_{1.20}$Mn$_{0.54}$Co$_{0.13}$Ni$_{0.13}$O$_{2}$. JPowerSources . 2013;236:250 -258.
+
+46. Wei H, Huang Y, Tang L, et al. Lithium -rich manganese -based cathode materials with highly stable lattice and surface enabled by perovskite -type phase -compatible layer. Nano Energy . 2021;88:106288.
+
+|
+
+47. Assat G, Foix D, Delacourt C, Iadecola A, Dedryvère R, Tarascon J -M. Fundamental interplay between anionic/ cationic redox governing the kinetics and thermodynamics of lithium -rich cathodes. Nat Commun . 2017;8(1):2219.
+
+48. Xie Y, Wang H, Xu G, et al. In operando XRD and TXM study on the metastable structure change of NaNi$_{1/3}$Fe$_{1/3}$Mn$_{1/3}$O$_{2}$ under electrochemical sodium -ion intercalation. Adv Energy Mater . 2016;6(24):1601306.
+
+49. Zhang SS. Problems and their origins of Ni -rich layered oxide cathode materials. Energy Storage Mater . 2020;24:247 -254.
+
+50. Ma Z, Zhao Z, Xu H, et al. A queue -ordered layered Mn -based oxides with al substitution as high -rate and high -stabilized cathode for sodium -ion batteries. Small . 2021;17(6):2006259.
+
+## SUPPORTING INFORMATION
+
+Additional supporting information can be found online in the Supporting Information section at the end of this article.
+
+How to cite this article: Yang D, Gao X -W, Gao G, et al. Local electronic structure constructing of layer -structured oxide cathode material for high -voltage sodium -ion batteries. Carbon Energy . 2024;e574. doi:10.1002/cey2.574

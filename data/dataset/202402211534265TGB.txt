@@ -1,0 +1,267 @@
+## 1. Introduction
+
+Polymer-based sodium metal battery (SMB) is considered as one of the most promising next-generation energy storage devices because of its high theoretical energy density, low cost, and good safety. [1-5] However, sodium (Na) metal anode always faces the issue of low cyclic stability. [6] The naturally-formed solid electrolyte interface (SEI) on Na metal in gel polymer electrolyte (GPE) always contains large number of organic species with low ionic conductivity, causing the dendrite growth and side reactions. It not only consumes active Na metal to form a thick SEI layer with low ion conductivity, but also results in the low Coulombic efficiency of Na metal electrode. [7-9] Exploring an advanced SEI on
+
+Q. Zhang, T. Bian, Z. Liu, C. Wang, X. Song, R. Shi, Y. Zhao Key Lab for Special Functional Materials of Ministry of Education National & Local Joint Engineering Research Center for High-efficiency Display and Lighting Technology School of Materials Science and Engineering
+
+Collaborative Innovation Center of Nano Functional Materials and Applications
+
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/aenm.202303791
+
+DOI: 10.1002/aenm.202303791
+
+Na metal electrodes play an important role to promote the practical use of GPESMBs. [10]
+
+Researchers have devoted great efforts to improve the cyclic stability of Na metal such as constructing in situ SEI with inorganic species through regulating the solvation structure of liquid electrolyte, [11-13] pretreating Na with metal alloying to decrease the nucleation potential of Na metal and so on. [14-16] For example, Xia et al. used sodium nitrate as an additive to construct a N-rich SEI layer on the surface of Na metal; Zhou et al. used SnF$_{2}$ to react with molten Na to obtain aN a $_{x}$Sn alloys for extending cycle life of Na metal. [17] Although those methods can improve the stability of Na metal, the limited ion conductivity of SEI with
+
+high content of organic species seems to be the crucial reason for the low cyclic stability of Na metal. [18] Another shortage for this technique may be the use of liquid electrolytes with low safety for SMBs. [19-22] Constructing GPE with network polymers showed great promise to improve the battery safety, which is also effective to extend the cycle life of Na metal. [23] It is due to the robustness of GPE facilitates to inhibit the dendrite growth. [24] For example, Wu et al. introduced ethoxylated trimethylolpropane triacrylate (ETPEA) monomer into liquid carbonate electrolytes for constructing ETPEA-based quasi-solid-state electrolyte, the Na metal plating/stripping behavior becomes more uniform due to the increased mechanical strength of network Polymer-based GPE. [25] However, the SEI layer derived from network polymer or electrolyte additive is still not enough for sustaining the long-term stability of Na metal. [14] Therefore, the advanced strategy to construct GPE with high mechanical strength and the derived SEI with good ionic conductivity is highly potential to realize high performance of GPE-SMBs with good safety. [26-29]
+
+Herein, we proposed a new strategy that the 3D network polymer, polybis(3-(2-methylaziridin-1-yl) propanoate (PBMP), with low-valence N element can react with Na metal to produce Na$_{3}$N and NaN$_{x}$O$_{y}$ species rich SEI with high ionic conductivity. The PBMP-based GPE not only has a high ionic conductivity to promote Na + fast transport but also has a high mechanical strength to inhibit Na dendrite growth. It enables long cyclic stability for Na metal in the GPE-SMBs even with a high an area capacity of 5 mAh cm - $^{2}$. Importantly, different from the high valance N
+
+www.advenergymat.de
+
+Figure 1. a) Schematic illustration of Na metal anode with PBMP-based SEI. b)The molecular structure from solvent, TPA, and BMP electrolyte. c) Binding energies comparison of Na-BMP, Na-TPA, Na-FEC, and corresponding structures. d) Charge density difference and electron donations comparison of Na-BMP, Na-TPA, and Na-FEC. e) LUMO energy comparison of BMP, TPA, and FEC molecules.
+
+element from nitrate salt additives, the N element in PBMP has a low valance and shows the priority to react with Na metal. As a result, the cycling stability of PBMP-based Na/GPE/Na$_{3}$V$_{2}$(PO$_{4}$)$_{3}$ full battery shows an ultrahigh capacity retention of 97.8% after 2000 cycles under 5 C (2 mA cm - $^{2}$), which is the top-level of GPESMB. It is believed that this work provides a new strategy to construct stable SEI by regulating functional groups of network polymer for building high-performance GPE-SMBs.
+
+Two types of 3D network polymers are used to construct GPE ( Figure 1 a,b). The first one is poly(bis(3-(2-methylaziridin-1-yl) propanoate) (PBMP), and the second one is poly (trimethylolpropane triacrylate) (PTPA). PTPA was obtained by in situ radical initiated polymerization in the presence of 2,2 ' -azobis(2methylpropionitrile) (AIBN). [16] PBMP was obtained by in situ cation-initiated polymerization in the presence of NaPF$_{6}$,i n which phosphorus pentafluoride was generated by the heat decomposition of NaPF$_{6}$ as an initiator for polymerization (Figures S1-S3, Supporting Information). The photos of the precursor solution before and after polymerization are shown in Figure S1c,d
+
+(Supporting Information). The successful synthesis of PTPA and PBMP is confirmed by Fourier-transform infrared (FTIR) spectra (Figure S1e, Supporting Information). PBMP-based GPE is prepared by polymerizing BMP in the fluoroethylene carbonate (FEC) and propylene carbonate (PC) (5:95 by volume, 1 m NaPF$_{6}$) based electrolyte, and the thickness of PBMP-based GPE containing glassy fiber membrane is ≈ 25 µ m(FigureS1f, Supporting Information). Liquid electrolyte (LE) composed of FEC and PC (5:95 by volume, 1 m NaPF$_{6}$) was also used as reference electrolyte. Moreover, LE with 0.1 m tetraethylammonium nitrate (TEA) was also used as reference electrolyte to prepare Na$_{3}$NandNaN$_{x}$O$_{y}$ contained SEI. [30]
+
+To evaluate the chemical reactions between the components of electrolyte and Na metal, the density functional theory (DFT) calculations were carried out to identify the interaction. Compared with the binding energies of Na-PC ( - 0.31 eV), NaFEC ( - 0.25 eV), and Na-TPA ( - 0.37 eV), Na-BMP has a lower value ( - 1.02 eV) (Figure 1c; Figure S4, Supporting Information). It suggests BMP is preferentially reduced. Bader analysis is
+
+www.advenergymat.de
+
+Figure 2. a) Cycle stability test of Na//Na symmetrical batteries at 0.5 mA cm - 2 and 0.5 mAh cm - $^{2}$. b) Electron impedance spectroscopy (EIS) test of Na//Na symmetrical batteries after 10 cycles. c) Cycle stability test of Na//Na symmetrical batteries at 0.5 mA cm - 2 and 5 mAh cm - $^{2}$. d) Polarization curves of Na//Na batteries at 0.5 mA cm - 2 and 5 mAh cm - $^{2}$. The e) rate test and f) histogram polarization voltage of Na//Na symmetrical batteries.
+
+intuitive to verify this point again. As shown in Figure 1d, the electron donation from Na to BMP is 0.91 e, which is higher than those for Na to TEA (0.868 e), Na to TPA (0.899 e), Na to FEC (0.90 e), and Na to PC (0.889 e, Figure S5, Supporting Information). It means that BMP has the priority to react with Na metal. It validates that the low-valence N element of BMP easily obtain electron from Na metal. We further calculated the lowest unoccupied molecular orbital (LUMO) of BMP, TEA, TPA, FEC, and PC. As shown in Figure 1e and Figure S6 (Supporting Information), PBMP has a lower LUMO (0.19 eV) compared with other chemicals (TPA: 0.91 eV, PC: 1.0 eV, FEC: 0.52 eV). The results are consistent with above DFT analysis Compared with those of LE and GPE(PTPA), GPE(PBMP) with tertiary amine group is priority reacts with Na metal, which is possible to produce a high ionic conductivity and high mechanical strength SEI.
+
+To confirm the superiority of GPE(PBMP) for the cyclic stability of Na metal, we assembled various types batteries to confirm it (Figure S7, Supporting Information). The Na//Na cells with GPE(PBMP) can cycle stably more than 1100 h at a current density of 0.5 mA cm - $^{2}$, much longer than LE (240 h) and GPE(PTPA) (550 h, Figure 2 a). Electrochemical impedance spectroscopy (EIS) of assembled cells shows that Na//Na battery with GPE(PBMP) has the lower charge transfer resistance (900 Ω )after cycles than those with LE (3420 Ω ) and GPE(PTPA) (2020 Ω , Figure 2b). As the cycle number increases, the resistance quickly increases due to the increased thickness of SEI, ascribing to the fast consumption of GPE(PTPA). In contrast, there is a little change for GPE(PBMP) after 100 cycles, indicating the less consumption of electrolytes (Figure S8, Supporting Information). The result indicates more stable SEI produced on Na anode from GPE(PBMP) than those from LE and GPE(PTPA). Moreover, the
+
+www.advenergymat.de
+
+Figure 3. The mechanism analysis of SEI layer decomposition. a) Cycle stability test of Na//Na symmetrical batteries at 1 mA cm - 2 and 1 mAh cm - $^{2}$. b) X-ray photoelectron spectroscopy (XPS) depth etching element analysis of SEI layers with LE(TEA) and GPE(PBMP) on Na electrodes. 3D tomography of Na metal surface after cycling with c) LE(TEA) and d) GPE(PBMP) derived from TOF-SIMS. e) TOF-SIMS sputtering profiles of corresponding segments after cycling.
+
+GPE(PBMP) based Na//Na symmetrical batteries can operate stably even at the current densities of 0.5 and 1.0 mA cm - 2 with area capacity of 5 mAh cm - 2 (Figure 2c; Figure S9, Supporting Information), overcoming the failure operation of GPE(PTPA) and LE (Figure 2d). Notably, the cycle life ranks at the top-level among the reported data at the similar current density and capacity (Figure S10, Supporting Information). Moreover, the Na//Cu cells with GPE(PBMP) were assembled to check the Coulombic efficiency (Figure S11, Supporting Information), and a CE of ≈ 93% is achieved. To evaluate the mechanical strength of two GPEs, we primarily tested the values by a universal material testing machine. The mechanical strength increases to ≈ 900 kPa, when the volume compression is 30% of the original state, and the value of GPE(PBMP) is close to that of GPE(PTPA). [31] The result indicates two GPEs have similar ability to inhibit dendrite growth (Figure S12, Supporting Information). We measured the ionic conductivity by testing the resistance of stainless-steel//stainlesssteel symmetrical cells. GPE(PBMP) has an ionic conductivity of ≈ 1.8 mS cm - $^{1}$, higher than that of GPE(PTPA) ( ≈ 0.62 mS cm - $^{1}$) (Figure S13, Supporting Information). To demonstrate the electrochemical stability of GPEs, we assembled the Na//stainlesssteel batteries for the cyclic voltammetry (CV) test (Figure S14, Supporting Information). Compared with LE, GPEs have an antioxidation potential up to 5 V versus Na $^{+}$/Na.
+
+To evaluate GPE(PBMP) for rate capability, we tested Na//Na symmetrical batteries at different current density.
+
+Na/GPE(PBMP)/Na can cycle stably at current densities of 0.2, 0.5, 1, 2, 3, and 5 mA cm - 2 with a low polarization voltage of 22, 28, 42, 56, 77, 147 and 140 mV (Figure 2e,f). In contrast, the increase of polarization voltage with LE and GPE(PTPA) indicates the lower utilization of inhomogeneous Na, poor electrochemical reversibility of Na plating/stripping and unstable SEI. [27] It leads to the short-circuit of batteries at a current density of 5 mAh cm - 2 (Figure S15, Supporting Information).
+
+The key parameter for advanced SEI structure is the chemical species for the long-term cycle stability of Na metal. To check it more carefully, we used tetramethylammonium nitrate (TEA) as electrolyte additive to improve the Na$_{3}$NandNaN$_{x}$O$_{y}$ in SEI layer. [30] Our previous research indicated that TEA can be an advanced additive to improve the content of Li$_{3}$N and LiN$_{x}$O$_{y}$ in SEI layer, resulting in the substantial improved cyclic stability of Li metal. Figure 3 a compared the cyclic stability of TEA supported LE, which is denoted as LE(TEA). Compared with PBMP-based Na//Na symmetrical cells, LE(TEA) based cell shows much lower cyclic stability. Furthermore, we check the chemical composition of SEI by X-ray photoelectron spectroscopy (XPS) with etching technique. XPS N 1s peaks at the binding energy of 398.2 and 399.3 eV can be assigned to Na$_{3}$NandNaN$_{x}$O$_{y}$, which can be detected for both LE(TEA) and GPE(PBMP) derived SEI (Figure S16, Supporting Information). [31] As known, NaF has a high Young's modulus, which has the positive effect on the deposited morphology and cyclic stability of Na metal. [32,33]
+
+Figure 4. Surface morphology characterization of Na electrodes after Na//Na symmetric cell cycled. SEM images of surface, cross-section, and corresponding element distributed with a,b,e) GPE(PBMP) and c,d,g) LE of Na electrodes after cycled. Distribution of Na + on the Na surfaces with f) GPE(PBMP) and h) LE at steady state via COMSOL Multiphysics simulation. In situ optical microscopy observation of Na metal electrochemical deposition with i,j) GPE(PBMP) and k,l) LE. m,n) In situ DEMS result of mass signals m/z 2 (H$_{2}$)and44(CO$_{2}$) with LE and GPE(PBMP). The distribution of Young's modulus on the surface of o) GPE(PBMP)-SEI and p) LE-SEI. (The scale bar is 5 µ m for a,c, 200 µ m for b,e,d,g and i-l).
+
+AsshowninFigureS17 (Supporting Information), more NaF and less oxidic organic can be detected in the GPE(PBMP) derived SEI than that from LE(TEA). However, the contents of the N element show a huge difference. Compared with the content of N in LE(TEA) based SEI ( ≈ 0.3 mol%), GPE(PBMP) based SEI shows ≈ 1.5 mol% content of N (Figure S18, Supporting Information). The highly conducive and concentrated Na$_{3}$Nand NaN$_{x}$O$_{y}$ species in SEI provide a fast Na + transport route to inhibit the dendrite growth and side reactions, guaranteeing the long-term cyclic stability. [34,35] To visually analyze the chemical compositions and their spatial structure of SEI after cycling, their 3D tomography was investigated by time-of-flight secondary ion mass spectrometry (TOF-SIMS) (Figure 3c -e). C - and CO$_{3}$ 2 - are observed in the LE, LE(TEA), and GPE(PBMP) derived SEI (Figure S19, Supporting Information). A thin layer with rich N, C - and CO$_{3}$ 2 - species is observed in the GPE(PBMP) based SEI (Figure 3c), while a thick and inhomogeneous layer of N, C - and CO$_{3}$ 2 - species in the LE(TEA) based SEI (Figure 3d). Compared with the thick LE(TEA) derived SEI layer with Nbased species, only a thin SEI layer with rich N is detected within GPE(PBMP). It indicates that tertiary amine groups of GPE(PBMP) effectively generate ion conductive species in the SEI layer, which can benefit for uniform Na stripping and plating behaviors. [35-37]
+
+To confirm the morphology of SEI, the surface of Na metal was investigated by scanning electron microscopy (SEM). As shown in Figure 4 a, the surface of Na metal with GPE(PBMP) after 10 cycles is flat and smooth, while the surface with LE derived SEI is loose and porous (Figure 4c). The surface element mapping images were also shown in Figures S20 and S21 (Supporting Information). The content of N and F elements is relatively high, indicating that more inorganic materials are produced on the surface. The cross-section images show that the thickness of SEI layer of Na electrode with PBMP is only 8 µ m(Figure4b), much thinner than that with LE (110 µ m) (Figure 4d). The corresponding crosssection images of Na elemental mapping images was also shown in Figure 4e,g. A thin and dense SEI layer is benefited from Na + depositing and stripping. Furthermore, the Na + deposition behavior was monitored by using COMSOL Multiphysics, and the transient electrochemical deposition process on the surface of sodium metal electrodes was calculated using the cubic current distribution (Tertiary Current Distribution) module and the phase field module in a simplified 2D model. Under the electrochemical reduction process (Na + + e - = Na), the current characteristics follow the Bulter-Volmer equation and Nernst equation. The result show that the concentration distributes and diffusion flux of electron between Na and GPE(PBMP) presents the good homogeneity from initial to steady state (0-7200 s, Figure 4f,h).
+
+Na
+
+0
+
+O-Nat
+
+CHF=CH2+ Na
+
+0 + Na
+
+0 +h
+
+NaF
+
+H2
+
+NaF + CO2 + CH2CHO
+
+(3)
+
+(4)
+
+CH2CFO
+
+polymeric products
+
+CH2CHO
+
+polymeric products
+
+0+-R3N + Na"
+
+NaxOy + NazO+NaR+NaF+NaCH;
+
+(8)
+
+e
+
+O
+
+e
+
+Nat
+
+NazCO3
+
+NaF + NaCH3
+
+(10)
+
+Scheme 1. Possible reactions of reduction of solvent on Na electrodes. Chemical reactions 1-7 correspond to the electrolyte is LE, and chemical reactions 8-10 correspond to the electrolyte is GPE(PBMP).
+
+In contrast, Na + and electron with LE locally concentrate, resulting in an extremely nonuniform distribution after 7200 s (Figures S22 and S23, Supporting Information). It verifies that Na metal with GPE(PBMP) can uniform plating/stripping to keep an ultrahigh stability.
+
+To check the protection process of SEI on the cyclic stability of Na electrode, we assembled Na//Na cells and observed the Na deposition behavior by using in situ optical microscopy (OM) with a current density of 1 mA cm - $^{2}$.AsshowninFigure4i,j, the surface of Na metal with PBMP keeps smooth and flat during deposition process. [37] In contrast, a large number of dendrites and resultant gases quickly appear on the surface of Na metal with LE (Figure 4k,l). To clarify gas products, we used in situ differential electrochemical mass spectrometry (DEMS) (Figure 4m,n; Figure S24, Supporting Information). A high quantity of hydrogen (H$_{2}$) and carbon dioxide (CO$_{2}$) are detected in the LE-based cell. [38] By comparison, almost no gas is detected
+
+in GPE(PBMP) based cells. [39] The Young's modulus distribution of SEI is quantitatively evaluated by atomic force microscope (AFM). GPE(PBMP) based SEI shows an average value of 6.3 GPa, higher than that of LE-based SEI (3.4 GPa) (Figure 4o,p). It might be due to that more inorganic species are generated from GPE(PBMP), and the result also proves that the SEI from GPE(PBMP) has good mechanical strength to inhibit dendrite growth and side reaction. [40-42]
+
+Combining with OM observation, DEMS, and AFM analysis, we propose the possible reaction decomposition pathway of carbonate solvents ( Scheme 1 ). [15] FEC is one of the most effective co-solvents to construct SEI for better cycling of metal electrode, due to its possibility to polymerize through both the carbonate group via surface nucleophilic attacks and the double bond formed via HF elimination by surface basic species (Scheme 1, reactions 1-3). Possible chemical reactions form the reactive cation radical FEC · $^{+}$, which may attack the carbonyl
+
+(6)
+
+Figure 5. The battery performance of SMBs. Charging and discharging curves of Na//NVP full batteries with a) GPE(PBMP) and b) LE at 1, 5, and 20 C. c) Histogram of special capacity corresponding Na//NVP full batteries with LE and GPE(PBMP) at different rates. d,f) Cyclic stability of Na//NVP full battery with LE and GPE(PBMP) at 0.5 and 2 mA cm - $^{2}$. e,g) Charging and discharging curves of Na//NVP full batteries with GPE(PBMP) and LE at different cycles.
+
+carbon of FEC to form aldehyde and oligomers of alkyl carbonates, are shown in Scheme 1, reactions 4-7. Advantageous NaF and disadvantageous H$_{2}$,CO 2 can be formed during cell cycling with LE. In the PBMP based GPE, NaN$_{x}$O$_{y}$ and Na$_{3}$Nprimarily form, and a small amount of organic species form, and no highly negative effect exists (Scheme 1, reactions 8-10). The nitride SEI can facilitate Na + diffusion and improve the kinetics of the Na plating process, as indicated in the discussion of XPS results. Then the cell with GPE(PBMP) shows the long-term cyclic stability without limited dendrite growth and side reactions. [43-45]
+
+In order to further evaluate the practical use of GPE(PBMP), the full batteries are assembled with sodium vanadium phosphate (NVP) as cathode material ( Figure 5 a-c). At the rate of 0.5, 1, 2, 5, 10, 15 and 20 C, the specific discharge capacities are 105.2, 102.3, 100.9, 98.6, 95.1, 89.7, and 83.6 mAh g - $^{1}$,respectively, higher than that of Na/LE/NVP (101.2, 96.3, 95.9, 93.1, 87.4, 80.1 and 74.1 mAh g - $^{1}$, respectively) (Figure S25, Supporting Information). It proves the formation of advanced SEI layer in the presence of GPE(PBMP) for the high ionic conductivity and excellent rate performance of the Na electrode. The GPESMBs with GPE(PBMP) show the cell capacity retention rate of
+
+as high as 91.7% at the current rate of 5 C after 6000 cycles, much better than Na/LE/NVP (Figure 5d). Na/GPE(PBMP)/ NVP cell exhibits a highly capacity retention ratio reaches to 97.8% at a current density of 2 mA cm - 2 after 2000 cycles. (Figure 5e). The discharge-charge curve in Figure 5f,g shows that the specific capacity of GPE(PBMP) and LE after 2023 cycles are 91 and 8 mAh g - $^{1}$, respectively, which proves the SEI stability of GPE(PBMP). Such a high cyclic stability of Na metal electrode and GPE-SMB have highly competitive to the ever-reported data in the literatures (Figure S26, Supporting Information). [15,29,43-49] We increase the loading of the cathode, it also can keep a capacity retention rate of 98.1% after 300 cycles (Figure S27, Supporting Information). We also tested the flame retardancy condition by using the combustion experiment (Figure S28, Supporting Information). It shows that the diaphragm with LE burns rapidly, but GPE(PBMP) is difficult to ignite, showing a good flame-retardant capability. The 3D network of PBMP has a good locking ability to liquid medium due to their strong interaction with high contact area, which can inhibit the liquid volatilization. Consequently, GPE(PBMP) becomes less flammable, and battery safety is improved.
+
+16146840, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aenm.202303791 by Henan University, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+www.advancedsciencenews.com
+
+www.advenergymat.de
+
+## 2. Conclusion
+
+In this work, different from the ever-reported in situ SEI from electrolyte additive or polymer, we prepare tertiary-amine groupbased network polymer to construct an ion conductive and high mechanical strength SEI for GPE-SMBs. Thanks for the low valance state of N in PBMP polymer, a preferable chemical reaction between N and Na metal generates the thin and rich Na$_{3}$N and NaN$_{x}$O$_{y}$ species in SEI, resulting in the extended cycle life of Na metal. As a result, the capacity retention rate of NVP-based GPE-SMBs reaches as high as 97.8% after 2000 cycles at current density of 5 C (2 mA cm - $^{2}$). This work provides a new strategy for constructing an advanced SEI from the viewpoint of network polymer design for stable GPE-SMBs.
+
+## Supporting Information
+
+Supporting Information is available from the Wiley Online Library or from the author.
+
+## Acknowledgements
+
+The authors acknowledge the National Natural Science Foundation of China (U22A20437), the Joint Fund of Science and Technology R&D Plan of Henan Province (222301420005), the Program for Innovative Research Team (in Science and Technology) in University of Henan Province (24IRTSTHN001) for financial support. The authors thank Ms. Jiawei Zhang for providing invaluable assistance with the AFM analysis. The authors extend their gratitude to Ms. Jingxuan Li from Shiyanjia Lab (www.shiyanjia.com) for providing invaluable assistance with the XPS analysis.
+
+## Conflict of Interest
+
+The authors declare no conflict of interest.
+
+## Author Contributions
+
+Q.Z. developed the concept. Q.Z., T.B., and Z.L. carried out the experiments. Q.Z., T.B., Z.L., C.W., X.J., X.S., R.S., and Y.Z. discussed the results. Y.Z. conceived the project. Q.Z. and Y.Z. wrote the manuscript. All of the authors discussed the results and reviewed the manuscript.
+
+## Data Availability Statement
+
+Research data are not shared.
+
+## Keywords
+
+dendrite-free, polymer, sodium metal, solid electrolyte interphase, tertiaryamine
+
+Received: November 7, 2023
+
+Revised: January 11, 2024
+
+Published online:
+
+[1] J. Chen, Y. Peng, Y. Yin, M. Liu, Z. Fang, Y. Xie, B. Chen, Y. Cao, L. Xing, J. Huang, Y. Wang, X. Dong, Y. Xia, Energy Environ. Sci. 2022 , 15 , 3360.
+
+[2] H. S. Hirsh, Y. Li, D. H. S. Tan, M. Zhang, E. Zhao, Y. S. Meng, Adv. Energy Mater. 2020 , 10 , 2001274.
+
+[3] C. Delmas, Adv. Energy Mater. 2018 , 8 , 1703137.
+
+[4] R. Usiskin, Y. X. Lu, J. Popovic, M. Law, P. Balaya, Y. S. Hu, J. Maier, Nat. Rev. Mater. 2021 , 6 , 1020.
+
+[5] J. Wang, Y. Yamada, K. Sodeyama, E. Watanabe, K. Takada, Y. Tateyama, A. Yamada, Nat. Energy 2018 , 3 , 22.
+
+[6] Z.Lu,H.Yang,Y.Guo,P.He,S.Wu,Q.-H.Yang,H.Zhou, Angew. Chem., Int. Ed. 2022 , 61 , e202206340.
+
+[7] W. Liu, P. Liu, D. Mitlin, Adv. Energy Mater. 2020 , 10 , 2002297.
+
+[8] Y. Li, Q. Zhou, S. Weng, F. Ding, X. Qi, J. Lu, Y. Li, X. Zhang, X. Rong, Y. Lu, X. Wang, R. Xiao, H. Li, X. Huang, L. Chen, Y.-S. Hu, Nat. Energy 2022 , 7 , 511.
+
+[9] S. Choudhury, S. Wei, Y. Ozhabes, D. Gunceler, M. J. Zachman, Z. Tu, J. H. Shin, P. Nath, A. Agrawal, L. F. Kourkoutis, T. A. Arias, L. A. Archer, Nat. Commun. 2017 , 8 , 898.
+
+[10] C. Zhou, S. Bag, V. Thangadurai, ACS Energy Lett. 2018 , 3 , 2181.
+
+[11] X.Zhou,Z.Li,W.Li,X.Li,J.Fu,L.Wei,H.Yang,X.Guo, Adv. Funct. Mater. 2023 , 33 , 2212866.
+
+[12] P. Li, Z. Jiang, X. Huang, X. Lu, J. Xie, S. Cheng, Nano Energy 2021 , 89 , 106396.
+
+[13] C. Zhu, D. Wu, Z. Wang, H. Wang, J. Liu, K. Guo, Q. Liu, J. Ma, Adv. Funct. Mater. 2023 , 34 , 2214195.
+
+[14] Q. Yu, Q. Lu, X. Qi, S. Zhao, Y.-B. He, L. Liu, J. Li, D. Zhou, Y.S. Hu, Q.-H. Yang, F. Kang, B. Li, Energy Storage Mater. 2019 , 23 , 610.
+
+[15] X. Zheng, Z. Cao, Z. Gu, L. Huang, Z. Sun, T. Zhao, S. Yu, X. L. Wu, W. Luo, Y. Huang, ACS Energy Lett. 2022 , 7 , 2032.
+
+[16] M. Yang, X. Chang, L. Wang, X. Wang, M. Gu, H. Huang, L. Tang, Y. Zhong, H. Xia, Adv. Mater. 2023 , 35 , 2208705.
+
+[17] X. Zheng, Z. Gu, J. Fu, H. Wang, X. Ye, L. Huang, X. Liu, X. Wu, W. Luo, Y. Huang, Energy Environ. Sci. 2021 , 14 , 4936.
+
+[18] Y. Zhong, Q. Shi, C. Zhu, Y. Zhang, M. Li, J. S. Francisco, H. Wang, J. Am. Chem. Soc. 2021 , 143 , 13929.
+
+[19] X. Liu, X. Zheng, Y. Deng, X. Qin, Y. Huang, Y. Dai, W. Wu, Z. Wang, W. Luo, Adv. Funct. Mater. 2022 , 32 , 2109378.
+
+[20] Y. Su, X. Rong, A. Gao, Y. Liu, J. Li, M. Mao, X. Qi, G. Chai, Q. Zhang, L. Suo, L. Gu, H. Li, X. Huang, L. Chen, B. Liu, Y.-S. Hu, Nat. Commun. 2022 , 13 , 4181.
+
+[21] D. Ruiz-Martínez, A. Kovacs, R. Gómez, Energy Environ. Sci. 2017 , 10 , 1936.
+
+[22] H. Lai, Y. Lu, W. Zha, Y. Hu, Y. Zhang, X. Wu, Z. Wen, Energy Storage Mater. 2023 , 54 , 478.
+
+[23] H.M.Law,J.Yu,S.C.T.Kwok,G.Zhou,M.J.Robson,J.Wu,F.Ciucci, Energy Storage Mater. 2022 , 46 , 182.
+
+[24] D. Lei, Y.-B. He, H. Huang, Y. Yuan, G. Zhong, Q. Zhao, X. Hao, D. Zhang, C. Lai, S. Zhang, J. Ma, Y. Wei, Q. Yu, W. Lv, Y. Yu, B. Li, Q.-H. Yang, Y. Yang, J. Lu, F. Kang, Nat. Commun. 2019 , 10 , 4244.
+
+[25] P.Wen,P.Lu,X.Shi,Y.Yao,H.Shi,H.Liu,Y.Yu,Z.-S.Wu, Adv. Energy Mater. 2021 , 11 , 2002930.
+
+[26] W. Zhang, J. Zhang, X. Liu, H. Li, Y. Guo, C. Geng, Y. Tao, Q.-H. Yang, Adv. Funct. Mater. 2022 , 32 , 2201205.
+
+[ 2 7 ]Z .T u ,S .C h o u d h u r y ,M .J .Z a c h m a n ,S .W e i ,K .Z h a n g ,L .F . Kourkoutis, L. A. Archer, Joule 2017 , 1 , 394.
+
+[28] Y. Wu, L. Xie, H. Ming, Y. Guo, J.-Y. Hwang, W. Wang, X. He, L. Wang, H. N. Alshareef, Y.-K. Sun, J. Ming, ACS Energy Lett. 2020 , 5 , 807.
+
+[29] X. Xu, K. Lin, D. Zhou, Q. Liu, X. Qin, S. Wang, S. He, F. Kang, B. Li, G. Wang, Chem 2020 , 6 , 902.
+
+[30] Z. Guo, X. Song, Q. Zhang, N. Zhan, Z. Hou, Q. Gao, Z. Liu, Z. Shen, Y. Zhao, ACS Energy Lett. 2022 , 7 , 569.
+
+[31] a) X. Wang, L. Fu, R. Zhan, L. Wang, G. Li, M. Wan, X. Wu, Z. Seh, L. Wang, Y. Sun, ACS Appl. Mater. Interfaces 2021 , 13 , 13354. b) Y. Yan, Z.Liu,T.Wan,W.Li,Z.Qiu,C.Chi,C.Huang,G.Wang,B.Qi,Y.Yan, T. Wei, Z. Fan, Nat. Commun. 2023 , 14 , 3066.
+
+## www.advancedsciencenews.com
+
+[32] H. Liu, X. Zheng, Y. Du, M. Chaki Borrás, K. Wu, K. Konstantinov, W. Pang, S. Chou, H. Liu, S. Dou, C. Wu, Adv. Mater. 2023 , 2307645.
+
+[33] C. Luo, T. Shen, H. Ji, D. Huang, J. Liu, B. Ke, Y. Wu, Y. Chen, C. Yan, Small 2020 , 16 , 1906208.
+
+[34] Z. Xu, Z. Guo, R. Madhu, F. Xie, R. Chen, J. Wang, M. Tebyetekerwa, Y.-S. Hu, M.-M. Titirici, Energy Environ. Sci. 2021 , 14 , 6381.
+
+[35] Y. Zhang, F. Wu, Y. Huang, S. Li, C. Li, Z. Wang, M. Xie, J. Mater. Chem. A 2022 , 10 , 11553.
+
+[36] N. Mittal, S. Tien, E. Lizundia, M. Niederberger, Small 2022 , 18 , 2107183.
+
+[37] Y .Li,S.Halacoglu,V .Shreyas,W .Arnold,X.Guo,Q.Dou,J.B. Jasinski, B. Narayanan, H. Wang, Chem. Eng. J. 2022 , 434 , 134679.
+
+[38] X. Chen, X. Shen, B. Li, H.-J. Peng, X.-B. Cheng, B.-Q. Li, X.-Q. Zhang, J.-Q. Huang, Q. Zhang, Angew. Chem., Int. Ed. 2018 , 57 , 734.
+
+[39] X. Liu, X. Zheng, Y. Dai, B. Li, J. Wen, T. Zhao, W. Luo, Adv. Mater. 2023 , 35 , 2304256.
+
+[40] C. Wang, A. C. Thenuwara, J. Luo, P. P. Shetty, M. T. McDowell, H. Zhu, S. Posada-Pérez, H. Xiong, G. Hautier, W. Li, Nat. Commun. 2022 , 13 , 4934.
+
+[41] H. Wang, E. Matios, J. Luo, W. Li, Chem.Soc.Rev. 2020 , 49 , 3783.
+
+[42] W. Ling, N. Fu, J. Yue, X.-X. Zeng, Q. Ma, Q. Deng, Y. Xiao, L.-J. Wan, Y.-G. Guo, X.-W. Wu, Adv. Energy Mater. 2020 , 10 , 1903966.
+
+[43] S. Wang, Y. Chen, Y. Jie, S. Lang, J. Song, Z. Lei, S. Wang, X. Ren, D. Wang, X. Li, R. Cao, G. Zhang, S. Jiao, Small Methods 2020 , 4 , 1900856.
+
+[44] X. Liu, X. Zheng, X. Qin, Y. Deng, Y. Dai, T. Zhao, Z. Wang, H. Yang, W. Luo, Nano Energy 2022 , 103 , 107746.
+
+[45] J. Ma, X. Feng, Y. Wu, Y. Wang, P. Liu, K. Shang, H. Jiang, X. Hou, D. Mitlin, H. Xiang, J. Energy Chem. 2023 , 77 , 290.
+
+[46] Y.Ren,M.Yang,Z.Shi,J.Guo,D.Chu,F.Feng,H.Li,Z.-F.Ma,S. Chen, T. Liu, Energy Storage Mater. 2023 , 61 , 102909.
+
+[47] M. Yang, F. Feng, Y. Ren, S. Chen, F. Chen, D. Chu, J. Guo, Z. Shi, T. Cai, W. Zhang, Z.-F. Ma, S. Chen, T. Liu, Adv. Funct. Mater. 2023 , 33 , 2305383.
+
+[48] T.Zhao,X.Zheng,D.Wang,L.Huang,B.Li,X.Liu,H.Yang,Y.Dai, Y. Huang, W. Luo, Adv. Funct. Mater. 2023 , 33 , 2304928.
+
+[49] B. Zhou, C. Yang, F. Wu, T. Deng, S. Guo, G. Zhu, Y. Jiang, Z. Wang, Chem. Eng. J. 2022 , 450 , 138385.

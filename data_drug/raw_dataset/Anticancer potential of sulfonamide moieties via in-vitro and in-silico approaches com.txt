@@ -1,0 +1,600 @@
+<!-- image -->
+
+<!-- image -->
+
+Article
+
+## Anticancer Potential of Sulfonamide Moieties via In-Vitro and In-Silico Approaches: Comparative Investigations for Future Drug Development
+
+Tanveer A. Wani $^{1,}$* , Seema Zargar $^{2,}$* , Hamad M. Alkahtani 1 and Lamees S. Al-Rasheed 1
+
+, Nojood Altwaijry 2
+
+- 1 Department of Pharmaceutical Chemistry, College of Pharmacy, King Saud University, P.O. Box 2457, Riyadh 11451, Saudi Arabia
+- 2 Department of Biochemistry, College of Science, King Saud University, P.O. Box 22452, Riyadh 11451, Saudi Arabia
+- * Correspondence: twani@ksu.edu.sa (T.A.W.); szargar@ksu.edu.sa (S.Z.)
+
+Abstract: Several kinds of anticancer drugs are presently commercially accessible, but low efficacy, solubility, and toxicity have reduced the overall therapeutic indices. Thus, the search for promising anticancer drugs continues. The interactions of numerous essential anticancer drugs with DNA are crucial to their biological functions. Here, the anticancer effects of N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene-3-sulphonamide ( 8b ) on cell lines from breast and cervical cancer were investigated. The study also compared how these substances interacted with the hearing sperm DNA. The most promising anticancer drug was identified as 2,5-Dichlorothiophene-3-sulfonamide ( 8b ), which showed GI$\_{50}$ of 7.2 ± 1.12 µ M, 4.62 ± 0.13 µ M and 7.13 ± 0.13 µ M against HeLa, MDA-MB231 and MCF-7 cells, respectively. Moreover, it also exhibited significant electrostatic and non-electrostatic contributions to the binding free energy. The work utilized computational techniques, such as molecular docking and molecular dynamic (MD) simulations, to demonstrate the strong cytotoxicity of 2,5-Dichlorothiophene-3-sulfamide ( 8b ) in comparison to standard Doxorubicin and cisplatin, respectively. Molecular docking experiments provided additional support for a role for the minor groove in the binding of the 2,5-Dichlorothiophene-3-sulfamide ( 8b )-DNA complex. The molecular docking studies and MD simulation showed that both compounds revealed comparable inhibitory potential against standard Doxorubicin and cisplatin. This study has the potential to lead to the discovery of new bioactive compounds for use in cancer treatment, including metallic and non-metallic derivatives of 2,5-Dichlorothiophene-3-sulfonamide ( 8b ). It also emphasizes the worth of computational approaches in the development of new drugs and lays the groundwork for future research.
+
+Keywords: anticancer activity; hearing sperm DNA; computational methods; molecular docking; DNA-binding
+
+## 1. Introduction
+
+One-in-four fatalities in the United States is caused by cancer, making it the secondleading cause of mortality in the country. Because of its high mortality rate, cancer has been the subject of intensive research to find effective anticancer drugs. Current improvements in oncology have resulted in improved cancer treatment outcomes and increased survival rates [1]. Yet issues like drug resistance, toxicity, and ineffectiveness continue to drive the demand for innovative anticancer therapy [2]. Despite initial success in treating localized cancer, the disease often spreads to other parts of the body [3]. In developing countries, breast cancer is the leading cause of death. New tumors, unusual bleeding, a persistent cough, unexplained weight loss, and changes in bowel habits are all potential cancer signs and symptoms [4,5]. Available anticancer therapies may not always be successful due to
+
+<!-- image -->
+
+Citation: Wani, T.A.; Zargar, S.; Alkahtani, H.M.; Altwaijry, N.; Al-Rasheed, L.S. Anticancer Potential of Sulfonamide Moieties via In-Vitro and In-Silico Approaches: Comparative Investigations for Future Drug Development. Int. J. Mol. Sci. 2023 , 24 , 7953. https:// doi.org/10.3390/ijms24097953
+
+Academic Editors: Arkadiusz P. Matwijczuk and Mariusz Gago's
+
+Received: 31 March 2023 Revised: 20 April 2023 Accepted: 25 April 2023 Published: 27 April 2023
+
+<!-- image -->
+
+Copyright: © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+
+2 of 25 successful due to drug resistance, low solubility, toxicity, and poor absorption. To beat back these challenges and improve cancer patients' prognoses, we need be tt er and more effective anticancer drugs. Among the methods under investigation include immunotherapy, gene therapy, and medicines based on nanotechnology. These strategies aim to de-
+
+drug resistance, low solubility, toxicity, and poor absorption. To beat back these challenges and improve cancer patients' prognoses, we need better and more effective anticancer drugs. Among the methods under investigation include immunotherapy, gene therapy, and medicines based on nanotechnology. These strategies aim to decrease toxicity, boost therapeutic efficacy, and overcome resistance by more precisely targeting cancer cells [6,7]. The exact molecular interactions of some DNA-acting anticancer medicines with DNA have been studied using structural methods such as high-resolution X-ray diffraction and nuclear magnetic resonance spectroscopy throughout the past decade [8]. Important details about DNA conformation and interactions between drugs and DNA have been revealed by these findings. Particularly, it was found that particular DNA atomic sites are frequently the targets of drug covalent actions. In actuality, DNA can be considered a macromolecular receptor for these medications. The various classes of DNA-acting anticancer medications are listed [9]. Some intercalate (daunorubicin and doxorubicin, for example) or groove-bind to DNA to form noncovalent complexes with DNA (such as Distamycin A). Covalent bonds are created between DNA and substances like cisplatin, Mitomycin C, and ecteinascidins. Last but not least, some antibiotics can cause DNA backbone cleavages (for instance, duocarmycin, bleomycin/phleomycin, and enediyne) [8,10,11]. Due to their excellent pharmacological activity, particularly their anticancer properties, heterocyclic compounds (particularly those containing nitrogen atoms) have dominated organic chemistry for more than a century [12]. In medicinal chemistry, the sulfonamide moiety has gained prominence as an effective bioisostere of the carboxylic group [13]. crease toxicity, boost therapeutic efficacy, and overcome resistance by more precisely targeting cancer cells [6,7]. The exact molecular interactions of some DNA-acting anticancer medicines with DNA have been studied using structural methods such as high-resolution X-ray diffraction and nuclear magnetic resonance spectroscopy throughout the past decade [8]. Important details about DNA conformation and interactions between drugs and DNA have been revealed by these findings. Particularly, it was found that particular DNA atomic sites are frequently the targets of drug covalent actions. In actuality, DNA can be considered a macromolecular receptor for these medications. The various classes of DNAacting anticancer medications are listed [9]. Some intercalate (daunorubicin and doxorubicin, for example) or groove-bind to DNA to form noncovalent complexes with DNA (such as Distamycin A). Covalent bonds are created between DNA and substances like cisplatin, Mitomycin C, and ecteinascidins. Last but not least, some antibiotics can cause DNA backbone cleavages (for instance, duocarmycin, bleomycin/phleomycin, and enediyne) [8,10,11]. Due to their excellent pharmacological activity, particularly their anticancer properties, heterocyclic compounds (particularly those containing nitrogen atoms) have dominated organic chemistry for more than a century [12]. In medicinal chemistry, the sulfonamide moiety has gained prominence as an effective bioisostere of the carboxylic group [13]. A hydrogen bond network comparable to that produced by the carboxylic group may
+
+A hydrogen bond network comparable to that produced by the carboxylic group may be generated by the sulfonamide motif. Additionally, the distance between oxygen atoms in both of these functional groups is nearly identical [14,15]. As the carboxylic group's bioisostere, it may avoid some of the carboxylic group's drawbacks, such as limited passive diffusion across biological membranes, toxicity, and metabolic instability [16]. A broad range of sulfonamide derivatives (Figure 1) have been developed, with biological actions ranging from anti-bacterial to anti-fungal, antioxidant, anti-inflammatory, antidiabetic, and anti-cancer [17,18]. As a consequence, the sulfonamide moiety has found widespread acceptance in medicinal chemistry. These compounds can inhibit cancer cell development, induce apoptosis, and disrupt the cell cycle [19]. be generated by the sulfonamide motif. Additionally, the distance between oxygen atoms in both of these functional groups is nearly identical [14,15]. As the carboxylic group's bioisostere, it may avoid some of the carboxylic group's drawbacks, such as limited passive diffusion across biological membranes, toxicity, and metabolic instability [16]. A broad range of sulfonamide derivatives (Figure 1) have been developed, with biological actions ranging from anti-bacterial to anti-fungal, antioxidant, anti-inflammatory, antidiabetic, and anti-cancer [17,18]. As a consequence, the sulfonamide moiety has found widespread acceptance in medicinal chemistry. These compounds can inhibit cancer cell development, induce apoptosis, and disrupt the cell cycle [19].
+
+Figure 1. Previously reported sulphonamide derivatives as anti-cancer agents [17-19]. Figure 1. Previously reported sulphonamide derivatives as anti-cancer agents [17-19].
+
+<!-- image -->
+
+In this study, a combination of in-vitro and in-silico methodologies was used to evaluate the anti-cancer potential of two sulphonamide compounds, with a focus on their interactions with three critical cancer proteins: p53, caspase, and NFκ B. This research also draws a tt ention to p53, caspases, and NFκ B as important players in the progression of cancer and prospective therapeutic targets. p53 targeting is a promising strategy for the development of anti-cancer drugs since mutations in this gene are linked to many different types of cancer [20-22]. Caspases are also involved in apoptosis, and their activation is a critical step in inducing programmed cell death [23]. NFκ B dysregulation has been linked to cancer development, and targeting NFκ B has emerged as a possible technique In this study, a combination of in-vitro and in-silico methodologies was used to evaluate the anti-cancer potential of two sulphonamide compounds, with a focus on their interactions with three critical cancer proteins: p53, caspase, and NFκ B. This research also draws attention to p53, caspases, and NFκ B as important players in the progression of cancer and prospective therapeutic targets. p53 targeting is a promising strategy for the development of anti-cancer drugs since mutations in this gene are linked to many different types of cancer [20-22]. Caspases are also involved in apoptosis, and their activation is a critical step in inducing programmed cell death [23]. NFκ B dysregulation has been linked to cancer development, and targeting NFκ B has emerged as a possible technique for developing anti-cancer drugs [24,25].
+
+for developing anti-cancer drugs [24,25].
+
+Int. J. Mol. Sci. 2023 , 24 , x FOR PEER REVIEW , 24
+
+Possible modes of action and anticancer potential of N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene-3-sulphonamide ( 8b ) were assessed by experimental and computational methodologies. The studied compounds' cytotoxicity was evaluated by in-vitro cell line experiments. This involves exposing cancer cells to the drug candidate and measuring its effect on cell growth and viability. Computational methods and invitro experiments were used to examine the compounds' properties and their predicted interactions with proteins involved in cancer. Molecular docking was used to estimate the binding modes and affinities of drug candidates with target proteins (p53, caspase, and NFκ B). The electrical structure and properties were fine-tuned with the use of density functional theory (DFT). Time-dependent changes in protein-ligand interactions were studied using molecular dynamic (MD) simulations to learn more about the stability of protein-ligand complexes. Thus, combined, in-vitro and computational investigations improved our understanding of the potential efficacy and mechanism of action of possible anticancer lead compounds. Possible modes of action and anticancer potential of N-ethyl toluene-4-sulphonamide ( 8a 8b ) were assessed by experimental and computational methodologies. The studied compounds' cytotoxicity was evaluated by invitro cell line experiments. This involves exposing cancer cells to the drug candidate and measuring its effect on cell growth and viability. Computational methods and in-vitro experiments were used to examine the compounds' properties and their predicted interactions with proteins involved in cancer. Molecular docking was used to estimate the binding modes and affinities of drug candidates with target proteins (p53, caspase, and NFB). The electrical structure and properties were fine-tuned with the use of density functional theory (DFT). Time-dependent changes in protein-ligand interactions were studied using molecular dynamic (MD) simulations to learn more about the stability of proteinligand complexes. Thus, combined, in-vitro and computational investigations improved our understanding of the potential efficacy and mechanism of action of possible anticancer lead compounds. ( 8a ) and 2,5-Dichlorothiophene-3-sulphonamide ( κ
+
+## 2. Result and Discussions 2. Result and Discussions
+
+- 2.1. Biological Evaluation 2.1. Biological Evaluation
+
+## 2.1.1. In-Vitro Cytotoxic Activity In-Vitro Cytotoxic Activity
+
+8b ) )
+
+Both compounds ( 8a ) and ( 8b ) exhibited significant cytotoxic activity against all cancer cell lines. The IC$\_{50}$ values ranged between 1.62 and 12.74 µ M (Table 1). Compound ( 8b ) showed the most potent cytotoxic activity against HeLa, MCF-7, and MDA-MB-231 with IC$\_{50}$ values (4.62 to 7.21 µ M). These results are comparable to reference compounds (Cisplatin and doxorubicin). Compound ( 8a ) also showed significant cytotoxic activity and the IC$\_{50}$ values were between (10.91 to 19.22 µ M). These results indicate that both compounds have promising anticancer activity and may serve as potential anticancer drugs. 8a 8b ) exhibited significant cytotoxic activity against all cancer cell lines. The IC 50 values ranged between 1.62 and 12.74 µM (Table 1). Compound ( showed the most potent cytotoxic activity against HeLa, MCF-7, and MDA-MB-231 with IC50 values (4.62 to 7.21 µM). These results are comparable to reference compounds (Cisplatin and doxorubicin). Compound ( ) also showed significant cytotoxic activity and the IC50 values were between (10.91 to 19.22 µM). These results indicate that both compounds have promising anticancer activity and may serve as potential anticancer drugs. 50 8a
+
+Table 1. Cytotoxic activity of ( 8a ) and ( 8b ) against human HeLa, MDA-MB-231, and MCF-7 cancer cell lines. 8a 8b ) against human HeLa, MDA -MB -231, and MCF -7 cancer cell lines. --231, and MCF -
+
+|                                     | IC$\_{50}$ ( µ M) ± SEM IC50 (µM) ± SEM   | IC$\_{50}$ ( µ M) ± SEM IC50 (µM) ± SEM   | IC$\_{50}$ ( µ M) ± SEM IC50 (µM) ± SEM   |
+|-------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| Compound Compound                   |                                          |                                          |                                          |
+| (                                   | HeLa  HeLa                               | MDA - MB231  - MB23 1  MDA-MB231         | MCF - 7  - 7  MCF-7                      |
+| ( 8a )  8a )  )                     | 10.9 ± 1.01  ± 1.01                      | 19.22 ± 1.67  ± 1.67                     | 12.21 ± 0.93  ± 0.93                     |
+| ( 8b )  ( )  ( )                    | 7.2 ± 1.12  ± 1.12                       | 4.62 ± 0.13  ± 0.13                      | 7.13 ± 0.13  ± 0.13                      |
+| Doxorubicin  Cisplatin  Doxorubicin | 4.21 ± 0.22  2.64 ± 0.13  ± 0.22         | 6.82 ± 0.59  2.27 ± 0.24  ± 0.59         | 7.32 ± 0.81  4.63 ± 0.21  ± 0.81         |
+| Cisplatin                           | 2.64 ± 0.13                              | 2.27 ± 0.24                              | 4.63 ± 0.21                              |
+
+Compound ( 8a ) showed the highest IC50 values against HeLa at 10.9 ± 1.01 µM. It also 8a
+
+exhibited IC50 of 19.22 ± 1.67 and 12.21 ± 0.93 µM against MDA-MB231 and MCF-7, respectively. Whereas IC50 values for Compound ( 8b ) showed the greatest promise in inhibiting MDA -MB231 and MCF -7 cell proliferation when compared to Compound ( 8a ). Interestingly, the Compound ( 8b ) exhibited comparable results with reference drugs. It can be hypothesized that the compound having a thiophene ring exhibited maximum anticancer potential and appeared as a be tt er compound than the compound containing a phenyl ring a tt ached to the sulphonamide group. DNA investigations corroborated the findings and provided further evidence that these chemicals could serve as a starting point for the production of further potential anticancer drugs. -MB23 1 and MCF -8a tt tt Compound ( 8a ) showed the highest IC$\_{50}$ values against HeLa at 10.9 ± 1.01 µ M. It also exhibited IC$\_{50}$ of 19.22 ± 1.67 and 12.21 ± 0.93 µ M against MDA-MB231 and MCF-7, respectively. Whereas IC$\_{50}$ values for Compound ( 8b ) showed the greatest promise in inhibiting MDA-MB231 and MCF-7 cell proliferation when compared to Compound ( 8a ). Interestingly, the Compound ( 8b ) exhibited comparable results with reference drugs. It can be hypothesized that the compound having a thiophene ring exhibited maximum anticancer potential and appeared as a better compound than the compound containing a phenyl ring attached to the sulphonamide group. DNA investigations corroborated the findings and provided further evidence that these chemicals could serve as a starting point for the production of further potential anticancer drugs.
+
+3
+
+3 of 26
+
+, , 7953 24 , x FOR PEER REVIEW
+
+## 2.1.2. UV-Visible Spectroscopy-Based DNA Binding Studies UV -V isible Spectroscopy -Based DNA Binding Studies -
+
+4 4
+
+The mechanistic behavior of ( 8a ) and ( 8b ) were further explored by performing their interaction studies with mammalian DNA (HS-DNA) [26-28]. The spectra of both compounds were obtained with a fixed concentration of 10 µ M of ( 8a ) or ( 8b ) in the absence and presence of a different concentration of HS-DNA (0-240 µ M). Both ( 8a ) and ( 8b ) displayed enhanced absorbance with no shift in band locations, while the HS-DNA concentration was increased (Figures 2 and 3). Hence, the hyperchromic effect expressed the non-covalent interaction of HS-DNA with both compounds [28,29]. ) w ere further explored by performing their interaction studies with mammalian DNA (HS -DNA) [26 -28]. The spectra of both compounds were obtained with a fixed concentration of 10 µM of ( 8a 8b ) in the absence and presence of a different concentration of HS -DNA (0 -240 µM). Both ( 8a 8b ) displayed enhanced absorbance with no shift in band locations , while the HS -DNA concentration was increased (Figures 2 and 3). Hence, the hyperchromic effect expressed the non -covalent interaction of HS -DNA with both compounds [28,29] . ) ----, ---.
+
+Figure 3. ( a ) Depiction of UV -visible spectral responses of 2,5 -Dichlorothiophene -3 -sulfonamide ( a )
+
+<!-- image -->
+
+(
+
+( a ) a )
+
+Figure 2. ( a ) Depiction of UV -visible spectral responses of N -Ethyltoluene -4 -sulfonamide ( 8a ) in the presence and absence of various concentrations of the previously stated HS -DNA. The arrowhead denotes the rising DNA concentration. ( b ) Ao -A/Ao vs. 1/[DNA] graph for calculating binding constants. Figure 2. ) Depiction of UV-visible spectral responses of N-Ethyltoluene-4-sulfonamide ( 8a ) in the presence and absence of various concentrations of the previously stated HS-DNA. The arrowhead denotes the rising DNA concentration. ( b ) Ao-A/Ao vs. 1/[DNA] graph for calculating binding constants. ( a ---4 -b -
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+(
+
+(
+
+( 8b ) in the presence and absence of various concentrations of the previously stated HS -DNA. The arrowhead denotes the rising DNA concentration. ( b ) Ao -A/Ao vs. 1/[DNA] graph for calculating binding constants. ( a ---3 -b -Figure 3. ) Depiction of UV-visible spectral responses of 2,5-Dichlor othiophene-3-sulfonamide ( 8b ) in the presence and absence of various concentrations of the previously stated HS-DNA. The arrowhead denotes the rising DNA concentration. ( ) Ao-A/Ao vs. 1/[DNA] graph for calculating binding constants.
+
+mum DNA interactions with Gibbs free energy ΔG° -19.51 KJ/mol. In addition, compound ( 8a ) also showed promising results but fewer binding interactions . Hence, it supports the cell viability results. ) , , . ), which was found best during the MTT assay, also showed maximum DNA interactions with Gibbs free energy D G · - 19.51 KJ/mol. In addition, compound ( 8a ) also showed promising results but fewer binding interactions. Hence, it supports the cell viability results.
+
+Interestingly, ( 8b ) , which was found best during the MTT assay , also showed maxi-
+
+## 2.1.3. Density Functional Theory Calculations
+
+The geometrical structure ( 8a ) and ( 8b ) calculations were done at the B3LYP/6-31G* level of theory. In addition, their structural geometries were tuned for a maximum energy gradient with minimum occurrences of imaginary frequency, and the electronic properties were evaluated. The optimal and reactive parameters for both compounds are listed in Table 2.
+
+Table 2. Optimization parameters in DFT for compounds of ( 8a ) and ( 8b ).
+
+| Compound   | Optimization Energy (Hartree)   |   Polarizability a.u ( α ) |   Dipole Moment (Debye) |   Potential Ionization I (eV) |   Affinity A(eV) |   Electron Donating Power ( ω - ) |   Electron Accepting Power ( ω +) |   Electro Philicity ( D ω ± ) |
+|------------|---------------------------------|----------------------------|-------------------------|-------------------------------|------------------|-----------------------------------|-----------------------------------|-------------------------------|
+| ( 8a )     | - 953.809912                    |                    300.221 |                 6.20189 |                        0.258  |          0.04684 |                             0.047 |                             0.199 |                         0.246 |
+| ( 8b )     | - 2075.743816                   |                    110.149 |                 3.61889 |                        0.2711 |          0.08    |                             0.085 |                             0.261 |                         0.346 |
+
+In this study, two compounds, N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) , were analyzed for their inhibitory potential. The optimization energy, polarizability, dipole moment, potential ionization energy, affinity energy, electron-donating power, electron-accepting power, and electrophilicity were determined for both compounds. Compound ( 8a ) was found to have an optimization energy of - 953.809912 Hartree, a polarizability of 300.221 a.u, a dipole moment of 6.201887 Debye, and a potential ionization energy of 0.258 eV. It was determined that ( 8a ) had an electron receiving the power of 0.246 and an electron-donating power of 0.199. In addition, 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) was found to have a higher optimization energy of - 2075.743816 Hartree, a lower polarizability of 110.149294 a.u, a dipole moment of 3.618891 Debye, and a potential ionization energy of 0.2711 eV. The electrondonating power of 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) was found to be 0.261, while its electron-accepting power was 0.346. The electrophilicity of both compounds was calculated as the difference between the electron-donating and electron-accepting power, with N-Ethyltoluene-4-sulfonamide ( 8a ) having a D ω ± value of 0.047, while Compound 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) has a D ω ± value of 0.085. The electrostatic potential map of the compound highlights regions of high and low electrostatic potential. The red areas have high electron-attracting potential because of the electronegative oxygen atoms present. The blue areas have a lesser electron-donating potential, possibly because of the presence of hydrogen atoms. These maps provide crucial insight into a molecule's electron reactivity and distribution (Figure 4).
+
+The compounds, ( 8a ) and ( 8b ), were analyzed to determine their electronic properties. The results suggest that 8a had a HOMO energy of - 0.258 eV and a LUMO energy of - 0.046 eV with a band gap of 0.211 eV. On the other hand, 2,5-Dichlorothiophene-3sulfonamide ( 8b ) had a HOMO energy of - 0.271 eV and a LUMO energy of - 0.080 eV, yielding a band gap of 0.191 eV. The energy needed to excite an electron from the HOMO to the LUMO level is measured by the band gap of a molecule, which is a significant parameter in determining its electrical conductivity.
+
+The chemical hardness ( η ) was measured as 0.106 eV and 0.096 eV for ( 8a ) and ( 8b ), respectively. The lower the value of chemical hardness, the higher the reactivity will be. The chemical potential ( µ ) (a measure of the ability of a molecule to donate electrons) for ( 8a ) was - 0.152 eV, while that of ( 8b ) was - 0.176 eV. The electrophilicity index ( ω ) of N-ethyl toluene-4-sulphonamide ( 8a ) was 0.110 eV, while that of 2,5-Dichlorothiophene-3sulfonamide ( 8b ) was 0.161 eV. The electrophilicity index quantifies a molecule's propensity to receive electrons, with a greater number indicating a stronger tendency to do so. The chemical softness (S) of ( 8a ) was 4.736 eV and that of ( 8b ) was 5.233 eV. Chemical softness is a measure of the ability of a molecule to undergo chemical reactions, with higher values indicating a higher reactivity. The electronegativity (X) of N-ethyl toluene-4-sulphonamide
+
+, 24 , x FOR PEER REVIEW
+
+( 8a ) was 0.152 eV, and that of 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) was 0.176 eV. One of the most important factors in a molecule's reactivity is its electronegativity, or its capacity to attract electrons. These features provide insight into possible applications of these compounds (Table 3). 6 of 26
+
+The optimized structures of ( 8a ) ( left ) and ( 8b ) ( right ) alongside electrostatic potential Figure 4. 8a left ) and ( 8b ) ( right ) alongside electrostatic potential map.
+
+<!-- image -->
+
+Figure 4. map.
+
+The compounds, (
+
+8a ) and ( 8b ), were analyzed to determine their electronic properTable 3. Global and local reactivity descriptors of N-ethyl toluene-4-sulphonamide ( 8a ) and N-ethyl toluene-4-sulphonamide ( 8a ).
+
+| - Compound   | ties. The results suggest that  fonamide ( E$\_{HOMO}$ (eV)                                      | E$\_{LUMO}$ (eV)   |   8a D E$\_{gap}$ (eV) |   8b ) had a HOMO energy of  - Chemical Hardness ( η ) | had a HOMO energy of  Chemical Potential ( µ )   |   - 0.046 eV with a band gap of 0.211 eV. On the other hand, 2,5-Dichlorothiophene-3-sul- 0.271 eV and a LUMO energy of  Electrophilicity Index ( ω ) |   0.258 eV and a LUMO energy of  - 0.080 eV, yield- Chemical Softness (S) |   Electronegativity (X) |
+|--------------|-------------------------------------------------------------------------------------------------|-------------------|-----------------------|--------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------|
+| ( 8a )       | ing a band gap of 0.191 eV. The energy needed to excite an electron from the HOMO to  - 0.258   | - 0.046           |                 0.211 |                                                  0.106 | - 0.152                                          |                                                                                                                                                 0.11  |                                                                     4.736 |                   0.152 |
+| ( 8b )       | the LUMO level is measured by the band gap of a molecule, which is a significant param- - 0.271 | - 0.080           |                 0.191 |                                                  0.096 | - 0.176                                          |                                                                                                                                                 0.161 |                                                                     5.233 |                   0.176 |
+
+eter in determining its electrical conductivity.
+
+( 8a ) was -
+
+sulfonamide ( 8b
+
+The chemical hardness ( η ) was measured as 0.106 eV and 0.096 eV for ( 8a ) and ( 8b ) , respectively. The lower the value of chemical hardness, the higher the reactivity will be. The chemical potential (µ) (a measure of the ability of a molecule to donate electrons) for 0.152 eV, while that of ( 8b ) was - 0.176 eV. The electrophilicity index ( ω ) of Nethyl toluene-4-sulphonamide ( 8a ) was 0.110 eV, while that of 2,5-Dichlorothiophene-3) was 0.161 eV. The electrophilicity index quantifies a molecule's propensity to receive electrons, with a greater number indicating a stronger tendency to do so. The chemical softness (S) of ( 8a ) was 4.736 eV and that of ( 8b ) was 5.233 eV. Chemical The orbital study of ( 8a ) reveals that the sulphonamide group is the primary contributor of HOMO, with help from the hydrophobic benzene ring and the methyl group. The LUMO is primarily localized on the toluene ring, which gives the compound an electrophilic character. In compound ( 8b ), the HOMO orbitals are primarily located on the dichloro-substituted thiophene ring, while the LUMO orbitals are mainly located on the sulphonamide fragment of the molecule, with some slight delocalization also observed on the thiophene ring. These findings provide information about the electrical structure and chemical reactivity of these molecules (Figure 5).
+
+softness is a measure of the ability of a molecule to undergo chemical reactions, with higher values indicating a higher reactivity. The electronegativity (X) of N-ethyl toluene4-sulphonamide ( 8a ) was 0.152 eV, and that of 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) was 0.176 eV. One of the most important factors in a molecule's reactivity is its electronegativity, or its capacity to a tt ract electrons. These features provide insight into possible applications of these compounds (Table 3).
+
+Table 3. Global and local reactivity descriptors of N-ethyl toluene-4-sulphonamide ( 8a ) and N-ethyl toluene-4-sulphonamide ( 8a ) .
+
+Int. J. Mol. Sci. 2023 , 24 , 7953 philic character. In compound ( 8b ), the HOMO orbitals are primarily located on the dichloro-substituted thiophene ring, while the LUMO orbitals are mainly located on the sulphonamide fragment of the molecule, with some slight delocalization also observed on the thiophene ring. These findings provide information about the electrical structure and chemical reactivity of these molecules (Figure 5).
+
+Figure 5.
+
+<!-- image -->
+
+HOMO/LUMO orbitals of compound N-ethyl toluene-4-sulphonamide ( 8a ) ( A ) and compound 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) ( B ). Figure 5. 8a ) ( A ) and compound 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) ( B ).
+
+2.1.4.
+
+## 2.1.4. Molecular Docking Studies
+
+It was observed that (
+
+kcal/mol, whereas (
+
+orubicin and DNA cisplatin complexes. The docking scores for each complex were deter-
+
+Molecular Docking Studies Molecular docking is a computational method widely used in drug discovery and development to predict the binding mode and binding affinity of a small molecule (ligand) to a target protein or nucleic acid (receptor). The aim of molecular docking is to identify potential drug candidates that can bind specifically to a target protein and modulate its activity. In this study, Compounds ( 8a ) and ( 8b ) were tested for their ability to intercalate with DNA. Caspase-3 plays a critical role in cellular apoptosis. The inflammation, cell survival, and cell proliferation are regulated by NF-B, a transcription factor. Ther efore, the field o f cancer research must assess how these drugs interact with these cancer proteins. 8b ) formed considerable interactions with all studied proteins and intercalated DNA forcefully. Notably, ( 8b ) interacted with caspase-3, and hydrophilic and hydrophobic interactions occurred between them with a best docking score of - 5.9 8a ) inhibited p53 protein greatly with a docking score of - 5.7 kcal/mol. In addition, the molecular docking analysis was performed for three different complexes, namely p53-cisplatin, NFκ B-cisplatin, and Caspase-3-cisplatin, as well as the DNA -Dox--Molecular docking is a computational method widely used in drug discovery and development to predict the binding mode and binding affinity of a small molecule (ligand) to a target protein or nucleic acid (receptor). The aim of molecular docking is to identify potential drug candidates that can bind specifically to a target protein and modulate its activity. In this study, Compounds ( 8a ) and ( 8b ) were tested for their ability to intercalate with DNA. Caspase-3 plays a critical role in cellular apoptosis. The inflammation, cell survival, and cell proliferation are regulated by NF-B, a transcription factor. Therefore, the field of cancer research must assess how these drugs interact with these cancer proteins. It was observed that ( 8b ) formed considerable interactions with all studied proteins and intercalated DNA forcefully. Notably, ( 8b ) interacted with caspase-3, and hydrophilic and hydrophobic interactions occurred between them with a best docking score of - 5.9 kcal/mol, whereas ( 8a ) inhibited p53 protein greatly with a docking score of - 5.7 kcal/mol. In addition, the molecular docking analysis was performed for three different complexes, namely p53-cisplatin, NFκ B-cisplatin, and Caspase-3-cisplatin, as well as the DNA-Doxorubicin and DNA-cisplatin complexes. The docking scores for each complex were determined, indicating the binding affinity between the ligand and the respective protein or nucleic acid.
+
+nucleic acid.
+
+-mined, indicating the binding affinity between the ligand and the respective protein or In the case of p53 -cisplatin and DNA -Doxorubicin complexes, moderate-to-strong binding affinities were observed, with several hydrogen bonding and hydrophobic interactions identified between the ligand and the respective nucleotide or amino acid In the case of p53-cisplatin and DNA-Doxorubicin complexes, moderate-to-strong binding affinities were observed, with several hydrogen bonding and hydrophobic interactions identified between the ligand and the respective nucleotide or amino acid residues. These interactions are critical for stabilizing the complex and enhancing the binding affinity. In contrast, weak binding affinities were observed for the NFκ B-cisplatin, Caspase 3-cisplatin, and DNA-cisplatin complexes, with fewer hydrogen bonding and hydrophobic interactions identified. These results suggest that these complexes may not be ideal drug targets; further optimization of the ligands or target proteins may be required to improve binding affinity. These results provide valuable information about anticancer potential and mode of action for ( 8a ) and ( 8b ) (Table 4).
+
+Table 4. The molecular interactions observed during molecular docking.
+
+| Complex                                                | Docking Score (kcal/mol)   | Hydrogen Bonding Residues   | Hydrogen Bond Length (Angstroms)   | Hydrophobic Interactions Residues                                                      |
+|--------------------------------------------------------|----------------------------|-----------------------------|------------------------------------|----------------------------------------------------------------------------------------|
+| Caspase-3-N-ethyl toluene-4-sulphonamide ( 8a )        | - 4.9                      | Asn208                      | 3.5                                | Asp253, Trp206, Arg207, Trp214, Asn208, Phe247, Glu246, Glu248, Phe250, Phe252, Ser251 |
+| Caspase-3-2,5- Dichlorothiophene-3- sulfonamide ( 8b ) | - 5.9                      | Gly165                      | 2.92                               | His121, Arg207, Thr255, Tyr204. Thr166, Gly122                                         |
+| NF- κ B-N-ethyl toluene-4-sulphonamide ( 8a )          | - 5.2                      | Val244                      | 3.14                               | His245, Arg246, Gln247, Lys221, Tyr251                                                 |
+| NF- κ B-2,5- Dichlorothiophene-3- sulfonamide ( 8b )   | - 5.8                      | Gln241, Lys221              | 3.4, 2.4                           | Phe239, Gly259, Asp223, Lys221, Glu222, Ile224                                         |
+| p53-N-ethyl toluene-4-sulphonamide ( 8a )              | - 5.7                      | Arg203, Tyr92, Glu89        | 3.4, 3.4, 3.5                      | Lys20, Leu100, Tyr92, Ala200, His11, Asn17, Arg10, Arg61, Gln23, Ile22, Ile21          |
+| p53-2,5-Dichlorothiophene- 3-sulfonamide ( 8b )        | - 5.1                      | Ile21                       | 2.90                               | Phe16, Lys20, Asn17, Ile22, Glu89, Gln23                                               |
+| DNA-N-ethyl toluene-4-sulphonamide ( 8a )              | - 5.1                      | Dt19, Dt19                  | 3.14, 3.25                         | Dc9, Da18, Dt20, Dt8                                                                   |
+| DNA-2,5- Dichlorothiophene-3-                          | - 5.6                      | Dg10, Dg16                  | 3.23, 3.31                         | Dc11, Da18, Dc9, Dc17                                                                  |
+| p53-Doxirubicin                                        | - 10.53                    | Asn17, Gln23, Arg10         | 2.69, 3.20, 3.18                   | Glu89, Ile22, Lys20, Tyr92, Cys114, Arg203, Pro231                                     |
+| NF- κ B-Doxorubicin                                    | - 4.52                     | Thr682, Arg685              | 2.94, 2.93                         | Pro681, Thr740                                                                         |
+| Caspase 3-Doxorubicin                                  | - 9.49                     | His121, Gly122, Leu168      | 3.24, 2.2, 2.96                    | Leu168, Phe256, Thr166, Thr255                                                         |
+| DNA-Doxorubicin                                        | - 9.93                     | Dt20, Dt20, Dt19, Dt8, Dt7  | 2.77, 3.26, 3.10, 2.66, 3.22       | Da6, Dc21, Da5, Dg4, Dg22                                                              |
+| p53-cisplatin                                          | - 3.27                     | Asn17, Ile21, Phe16         | 3.34, 2.98, 3.32                   | Ly20, Ile22, Gln23                                                                     |
+| NF- κ B-cisplatin                                      | - 2.38                     | -                           | -                                  | Leu674, Jis673, Leu736, Asn698, Asn669 Phe256, Thr255, Tyr204,                         |
+| Caspase 3-cisplatin                                    | - 2.57                     | -                           | -                                  | Leu168, Phe256                                                                         |
+| DNA-cisplatin                                          | - 3.79                     | Dt8, Dt19, Dt7              | 2.92, 3.12, 2.96                   | Dt20, Da6, Dc21                                                                        |
+
+## Interpretation of Molecular Interactions
+
+Molecular docking analysis was used to assess the nature of the interaction between ( 8a ) and Caspase-3. The binding energy of compound ( 8a ) to Caspase-3 was calculated to be - 4.9 kcal/mol. The interaction involved one hydrogen bond with the asparagine residue Asn208 (3.5 Å bond length). Additionally, hydrophobic interactions were observed with multiple residues, including Asp253, Trp206, Arg207, Trp214, Asn208, Phe247, Glu246, Glu248, Phe250, Phe252, and Ser251. These interactions could be crucial in ensuring the stability of ( 8a ) binding to Caspase-3.
+
+The hydrogen bonding and hydrophobic interactions between ( 8a ) and Caspase-3 indicated that the compound could be a lead molecule for the development of new Caspase3 inhibitors. Caspase-3 is an essential protein involved in the apoptosis process and has an important role in carcinogenesis. Compound ( 8a ) showed promising cancer cell growth inhibition after creating a complex with the Caspase-3 enzyme. Once the complex is established with Caspase-3, the protein's function may be inhibited (Figure 6).
+
+Int. J. Mol. Sci. 2023 , 24 , 7953 Int. J. Mol. Sci. , 24 , x FOR PEER REVIEW Int. J. Mol. Sci. 2023 , 24 , x FOR PEER REVIEW
+
+9 of 25 9 of 26 9 of 26
+
+Figure 6. Presumed 2D and 3D binding mode of compound N-ethyl toluene-4-sulphonamide ( 8a ) with Caspase-3. Figure 6. 8a ) with Caspase-3. Figure 6. Presumed 2D and 3D binding mode of compound N-ethyl toluene-4-sulphonamide ( with Caspase-3.
+
+<!-- image -->
+
+Docking of ( 8b ) and Caspase-3 revealed a docking score of - 5.9 kcal/mol, which is higher than the score obtained for ( 8a ) ( - 5.9 kcal/mol). Several amino acid residues in the protein were found to be involved in the interactions when ( 8b ) was analyzed for its interactions with the protein. Gly165 formed a hydrogen bond of 2.92 Å bond length with it, whereas His121, Arg207, Thr255, Tyr204, Thr166, and Gly122 were involved in the hy8b ) and Caspase-3 revealed a docking score of - 5.9 kcal/mol, which is higher than the score obtained for ( 8a ) ( - 5.9 kcal/mol). Several amino acid residues in the protein were found to be involved in the interactions when ( 8b ) was analyzed for its interactions with the protein. Gly165 formed a hydrogen bond of 2.92 Å bond length with it, whereas His121, Arg207, Thr255, Tyr204, Thr166, and Gly122 were involved in the hydrophobic interactions. Docking of ( ) and Caspase-3 revealed a docking score of kcal/mol, which is higher than the score obtained for ( 8a ) ( - 5.9 kcal/mol). Several amino acid residues in the protein were found to be involved in the interactions when ( 8b ) was analyzed for its interactions with the protein. Gly165 formed a hydrogen bond of 2.92 Å bond length with it, whereas His121, Arg207, Thr255, Tyr204, Thr166, and Gly122 were involved in the hydrophobic interactions.
+
+drophobic interactions.
+
+more potent inhibitors of Caspase-3 (Figure 7).
+
+In comparing the bonds between ( 8a ) and ( 8b ), Compound ( 8a ) interacted with Asn208, while ( 8b ) interacted with Gly165. Further, both compounds interacted with Arg207 and Thr166 with hydrophobic interactions. The data suggest that both compounds may engage in protein-ligand interactions involving hydrogen bonding and hydrophobic bonds. However, the interactions between the two compounds are distinct, including the particular residues involved. These findings could provide insights into the design of 8a ) interacted with Asn208, while ( 8b ) interacted with Gly165. Further, both compounds interacted with Arg207 and Thr166 with hydrophobic interactions. The data suggest that both compounds may engage in protein-ligand interactions involving hydrogen bonding and hydrophobic bonds. However, the interactions between the two compounds are distinct, including the particular residues involved. These findings could provide insights into the design of more potent inhibitors of Caspase-3 (Figure 7). In comparing the bonds between ( 8a ) and ( 8b ), Compound ( 8a ) interacted with Asn208, while ( 8b ) interacted with Gly165. Further, both compounds interacted with Arg207 and Thr166 with hydrophobic interactions. The data suggest that both compounds may engage in protein-ligand interactions involving hydrogen bonding and hydrophobic bonds. However, the interactions between the two compounds are distinct, including the particular residues involved. These findings could provide insights into the design of more potent inhibitors of Caspase-3 (Figure 7).
+
+Figure 7. 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) hypothesized to interact with Caspase-3 in 2D Figure 7. 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) hypothesized to interact with Caspase-3 in 2D and 3D space. Figure 7. ) hypothesized to interact with Caspase-3 in 2D and 3D space.
+
+<!-- image -->
+
+and 3D space.
+
+Further, Compound ( 8a ) interaction with the NFκ B transcription factor was studied using molecular docking. The docking score was found to be - 5.2 kcal/mol and a hydrogen
+
+Int. J. Mol. Sci. 2023 , 24 , x FOR PEER REVIEW
+
+10 of 26
+
+Further, Compound ( 8a ) interaction with the NFκ B transcription factor was studied
+
+bond (3.14 Å) was observed between Val244 and ( 8a ). In addition, hydrophobic interactions were also observed with His245, Arg246, Gln247, Lys221, and Tyr251. These interactions could increase the complex's stability, suggesting that Compound ( 8a ) could be used as a starting point for designing NFκ B inhibitors (Figure 8). using molecular docking. The docking score was found to be - 5.2 kcal/mol and a hydrogen bond (3.14 Å) was observed between Val244 and ( 8a ). In addition, hydrophobic interactions were also observed with His245, Arg246, Gln247, Lys221, and Tyr251. These interactions could increase the complex's stability, suggesting that Compound ( 8a ) could be used as a starting point for designing NFκ B inhibitors (Figure 8).
+
+Figure 8. N-ethyl toluene-4-sulphonamide ( 8a ) hypothesized to interact with NFκ B in 2D and 3D space. Figure 8. 8a κ B in 2D and 3D space.
+
+<!-- image -->
+
+2023 , 24 , x FOR PEER REVIEW
+
+The interaction of ( 8b ) with NFκ B was studied, and the interaction had a docking score of - 5.8 kcal/mol. Two hydrogen bonds were observed in the interaction between Gln241 and Lys221, with respective bond lengths of 3.4 and 2.4 Å. The hydrophobic interactions were observed with Phe239, Gly259, Asp223, Lys221, Glu222, and Ile224 residues. The results infer that the compound ( 8b ) may have the potential as an NFκ B inhibitor (Figure 9). κ B was studied, and the interaction had a docking score of - 5.8 kcal/mol. Two hydrogen bonds were observed in the interaction between Gln241 and Lys221, with respective bond lengths of 3.4 and 2.4 Å. The hydrophobic interactions were observed with Phe239, Gly259, Asp223, Lys221, Glu222, and Ile224 residues. The results infer that the compound ( 8b κ B inhibitor (Figure 9). 11 of 26
+
+Presenting 2D and 3D interaction of 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) against Figure 9. 8b ) against NFκ B.
+
+<!-- image -->
+
+Figure 9. NFκ B.
+
+The molecular docking study of Compound ( 8a ) with p53 showed a good binding affinity and - 5.7 kcal/mol as the docking score. The compound formed three hydrogen bonds with Arg203, Tyr92, and Glu89 residues of the p53 protein with a hydrogen bond
+
+Presenting 2D and 3D interaction of 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) against
+
+NFκ B.
+
+affinity and -
+
+8b
+
+The molecular docking study of Compound ( 8a ) with p53 showed a good binding affinity and - 5.7 kcal/mol as the docking score. The compound formed three hydrogen bonds with Arg203, Tyr92, and Glu89 residues of the p53 protein with a hydrogen bond length of 3.4, 3.4, and 3.5 Å, respectively. The hydrophobic interactions were observed between the compound and Lys20, Leu100, Tyr92, Ala200, His11, Asn17, Arg10, Arg61, Gln23, Ile22, and Ile21 residues of the protein. Because these residues contribute significantly to the formation of hydrogen bonds and hydrophobic interactions with Compound 8b , there is a possibility that the compound could impair the activity of p53. As a result, it has the potential to serve as a promising lead molecule in the research and development of new p53 inhibitors (Figure 10). 8a ) with p53 showed a good binding 5.7 kcal/mol as the docking score. The compound formed three hydrogen bonds with Arg203, Tyr92, and Glu89 residues of the p53 protein with a hydrogen bond length of 3.4, 3.4, and 3.5 Å, respectively. The hydrophobic interactions were observed between the compound and Lys20, Leu100, Tyr92, Ala200, His11, Asn17, Arg10, Arg61, Gln23, Ile22, and Ile21 residues of the protein. Because these residues contribute significantly to the formation of hydrogen bonds and hydrophobic interactions with Compound , there is a possibility that the compound could impair the activity of p53. As a result, it has the potential to serve as a promising lead molecule in the research and development of new p53 inhibitors (Figure 10).
+
+Figure 11. ( 8b ) against p53.
+
+<!-- image -->
+
+Figure 10. against p53.
+
+Illustrating the binding orientation of compound N-ethyl toluene-4-sulphonamide ( 8a ) Figure 10. 8a ) against p53.
+
+score of - 5.1
+
+p53 2023 , 24 , x FOR PEER REVIEW
+
+improving ( 8b
+
+In contrast to Compound ( 8a ), Compound ( 8b ) showed a relatively lower docking kcal/mol with the p53 protein. The analysis of the interaction pa tt ern indicated a hydrogen bond between the carbonyl group of ( 8b ) and the Ile21 residue of the protein with a 2.90 Å bond length. Moreover, Phe16, Lys20, Asn17, Ile22, Glu89, and Gln23 had hydrophobic interactions with ( 8b ). Hence, it was concluded that ( 8b ) has a weaker binding affinity with p53 compared to ( 8a ) and was a tt ributed to the absence of key hydrogen bonding residues and the shorter hydrogen bond length in ( 8b ). Therefore, 8a 8b ) showed a relatively lower docking score of - 5.1 kcal/mol with the p53 protein. The analysis of the interaction pattern indicated a hydrogen bond between the carbonyl group of ( 8b ) and the Ile21 residue of the p53 protein with a 2.90 Å bond length. Moreover, Phe16, Lys20, Asn17, Ile22, Glu89, and Gln23 had hydrophobic interactions with ( 8b 8b ) has a 8a ) and was attributed to the absence of 8b ). Therefore, improving ( 8b ) binding affinity with p53 protein will necessitate further refinement of its chemical structure (Figure 11). 12 of 26 ) binding affinity with p53 protein will necessitate further refinement of its chemical structure (Figure 11).
+
+<!-- image -->
+
+Illustration of binding orientation of Compound 2,5-Dichlorothiophene-3-sulfonamide Figure 11. Illustration of binding orientation of Compound 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) against p53.
+
+The presented Figure 12 below displays the results of molecular docking analysis for various complexes, namely p53-Doxirubicin, NFκ B-Doxorubicin, and Caspase 3-Doxorubicin. The docking score represents the strength of the binding affinity between the ligand
+
+Int. J. Mol. Sci. 2023 , 24
+
+13
+
+The presented Figure 12 below displays the results of molecular docking analysis for various complexes, namely p53-Doxirubicin, NFκ B-Doxorubicin, and Caspase 3-Doxorubicin. The docking score represents the strength of the binding affinity between the ligand (Doxorubicin) and the respective protein complex. , x FOR PEER REVIEW
+
+Figure 12. Molecular docking studies of standard Doxorubicin against respective proteins; ( and 3D binding mode of Doxorubicin against p53, ( B against NFκ B, ( C ) 2D and 3D binding mode of Doxorubicin against Caspase-3. Figure 12. A ) 2D B ) 2D and 3D binding mode of Doxorubicin κ C ) 2D and 3D binding mode of Doxorubicin against Caspase-3.
+
+<!-- image -->
+
+A
+
+In the p53 -Doxirubicin complex, the docking score of - 10.53 crucial for stabilizing the protein -the NF -κ B -Doxorubicin complex, the docking score of - 4.52 In the p53-Doxirubicin complex, the docking score of - 10.53 bust interaction between the two molecules. The ligand established hydrogen bonding with the Asn17, Gln23, and Arg10 residues, with a bond length of 2.69, 3.20, and 3.18 angstroms, respectively. Furthermore, several hydrophobic interactions were noticed with Glu89, Ile22, Lys20, Tyr92, Cys114, Arg203, and Pro231 residues. These interactions are crucial for stabilizing the protein-ligand complex and enhancing its binding affinity. For the NFκ BDoxorubicin complex, the docking scor e of - 4.52 kcal/mol suggests a moderate interaction between the two molecules. The ligand formed hydrogen bonds with Thr682 and Arg685 residues, with a bond length of 2.94 and 2.93 angstroms, respectively. In addition, several hydrophobic interactions were detected with Pro681 and Thr740 residues. In the case of the Caspase 3-Doxorubicin complex, the docking score of - 9.49 kcal/mol represents a
+
+In the case of the Caspase 3 -Doxorubicin complex, the docking score of - 9.49
+
+strong interaction between the two molecules. The ligand created hydrogen bonds with His121, Gly122, and Leu168 residues, with a bond length of 3.24, 2.2, and 2.96 angstroms, respectively. Several hydrophobic interactions were also observed with Leu168, Phe256, Thr166, and Thr255 residues. Hydrogen bonding interactions play a significant role in stabilizing the protein-ligand complex. These bonds form when a hydrogen atom of the ligand interacts with an electronegative atom of the protein residue, such as nitrogen or oxygen. Such interactions are essential in maintaining the ligand's orientation and conformation within the protein's active site. Hydrophobic interactions also play a crucial role in protein-ligand binding, as they contribute to the overall stability of the complex. These interactions occur between nonpolar regions of the ligand and protein residues, such as aliphatic chains and aromatic rings. Hydrophobic interactions also contribute to the specificity of ligand binding, as specific protein residues may have unique hydrophobic pockets that only interact with specific ligands.
+
+The presented Figure 13 below showcases the results of molecular docking analysis for three distinct protein-ligand complexes: p53-cisplatin, NFκ B-cisplatin, and Caspase 3-cisplatin. The docking score reflects the strength of the binding affinity between the ligand, cisplatin, and its respective protein complex. Regarding the p53-cisplatin complex, the docking score was - 3.27 kcal/mol, indicating a moderate interaction between the two molecules. The ligand showed hydrogen bonding with Asn17, Ile21, and Phe16 residues, with a bond length of 3.34, 2.98, and 3.32 angstroms, respectively. Additionally, several hydrophobic interactions occurred with Leu20, Ile22, and Gln23 residues. These interactions contribute to the stabilization of the protein-ligand complex, thus strengthening the binding affinity. As for the NFκ B-cisplatin complex, the docking score was - 2.38 kcal/mol, indicating a weak interaction between the two molecules. No hydrogen bonding residues were observed for this complex. Nevertheless, several hydrophobic interactions took place with Leu674, Ile673, Leu736, Asn698, and Asn669 residues. In the case of the Caspase 3-cisplatin complex, the docking score was - 2.57 kcal/mol, also indicating a weak interaction between the two molecules. No hydrogen bonding residues were found for this complex either. However, several hydrophobic interactions occurred with Phe256, Thr255, Tyr204, Leu168, and Phe256 residues.
+
+## DNA Molecule Intercalation
+
+The interaction of ( 8a ) with DNA, had - 5.1 kcal/mol as the docking score. The compound formed hydrogen bonds with the nucleotide bases, with the deoxythymidine residues (Dt19 and Dt19) forming hydrogen bonds with lengths of 3.14 and 3.25 angstroms, respectively. The hydrophobic interactions were found with deoxycytidine (Dc9), deoxyadenosine (Da18), deoxythymidine (Dt20), and deoxythymidine (Dt8). These results indicate that Compound N-ethyl toluene-4-sulphonamide ( 8a ) can interact with the DNA molecule, potentially affecting its structure and function. In addition, Compound N-ethyl toluene-4-sulphonamide ( 8a ) was completely buried inside the DNA helix, which demonstrates a strong intercalation of DNA. Such interactions could have implications for the use of ( 8a ) in the treatment of diseases involving DNA, such as cancer. To fully comprehend, additional research is required to establish the mechanism of action of ( 8a ) to DNA (Figure 14).
+
+The interaction of ( 8b ) with DNA, had a docking score of - 5.6 kcal/mol, and the two major hydrogen bonds were identified as Dg10 and Dg16, with bond lengths of 3.23 and 3.31 2.90 Å, respectively. In addition, four hydrophobic interaction residues were identified, including Dc11, Da18, Dc9, and Dc17. The results support the idea that ( 8b ) can interact with DNA via both hydrogen and hydrophobic interaction (Figure 15).
+
+14 of 25 were observed for this complex. Nevertheless, several hydrophobic interactions took place with Leu674, Ile673, Leu736, Asn698, and Asn669 residues. In the case of the Caspase 3 -cisplatin complex, the docking score was - 2.57 kcal/mol, also indicating a weak interaction between the two molecules. No hydrogen bonding residues were found for this complex either. However, several hydrophobic interactions occurred with Phe256, Thr255, Tyr204, Leu168, and Phe256 residues.
+
+Figure 13. Molecular docking studies of standard Cisplatin against respective proteins; ( A ) 2D and 3D binding mode of Cisplatin against p53, ( B ) 2D and 3D binding mode of Cisplatin against NFκ B, ( C ) 2D and 3D binding mode of Cisplatin against Caspase-3.
+
+<!-- image -->
+
+The DNA-Doxorubicin complex analysis revealed that the ligand (Doxorubicin) established hydrogen bonds with five DNA nucleotide residues. These nucleotides included two Thymine (Dt20) residues, one Thymine (Dt19) residue, one Deoxyadenosine (Da8) residue, and one Deoxyguanosine (Dg7) residue, with bond lengths ranging from 2.66 to 3.26 angstroms. The formation of these hydrogen bonds is critical for stabilizing the complex and promoting a stronger binding affinity between the two molecules. In addition, the analysis also detected several hydrophobic interactions between Doxorubicin and DNA nucleotide residues, such as Deoxyadenosine (Da6), Deoxycytosine (Dc21), Deoxyadenosine (Da5), Deoxyguanosine (Dg4), and Deoxyguanosine (Dg22). These interactions played a crucial role in increasing the overall stability of the complex, leading to a higher binding affinity between the two molecules.
+
+Figure 16 illustrates the results of the molecular docking analysis of the DNA-cisplatin complex. The computed docking score for this complex was - 3.79 kcal/mol, suggesting a moderate interaction between the two molecules. Cisplatin ligand formed hydrogen bonds with three DNA nucleotide residues, including two Thymine (Dt8 and Dt7) residues and one Thymine (Dt19) residue, with bond lengths of 2.92, 2.96, and 3.12 angstroms, respectively. These hydrogen bonding interactions are vital in stabilizing the DNA-cisplatin complex and strengthening the binding affinity between the two molecules. Furthermore, the analysis revealed several hydrophobic interactions between cisplatin and DNA nucleotide residues,
+
+including Thymine (Dt20), Deoxyadenosine (Da6), and Deoxycytosine (Dc21) residues. These hydrophobic interactions also played a critical role in stabilizing the complex and significantly enhancing the binding affinity between cisplatin and DNA. ) in the treatment of diseases involving DNA, such as cancer. To fully comprehend, additional research is required to establish the mechanism of action of ( 8a ) to DNA
+
+dues (Dt19 and Dt19) forming hydrogen bonds with lengths of 3.14 and 3.25 angstroms, respectively. The hydrophobic interactions were found with deoxycytidine (Dc9), deoxyadenosine (Da18), deoxythymidine (Dt20), and deoxythymidine (Dt8). These results indicate that Compound N-ethyl toluene-4-sulphonamide ( 8a ) can interact with the DNA molecule, potentially affecting its structure and function. In addition, Compound N-ethyl toluene-4-sulphonamide ( 8a ) was completely buried inside the DNA helix, which demonstrates a strong intercalation of DNA. Such interactions could have implications for the use of ( 8a
+
+(Figure 14).
+
+Figure 15.
+
+<!-- image -->
+
+Figure 14.
+
+Intercalation of DNA groove by compound N-ethyl toluene-4-sulphonamide ( 8a ) . Figure 14. 8a ).
+
+) can in-
+
+<!-- image -->
+
+Intercalation of DNA groove by Compound 2,5-Dichlorothiophene-3-sulfonamide ( 8b ). Figure 15. 8b ).
+
+The DNA -Doxorubicin complex analysis revealed that the ligand (Doxorubicin) established hydrogen bonds with five DNA nucleotide residues. These nucleotides included two Thymine (Dt20) residues, one Thymine (Dt19) residue, one Deoxyadenosine (Da8) residue, and one Deoxyguanosine (Dg7) residue, with bond lengths ranging from 2.66 to 3.26 angstroms. The formation of these hydrogen bonds is critical for stabilizing the complex and promoting a stronger binding affinity between the two molecules. In addition,
+
+16 of 26
+
+2023 , 24
+
+2023
+
+17 of 26
+
+Figure 16. cin, ( B
+
+<!-- image -->
+
+The intercalation of DNA by standard molecules; ( A ) intercalation of DNA by Doxorubi) Intercalation of DNA by Cisplatin. Figure 16. A ) intercalation of DNA by Doxorubicin, ( B ) Intercalation of DNA by Cisplatin.
+
+2.1.5.
+
+## Molecular Dynamics Simulation Root Mean Square Deviation Plot 2.1.5. Molecular Dynamics Simulation Root Mean Square Deviation Plot
+
+The best conformations of ( 8a ) and ( 8b ) were investigated using molecular dynamic simulation to determine stability against their respective proteins. The compound ( 8a ) demonstrated the highest binding affinity against p53, whereas ( 8b ) was producing a strong inhibition of Caspase-3. The MDS helped to analyze the interactions at the molec8a ) and ( 8b ) were investigated using molecular dynamic 8a ) 8b ) was producing a strong inhibition of Caspase-3. The MDS helped to analyze the interactions at the molecular level and the residues identified that play a major role in the complex formation.
+
+ular level and the residues identified that play a major role in the complex formation.
+
+3
+
+of the Caspase-3
+
+(RMSD) for Caspase -3 and Caspase-3 -8b complexes is depicted in Figure 17. Similarly, the stability of the apoprotein (p53) and the p53-( 8a ) complex was analyzed using RMSD. The RMSD values for the apoprotein ranged anywhere from 1.2 to 2.2 Å. About halfway through the simulation, the trajectory stabilized and re-equilibrated. However, the p53-( 8a ) complex showed some slight rearrangements as the simulated trajectory progressed. In the first 10 ns, the RMSD of the p53-( 8a ) complex was 1.8 Å, then it increased to a maximum of 2.8 Å before leveling off and reaching equilibrium. Variations in the RMSD values are indicative of conformational changes in the p53-( 8a ) complex that occurred during the simulation. While there were fluctuations, they were within a reasonable range, so the complex's overall stability was maintained (Figure 17).
+
+Using the RMSD studies the stability of apoprotein and Caspase-38b complexes were evaluated. Throughout the MD simulations investigations, the apoprotein (Caspase) displayed a significant stability pa tt ern ranging from 1.5 to 2.5 Å. Slight rearrangements were observed initially at around 20 ns. However, they were stabilized during the early run. The Caspase-3 -8b combination remained stable throughout the predicted trajectory. The RMSD of ligand-proteins was 2.6 angstroms on average. The strength of the interaction between the ligand and protein determined whether they could form a stable complex. The importance of hydrogen bonds and hydrophobic interactions to the complex's stability was observed. The hydrogen bonds were responsible for the structural stability -8b complex, suggesting their importance for stable complex formations. The stability of the complex was enhanced by the hydrophobic interactions and aided in maintaining the complex's stability. The progression of the relative mean square deviation 8b complexes were evaluated. Throughout the MD simulations investigations, the apoprotein (Caspase-3) displayed a significant stability pattern ranging from 1.5 to 2.5 Å. Slight rearrangements were observed initially at around 20 ns. However, they were stabilized during the early run. The Caspase-38b combination remained stable throughout the predicted trajectory. The RMSD of ligand-proteins was 2.6 angstroms on average. The strength of the interaction between the ligand and protein determined whether they could form a stable complex. The importance of hydrogen bonds and hydrophobic interactions to the complex's stability was observed. The hydrogen bonds were responsible for the structural stability of the Caspase3complex, suggesting their importance for stable complex formations. The stability of the complex was enhanced by the hydrophobic interactions and aided in maintaining the complex's stability. The progression of the relative mean square deviation (RMSD) for Caspase-3 and Caspase-38b complexes is depicted in Figure 17.
+
+Int. J. Mol. Sci. 2023 , 24 , 7953 of the Caspase -3 -8b complex , suggesting their importance for stable complex formations. The stability of the complex was enhanced by the hydrophobic interactions and aided in maintaining the complex ' s stability. The progression of the relative mean square deviation (RMSD) for Caspase -3 and Caspase -3 -8b complexes is depicted in Figure 17 .
+
+Illustration of RMSD pattern for Apo proteins (Caspase -3 and p53) and all four complexes Figure 17. Illustration of RMSD pattern for Apo proteins (Caspase-3 and p53) and all four complexes along with standard Doxorubicin.
+
+<!-- image -->
+
+Figure 17. along with standard Doxorubicin
+
+ever, the p53 -( 8a
+
+. Similarly, the stability of the apoprotein (p53) and thep53 -( 8a ) complex was analyzed using RMSD. The RMSD values for the apoprotein ranged anywhere from 1.2 to 2.2 Å. About halfway through the simulation, the trajectory stabilized and re -equilibrated. Ho w) complex showed some slight rearrangements as the simulated trajectory progressed. In the first 10 ns, the RMSD of the p53 -( 8a ) complex was 1.8 Å, then it inThe standard Doxorubicin was contrasted with the simulated complexes of Compounds ( 8a ) and ( 8b ). It was interesting to note that the complexes of Caspase-3-Doxorubicin and p53-Doxorubicin displayed a considerable stability patte rn that was similar to the substance under examination in the current study. Caspase 3-Doxorubicin RSMD was 2.8 angstroms, whereas the average RMSD of the p53-Doxorubicin complex was 2.5 angstroms. Whereas Caspase-3-doxorubicin showed only minor oscillations before becoming stable and equilibrated, p53-doxorubicin complex stood out for its considerable stability pattern. Figure 17 shows the evolution of RMSD across all complexes.
+
+pounds ( 8a ) and ( bicin and p53 -
+
+2.8
+
+creased to a maximum of 2.8 Å before leveling off and reaching equilibrium. Variations in the RMSD values are indicative of conformational changes in the p53 -( 8a ) complex that occurred during the simulation. While there were fluctuations, they were within a reasonable range, so the complex's overall stability was maintained (Figure 17). The standard Doxorubicin was contrasted with the simulated complexes of Com8b ). It was interesting to note that the complexes of Caspase -3 -DoxoruDoxorubicin displayed a considerable stability pattern that was similar to the substance under examination in the current study. Caspase 3 -Doxorubicin RSMD was angstroms, whereas the average RMSD of the p53 -Doxorubicin complex was 2.5 angstroms. Whereas Caspase -3 -doxorubicin showed only minor oscillations before becoming The complex remained stable during the simulation, as determined by the Root Mean Square Fluctuation (RMSF). Amino acid deviation from its typical position can be inferred from the RMSF values. The outcomes confirmed that the protein maintained its structural integrity throughout the simulation. The protein-ligand complex was found to be thermodynamically stable, demonstrating its strength. The RMSF analysis offers information about the stability of the protein-ligand interaction, and the studied complex demonstrated that the important amino acid residues interact with the ligand. The RMSF value for Caspase-3 was found to be at an average of 2.4 Å and is considered acceptable. In addition, RMSF analysis of Caspase-3 in complex with Compound ( 8b ) and doxorubicin is also presented in Figure 18. It was notable that residues were a fluctuat ion of Caspase-3 in a complex with Compound ( 8b ) was comparable to standard Doxorubicin. The average RMSF for Caspase-3-( 8b ) and Caspase-3-Doxorubicin was 2.3 and 2.4 angstroms, respectively. The amino acid residues range from 100-200 was in in contact with both compounds i.e., ( 8b ) and doxorubicin. It was encouraging that these residues exhibited fewer fluctuations and remained stable. The results from this study can help in the development of new drugs targeting specific proteins in biological systems (Figure 18).
+
+age RMSF for Caspase -3 -( 8b ) and Caspase -3 -Doxorubicin was 2.3 and 2.4 angstroms , respectively. The amino acid residues range from 100 -200 was in in contact with both compounds i.e., ( 8b ) and doxorubicin. It was encouraging that these residues exhibited fewer fluc tuations and remained stable. The results from this study can help in the development of new drugs targeting specific proteins in biological systems (Figure 1 8 ). uations and remain ed stable. The results from this study can help in the development of new drugs targeting specific proteins in biological systems (Figure 18).
+
+Figure 19. bicin.
+
+<!-- image -->
+
+Figure 18. RMSF pattern for c alpha atoms of Caspase -3, Caspase -3 -( 8b ) complex , and Caspase 3 -Doxorubicin complex . Figure 18. RMSF pattern for c alpha atoms of Caspase-3, Caspase-3-( 8b ) complex, and Caspase 3-Doxorubicin complex. The RMSF for the p53 -( 8a ) complex exhibited stability for the majority part of the simulated trajectory. The RMSF values as high as 4.7 were observed for residues 100-130.
+
+these w phonamide ( 8a
+
+The RMSF for the p53 -( 8a ) complex exhibited stability for the majority part of the simulated trajectory. The RMSF values as high as 4.7 were observed for residues 100 -130. The amino acids in contact with ligand ( 8a ) were stable throughout the simulation, even though this peak appeared. Thus, the ligand can maintain its interactions with the amino acid residues in the binding site of the p53 -( 8a ) complex, suggesting that the complex is relatively stable. In addition, RMSF values of p53 in complex with Doxorubicin are also presented in Figure 19. The amino acid residues range from 20 -25, 100 -140, and 160 -200; ere in contact with both ligands. The RMSF study corroborated the findings of the DFT calculations and MD simulations, which showed that the p53 -N -ethyl toluene -4 -sulThe RMSF for the p53-( 8a ) complex exhibited stability for the majority part of the simulated trajectory. The RMSF values as high as 4.7 were observed for residues 100-130. 8a ) were stable throughout the simulation, even though this peak appeared. Thus, the ligand can maintain its interactions with the amino acid residues in the binding site of the p53-( 8a ) complex, suggesting that the complex is relatively stable. In addition, RMSF values of p53 in complex with Doxorubicin are also presented in Figure 19. The amino acid residues range from 20-25, 100-140, and 160-200; these were in contact with both ligands. The RMSF study corroborated the findings of the DFT calculations and MD simulations, which showed that the p53-N-ethyl toluene-4sulphonamide ( 8a ) complex is chemically reactive and stable (Figure 19). The amino acids in contact with ligand ( ) were stable throughout the simulation, even though this peak appeared. Thus, the ligand can maintain its interactions with the amino acid residues in the binding site of the p53 -( 8a ) complex, suggesting that the complex is relatively stable. In addition, RMSF values of p53 in complex with Doxorubicin are also presented in Figure 19. The amino acid resi dues range from 20-25, 100-140, and 160-200; these were in contact with both ligands. The RMSF study corroborated the findings of the DFT calculations and MD simulations, which showed that the p53-N-ethyl toluene-4-sul) complex is chemically reactive and stable (Figure 19).
+
+RMSF analysis of p53 in contact with N-ethyl toluene-4-sulphonamide ( 8a ) and DoxoruFigure 19. 8a ) and Doxorubicin.
+
+<!-- image -->
+
+The compactness of a protein or polymer can be measured using the radius of gyration (Rg), which is calculated as the root -mean -square distance of its particles from the center of mass. In this study, the Rg of the protein Caspase-3 and p53 were determined The compactness of a protein or polymer can be measured using the radius of gyration (Rg), which is calculated as the root-mean-square distance of its particles from the center of mass. In this study, the Rg of the protein Caspase-3 and p53 were determined and found to fluctuate between 19.25, 19.75, and 20-20.3 angstroms, respectively. These fluctuations in Rg can be indicative of changes in the protein's compactness resulting from alterations in its conformation or interactions with its surroundings. For instance, when exposed to
+
+19 of 25 tion (Rg), which is calculated as the root -mean -center of mass. In this study, the Rg of the protein Caspase -3 and found to fluctuate between 19.25 , 19.75 , and 20 -20.3 angstroms , respectively. Thes e flu ctuations in Rg can be indicative ofchanges in the protein '
+
+denaturing agents like high temperatures or chemical denaturants, the protein may unfold, leading to an increase in Rg. Conversely, when stabilized by favorable interactions like ligand binding or protein-protein interactions, the protein may become more compact, leading to a decrease in Rg. Figure 20 illustrates the radius of gyration. actions like ligand binding or protein -compact, leading to a decrease in Rg. Figure 20 illustrates the radius of gyration.
+
+Figure 20. Radius of gyration Figure 20. Radius of gyration.
+
+<!-- image -->
+
+.
+
+MMGBSA Free Binding Energy Analysis
+
+-technique for predicting the binding free energy of protein -energies of the protein -the ligand). In MMGBSA energy analysis, the free -binding energies of protein, ligand The MMGBSA (Molecular Mechanics Generalized Born Surface Area) is a popular technique for predicting the binding free energy of protein-ligand complexes. This method determines the binding free energy by computing the difference between the free energies of the protein-ligand complex and the unbound components (i.e., the protein and the ligand). In MMGBSA energy analysis, the free-binding energies of protein, ligand, and the protein-ligand complex are estimated by the following equation [30]:
+
+-MMGBSA Free-Binding Energy Analysis
+
+the protein -
+
+ligand complex are estimated by the following equation [30]: G = E$\_{bnd}$ + E$\_{el}$ + E$\_{vdW}$ + G$\_{pol}$ + G$\_{np}$ - TS
+
+G = Ebnd + Eel + EvdW + Gpol + Gnp - TS where E$\_{bnd}$ refers to bond energy, E$\_{el}$ refers to electrostatic energy, and E$\_{vdW}$ represents van der Waals interactions. In the current study, Poisson-Boltzmann calculations were performed using the internal GBSA solver in mmpbsa\_py\_energy. All units are represented in kcal/mol. An MM-GBSA energy analysis is illustrated in Table 5.
+
+Table 5. The MMGBSA data for selected complexes.
+
+| Complexes        | Complex Free Binding Energy (kcal/mol)   | Columb Energy (kcal/mol)   | Hydrogen Bond Energy (kcal/mol)   | Covalent Energy (kcal/mol)   |
+|------------------|------------------------------------------|----------------------------|-----------------------------------|------------------------------|
+| p53-( 8a )       | - 5508.8                                 | - 8235.2                   | - 123.1                           | - 6012                       |
+| Caspase-3-( 8b ) | - 5822.1                                 | - 8421.4                   | - 165.5                           | - 7233                       |
+| p53-Doxorubicin  | - 1022.6                                 | - 1523.9                   | - 420.2                           | - 1232                       |
+| p53-Cisplatin    | - 1002                                   | - 503.5                    | - 54.2                            | - 232.9                      |
+
+In this study, the Schrodinger Python script was used to calculate the binding free energies of four protein-ligand complexes, namely p53-cisplatin, p53-doxorubicin, p53-( 8a ), and caspase3-( 8b ). The results of the study show that the p53-( 8a ) complex has the lowest CFBE value of - 5508.8 kcal/mol, while the Caspase-38b complex has a slightly lower CFBE value of - 5822.1 kcal/mol. This implies that the interactions between the protein and ligand molecules in these two complexes are relatively weak. On the other hand, the CFBE values for the p53-Doxorubicin and p53-Cisplatin complexes are - 1022.6 kcal/mol and
+
+,
+
+- 1002 kcal/mol, respectively, indicating that these complexes have stronger interactions. The data also provide information on the different energy components that contribute to the overall CFBE, including Columb, hydrogen bond, and covalent energies. Among the four complexes, p53-( 8a ) has the highest Columb energy ( - 8235.2 kcal/mol), indicating strong electrostatic interactions between the protein and ligand molecules. The highest hydrogen bond energy is observed in the p53-Doxorubicin complex ( - 420.2 kcal/mol), which suggests that the protein-ligand complex has strong hydrogen-bonding interactions. The covalent energy is the lowest for the p53-Cisplatin complex ( - 232.9 kcal/mol), indicating a relatively weak covalent interaction. In summary, the data provide valuable insights into the energetics of protein-ligand complexes, which can be used to understand the binding mechanism and guide the development of more effective ligands. However, it is important to exercise caution when interpreting the results as they are subject to various assumptions and approximations used in the calculations. The detailed values are provided in Table 5.
+
+Int. J. Mol. Sci. 2023 , 24
+
+21
+
+The binding energies of each amino acid residue of Caspase-3 and p53 are calculated; they range from - 1.0 to - 5.9 kcal/mol, as illustrated in Figure 21. It can be seen from the readings' oscillations between these two extremes that some residues have a higher affinity for binding than others. The variation in the residues' binding energies serves as a visual cue to the intricate nature of protein-ligand interactions. The shape, size, and chemical characteristics of the ligand and the protein surface, as well as the amino acid makeup of the protein's binding site, all have an impact on binding energy. , x FOR PEER REVIEW
+
+Figure 21. Amino acid residues wise binding energies of Caspase -3 -8b and p53 -( 8a Figure 21. Amino acid residues wise binding energies of Caspase-38b and p53-( 8a ) complex.
+
+<!-- image -->
+
+) complex .
+
+the structure and operation of the protein Caspase -PCA (Principal Component Analysis) is a statistical method for reducing the number of dimensions in a dataset while preserving the majority of the data. This is accomplished by locating the principal components, which are linear combinations of the initial variables that account for the majority of the variance in the data. PCA can be used to examine the structure and operation of the protein Caspase-3, which is a protease enzyme involved in apoptosis or programmed cell death (Figure 22).
+
+in apoptosis or programmed cell death (Figure 22) .
+
+, ,
+
+, 7953 , x FOR PEER REVIEW
+
+## PCA of C-a
+
+Figure 22. Principle component analysis for Caspase -3 (dark green colored dots indicate PCA at Figure 22. Principle component analysis for Caspase -3 (dark green colored dots indicate PCA at 100 ns).
+
+<!-- image -->
+
+## 100 ns). 3. Materials and Methods
+
+## 3.1. Assay for Cell Viability
+
+4
+
+3. Materials and Methods 3.1. Assay for Cell Viability The two compounds, N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) , were explored for their potential to fight cancer against three different cell lines using cell viability assay: MDA-MB231, MCF-7 (human breast cancer cell lines), and HeLa (a human cervical cancer cell line). To perform the assay, 10 × 10 4 cells were added to each well of a plate, which was followed by 10 µL of ( 8a ) or ( 8b ). The plates were then incubated at 37 °C and 5% CO2 for 24 h. After incubating the plates at 37 °C for h, 10 µL of MTT reagent were added. The reaction was then stopped by adding 10% sodium dodecyl sulfate. Background absorbance was calculated at 625 nm and optical density was determined at 575 nm using FLUOstar Omega microplate reader (BMG Labtech, Ortenberg, Germany) [31,32]. The IC 50 and percent growth inhibition of ( 8a ) or ( 8b ) were determined using GraphPad Prism Software version 5.0. Doxorubicin and cisplatin The two compounds, N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene3-sulfonamide ( 8b ) , were explored for their potential to fight cancer against three different cell lines using cell viability assay: MDA-MB231, MCF-7 (human breast cancer cell lines), and HeLa (a human cervical cancer cell line). To perform the assay, 10 × 10 4 cells were added to each well of a plate, which was followed by 10 µ L of ( 8a ) or ( 8b ). The plates were then incubated at 37 $^{·}$C and 5% CO$\_{2}$ for 24 h. After incubating the plates at 37 $^{·}$C for 4 h, 10 µ L of MTT reagent were added. The reaction was then stopped by adding 10% sodium dodecyl sulfate. Background absorbance was calculated at 625 nm and optical density was determined at 575 nm using FLUOstar Omega microplate reader (BMG Labtech, Ortenberg, Germany) [31,32]. The IC$\_{50}$ and percent growth inhibition of ( 8a ) or ( 8b ) were determined using GraphPad Prism Software version 5.0. Doxorubicin and cisplatin were used as positive controls in the cell viability assay. Potential anticancer agent effectiveness was assessed by comparing the findings of ( 8a ) and ( 8b ) to the positive controls [32].
+
+## were used as positive controls in the cell viability assay. Potential anticancer agent effec3.2. Spectrophotometric DNA Binding Analysis
+
+tiveness was assessed by comparing the findings of (
+
+8a ) and ( 8b ) to the positive controls [32]. 3.2. Spectrophotometric DNA Binding Analysis The binding interaction of N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) with DNA using UV-visible spectrophotometry was evaluated. To prepare the solutions for the experiment, 10% DMSO solutions of the compounds were prepared. The stock solution for Lyophilized Herring sperm DNA was prepared by weighing and then dissolving it in distilled water. The DNA concentration was calculated using the 260/280 absorbance ratio. With a ratio between 1.6 and 1.9, it was determined that the DNA was of sufficient purity for analysis. The investigational compounds were added to the range of HS -DNA concentrations (40 µM, 80 µM, 120 µM, 160 µM, 200 µM, and 240 µM). After the incubation (30 min in a dark place), UV absorption spectra were The binding interaction of N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) with DNA using UV-visible spectrophotometry was evaluated. To prepare the solutions for the experiment, 10% DMSO solutions of the compounds were prepared. The stock solution for Lyophilized Herring sperm DNA was prepared by weighing and then dissolving it in distilled water. The DNA concentration was calculated using the 260/280 absorbance ratio. With a ratio between 1.6 and 1.9, it was determined that the DNA was of sufficient purity for analysis. The investigational compounds were added to the range of HS-DNA concentrations (40 µ M, 80 µ M, 120 µ M, 160 µ M, 200 µ M, and 240 µ M). After the incubation (30 min in a dark place), UV absorption spectra were recorded using a FLUOstar Omega microplate reader [33,34]. Changes in the ( 8a ) or ( 8b ) spectra in the presence of DNA suggested a binding interaction between the chemicals and DNA. The binding constants and modes of interaction between the compounds and DNA were measured from the obtained spectra.
+
+recorded using a FLUOstar Omega microplate reader [33,34]. Changes in the ( 8a ) or ( 8b ) spectra in the presence of DNA suggested a binding interaction between the chemicals
+
+22
+
+- 3.3. Computational Investigations
+
+## 3.3.1. Density Functional Theory Calculations
+
+DFT calculations are widely used to study the electronic properties and structural stability of molecules. In this study, the DFT calculations were used to evaluate the electronic properties of N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene3-sulfonamide ( 8b ) using the Gaussian 09W program [35,36]. The B3LYP functional correlation and the 6-31G* basis set were used to optimize the geometries and evaluate the stability of the compounds [37].
+
+The electron density of the compounds was analyzed using local and global reactivity descriptors, as well as the frontier molecular orbitals [38]. The chemical sensitivity, ionization potential, and reactivity of the compounds were evaluated based on their electron densities. The findings indicated that the compounds had a high ion-attracting capacity and were promising ligand choices [39,40]. The GaussView 06 [41] analysis provided suitability as potential ligands through the assessment of their properties. In general, the DFT calculations elucidated useful information on the electrical characteristics and structural stability of the compounds, which might be used in the creation of effective anticancer medicines.
+
+## 3.3.2. Molecular Docking Studies
+
+Molecular docking was used to evaluate the non-covalent interactions of compounds N-ethyl toluene-4-sulphonamide ( 8a ) and 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) as inhibitors against various cancer proteins, including Caspase-3, NFκ B, p53, and DNA. The study used proteins sourced from the Protein Data Bank (PDB: PDB IDs: 3DEI [42], 1NFI [43], 3DCY [44,45], and 127D [46] respectively, www.rcsb.com accessed on 15 February 2023) and prepared them for docking by removing water and hetero-atoms, adding polar hydrogen atoms, and incorporating Gasteiger charges [30,47]. The grid box of one angstrom spacing was set for molecular docking purposes. In addition, the attributes of co-crystal ligand were used for production run. The coordinates for the NFκ B protein were obtained from the Protein Data Bank (PDB), and the x, y, and z attributes were set to - 5.373126, 65.514536, and 45.078298, respectively. The dimensions of the p53 protein were set to 17.000000, 41.837500, and - 3.621000, while the dimensions for the DNA were set to 9.927250, 23.023156, 8.770906 and - 46.798037, 15.020000, and - 21.901333 for Caspase 3. To learn how the ligand would attach to the enzyme's active site, the proteins' protonation states were also altered. Electrostatic interactions between the ligand and the protein are influenced by the protonation status of amino acids within the active site, which influences binding affinity and specificity. To obtain a precise depiction of the binding interactions, molecular docking, and MDS need to consider the protonation states of the protein and ligand in their analyses.
+
+The compounds ( 8a ), ( 8b ), and standard doxorubicin and cisplatin were prepared for direct docking in AutoDock Vina [48]. The grid box was enlarged to include the targeted proteins' active sites. The exhaustiveness was set to Default 8, and the number of modes was set to 100 to obtain precise docking findings. The co-crystal ligand was docked to verify the docking procedure. If the RMSD between the original and rebuilt position was fewer than two angstroms, the docking method was considered successful [47].
+
+## 3.3.3. Molecular Dynamics Simulations
+
+MDS studies on the protein-ligand complex were performed on Desmond. Each complex was simulated in the TIP3P solvent model and was used for 50 ns. [49]. Restoration of the system to its original state was performed with counter sodium chloride (NaCl) ions 0.15 M. The OPLS3 forcefield was utilized during the simulation [50]. The atomic motion was integrated by this forcefield while it was being exposed to periodic boundary conditions. To prevent any collisions of atoms from occurring, an initial strategy of 2000 steps for minimizing energy was used. The system was brought to equilibrium in an isothermal and isobaric environment at 300 K and 1.01 bar (NPT) [51,52]. To focus on interactions at shorter ranges, van der Waals calculations were performed using a cutoff distance
+
+of 10 angstroms. The Nose-Hoover thermostat and the Martyna-Tobias-Klein barostat were employed to maintain pressure and temperature during the simulation [53]. When integrating the motion equations, a 2-fs time step was employed. The production run lasted 100 ns, and the simulated trajectories were saved at 50 ps intervals. Particle Mesh Ewald was used to investigate electrostatic interactions with high accuracy and reliability [54,55]. The Desmond simulation interaction diagram protocol was used to analyze the simulated trajectories of the protein-ligand complexes. The MM-GBSA and principle component analysis were performed as discussed earlier [30].
+
+## 4. Conclusions
+
+The free-binding energy is affected by both electrostatic and non-electrostatic forces, and Compound ( 8b ) was determined to have the greatest potential as an anticancer agent. Molecular docking studies suggest that Compound ( 8b ) has the strongest affinity for binding Caspase-3, while ( 8a ) has the strongest affinity for p53. DFT calculations that supported the findings demonstrated that both compounds have good chemical reactivity with the localization of the HOMO and LUMO orbitals at specific regions of the molecules, supporting the claim that 2,5-Dichlorothiophene-3-sulfonamide ( 8b ) is a potential anticancer compound. Docking and molecular dynamic (MD) simulations added further support to the stability of both compounds in their binding sites. Both compounds exhibited better docking scores than cisplatin and comparable docking scores to Doxorubicin. These results highlight the importance of integrating computational and experimental methods when developing novel therapies for the treatment of a wide range of diseases and also provide valuable information about the potential of these molecules as Caspase-3 and p53 inhibitors.
+
+Author Contributions: Conceptualization: T.A.W. and S.Z.; Methodology: T.A.W. and S.Z.; Software: N.A. and T.A.W.; Formal analysis: T.A.W., H.M.A. and L.S.A.-R., Investigation: N.A., L.S.A.-R. and T.A.W.; Resources: T.A.W.; Writing: S.Z., T.A.W. and L.S.A.-R.; Review & Editing: H.M.A. and T.A.W.; Project administration: T.A.W. All authors have read and agreed to the published version of the manuscript.
+
+Funding: Deputyship for Research & Innovation, Ministry of Education in Saudi Arabia for funding this re-search work through project No. IFKSURG-2-1381.
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: Data will be available on request to corresponding author.
+
+Acknowledgments: The authors extend their appreciation to the Deputyship for Research & Innovation, Ministry of Education in Saudi Arabia for funding this research work through project No. IFKSURG-2-1381.
+
+Conflicts of Interest: The authors declare no conflict of interest.
+
+## References
+
+- 1. Cao, W.; Chen, H.D.; Yu, Y.W.; Li, N.; Chen, W.Q. Changing profiles of cancer burden worldwide and in China: A secondary analysis of the global cancer statistics 2020. Chin. Med. J. 2021 , 134 , 783-791. [CrossRef] [PubMed]
+- 2. Bray, F.; Ferlay, J.; Soerjomataram, I.; Siegel, R.L.; Torre, L.A.; Jemal, A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J. Clin. 2018 , 68 , 394-424. [CrossRef] [PubMed]
+- 3. Siegel, R.; DeSantis, C.; Virgo, K.; Stein, K.; Mariotto, A.; Smith, T.; Cooper, D.; Gansler, T.; Lerro, C.; Fedewa, S.; et al. Cancer treatment and survivorship statistics, 2012. CA Cancer J. Clin. 2012 , 62 , 220-241. [CrossRef] [PubMed]
+- 4. Saini, A.; Kumar, M.; Bhatt, S.; Saini, V.; Malik, A. Cancer causes and treatments. Int. J. Pharm. Sci. Res. 2020 , 11 , 3121-3134.
+- 5. Garcia-Oliveira, P.; Otero, P.; Pereira, A.G.; Chamorro, F.; Carpena, M.; Echave, J.; Fraga-Corral, M.; Simal-Gandara, J.; Prieto, M.A. Status and challenges of plant-anticancer compounds in cancer treatment. Pharmaceuticals 2021 , 14 , 157. [CrossRef]
+- 6. Dragojevic, S.; Ryu, J.S.; Raucher, D. Polymer-based prodrugs: Improving tumor targeting and the solubility of small molecule drugs in cancer therapy. Molecules 2015 , 20 , 21750-21769. [CrossRef]
+
+- 7. Majumder, J.; Minko, T. Targeted Nanotherapeutics for respiratory diseases: Cancer, fibrosis, and coronavirus. Adv. Ther. 2021 , 4 , 2000203. [CrossRef]
+- 8. Nguyen, V.-T.; Huynh, T.-K.-C.; Ho, G.-T.-T.; Nguyen, T.-H.-A.; Le Anh Nguyen, T.; Dao, D.Q.; Mai, T.V.; Huynh, L.K.; Hoang, T.-K.-D. Metal complexes of benzimidazole-derived as potential anti-cancer agents: Synthesis, characterization, combined experimental and computational studies. R. Soc. Open Sci. 2022 , 9 , 220659. [CrossRef]
+- 9. Satange, R.; Chang, C.K.; Hou, M.H. A survey of recent unusual high-resolution DNA structures provoked by mismatches, repeats and ligand binding. Nucleic Acids Res. 2018 , 46 , 6416-6434. [CrossRef]
+- 10. Pope, A.J.; Bruce, C.; Kysela, B.; Hannon, M.J. Issues surrounding standard cytotoxicity testing for assessing activity of noncovalent DNA-binding metallo-drugs. Dalton Trans. 2010 , 39 , 2772-2774. [CrossRef]
+- 11. Bilal, M.S.; Ejaz, S.A.; Zargar, S.; Akhtar, N.; Wani, T.A.; Riaz, N.; Aborode, A.T.; Siddique, F.; Altwaijry, N.; Alkahtani, H.M. Computational Investigation of 1, 3, 4 Oxadiazole Derivatives as Lead Inhibitors of VEGFR 2 in Comparison with EGFR: Density Functional Theory, Molecular Docking and Molecular Dynamics Simulation Studies. Biomolecules 2022 , 12 , 1612. [CrossRef]
+- 12. Hou, W.; Xu, H. Incorporating Selenium into Heterocycles and Natural Products-From Chemical Properties to Pharmacological Activities. J. Med. Chem. 2022 , 65 , 4436-4456. [CrossRef]
+- 13. Scheepers, M.C.; Lemmerer, A. In pursuit of multicomponent crystals of the sulfa drugs sulfapyridine, sulfathiazole, and sulfamethoxazole. Cryst. Growth Des. 2021 , 22 , 98-122. [CrossRef]
+- 14. Saeed, A.; Ejaz, S.A.; Saeed, M.; Channar, P.A.; Aziz, M.; Fayyaz, A.; Zargar, S.; Wani, T.A.; Alanazi, H.; Alharbi, M. Synthesis, Biochemical Characterization, and in-Silico Investigations of Acyl-3-(Ciprofloxacinyl) Thioureas as Inhibitors of Carbonic Anhydrase-II. Polycycl. Aromat. Compd. 2023 , 1-19. [CrossRef]
+- 15. Ballatore, C.; Huryn, D.M.; Smith, A.B., III. Carboxylic acid (bio) isosteres in drug design. ChemMedChem 2013 , 8 , 385-395. [CrossRef]
+- 16. Horgan, C.O.; Sullivan, T.P. Recent developments in the practical application of novel carboxylic acid bioisosteres. Curr. Med. Chem. 2022 , 29 , 2203-2234. [CrossRef]
+- 17. Lamberth, C.; Dinges, J. Different roles of carboxylic functions in pharmaceuticals and agrochemicals. In Bioactive Carboxylic Compound Classes: Pharmaceuticals and Agrochemicals ; Wiley: Hoboken, NJ, USA, 2016.
+- 18. Lassalas, P.; Gay, B.; Lasfargeas, C.; James, M.J.; Tran, V.; Vijayendran, K.G.; Brunden, K.R.; Kozlowski, M.C.; Thomas, C.J.; Smith, A.B., III; et al. Structure property relationships of carboxylic acid isosteres. J. Med. Chem. 2016 , 59 , 3183-3203. [CrossRef]
+- 19. Owa, T.; Yoshino, H.; Yoshimatsu, K.; Nagasu, T. Cell cycle regulation in the G1 phase: A promising target for the development of new chemotherapeutic anticancer agents. Curr. Med. Chem. 2001 , 8 , 1487-1503. [CrossRef]
+- 20. Liu, Y.H.; Liu, G.H.; Mei, J.J.; Wang, J. The preventive effects of hyperoside on lung cancer in vitro by inducing apoptosis and inhibiting proliferation through Caspase-3 and p53 signaling pathway. Biomed. Pharmacother. 2016 , 83 , 381-391. [CrossRef]
+- 21. Rengarajan, T.; Nandakumar, N.; Rajendran, P.; Haribabu, L.; Nishigaki, I.; Balasubramanian, M.P. D-pinitol promotes apoptosis in MCF-7 cells via induction of p53 and Bax and inhibition of Bcl-2 and NFκ B. Asian Pac. J. Cancer Prev. 2014 , 15 , 1757-1762. [CrossRef] [PubMed]
+- 22. Upadhyay, R.K. Garlic induced apoptosis, cell cycle check points and inhibition of cancer cell proliferation. J. Cancer Res. 2017 , 5 , 35-54.
+- 23. Pflug, K.M.; Sitcheran, R. Targeting NFκ B-inducing kinase (NIK) in immunity, inflammation, and cancer. Int. J. Mol. Sci. 2020 , 21 , 8470. [CrossRef]
+- 24. Ghafouri-Fard, S.; Abak, A.; Fattahi, F.; Hussen, B.M.; Bahroudi, Z.; Shoorei, H.; Taheri, M. The interaction between miRNAs/lncRNAs and nuclear factorκ B (NFκ B) in human disorders. Biomed. Pharmacother. 2021 , 138 , 111519. [CrossRef] [PubMed]
+- 25. Tilborghs, S.; Corthouts, J.; Verhoeven, Y.; Arias, D.; Rolfo, C.; Trinh, X.B.; Van Dam, P.A. The role of nuclear factor-kappa B signaling in human cervical cancer. Crit. Rev. Oncol. Hematol. 2017 , 120 , 141-150. [CrossRef]
+- 26. Khayyat, A.I.A.; Zargar, S.; Wani, T.A.; Rehman, M.U.; Khan, A.A. Association mechanism and conformational changes in trypsin on its interaction with atrazine: A multi-spectroscopic and biochemical study with computational approach. Int. J. Mol. Sci. 2022 , 23 , 5636. [CrossRef]
+- 27. Kumar, S.; Nair, M.S. Deciphering the interaction of flavones with calf thymus DNA and octamer DNA sequence (CCAATTGG) 2. RSC Adv. 2021 , 11 , 29354-29371. [CrossRef]
+- 28. Li, Y.; Yang, Z.; Zhou, M.; Li, Y. Synthesis and crystal structure of new monometallic Ni (II) and Co (II) complexes with an asymmetrical aroylhydrazone: Effects of the complexes on DNA/protein binding property, molecular docking, and in vitro anticancer activity. RSC Adv. 2017 , 7 , 49404-49422. [CrossRef]
+- 29. Alsaif, N.A.; Al-Mehizia, A.A.; Bakheit, A.H.; Zargar, S.; Wani, T.A. A spectroscopic, thermodynamic and molecular docking study of the binding mechanism of dapoxetine with calf thymus DNA. S. Afr. J. Chem. 2020 , 73 , 44-50. [CrossRef]
+- 30. Aziz, M.; Ejaz, S.A.; Zargar, S.; Akhtar, N.; Aborode, A.T.; Wani, T.A.; Batiha, G.E.-S.; Siddique, F.; Alqarni, M.; Akintola, A.A. Deep Learning and Structure-Based Virtual Screening for Drug Discovery against NEK7: A Novel Target for the Treatment of Cancer. Molecules 2022 , 27 , 4098. [CrossRef]
+- 31. Nikš, M.; Otto, M.; Bušov á , B.; Štefanovi'c, J. Quantification of proliferative and suppressive responses of human T lymphocytes following ConA stimulation. J. Immunol. Methods 1990 , 126 , 263-271. [CrossRef]
+- 32. Mosmann, T. Rapid colorimetric assay for cellular growth and survival: Application to proliferation and cytotoxicity assays. J. Immunol. Methods 1983 , 65 , 55-63. [CrossRef]
+
+- 33. Manojkumar, P.; Mahipal, V.; Suresh, G.; Venkatesh, N.; Ramesh, M.; Parthasarathy, T. Exploring Interaction Dynamics of Designed Organic Charge Transfer Complex of 6-Aminoindole and Chloranilic Acid: Spectrophotometric, Characterization, Computational, Antimicrobial, and DNA Binding Properties. J. Mol. Struct. 2022 , 1258 , 132666. [CrossRef]
+- 34. Wani, T.A.; Alsaif, N.; Bakheit, A.H.; Zargar, S.; Al-Mehizia, A.A.; Khan, A.A. Interaction of an abiraterone with calf thymus DNA: Investigation with spectroscopic technique and modelling studies. Bioorg. Chem. 2020 , 100 , 103957. [CrossRef]
+- 35. Frisch, M.; Trucks, G.W.; Schlegel, H.B.; Scuseria, G.E.; Robb, M.A.; Cheeseman, J.R.; Scalmani, G.; Barone, V.; Mennucci, B.; Petersson, G.A. Gaussian 09, Revision D.01 ; Gaussian, Inc.: Wallingford, CT, USA, 2009.
+- 36. St-Amant, A. Density Functional Methods in Biomolecular Modeling. Rev. Comput. Chem. 1996 , 7 , 217.
+- 37. Thanikaivelan, P.; Subramanian, V.; Rao, J.R.; Nair, B.U. Application of quantum chemical descriptor in quantitative structure activity and structure property relationship. Chem. Phys. Lett. 2000 , 323 , 59-70. [CrossRef]
+- 38. Baerends, E.J.; Gritsenko, O.V. A quantum chemical view of density functional theory. J. Phys. Chem. A 1997 , 101 , 5383-5403. [CrossRef]
+- 39. Weigend, F.; Ahlrichs, R. Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence quality for H to Rn: Design and assessment of accuracy. Phys. Chem. Chem. Phys. 2005 , 7 , 3297-3305. [CrossRef]
+- 40. Schäfer, A.; Horn, H.; Ahlrichs, R. Fully optimized contracted Gaussian basis sets for atoms Li to Kr. J. Chem. Phys. 1992 , 97 , 2571-2577. [CrossRef]
+- 41. Dennington, R.; Keith, T.A.; Millam, J.M. GaussView Version 6, 2019 ; Semichem Inc.: Shawnee Mission, KS, USA, 2019.
+- 42. Du, J.Q.; Wu, J.; Zhang, H.J.; Zhang, Y.H.; Qiu, B.Y.; Wu, F.; Chen, Y.H.; Li, J.Y.; Nan, F.J.; Ding, J.P.; et al. Isoquinoline-1, 3, 4-trione derivatives inactivate caspase-3 by generation of reactive oxygen species. J. Biol. Chem. 2008 , 283 , 30205-30215. [CrossRef]
+- 43. Zheng, C.; Yin, Q.; Wu, H. Structural studies of NFκ B signaling. Cell Res. 2011 , 21 , 183-195. [CrossRef]
+- 44. Li, H.; Jogl, G. Structural and biochemical studies of TIGAR (Tp53-induced glycolysis and apoptosis regulator). J. Biol. Chem. 2009 , 284 , 1748-1754. [CrossRef] [PubMed]
+- 45. Chandel, V.; Sharma, P.P.; Nayar, S.A.; Jha, N.K.; Jha, S.K.; Rathi, B.; Kumar, D. In silico identification of potential inhibitor for TP53-induced glycolysis and apoptosis regulator in head and neck squamous cell carcinoma. 3 Biotech 2021 , 11 , 1-16. [CrossRef]
+- 46. Morris, G.M.; Lim-Wilby, M. Molecular Docking. In Molecular Modeling of Proteins ; Springer: Berlin/Heidelberg, Germany, 2008; pp. 365-382.
+- 47. Trott, O.; Olson, A.J. AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading. J. Comput. Chem. 2010 , 31 , 455-461. [CrossRef] [PubMed]
+- 48. Stalin, A.; Lin, D.; Princy, J.J.; Feng, Y.; Xiang, H.; Ignacimuthu, S.; Chen, Y. Computational analysis of single nucleotide polymorphisms (SNPs) in PPAR gamma associated with obesity, diabetes and cancer. J. Biomol. Struct. Dyn. 2022 , 40 , 1843-1857. [CrossRef]
+- 49. Shivakumar, D.; Williams, J.; Wu, Y.; Damm, W.; Shelley, J.; Sherman, W. Prediction of absolute solvation free energies using molecular dynamics free energy perturbation and the OPLS force field. J. Chem. Theory Comput. 2010 , 6 , 1509-1519. [CrossRef]
+- 50. Martyna, G.J.; Tobias, D.J.; Klein, M.L. Constant pressure molecular dynamics algorithms. J. Chem. Phys. 1994 , 101 , 4177-4189. [CrossRef]
+- 51. Hoover, W.G. Canonical dynamics: Equilibrium phase-space distributions. Phys. Rev. A 1985 , 31 , 1695. [CrossRef]
+- 52. Humphreys, D.D.; Friesner, R.A.; Berne, B.J. A multiple-time-step molecular dynamics algorithm for macromolecules. J. Phys. Chem. A 1994 , 98 , 6885-6892. [CrossRef]
+- 53. Luty, B.A.; Davis, M.E.; Tironi, I.G.; Van Gunsteren, W.F. A comparison of particle-particle, particle-mesh and Ewald methods for calculating electrostatic interactions in periodic molecular systems. Mol. Simul. 1994 , 14 , 11-20. [CrossRef]
+- 54. Wani, T.A.; Zargar, S.; Hussain, A. Spectroscopic, Thermodynamic and Molecular Docking Studies on Molecular Mechanisms of Drug Binding to Proteins. Molecules 2022 , 27 , 8405. [CrossRef]
+- 55. Rasheed, S.; Aziz, M.; Saeed, A.; Ejaz, S.A.; Channar, P.A.; Zargar, S.; Abbas, Q.; Alanazi, H.; Hussain, M.; Alharbi, M. Analysis of 1-Aroyl-3-[3-chloro-2-methylphenyl] Thiourea Hybrids as Potent Urease Inhibitors: Synthesis, Biochemical Evaluation and Computational Approach. Int. J. Mol. Sci. 2022 , 23 , 11646. [CrossRef] [PubMed]
+
+Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

@@ -1,0 +1,248 @@
+ISSN: 2349-8889
+
+https://doi.org/10.31033/ijrasb.9.3.26
+
+## A Review on Artificial Intelligence and Machine Learning to Improve Cancer Management and Drug Discovery
+
+Roshan Kumar$^{1}$ and Purabi Saha 2
+
+$^{1}$Department of Pharmacology, Dev Bhoomi Institute of Pharmacy and research, Dehradun, Uttr akhand, INDIA. $^{2}$Department of Pharmacy, Uttranchal Institute of Pharmaceutical Science, Uttaranchal University, Dehradun, Uttrakhand, INDIA.
+
+$^{2}$Corresponding Author: purabisaha2000@gmail.com
+
+## ABSTRACT
+
+Typical pharmacological effect screening techniques use diluted natural ingredients that do not segregate active components. For the last two decades, contemporary medicine has identified and isolated potent active isomeric compounds. Multi-target therapies were a novel notion in the mid-2000s, but they will be one of the more critical advancements in developing drugs in 2021. Target-based drug development for effective natural anticancer therapeutics based on well-defined fragments is being researched instead of naturally occurring combinations. This paper highlights computeraided/fragment-based structure deconstruction and an inter method for natural anticancer medicines. The use of computer-aided drug development has increased (CADD). This study focused on antitumor agents and computeraided drug development.
+
+KeywordsAI, Cancer, drug discovery, computational method, therapeutic target medications.
+
+## I. INTRODUCTION
+
+The lymphatic system or circulation can transmit these cancerous cells to those other parts of the body. [ Vesteghem C 2020] Cancer research has been transformed by the emergence of big data in biomedical research. It's second nature for scientists to deal with complex biological concerns and collect data from various sources. Research institutions are generally agreed to be incapable of producing enough data to fit predictive and prognostic models adequately. As a result, data integration is essential for precision oncology. [Wise J., de Barron A. G 2019]. Large-scale COVID-19 and specific oncology programs face a variety of challenges today. It is hard to record, store, and reuse data. It is also problematic, expensive, and timeconsuming to merge datasets from many sources because of the various data needed and inadequate data management in multiple healthcare systems. Before the coronavirus epidemic, [ Wilkinson M. D., Dumontier M., Aalbersberg 2016] various European cancer efforts attempted to standardize and streamline data pipelines. Several cancer research groups apply one of the FAIR data principles to increase data interoperability and reusability by using standards, common metadata
+
+formats, and ontologies. [ Vesteghem C., Brøndum R. F 2020] Cancer research teams and clinicians rely on good data stewardship to stay motivated. As of 2016, the FAIR information principles have begun to resonate with scientists in the field of health care. It is essential to make data FAIR easily shared, reduce duplication, and improve machine discovery. As a result of COVID-19, cancer researchers can use their experiences to prevent future medical and humanitarian catastrophes.
+
+Dozens of initiatives, like VODAN BR, are harvesting semantic (meta) data from COVID-19. [Z ong N., Wen A., Stone D. J 2020] The researchers want to use artificial intelligence, machine learning, and other data science approaches to connect individual patient data to a wide range of other distributed datasets. [Douzas, G., Bacao, F., 2018] Following the FAIR principles will help enhance global genomic research and discoveries. Sarcoma (cancer of muscle, bone, fat, cartilage, blood vessels, or other connective tissues or supportive tissues), leukemia (cancer of blood-forming tissues such bone marrow), lymphoma, and multiple myeloma are among the most prevalent cancers (cancer of the immune system cells). [Konstantina Kourou 2015] Multiple stage processes, including hereditary traits and environmental factors, can lead healthy cells to become cancerous. Breast, lung, colon, rectal, prostate, skin, and stomach cancers are the most common kinds of cancer detected by 2020 (figure 1). [WHO 2020] Every year, one in six people dies from cancer. Excess BMI, alcohol consumption, a lack of fresh food in the diet, and lack of physical activity contribute to about one-third of all cancer-related fatalities. [ Douzas, G., Bacao, F., & Last, F. 2018] Around 30% of cancer cases in low- and lowermiddle-income countries are caused by cancer-causing viruses like hepatitis and HPV (HPV). Early presentation patients with limited access to diagnostics and therapy are widespread in underdeveloped and emerging nations. 90% of high-income countries have comprehensive treatment, while just 15% of low-income countries do. Cancer has a substantial financial impact, and it's only increasing. Cancer caused $1.16 trillion in annual economic damages in 2010. Patients' AUC ranged from 70 to 85% for those in immediate danger (severe-early, three days) to 50-60% for those in less immediate danger (severe-late, > 3 days) or no danger (not-severe). A clinician's experience and judgment are augmented
+
+rather than replaced by our technology, which may be useful in sorting out the complicated web of interrelationships between risk variables. So we employed data-driven variable selection and professional clinical judgment to reduce overfitting and bias. Our research also sought to tackle two practical challenges in treating COVID-19 patients. [ Gupta S, Gupta MK 2021] Our model only incorporated data available at or before the time of COVID-19 diagnosis (time zero) to represent clinicians' knowledge at the time of diagnosis appropriately. As a result, the clinical variables considered by the model may be inconsistent. [ Gupta S, Gupta MK 2020] However, only 16.1% of our patients (56/348) had to undergo D-dimer testing when diagnosed with COVID-19. We didn't account for people arriving at different stages of illness progression. This inconsistency would have to be within a practical model. [Patel, S. S., Acharya, A., Ray, R. S 2020.
+
+A variety of advantages and disadvantages exist with machine learning. Using automated models allows for evaluating many more clinical characteristics as risk factors for sickness severity than conventional modeling methods, [ Wang C., Yu Y., et al. 2020]. which generally only look at a few variables. Cross-validation decreases model overfitting and shows prognostic potential. Unfortunately, the approach identifies traits linked to patient outcomes but not necessarily disease causation.
+
+<!-- image -->
+
+Fig 1: Globally reported on New cases and death cases of cancer 2020
+
+<!-- image -->
+
+## II. PREDICTION FOR ANTI-CANCER TARGETED DRUG
+
+Targeted therapy uses medications that target malignant cells while sparing healthy cells. Cancer cells frequently have gene abnormalities that set them apart from healthy cells. [ Napoli, M., & Flores, E. R. 2020]. The genes in a cell's DNA direct it to perform various tasks. Gene mutations cause cells to act differently than normal cells. If a cancer cell's genes are altered, it can grow and divide quickly. [ Norgeot, B., Quer, G., Beaulieu-Jones, B. K 2020] Nonetheless, cancers come in many forms, and not all cancer cells are the same. Changes in gene expression promote the growth and spread of cancer cells, such as colon and breast cancer
+
+cells. Even if two people have the same broad category of cancer, their specific type of colon cancer may vary (e.g., colorectal cancer). [ Bomane, A., Gonçalves, A., & Ballester, P. J. 2019]. The environments where tumors grow, thrive and spread are not always the same. Some cancers contain proteins or enzymes that instruct cells to grow and increase. Targeted medications can either block or turn off the signals that drive cancer cells to grow or tell them to self-destruct. [Ebrahimkhani, S., Vafaee, F 2018] Researchers will create more targeted cancer treatments as they learn more about cancer cell abnormalities. Currently, only a few malignancies are frequently treated with this drug. Targeted therapy patients usually require surgery or chemotherapy. [ Tschandl, P., Rinner, C., Apalla 2020]. The increased availability of FDA-approved pharmaceuticals and
+
+https://doi.org/10.31033/ijrasb.9.3.26
+
+[Mulder, W. J., Ochando, J., Joosten, 2020] Although corticosteroids have been proven to reduce blood glucose levels in COVID-19 patients, our model does not attempt to identify the direction of this interaction. We explored combining expert clinical judgment with data-driven methodologies to solve this problem. [Norgeot, B., Quer, G., Beaulieu-Jones 2020] However, it is still challenging to discriminate between the relative worth of clinical experience and quantitative data. Cancer will kill about ten million people by 2020, making it the leading cause of death in future new cancer cases in 2020.
+
+- 1. Breast Cancer (2.26 million cases);
+- 2. Lung Cancer (2.21 million cases);
+- 3. Colon and rectum cancer (1.93 million cases);
+- 4. Prostate cancer (1.41 million cases);
+- 5. Skin cancer (non-melanoma) (1.20 million cases); and
+- 6. Stomach cancer (1.09 million cases). The most common causes of cancer death in 2020 were:
+- ❖ lung (1.80 million deaths);
+- ❖ colon and rectum (935 000 deaths);
+- ❖ liver (830 000 deaths);
+- ❖ stomach (769 000 deaths); and
+- ❖ breast (685 000 deaths).
+
+www.ijrasb.com
+
+quantitative biological data from the human genome project has led to proposals for drug repurposing and network pharmacology. Cytotoxic medicines target mitotic or DNA replication-related mechanisms to kill rapidly dividing cells. [ Setlow R. B. 2001] Targeted treatments stop cancer development and spread by interacting with molecular targets involved in cancer growth, progression, and spread. [NIH 2021] In addition to identifying new therapeutic targets, these successful medications and their data may help researchers repurpose current drugs and learn more about computational pharmacology. Drug-disease/target networks study will help us understand the molecular mechanisms behind therapeutic benefits and update FDA-approved anticancer medications. The human genome has 30,000 genes, of which 6,000-8,000 are known to be pharmacological targets. [ WHO 2021b] But just a few hundred of these proteins have been proven
+
+ISSN: 2349-8889
+
+https://doi.org/10.31033/ijrasb.9.3.26
+
+helpful in drug development. Unlike many other human diseases, cancer has many potential molecular targets for therapeutic effect. Traditional drug research focuses on drug-protein interactions rather than the "one molecule, one target, one disease" approach. Knowing that many target proteins are linked to numerous diseases has gone overlooked. [ Wogan, G. N., Hecht, S. S., Felton 2004]
+
+Furthermore, certain drugs' "polypharmacological" properties can cause undesired side effects. Cancer drugs have the most side effects. The fact that the same chemical can affect many routes is an example of a positive consequence. [Forli, S.; Huey, R.; Pique, M.E 2016] Several computer programs have also been used to investigate protein-drug interactions. As a result, network-based and machine-learning-based models have become crucial. These are some of the well-known computational models reviewed. [Popova, M.; Isayev, O 2018]
+
+Fig 2: drug discovery and development pipeline
+
+<!-- image -->
+
+## III. ANTI- CANCER DRUG DISCOVERY BASED ON AI
+
+Increasingly, organizations are setting "best practice" guidelines for developing and using AI solutions that benefit patients. New checklists have been established to standardize and publicize ML-based treatments. [ Kortagere, S., & Ekins, S 2010] For AI systems to be used effectively in clinics, both professionals and patients must trust their advice. [Bottaro, D. P., Rubin, J. S. 1991] Human-computer
+
+interfaces that enable human-computer cooperation must be designed and tested correctly. [Markham, A. 2019] Artificial intelligence in precision oncology is new. Proof-of-concept experiments have expanded in recent years, hinting at the future of precision oncology. This exploratory research raises reasonable expectations, but meaningful progress requires a deeper understanding of the constraints already revealed. In the coming years, [Lennerz, J. K., Kwak, E. L., 2011] AI may help develop precision oncology, benefiting patients worldwide.
+
+## IV. AI FOR NEXT GENERATION OF PRECISION ONCOLOGY
+
+Precision oncology uses medications that target a patient's tumor's genetic changes. In recent years, molecular profiling has become more common in clinical oncology, and several molecularly targeted drugs have been licensed to improve patient outcomes. Immune checkpoint drugs have recently been approved for use in individuals whose tumors show symptoms of microsatellite instability. [Ferlay J, Ervik M, Lam F, Colombet M 2021] Personalized cancer medicine has resulted in an unparalleled development of anti-tumor drug and diagnostic test options. Precision oncology can improve patient care, reduce diagnostic testing costs, and improve clinical phenotype prediction. They have potential. All stakeholders must acknowledge that these aims face significant challenges. AI and ML can be applied to discover medically significant trends in large and heterogeneous data sets. [ ML results tool 2021] As a result, machine learning (ML) may improve patient care. Innovators in digital pathology and computer vision have shown how ML models may improve diagnostic techniques with minimal human involvement. in clinical workflows to help pathologists speed up clinical diagnosis by assisting generalist pathologists. Diagnostic radiography is another area utilized to help detect cancer. [de Martel C, Georges D, Bray F 2020] Random fore algorithms can successfully diagnose circulating microRNAs9, and other forms of machine learning studies applied tA methylation profiles recorded in plasma cell-free nucleic acids exhibit robust performance. [WHO 2020] The usage of AI-powered decision support systems for cancer patients is also evolving. The most effective therapeutic approaches for treating cancer patients could predict using machine learning (ML) models that incorporate tumor growth kinetics, molecular profiling, and pharmacological
+
+properties. [Wild CP, Weiderpass E 2020] This requires access to population-scale data sets with clinical and molecular annotations. ML models may also be used to increase prediction accuracy by defining an optimal patient feature mix, which may incorporate non-genetic tumour traits.[ Al-Salama, Z. T., & Keam 2019] ML models trained on response botanical experimental systems of patient-derived xenografts or large-scale in vitro drug response studies tumor been used to predict clinical features. Preclinical models are undeniably useful for drug development, but their efficacy for precision oncology is unknow. Predicting the appropriate treatment procedures and patterns remains a challenge despite substantial efforts. [ Blair, H. A. 2018] But this new sector could revolutionize precisionPredictingfor integrating digital technologies into clinical workflows will help AI systems, despite significant efforts, succeed in medicine. [ S Anthony, C. Masuyer, G., D Sturrock 2012] These "best practises" have led to the development and implementation of AI systems that help patients the most. New checklists have been established to standardise and publicise ML-based therapeutic treatments. [ Butrynski, J. E., D'Adamo, D. 2010] To be effective in clinics, AI systems must be trusted by both professionals and patients. Users must standardize on AIpublicize working principles and interpretability, and collaborative interfaces must be appropriately built and tested. [ Chao, W. R., Yean, D 2007] Artificial intelligence in precision oncology is new. Proof-ofconcept experiments have expanded in recent years, hinting at the future of precision oncology. [ Markham, A. 2017] Before AI has a meaningful impact on medicine, many difficulties must be addressed. This exploratory research raises reasonable expectations, but effective practices require a deeper understanding of the constraints already revealed. In the coming years, AI may help develop precision oncology, benefiting patients worldwide. [WHO 2019]
+
+Fig. 3: AI predictions for natural product
+
+<!-- image -->
+
+ISSN: 2349-8889
+
+https://doi.org/10.31033/ijrasb.9.3.26
+
+## V. COMPUTATIONAL METHODOLOGY AND TOOLS FOR NEW TARGET OF NATURAL PRODUCTS
+
+Computational methods to discover new DTIs for natural compounds have recently gained importance due to the vast growth of chemical bioactivity databases. [ Mathi, P., Prasad, M. V. V. V 2018] Recent reviews discuss in silico target prediction. Figure 3 shows Target-based, ligand-based, chemogenomicsbased, network-based, and finally, omics-based systems biology techniques revealed new natural product targets.
+
+## VI. TARGET BASED CANCER THERAPY
+
+Il faut first find good targets that influence cancer cell growth and survival to develop targeted treatments. [ Drews, J. 2000] Targeted therapies are typically refer to as the product of "rational" pharmaceutical design. One way to find potential targets is to compare the amounts of proteins in cancer cells to healthy cells.[ Salmaso,V., Moro, S. 2018] A protein involved in cell proliferation or survival may benefit oncogenic cells. An example of a target expressed at varying amounts in different tissues is the human epidermal growth factor receptor. HER-2 is highly expressed on the surface of some cancer cells. Trastuzumab (Herceptin), one of several HER-2-targeted therapies, is approved for treating certain types of breast and gastric cancers that overexpress HER-2. [ E skiler, G. G. 2019]
+
+Other proteins produced by cancer cells are mutant (altered). Many melanomas contain BRAF V600E, a mutant cell growth signaling protein BRAF. Those with inoperable or metastatic melanoma whose BRAF protein has been altered can use Vemurafenib (Zelboraf), a medication with FDA approval. [ Hollon, T. C. et al 2020] In addition, they look for chromosomal abnormalities present only in cancerous cells. [ Campanella, G., Hanna, M. G 2019] When chromosome abnormalities result in fusion proteins, fusion genes (genes that incorporate parts of two genes) can develop. Fusion proteins may help targeted cancer therapy. Imatinib mesylate (Gleevec) targets a protein formed by two genes fused in specific leukemia cells. [Rydzewski, J.; Nowak 2018]
+
+## VII. CHEMOGENOMICS BASED CANCER THERAPY
+
+Contrary to the typical "one drug fits all" approach, precision medicine allows healthcare to be personalized to each patient's molecular profile. Largescale multi-omics programs revealed a biologically convincing list of genes and proteins. [Ballester, P.J.
+
+ISSN: 2349-8889
+
+https://doi.org/10.31033/ijrasb.9.3.26
+
+2019] Drug repurposing can show cancer-associated proteins that new medicines can target. Cancer drug research aims to maximize the possibility that compounds discovered by biochemical or phenotypic techniques will lead to enhanced clinical efficacy and disease management. Compared to other treatments, cancer [ Coudray, N., Ocampo 2018] hallmark-targeting therapies may be better suited for therapeutic repurposing than cell-based models. Various signaling pathways are implicated in the genesis of cancer. Monoor multi-hallmark drugs, [Forli, S.; Huey, R.; Pique 2016] on the other hand, can pharmacologically target many supporting ways, preventing adaptive resistance. Non-oncology cancer-fighting medications have been grouped into monotherapies and combinations. [Rosales, A.R.; Wahlers 2019]
+
+Fig: 4 The ligand-targeted miRNA or siRNA's internalisation processes.
+
+<!-- image -->
+
+## VIII. CONCLUSION
+
+For our initial test, we looked at 348 cancer patients. Based on a patient's anticipated discriminative capacity, models should assist doctors in ordering diagnostic tests in real-time. A new drug takes 12 years and $2.7 billion to develop. Lack of knowledge of molecular pharmacology makes developing cancer drugs more difficult. So finding and developing new medicines is slow and costly. This includes protein-interaction network analysis, drug target prediction, binding site prediction, and virtual screening. These new methods may help find anticancer drugs, such as retro-synthetic routine designs, drug scaffold assembly, and pharmaceutical binding affinity prediction. It creates novel medicinal molecules by combining previously
+
+www.ijrasb.com
+
+discovered drug discovery building blocks. Machine learning (ML) improves medication screening and design, increasing efficiency and precision. The relevance of combining models or effective methodologies (such as dimensionality reduction) is often emphasized. To find novel natural product leads, scientists from many domains must collaborate. Chemicals with diverse structures and mechanisms of action are found in natural products using analytical and nanotechnology-based technologies. Biodiversity necessitates chemistries. RNAi-specific delivery techniques have been developed to target tumorsindirect target-ligand-RNAi molecule conjugation or packaging the RNAi molecules into a targeted delivery vehicle. It will take less time to produce effective natural anticancer treatments. Multitarget techniques to drug development have made designing cancer medicines with fewer adverse effects. Advanced analytical and bioinformatics approaches, including machine learning, will help discover natural anticancer drugs.
+
+## REFERENCES
+
+- [1] Kumar, R., Saha, P., Kumar, Y., Sahana, S., Dubey, A., & Prakash, O. (2020). A Review on Diabetes Mellitus: Type1 & Type2. World Journal of Pharmacy and Pharmaceutical Sciences , 9 (10), 838-850.
+- [2] Saha, P., Nyarko, R. O., Lokare, P., Kahwa, I., Boateng, P. O., & Asum, C. (2022). Effect of Covid-19 in Management of Lung Cancer Disease: A Review. Asian Journal of Pharmaceutical Research and Development , 10 (3), 58-64.
+- [3] Daharia, A., Jaiswal, V. K., Royal, K. P., Sharma, H., Joginath, A. K., Kumar, R., & Saha, P. (2022). A Comparative review on ginger and garlic with their pharmacological Action. Asian Journal of Pharmaceutical Research and Development , 10 (3), 6569 .
+- [4] Singh, M. K., Kumar, A., Kumar, R., Kumar, P. S., Selvakumar, P., & Chourasia, A. (2022). Effects of Repeated Deep Frying on Refractive Index and Peroxide Value of Selected Vegetable Oils. International Journal for Research in Applied Sciences and Biotechnology , 9 (3), 28-31
+- [5] Roshan, K. (2020). Priya damwani, Shivam kumar, Adarsh suman, Suthar Usha. An overview on health benefits and risk factor associated with coffee. International Journal Research and Analytical Review , 7 (2), 237-249.
+- [6] Kumar, R., Saha, P., Lokare, P., Datta, K., Selvakumar, P., & Chourasia, A. (2022). A Systemic Review of Ocimum sanctum (Tulsi): Morphological Characteristics, Phytoconstituents and Therapeutic Applications. International Journal for Research in Applied Sciences and Biotechnology , 9 (2), 221-226.
+- [7] Nyarko, R. O., Kumar, R., Sharma, S., Chourasia, A., Roy, A., & Saha, P. (2022). ANTIBACTERIAL
+
+https://doi.org/10.31033/ijrasb.9.3.26
+
+ACTIVITY OF HERBAL PLANT-TINOSPORA CORDIFOLIA AND CATHARNTHUS ROSEUS.
+
+- [8] Sahana, S. (2020). Purabi saha, Roshan kumar, Pradipta das, Indranil Chatterjee, Prasit Roy, Sk Abdur Rahamat. A Review of the 2019 Corona virus (COVID19) World Journal of Pharmacy and Pharmaceutical science , 9 (9), 2367-2381
+- [9] Bind, A., Das, S., Singh, V. D., Kumar, R., Chourasia, A., & Saha, P. Natural Bioactives For The Potential Management Of Gastric Ulceration. Turkish Journal of Physiotherapy and Rehabilitation , 32 (3) .
+- [10] Dubey, A., Yadav, P., Verma, P., & Kumar, R. (2022). Investigation of Proapoptotic Potential of Ipomoea carnea Leaf Extract on Breast Cancer Cell Line. Journal of Drug Delivery and Therapeutics , 12 (1), 51-55.
+- [11] Saha, P., Kumar, R., Nyarko, R. O., Kahwa, I., & Owusu, P. (2021). HERBAL SECONDARY METABOLITE FOR GASTRO-PROTECTIVE ULCER ACTIVITY WITH API STRUCTURES.
+- [12] Sahana, S. (2020). Roshan kumar, Sourav nag, Reshmi paul, Nilayan guha, Indranil Chatterjee. A Review on Alzheimer disease and future prospects. World Journal of Pharmacy and Pharmaceutical science , 9 (9), 1276-1285.
+- [15] Kumar, R., & Dubey, A. PHYTOCHEMICAL INVESTICATION AND HEPTOPROTECTIVE EVALUTION ACACIA RUBICA EXTRACT ISONIZED AND PARACETAMOL INDUSED ANIMAL TOXICITY. Turkish Journal of Physiotherapy and Rehabilitation , 32 (3) .
+- [16] Raj, A., Tyagi, S., Kumar, R., Dubey, A., & Hourasia, A. C. (2021). Effect of isoproterenol and thyroxine in herbal drug used as cardiac hypertrophy. Journal of Cardiovascular Disease Research , 204-217.
+- [17] PURABISAHA, R. K., RAWAT, S. S. N.,& PRAKASH, A. (2021). A REVIEW ON NOVEL DRUG DELIVERY SYSTEM.
+- [18] Nyarko, R. O., Saha, P., Kumar, R., Kahwa, I., Boateng, E. A., Boateng, P. O., ... & Bertram, A. (2021). Role of Cytokines and Vaccines in Break through COVID 19 Infections. Journal of Pharmaceutical Research International , 33 , 2544-2549.
+- [19] Kumar, R., Saha, P., Pathak, P., Mukherjee, R., Kumar, A., & Arya, R. K. EVOLUTION OF TOLBUTAMIDE IN THE TREATMENT OF DIABETES MELLITUS. Jour. of Med. P'ceutical & Alli. Sci , 9 .
+- [20] KUMAR, R., SAHA, P., SARKAR, S., RAWAT, N., & PRAKASH, A. (2021). A REVIEW ON NOVEL
+
+DRUG DELIVERY SYSTEM. IJRAR-International Journal of Research and Analytical Reviews (IJRAR) , 8 (1), 183-199.
+
+- [21] KUMAR, A. (2019). The Scenario of Pharmaceuticals and Development of Microwave Assisted Extraction Techniques.
+
+[22] SHAFQAT ZAIDI, R. K. MEHRA, Dr. SACHIN TYAGI, ROSHAN KUMAR ANUBHAV DUBEY.(2021). Effect of Kalahari Cactus Extract on Appetitte, Body Weight And Lipid Profile In Cafeteria Diet Induced Obesity In Experimental Animal. Annals of the Romanian Society for Cell Biology , 25 (6), 1397613987.
+
+- [23] Markham, A. (2017). Copanlisib: first global approval. Drugs , 77 (18), 2057-2062.
+- [24] Mathi, P., Prasad, M. V. V. V., Botlagunta, M., Ravi, M., & Ramachandran, D. (2018). De novo design of selective Sortase-A inhibitors: Synthesis, structural and in vitro characterization. Chemical Data Collections , 15 , 126-133.
+
+[25] Salmaso,V., Moro, S. (2018). Bridging Molecular Docking to Molecular Dynamics in Exploring LigandProtein Recognition
+
+Process:AnOverview. Front.Pharmacol. 9.doi:10.3389/f ph ar.2018.00923
+
+[26] Drews, J. (2000). Drug discovery: a historical perspective. science , 287 (5460), 1960-1964.
+
+[27] Eskiler, G. G. (2019). Talazoparib to treat BRCApositive breast cancer. Drugs of today (Barcelona, Spain: 1998) , 55 (7), 459-467.
+
+- [28] Klebe G., Abraham U., Mietzner T. (1994). Molecular similarity indices in a comparative analysis (CoMSIA) of drug molecules to correlate and predict their biological activity. J. Med. Chem. 37, 41304146. 10.1021/jm00050a010
+- [29] Kortagere, S., & Ekins, S. (2010). Troubleshooting computational methods in drug discovery. Journal of pharmacological and toxicological methods , 61 (2), 6775.
+- [30] Lennerz, J. K., Kwak, E. L., Ackerman, A., Michael, M., Fox, S. B., Bergethon, K., ... & Iafrate, A. J. (2011). MET amplification identifies a small and aggressive subgroup of esophagogastric adenocarcinoma with evidence of responsiveness to crizotinib. Journal of clinical oncology , 29 (36), 4803.
+- [31] Markham, A. (2019). Alpelisib: first global approval. Drugs , 79 (11), 1249-1253.
+- [32] Wilhelm, S., Carter, C., Lynch, M., Lowinger, T., Dumas, J., Smith, R. A., ... & Kelley, S. (2006). Discovery and development of sorafenib: a multikinase inhibitor for treating cancer. Nature reviews Drug discovery , 5 (10), 835-844.
+- [33] Ferlay J, Ervik M, Lam F, Colombet M, Mery L, Piñeros M, et al. Global Cancer Observatory: Cancer Today. Lyon: International Agency for Research on Cancer; 2020 (https://gco.iarc.fr/today, accessed February 2021).
+
+https://doi.org/10.31033/ijrasb.9.3.26
+
+[34] GBD results tool. Seattle (WA): Institute for Health Metrics, University of Washington; 2020 (http://ghdx.healthdata.org/gbd-results-tool, accessed February 2021).
+
+- [35] de Martel C, Georges D, Bray F, Ferlay J, Clifford GM. Global burden of cancer attributable to infections in 2018: a worldwide incidence analysis. Lancet Glob Health. 2020;8(2):e180-e190.
+- [36] Assessing national capacity for the prevention and control of noncommunicable diseases: report of the 2019 global survey. Geneva: World Health Organization; 2020.
+- [37] Wild CP, Weiderpass E, Stewart BW, editors. World Cancer Report: Cancer Research for Cancer Prevention. Lyon: International Agency for Research on Cancer; 2020.
+
+[38] Global Initiative for Cancer Registry Development. Lyon: International Agency for Research on Cancer; 2020 (https://gicr.iarc.fr/about-the-gicr/the-value-ofcancer-data/, accessed February 2021)
+
+- [39] NIH (2021). Cancer. Available at: https://www.cancer.gov/publications/dictionaries/can cer-terms/def/cancer
+- [40] Setlow R. B. (2001). Human Cancer: Etiologic Agents/dose Responses/DNA Repair/cellular and Animal Models. Mutat. Research/Fundamental Mol. Mech. Mutagenesis 477, 1-6. 10.1016/s00275107(01)00090-2
+- [41] Who (2021b). WHO FactSheets: Cancer. 3 March 2021. Available at: https://www.who.int/newsroom/fact-sheets/detail/cancer
+- [42] Wogan, G. N., Hecht, S. S., Felton, J. S., Conney, A. H., & Loeb, L. A. (2004, December). Environmental and chemical carcinogenesis. In Seminars in cancer biology (Vol. 14, No. 6, pp. 473-486).
+- [43] Shoichet, B.K. Virtual screening of chemical libraries. Nature 2004 , 432 , 862-865
+- [44] Forli, S.; Huey, R.; Pique, M.E.; Sanner, M.F.; Goodsell, D.S.; Olson, A.J. Computational proteinligand docking and virtual drug screening with the AutoDock suite. Nat. Protoc. 2016 , 11 , 905-919.
+- [45] Rosales, A.R.; Wahlers, J.; Limé, E.; Meadows, R.E.; Leslie, K.W.; Savin, R.; Bell, F.; Hansen, E.; Helquist, P.; Munday, R.H. Rapid virtual screening of enantioselective catalysts using CatVS. Nat. Catal. 2019 , 2 , 41.
+- [46] Popova, M.; Isayev, O.; Tropsha, A. Deep reinforcement learning for de novo drug design. Sci. Adv. 2018 , 4 , eaap7885.
+- [47] Ballester, P.J. Machine Learning for Molecular Modelling in Drug Design. Biomolecules 2019 , 9 , 216.
+- [48] Rydzewski, J.; Nowak, W. Machine learning based dimensionality reduction facilitates ligand diffusion paths assessment: A case of cytochrome P450cam. J. Chem. Theory Comput. 2016 , 12 , 2110-2120.
+
+[49] Coudray, N., Ocampo, P. S., Sakellaropoulos, T., Narula, N., Snuderl, M., Fenyö, D., ... & Tsirigos, A. (2018). Classification and mutation prediction from non-
+
+ww.ijrasb.com
+
+small cell lung cancer histopathology images using deep learning. Nature medicine , 24 (10), 1559-1567.
+
+[50] Campanella, G., Hanna, M. G., Geneslaw, L., Miraflor, A., Silva, V. W. K., Busam, K. J., ... & Fuchs, T. J. (2019). Clinical-grade computational pathology using weakly supervised deep learning on whole slide images. Nature medicine , 25 (8), 1301-1309.
+
+- [51] Hollon, T. C. et al. Near real-time intraoperative brain tumor diagnosis using stimulated Raman histology and deep neural networks. Nat. Med. 26 , 52-58 (2020).
+
+[52] Tschandl, P., Rinner, C., Apalla, Z., Argenziano, G., Codella, N., Halpern, A., ... & Kittler, H. (2020). Human-computer collaboration for skin cancer recognition. Nature Medicine , 26 (8), 1229-1234.
+
+- [53] Ebrahimkhani, S., Vafaee, F., Hallal, S., Wei, H., Lee, M. Y. T., Young, P. E., ... & Kaufman, K. L. (2018). Deep sequencing of circulating exosomal microRNA allows non-invasive glioblastoma diagnosis. NPJ precision oncology , 2 (1), 1-9.
+- [54] Bomane, A., Gonçalves, A., & Ballester, P. J. (2019). Paclitaxel response can be predicted with interpretable multi-variate classifiers exploiting DNAmethylation and miRNA data. Frontiers in genetics , 10 , 1041.
+- [55] Norgeot, B., Quer, G., Beaulieu-Jones, B. K., Torkamani, A., Dias, R., Gianfrancesco, M., ... & Butte,
+- A. J. (2020). Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist. Nature medicine , 26 (9), 1320-1324.
+- [56] Napoli, M., & Flores, E. R. (2020). Loss of p53 protein strikes a nerve to aid tumour growth.
+- [57] Mulder, W. J., Ochando, J., Joosten, L. A., Fayad, Z. A., & Netea, M. G. (2019). Therapeutic targeting of trained immunity. Nature Reviews Drug Discovery , 18 (7), 553-566.
+- [58] Patel, S. S., Acharya, A., Ray, R. S., Agrawal, R., Raghuwanshi, R., & Jain, P. (2020). Cellular and molecular mechanisms of curcumin in prevention and treatment of disease. Critical reviews in food science and nutrition , 60 (6), 887-939.
+
+[59] Vesteghem C., Brøndum R. F., Sønderkær M., Sommer M., Schmitz A., Bødker J. S., et al. (2020). Implementing the FAIR Data Principles in Precision Oncology: Review of Supporting Initiatives. Brief Bioinform 21 (3), 936-945. 10.1093/bib/bbz044
+
+- [60] Zong N., Wen A., Stone D. J., Sharma D. K., Wang C., Yu Y., et al. (2020). Developing an FHIRBased Computational Pipeline for Automatic Population of Case Report Forms for Colorectal Cancer Clinical Trials Using Electronic Health Records. JCO Clin. Cancer Inform. (4), 201-2099.10.1200/CCI.19.00116
+
+ISSN: 2349-8889
+
+https://doi.org/10.31033/ijrasb.9.3.26
+
+[61] Zong N., Wen A., Stone D. J., Sharma D. K., Wang C., Yu Y., et al. (2020). Developing an FHIRBased Computational Pipeline for Automatic Population of Case Report Forms for Colorectal Cancer Clinical Trials Using Electronic Health Records. JCO Clin. Cancer Inform. (4), 201-2099. 10.1200/CCI.19.00116
+
+[62] Wise J., de Barron A. G., Splendiani A., BalaliMood B., Vasant D., Little E., et al. (2019). Implementation and Relevance of FAIR Data Principles in Biopharmaceutical R&D. Drug Discov. Today 24, 933-938. 10.1016/j.drudis.2019.01.008
+
+[63] Wilkinson M. D., Dumontier M., Aalbersberg I. J., Appleton G., Axton M., Baak A., et al. (2016). The FAIR Guiding Principles for Scientific Data Management and Stewardship. Sci. Data 3, 160018. 10.1038/sdata.2016.18
+
+[64] Vesteghem C., Brøndum R. F., Sønderkær M., Sommer M., Schmitz A., Bødker J. S., et al. (2020). Implementing the FAIR Data Principles in Precision Oncology: Review of Supporting Initiatives. Brief Bioinform 21 (3), 936-945. 10.1093/bib/bbz044
+
+- [65] Zong N., Wen A., Stone D. J., Sharma D. K., Wang C., Yu Y., et al. (2020). Developing an FHIRBased Computational Pipeline for Automatic Population of Case Report Forms for Clinical Trials Using Electronic Health Records. JCO Clin. Cancer Inform. (4), 201-2099. 10.1200/CCI.19.00116
+
+[66] WHO. Global strategy on digital health 2020-2025 World Health Organization;. Available from: https://cdn.who.int/media/docs/defaultsource/documents/ gs4dhdaa2a9f352b0445bafbc79ca799dce4d.pdf?sfvrsn=f 112ede5\_75
+
+- [67] Konstantina Kourou, Themis P. Exarchos, Konstantinos P. Exarchos, Michalis V. Karamouzis, Dimitrios I. Fotiadis,Machine learning applications in cancer prognosis and prediction, Computational and Structural Biotechnology Journal,Volume 13,2015,Pages 8-17,ISSN 2001-0370,
+
+https://doi.org/10.1016/j.csbj.2014.11.005
+
+[68] Douzas, G., Bacao, F., & Last, F. (2018). Improving imbalanced learning through a heuristic oversampling method based on k-means and SMOTE. Information Sciences , 465 , 1-20.
+
+- [69] Gupta S, Gupta MK (2021) Prostate cancer prognosis using multi-layer perceptron and class balancing techniques. In: 2021 thirteenth international conference on contemporary computing (IC3-2021) (IC3 '21), NY,
+
+USA. https://doi.org/10.1145/3474124.3474125.
+
+[70] Gupta S, Gupta MK. An approach based on neural learning for diagnosis of prostate cancer. JNR. 2020;21(3):110-8.https://doi.org/10.1111/coin.12452
